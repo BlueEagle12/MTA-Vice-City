@@ -1,0 +1,7 @@
+<map>
+    <object id="striplights" model="8585" posX="82.408386230469" posY="-1458.7493896484" posZ="13.488172531128" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="stripinter" model="8585" posX="84.652297973633" posY="-1462.5708007813" posZ="11.498336791992" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="stripinterupside" model="8585" posX="83.60986328125" posY="-1459.3111572266" posZ="6.900803565979" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="stripback" model="8585" posX="69.353996276855" posY="-1449.8885498047" posZ="11.364254951477" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="stripinterfloor" model="8585" posX="84.652297973633" posY="-1462.5708007813" posZ="11.498336791992" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+</map>

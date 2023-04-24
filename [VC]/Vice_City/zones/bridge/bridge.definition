@@ -1,0 +1,22 @@
+<zoneDefinitions>
+    <definition id="Roosbridge07_nt" zone="bridge" dff="Roosbridge07_nt" col="Roosbridge07_nt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge07_nt" lodDistance="100" timeIn="23" timeOut="5"></definition>
+    <definition id="Roosbridge6_dt" zone="bridge" dff="Roosbridge6_dt" col="Roosbridge6_dt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge6_dt" lodDistance="100" timeIn="5" timeOut="23"></definition>
+    <definition id="Roosbridge3_nt" zone="bridge" dff="Roosbridge3_nt" col="Roosbridge3_nt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge3_nt" lodDistance="100" timeIn="23" timeOut="5"></definition>
+    <definition id="Roosbridge1_nt" zone="bridge" dff="Roosbridge1_nt" col="Roosbridge1_nt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge1_nt" lodDistance="100" timeIn="23" timeOut="5"></definition>
+    <definition id="RoosbrgeStartf_dt" zone="bridge" dff="RoosbrgeStartf_dt" col="RoosbrgeStartf_dt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="RoosbrgeStartf_dt" lodDistance="100" timeIn="5" timeOut="23"></definition>
+    <definition id="Roosbridge4_nt" zone="bridge" dff="Roosbridge4_nt" col="Roosbridge4_nt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge4_nt" lodDistance="100" timeIn="23" timeOut="5"></definition>
+    <definition id="Roosbridge_nt" zone="bridge" dff="Roosbridge_nt" col="Roosbridge_nt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge_nt" lodDistance="100" timeIn="23" timeOut="5"></definition>
+    <definition id="Roosbridge1_dt" zone="bridge" dff="Roosbridge1_dt" col="Roosbridge1_dt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge1_dt" lodDistance="100" timeIn="5" timeOut="23"></definition>
+    <definition id="Roosbridge2_nt" zone="bridge" dff="Roosbridge2_nt" col="Roosbridge2_nt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge2_nt" lodDistance="100" timeIn="23" timeOut="5"></definition>
+    <definition id="RoosbrgeStart_r_dt" zone="bridge" dff="RoosbrgeStart_r_dt" col="RoosbrgeStart_r_dt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="RoosbrgeStart_r_dt" lodDistance="100" timeIn="5" timeOut="23"></definition>
+    <definition id="Roosbridge_dt" zone="bridge" dff="Roosbridge_dt" col="Roosbridge_dt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge_dt" lodDistance="100" timeIn="5" timeOut="23"></definition>
+    <definition id="Roosbridge3_dt" zone="bridge" dff="Roosbridge3_dt" col="Roosbridge3_dt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge3_dt" lodDistance="100" timeIn="5" timeOut="23"></definition>
+    <definition id="Roosbridge6_nt" zone="bridge" dff="Roosbridge6_nt" col="Roosbridge6_nt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge6_nt" lodDistance="100" timeIn="23" timeOut="5"></definition>
+    <definition id="Roosbridge4_dt" zone="bridge" dff="Roosbridge4_dt" col="Roosbridge4_dt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge4_dt" lodDistance="100" timeIn="5" timeOut="23"></definition>
+    <definition id="Roosbridge5_dt" zone="bridge" dff="Roosbridge5_dt" col="Roosbridge5_dt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge5_dt" lodDistance="100" timeIn="5" timeOut="23"></definition>
+    <definition id="RoosbrgeStart_r_nt" zone="bridge" dff="RoosbrgeStart_r_nt" col="RoosbrgeStart_r_nt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="RoosbrgeStart_r_nt" lodDistance="100" timeIn="23" timeOut="5"></definition>
+    <definition id="RoosbrgeStartf_nt" zone="bridge" dff="RoosbrgeStartf_nt" col="RoosbrgeStartf_nt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="RoosbrgeStartf_nt" lodDistance="100" timeIn="23" timeOut="5"></definition>
+    <definition id="Roosbridge5_nt" zone="bridge" dff="Roosbridge5_nt" col="Roosbridge5_nt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge5_nt" lodDistance="100" timeIn="23" timeOut="5"></definition>
+    <definition id="Roosbridge07_dt" zone="bridge" dff="Roosbridge07_dt" col="Roosbridge07_dt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge07_dt" lodDistance="100" timeIn="5" timeOut="23"></definition>
+    <definition id="Roosbridge2_dt" zone="bridge" dff="Roosbridge2_dt" col="Roosbridge2_dt" txd="bwidge" alphaTransparency="nil" lod="true" lodID="Roosbridge2_dt" lodDistance="100" timeIn="5" timeOut="23"></definition>
+</zoneDefinitions>

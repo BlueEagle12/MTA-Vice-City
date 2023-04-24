@@ -1,0 +1,158 @@
+<zoneDefinitions>
+    <definition id="odn_hotshad2" zone="oceandn" dff="odn_hotshad2" col="odn_hotshad2" txd="odnhotelblk" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="deco_polgrnda7" zone="oceandn" dff="deco_polgrnda7" col="deco_polgrnda7" txd="ocmiamistrip5" alphaTransparency="nil" lod="true" lodID="deco_polgrnda7" lodDistance="100"></definition>
+    <definition id="cop_hallway" zone="oceandn" dff="cop_hallway" col="cop_hallway" txd="od_cop_interior" alphaTransparency="nil" lod="nil" lodDistance="30"></definition>
+    <definition id="deco_buildkb_dy" zone="oceandn" dff="deco_buildkb_dy" col="deco_buildkb_dy" txd="odnhotelspr" alphaTransparency="nil" lod="true" lodID="deco_buildkb_dy" lodDistance="100" timeIn="5" timeOut="22"></definition>
+    <definition id="deco_buildkb_nt" zone="oceandn" dff="deco_buildkb_nt" col="deco_buildkb_dy" txd="odnhotelspr" alphaTransparency="nil" lod="true" lodID="deco_buildkb_nt" lodDistance="100" timeIn="22" timeOut="5"></definition>
+    <definition id="odn_hotelhot_dy" zone="oceandn" dff="odn_hotelhot_dy" col="odn_hotelhot_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_hotelhot_dy" lodDistance="100" timeIn="5" timeOut="22"></definition>
+    <definition id="odn_hotelhot_nt" zone="oceandn" dff="odn_hotelhot_nt" col="odn_hotelhot_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_hotelhot_nt" lodDistance="100" timeIn="22" timeOut="5"></definition>
+    <definition id="od_bighotpool" zone="oceandn" dff="od_bighotpool" col="od_bighotpool" txd="od_bighotpool" alphaTransparency="nil" lod="true" lodID="od_bighotpool" lodDistance="100"></definition>
+    <definition id="odnvegbush1" zone="oceandn" dff="odnvegbush1" col="odnvegbush1" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="20"></definition>
+    <definition id="oddirtpass1" zone="oceandn" dff="oddirtpass1" col="oddirtpass1" txd="odnglue" alphaTransparency="nil" lod="nil" lodDistance="25"></definition>
+    <definition id="odn_colony_dy" zone="oceandn" dff="odn_colony_dy" col="odn_colony_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_colony_dy" lodDistance="100" timeIn="5" timeOut="22"></definition>
+    <definition id="odn_colony_nt" zone="oceandn" dff="odn_colony_nt" col="odn_colony_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_colony_nt" lodDistance="100" timeIn="22" timeOut="5"></definition>
+    <definition id="odn_majest_dy" zone="oceandn" dff="odn_majest_dy" col="odn_majest_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_majest_dy" lodDistance="100" timeIn="5" timeOut="22"></definition>
+    <definition id="odn_majest_nt" zone="oceandn" dff="odn_majest_nt" col="odn_majest_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_majest_nt" lodDistance="100" timeIn="22" timeOut="5"></definition>
+    <definition id="cop_mainroom" zone="oceandn" dff="cop_mainroom" col="cop_mainroom" txd="od_cop_interior" alphaTransparency="nil" lod="nil" lodDistance="30"></definition>
+    <definition id="miamiland_kb11b" zone="oceandn" dff="miamiland_kb11b" col="miamiland_kb11b" txd="shared_beach" alphaTransparency="nil" lod="true" lodID="miamiland_kb11b" lodDistance="300"></definition>
+    <definition id="miamiland_kb12" zone="oceandn" dff="miamiland_kb12" col="miamiland_kb12" txd="shared_beach" alphaTransparency="nil" lod="true" lodID="miamiland_kb12" lodDistance="200"></definition>
+    <definition id="deco_buildkb25" zone="oceandn" dff="deco_buildkb25" col="deco_buildkb25" txd="oceanstrip10" alphaTransparency="nil" lod="true" lodID="deco_buildkb25" lodDistance="100"></definition>
+    <definition id="od_tracks06" zone="oceandn" dff="od_tracks06" col="od_tracks06" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="120"></definition>
+    <definition id="odalleygb_dy" zone="oceandn" dff="odalleygb_dy" col="odalleygb_dy" txd="sharedalleyod" alphaTransparency="nil" lod="true" lodID="odalleygb_dy" lodDistance="150" timeIn="5" timeOut="22"></definition>
+    <definition id="odalleygb_nt" zone="oceandn" dff="odalleygb_nt" col="odalleygb_dy" txd="sharedalleyod" alphaTransparency="nil" lod="true" lodID="odalleygb_nt" lodDistance="150" timeIn="22" timeOut="5"></definition>
+    <definition id="odndirt4" zone="oceandn" dff="odndirt4" col="odndirt4" txd="sharedalleyod" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="od_clubout_nt" zone="oceandn" dff="od_clubout_nt" col="od_clubout_nt" txd="od_clubout" alphaTransparency="nil" lod="true" lodID="od_clubout_nt" lodDistance="200" timeIn="21" timeOut="6"></definition>
+    <definition id="beach_bush02" zone="oceandn" dff="beach_bush02" col="beach_bush02" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="od_clubdoora" zone="oceandn" dff="od_clubdoora" col="od_clubdoora" txd="od_clubout" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="ph_build_stairs" zone="oceandn" dff="ph_build_stairs" col="ph_build_stairs" txd="intstairod" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="odndirt1" zone="oceandn" dff="odndirt1" col="odndirt1" txd="sharedalleyod" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="od_tracks05" zone="oceandn" dff="od_tracks05" col="od_tracks05" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="miamiland_kb12b" zone="oceandn" dff="miamiland_kb12b" col="miamiland_kb12b" txd="shared_beach" alphaTransparency="nil" lod="true" lodID="miamiland_kb12b" lodDistance="250"></definition>
+    <definition id="new_bushtest42" zone="oceandn" dff="new_bushtest42" col="new_bushtest42" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="od_wtshadow" zone="oceandn" dff="od_wtshadow" col="od_wtshadow" txd="od_watertower" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="odn_neonht1a" zone="oceandn" dff="odn_neonht1a" col="odn_neonht1a" txd="odnhotelblk" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="odNroad01_dy" zone="oceandn" dff="odNroad01_dy" col="odNroad01_dy" txd="ageneric" alphaTransparency="nil" lod="true" lodID="odNroad01_dy" lodDistance="200" timeIn="5" timeOut="22"></definition>
+    <definition id="odNroad01_nt" zone="oceandn" dff="odNroad01_nt" col="odNroad01_dy" txd="ageneric" alphaTransparency="nil" lod="true" lodID="odNroad01_nt" lodDistance="200" timeIn="22" timeOut="5"></definition>
+    <definition id="cop_processing" zone="oceandn" dff="cop_processing" col="cop_processing" txd="od_cop_interior" alphaTransparency="nil" lod="nil" lodDistance="30"></definition>
+    <definition id="sexpad_grdn_2" zone="oceandn" dff="sexpad_grdn_2" col="sexpad_grdn_2" txd="spad_main" alphaTransparency="nil" lod="true" lodID="sexpad_grdn_2" lodDistance="100"></definition>
+    <definition id="od_buildkb2_dy" zone="oceandn" dff="od_buildkb2_dy" col="od_buildkb2_dy" txd="odnhotelspr" alphaTransparency="nil" lod="true" lodID="od_buildkb2_dy" lodDistance="100" timeIn="5" timeOut="22"></definition>
+    <definition id="od_buildkb2_nt" zone="oceandn" dff="od_buildkb2_nt" col="od_buildkb2_dy" txd="odnhotelspr" alphaTransparency="nil" lod="true" lodID="od_buildkb2_nt" lodDistance="100" timeIn="22" timeOut="5"></definition>
+    <definition id="odn_hotshad1" zone="oceandn" dff="odn_hotshad1" col="odn_hotshad1" txd="odnhotelblk" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="od_chariot_lghts01" zone="oceandn" dff="od_chariot_lghts01" col="od_chariot_lghts01" txd="od_chariot" alphaTransparency="nil" lod="true" lodID="od_chariot_lghts01" lodDistance="200" timeIn="5" timeOut="22"></definition>
+    <definition id="shado_chuf" zone="oceandn" dff="shado_chuf" col="shado_chuf" txd="spad_shado" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="od2glue" zone="oceandn" dff="od2glue" col="od2glue" txd="odnglue" alphaTransparency="nil" lod="nil" lodDistance="25"></definition>
+    <definition id="miamiland_kb13" zone="oceandn" dff="miamiland_kb13" col="miamiland_kb13" txd="shared_beach" alphaTransparency="nil" lod="true" lodID="miamiland_kb13" lodDistance="300"></definition>
+    <definition id="od_divingbds" zone="oceandn" dff="od_divingbds" col="od_divingbds" txd="od_bighotpool" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="odalleyground_dy" zone="oceandn" dff="odalleyground_dy" col="odalleyground_dy" txd="sharedalleyod" alphaTransparency="nil" lod="true" lodID="odalleyground_dy" lodDistance="150" timeIn="5" timeOut="22"></definition>
+    <definition id="odalleyground_nt" zone="oceandn" dff="odalleyground_nt" col="odalleyground_dy" txd="sharedalleyod" alphaTransparency="nil" lod="true" lodID="odalleyground_nt" lodDistance="150" timeIn="22" timeOut="5"></definition>
+    <definition id="beachblend10" zone="oceandn" dff="beachblend10" col="beachblend10" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="spad_veg1" zone="oceandn" dff="spad_veg1" col="spad_veg1" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="oddoorway" zone="oceandn" dff="oddoorway" col="oddoorway" txd="sharedalleyod" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="od_neona1" zone="oceandn" dff="od_neona1" col="od_neona1" txd="odneontest" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="od_wtsign" zone="oceandn" dff="od_wtsign" col="od_wtsign" txd="od_watertower" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cop_blackpoly" zone="oceandn" dff="cop_blackpoly" col="cop_blackpoly" txd="od_cop_interior" alphaTransparency="nil" lod="nil" lodDistance="30"></definition>
+    <definition id="od_tracks03" zone="oceandn" dff="od_tracks03" col="od_tracks03" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="odnanrod2b_dy" zone="oceandn" dff="odnanrod2b_dy" col="odnanrod2b_dy" txd="ageneric" alphaTransparency="nil" lod="true" lodID="odnanrod2b_dy" lodDistance="200" timeIn="5" timeOut="22"></definition>
+    <definition id="odnanrod2b_nt" zone="oceandn" dff="odnanrod2b_nt" col="odnanrod2b_dy" txd="ageneric" alphaTransparency="nil" lod="true" lodID="odnanrod2b_nt" lodDistance="200" timeIn="22" timeOut="5"></definition>
+    <definition id="odrroofst07" zone="oceandn" dff="odrroofst07" col="odrroofst07" txd="odnrooft" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
+    <definition id="odn_beacon2_dy" zone="oceandn" dff="odn_beacon2_dy" col="odn_beacon2_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_beacon2_dy" lodDistance="100" timeIn="5" timeOut="22"></definition>
+    <definition id="odn_beacon2_nt" zone="oceandn" dff="odn_beacon2_nt" col="odn_beacon2_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_beacon2_nt" lodDistance="100" timeIn="22" timeOut="5"></definition>
+    <definition id="beachblend09" zone="oceandn" dff="beachblend09" col="beachblend09" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="odnvegbush2" zone="oceandn" dff="odnvegbush2" col="odnvegbush2" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="odneontest" zone="oceandn" dff="odneontest" col="odneontest" txd="odneontest" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="od_hotel_windows" zone="oceandn" dff="od_hotel_windows" col="od_hotel_windows" txd="od_bighotel" alphaTransparency="nil" lod="true" lodID="od_hotel_windows" lodDistance="150" timeIn="5" timeOut="22"></definition>
+    <definition id="odn_majesticz_dy" zone="oceandn" dff="odn_majesticz_dy" col="odn_majesticz_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_majesticz_dy" lodDistance="100" timeIn="5" timeOut="22"></definition>
+    <definition id="odn_majesticz_nt" zone="oceandn" dff="odn_majesticz_nt" col="odn_majesticz_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_majesticz_nt" lodDistance="100" timeIn="22" timeOut="5"></definition>
+    <definition id="deco_polgrnda10" zone="oceandn" dff="deco_polgrnda10" col="deco_polgrnda10" txd="ocmiamistrip8" alphaTransparency="nil" lod="true" lodID="deco_polgrnda10" lodDistance="140"></definition>
+    <definition id="od_chariotland" zone="oceandn" dff="od_chariotland" col="od_chariotland" txd="od_chariot" alphaTransparency="nil" lod="true" lodID="od_chariotland" lodDistance="200"></definition>
+    <definition id="odalleyground4_dy" zone="oceandn" dff="odalleyground4_dy" col="odalleyground4_dy" txd="sharedalleyod" alphaTransparency="nil" lod="true" lodID="odalleyground4_dy" lodDistance="150" timeIn="5" timeOut="22"></definition>
+    <definition id="odalleyground4_nt" zone="oceandn" dff="odalleyground4_nt" col="odalleyground4_dy" txd="sharedalleyod" alphaTransparency="nil" lod="true" lodID="odalleyground4_nt" lodDistance="150" timeIn="22" timeOut="5"></definition>
+    <definition id="cop_hallway_fake" zone="oceandn" dff="cop_hallway_fake" col="cop_hallway_fake" txd="copdoorstuff" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="cop_waterref" zone="oceandn" dff="cop_waterref" col="cop_waterref" txd="od_cop_interior" alphaTransparency="nil" lod="nil" lodDistance="30"></definition>
+    <definition id="od_clubfnce" zone="oceandn" dff="od_clubfnce" col="od_clubfnce" txd="od_clubback" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="od_celldoor4" zone="oceandn" dff="od_celldoor4" col="od_celldoor4" txd="od_cop_interior" alphaTransparency="nil" lod="nil" lodDistance="10"></definition>
+    <definition id="odNroad02" zone="oceandn" dff="odNroad02" col="odNroad02" txd="ageneric" alphaTransparency="nil" lod="true" lodID="odNroad02" lodDistance="200"></definition>
+    <definition id="odndirt3" zone="oceandn" dff="odndirt3" col="odndirt3" txd="sharedalleyod" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="beachblend08" zone="oceandn" dff="beachblend08" col="beachblend08" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="od_char_signs_dy" zone="oceandn" dff="od_char_signs_dy" col="od_char_signs_dy" txd="od_chariot" alphaTransparency="nil" lod="nil" lodDistance="150" timeIn="5" timeOut="22"></definition>
+    <definition id="od_char_signs_nt" zone="oceandn" dff="od_char_signs_nt" col="od_char_signs_dy" txd="od_chariot" alphaTransparency="nil" lod="nil" lodDistance="150" timeIn="22" timeOut="5"></definition>
+    <definition id="od_clubneon" zone="oceandn" dff="od_clubneon" col="od_clubneon" txd="od_clubout" alphaTransparency="nil" lod="nil" lodDistance="44" timeIn="21" timeOut="6"></definition>
+    <definition id="od_chariot_lghts02" zone="oceandn" dff="od_chariot_lghts02" col="od_chariot_lghts02" txd="od_chariot" alphaTransparency="nil" lod="true" lodID="od_chariot_lghts02" lodDistance="200" timeIn="5" timeOut="22"></definition>
+    <definition id="odnneaon4" zone="oceandn" dff="odnneaon4" col="odnneaon4" txd="neonnd" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="od_wtlegs" zone="oceandn" dff="od_wtlegs" col="od_wtlegs" txd="od_watertower" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="odalleyground2_dy" zone="oceandn" dff="odalleyground2_dy" col="odalleyground2_dy" txd="sharedalleyod" alphaTransparency="nil" lod="true" lodID="odalleyground2_dy" lodDistance="150" timeIn="5" timeOut="22"></definition>
+    <definition id="odalleyground2_nt" zone="oceandn" dff="odalleyground2_nt" col="odalleyground2_dy" txd="sharedalleyod" alphaTransparency="nil" lod="true" lodID="odalleyground2_nt" lodDistance="150" timeIn="22" timeOut="5"></definition>
+    <definition id="odNroad04od_dy" zone="oceandn" dff="odNroad04od_dy" col="odNroad04od_dy" txd="ageneric" alphaTransparency="nil" lod="true" lodID="odNroad04od_dy" lodDistance="200" timeIn="5" timeOut="22"></definition>
+    <definition id="odNroad04od_nt" zone="oceandn" dff="odNroad04od_nt" col="odNroad04od_dy" txd="ageneric" alphaTransparency="nil" lod="true" lodID="odNroad04od_nt" lodDistance="200" timeIn="22" timeOut="5"></definition>
+    <definition id="odalleyground5_dy" zone="oceandn" dff="odalleyground5_dy" col="odalleyground5_dy" txd="sharedalleyod" alphaTransparency="nil" lod="true" lodID="odalleyground5_dy" lodDistance="150" timeIn="5" timeOut="22"></definition>
+    <definition id="odalleyground5_nt" zone="oceandn" dff="odalleyground5_nt" col="odalleyground5_dy" txd="sharedalleyod" alphaTransparency="nil" lod="true" lodID="odalleyground5_nt" lodDistance="150" timeIn="22" timeOut="5"></definition>
+    <definition id="odnneaon1" zone="oceandn" dff="odnneaon1" col="odnneaon1" txd="neonnd" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="spad_build2" zone="oceandn" dff="spad_build2" col="spad_build2" txd="newspadbuild" alphaTransparency="nil" lod="true" lodID="spad_build2" lodDistance="100"></definition>
+    <definition id="odNroad06_dy" zone="oceandn" dff="odNroad06_dy" col="odNroad06_dy" txd="ageneric" alphaTransparency="nil" lod="true" lodID="odNroad06_dy" lodDistance="200" timeIn="5" timeOut="22"></definition>
+    <definition id="odNroad06_nt" zone="oceandn" dff="odNroad06_nt" col="odNroad06_dy" txd="ageneric" alphaTransparency="nil" lod="true" lodID="odNroad06_nt" lodDistance="200" timeIn="22" timeOut="5"></definition>
+    <definition id="odndirt2" zone="oceandn" dff="odndirt2" col="odndirt2" txd="sharedalleyod" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="bighotelgrnd" zone="oceandn" dff="bighotelgrnd" col="bighotelgrnd" txd="ocnmiamistrip" alphaTransparency="nil" lod="true" lodID="bighotelgrnd" lodDistance="180"></definition>
+    <definition id="sexgarden2" zone="oceandn" dff="sexgarden2" col="sexgarden2" txd="newroof" alphaTransparency="nil" lod="nil" lodDistance="34"></definition>
+    <definition id="spad_buildnew" zone="oceandn" dff="spad_buildnew" col="spad_buildnew" txd="spad_buildnew" alphaTransparency="nil" lod="true" lodID="spad_buildnew" lodDistance="100"></definition>
+    <definition id="od_wt" zone="oceandn" dff="od_wt" col="od_wt" txd="od_watertower" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="cop_entrance_fake" zone="oceandn" dff="cop_entrance_fake" col="cop_entrance_fake" txd="copdoorstuff" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="odnwiret" zone="oceandn" dff="odnwiret" col="odnwiret" txd="odnwire" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="odrroofst02" zone="oceandn" dff="odrroofst02" col="odrroofst02" txd="odnrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="deco_polgrnda9" zone="oceandn" dff="deco_polgrnda9" col="deco_polgrnda9" txd="ocmiamistrip7" alphaTransparency="nil" lod="true" lodID="deco_polgrnda9" lodDistance="140"></definition>
+    <definition id="od_bighotcons" zone="oceandn" dff="od_bighotcons" col="od_bighotcons" txd="od_bighotpool" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="odnvegbush2b" zone="oceandn" dff="odnvegbush2b" col="odnvegbush2b" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="od_tracks01" zone="oceandn" dff="od_tracks01" col="od_tracks01" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="deco_polgrnda8" zone="oceandn" dff="deco_polgrnda8" col="deco_polgrnda8" txd="ocmiamistrip6" alphaTransparency="nil" lod="true" lodID="deco_polgrnda8" lodDistance="140"></definition>
+    <definition id="odneontest01" zone="oceandn" dff="odneontest01" col="odneontest01" txd="odneontest" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="odNroad03od" zone="oceandn" dff="odNroad03od" col="odNroad03od" txd="ageneric" alphaTransparency="nil" lod="true" lodID="odNroad03od" lodDistance="200"></definition>
+    <definition id="odrroofst06" zone="oceandn" dff="odrroofst06" col="odrroofst06" txd="odnrooft" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
+    <definition id="beachblend11" zone="oceandn" dff="beachblend11" col="beachblend11" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="palettejumpN04" zone="oceandn" dff="palettejumpN04" col="palettejumpN04" txd="sharedalleyod" alphaTransparency="nil" lod="nil" lodDistance="46"></definition>
+    <definition id="oceanroad04" zone="oceandn" dff="oceanroad04" col="oceanroad04" txd="odnroads" alphaTransparency="nil" lod="true" lodID="oceanroad04" lodDistance="200"></definition>
+    <definition id="od_clubfence_dy" zone="oceandn" dff="od_clubfence_dy" col="od_clubfence_dy" txd="od_clubout" alphaTransparency="nil" lod="nil" lodDistance="150" timeIn="5" timeOut="22"></definition>
+    <definition id="od_clubfence_nt" zone="oceandn" dff="od_clubfence_nt" col="od_clubfence_dy" txd="od_clubout" alphaTransparency="nil" lod="nil" lodDistance="150" timeIn="22" timeOut="5"></definition>
+    <definition id="cop_pillar_shad" zone="oceandn" dff="cop_pillar_shad" col="cop_pillar_shad" txd="od_cop_interior" alphaTransparency="true" lod="nil" lodDistance="30"></definition>
+    <definition id="oddoorway2" zone="oceandn" dff="oddoorway2" col="oddoorway2" txd="sharedalleyod" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="odNroad05od" zone="oceandn" dff="odNroad05od" col="odNroad05od" txd="ageneric" alphaTransparency="nil" lod="true" lodID="odNroad05od" lodDistance="200"></definition>
+    <definition id="spad_watr1" zone="oceandn" dff="spad_watr1" col="spad_watr1" txd="spad_water" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="od_bighotsign" zone="oceandn" dff="od_bighotsign" col="od_bighotsign" txd="od_bighotel" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="odndoorway3" zone="oceandn" dff="odndoorway3" col="odndoorway3" txd="sharedalleyod" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="od_bighotsign01" zone="oceandn" dff="od_bighotsign01" col="od_bighotsign01" txd="od_bighotel" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="odnneaon2" zone="oceandn" dff="odnneaon2" col="odnneaon2" txd="neonnd" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="deco_copgrnd" zone="oceandn" dff="deco_copgrnd" col="deco_copgrnd" txd="ocmiamistrip12" alphaTransparency="nil" lod="true" lodID="deco_copgrnd" lodDistance="150"></definition>
+    <definition id="cop_entrance" zone="oceandn" dff="cop_entrance" col="cop_entrance" txd="od_cop_interior" alphaTransparency="nil" lod="nil" lodDistance="30"></definition>
+    <definition id="cop_cells" zone="oceandn" dff="cop_cells" col="cop_cells" txd="od_cop_interior" alphaTransparency="nil" lod="nil" lodDistance="20"></definition>
+    <definition id="ocndbridge" zone="oceandn" dff="ocndbridge" col="ocndbridge" txd="odnroads" alphaTransparency="nil" lod="true" lodID="ocndbridge" lodDistance="200"></definition>
+    <definition id="spad_water" zone="oceandn" dff="spad_water" col="spad_water" txd="spad_opac" alphaTransparency="nil" lod="nil" lodDistance="15"></definition>
+    <definition id="od_chariot" zone="oceandn" dff="od_chariot" col="od_chariot" txd="od_chariot" alphaTransparency="nil" lod="true" lodID="od_chariot" lodDistance="200"></definition>
+    <definition id="miamiland_kb10" zone="oceandn" dff="miamiland_kb10" col="miamiland_kb10" txd="od_waterwrx" alphaTransparency="nil" lod="true" lodID="miamiland_kb10" lodDistance="150"></definition>
+    <definition id="miamiodnroadxa" zone="oceandn" dff="miamiodnroadxa" col="miamiodnroadxa" txd="odnroads" alphaTransparency="nil" lod="true" lodID="miamiodnroadxa" lodDistance="210"></definition>
+    <definition id="miamiland_kb11" zone="oceandn" dff="miamiland_kb11" col="miamiland_kb11" txd="shared_beach" alphaTransparency="nil" lod="true" lodID="miamiland_kb11" lodDistance="200"></definition>
+    <definition id="miamiland_kb10b" zone="oceandn" dff="miamiland_kb10b" col="miamiland_kb10b" txd="shared_beach" alphaTransparency="nil" lod="true" lodID="miamiland_kb10b" lodDistance="250"></definition>
+    <definition id="od_buildkb23_dy" zone="oceandn" dff="od_buildkb23_dy" col="od_buildkb23_dy" txd="odnhotelspr" alphaTransparency="nil" lod="true" lodID="od_buildkb23_dy" lodDistance="100" timeIn="5" timeOut="22"></definition>
+    <definition id="od_buildkb23_nt" zone="oceandn" dff="od_buildkb23_dy" col="od_buildkb23_dy" txd="odnhotelspr" alphaTransparency="nil" lod="true" lodID="od_buildkb23_nt" lodDistance="100" timeIn="22" timeOut="5"></definition>
+    <definition id="deco_buildkb29_dy" zone="oceandn" dff="deco_buildkb29_dy" col="deco_buildkb29_dy" txd="odnhotelspr" alphaTransparency="nil" lod="true" lodID="deco_buildkb29_dy" lodDistance="100" timeIn="5" timeOut="22"></definition>
+    <definition id="deco_buildkb29_nt" zone="oceandn" dff="deco_buildkb29_nt" col="deco_buildkb29_dy" txd="odnhotelspr" alphaTransparency="nil" lod="true" lodID="deco_buildkb29_nt" lodDistance="100" timeIn="22" timeOut="5"></definition>
+    <definition id="odnneaon3" zone="oceandn" dff="odnneaon3" col="odnneaon3" txd="neonnd" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="od_clubback" zone="oceandn" dff="od_clubback" col="od_clubback" txd="od_clubback" alphaTransparency="nil" lod="true" lodID="od_clubback" lodDistance="150"></definition>
+    <definition id="odNroad08_dy" zone="oceandn" dff="odNroad08_dy" col="odNroad08_dy" txd="ageneric" alphaTransparency="nil" lod="true" lodID="odNroad08_dy" lodDistance="200" timeIn="5" timeOut="22"></definition>
+    <definition id="odNroad08_nt" zone="oceandn" dff="odNroad08_nt" col="odNroad08_dy" txd="ageneric" alphaTransparency="nil" lod="true" lodID="odNroad08_nt" lodDistance="200" timeIn="22" timeOut="5"></definition>
+    <definition id="odn_majestic2x_dy" zone="oceandn" dff="odn_majestic2x_dy" col="odn_majestic2x_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_majestic2x_dy" lodDistance="120" timeIn="5" timeOut="22"></definition>
+    <definition id="odn_majestic2x_nt" zone="oceandn" dff="odn_majestic2x_nt" col="odn_majestic2x_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_majestic2x_nt" lodDistance="120" timeIn="22" timeOut="5"></definition>
+    <definition id="od_celldoor3" zone="oceandn" dff="od_celldoor3" col="od_celldoor3" txd="od_cop_interior" alphaTransparency="nil" lod="nil" lodDistance="10"></definition>
+    <definition id="od_bighotel_dy" zone="oceandn" dff="od_bighotel_dy" col="od_bighotel_dy" txd="od_bighotel" alphaTransparency="nil" lod="true" lodID="od_bighotel_dy" lodDistance="150" timeIn="5" timeOut="22"></definition>
+    <definition id="od_bighotel_nt" zone="oceandn" dff="od_bighotel_nt" col="od_bighotel_dy" txd="od_bighotel" alphaTransparency="nil" lod="true" lodID="od_bighotel_nt" lodDistance="150" timeIn="22" timeOut="5"></definition>
+    <definition id="odn_hotshad3" zone="oceandn" dff="odn_hotshad3" col="odn_hotshad3" txd="odnhotelblk" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
+    <definition id="od_divingbdsteps" zone="oceandn" dff="od_divingbdsteps" col="od_divingbdsteps" txd="od_bighotpool" alphaTransparency="nil" lod="nil" lodDistance="30"></definition>
+    <definition id="od_clubout_dy" zone="oceandn" dff="od_clubout_dy" col="od_clubout_dy" txd="od_clubout" alphaTransparency="nil" lod="true" lodID="od_clubout_dy" lodDistance="200" timeIn="6" timeOut="21"></definition>
+    <definition id="oceanrd1_dy" zone="oceandn" dff="oceanrd1_dy" col="oceanrd1_dy" txd="odnroads" alphaTransparency="nil" lod="true" lodID="oceanrd1_dy" lodDistance="200" timeIn="5" timeOut="22"></definition>
+    <definition id="oceanrd1_nt" zone="oceandn" dff="oceanrd1_nt" col="oceanrd1_dy" txd="odnroads" alphaTransparency="nil" lod="true" lodID="oceanrd1_nt" lodDistance="200" timeIn="22" timeOut="5"></definition>
+    <definition id="od_buildkb27_dy" zone="oceandn" dff="od_buildkb27_dy" col="od_buildkb27_dy" txd="odnhotelspr" alphaTransparency="nil" lod="true" lodID="od_buildkb27_dy" lodDistance="100" timeIn="5" timeOut="22"></definition>
+    <definition id="od_buildkb27_nt" zone="oceandn" dff="od_buildkb27_nt" col="od_buildkb27_dy" txd="odnhotelspr" alphaTransparency="nil" lod="true" lodID="od_buildkb27_nt" lodDistance="100" timeIn="22" timeOut="5"></definition>
+    <definition id="od_bighotpool2" zone="oceandn" dff="od_bighotpool2" col="od_bighotpool2" txd="od_bighotpool" alphaTransparency="nil" lod="true" lodID="od_bighotpool2" lodDistance="170"></definition>
+    <definition id="deco_polbuild" zone="oceandn" dff="deco_polbuild" col="deco_polbuild" txd="cop_oceandrv" alphaTransparency="nil" lod="true" lodID="deco_polbuild" lodDistance="150"></definition>
+    <definition id="oceanroad05" zone="oceandn" dff="oceanroad05" col="oceanroad05" txd="odnroads" alphaTransparency="nil" lod="true" lodID="oceanroad05" lodDistance="200"></definition>
+    <definition id="odn_tides2_dy" zone="oceandn" dff="odn_tides2_dy" col="odn_tides2_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_tides2_dy" lodDistance="100" timeIn="5" timeOut="22"></definition>
+    <definition id="odn_tides2_nt" zone="oceandn" dff="odn_tides2_nt" col="odn_tides2_dy" txd="odnhotelblk" alphaTransparency="nil" lod="true" lodID="odn_tides2_nt" lodDistance="100" timeIn="22" timeOut="5"></definition>
+    <definition id="beach_bush04" zone="oceandn" dff="beach_bush04" col="beach_bush04" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+</zoneDefinitions>

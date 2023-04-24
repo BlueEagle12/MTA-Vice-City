@@ -1,0 +1,170 @@
+<zoneDefinitions>
+    <definition id="fuckedcars04" zone="littleha" dff="fuckedcars04" col="fuckedcars04" txd="lhfuckercars" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="lhbacknbit" zone="littleha" dff="lhbacknbit" col="lhbacknbit" txd="litthablk6" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="glue_straight02" zone="littleha" dff="glue_straight02" col="glue_straight02" txd="lhglue" alphaTransparency="nil" lod="nil" lodDistance="25"></definition>
+    <definition id="hav_garagedoor03" zone="littleha" dff="hav_garagedoor03" col="hav_garagedoor03" txd="lh_garagebits" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="lhroadc2" zone="littleha" dff="lhroadc2" col="lhroadc2" txd="lh_roads" alphaTransparency="nil" lod="true" lodID="lhroadc2" lodDistance="150"></definition>
+    <definition id="lh_icecream01" zone="littleha" dff="lh_icecream01" col="lh_icecream01" txd="lh_taxi" alphaTransparency="nil" lod="true" lodID="lh_icecream01" lodDistance="149.5"></definition>
+    <definition id="lithavabit01" zone="littleha" dff="lithavabit01" col="lithavabit01" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="lithavabit01" lodDistance="70"></definition>
+    <definition id="lhglue01" zone="littleha" dff="lhglue01" col="lhglue01" txd="lhglue" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
+    <definition id="lithawaste1" zone="littleha" dff="lithawaste1" col="lithawaste1" txd="lithawaste" alphaTransparency="nil" lod="true" lodID="lithawaste1" lodDistance="150"></definition>
+    <definition id="lhroofst07" zone="littleha" dff="lhroofst07" col="lhroofst07" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cofsho_ext1" zone="littleha" dff="cofsho_ext1" col="cofsho_ext1" txd="coffeshpext" alphaTransparency="nil" lod="true" lodID="cofsho_ext1" lodDistance="100"></definition>
+    <definition id="lhdirt2s" zone="littleha" dff="lhdirt2s" col="lhdirt2s" txd="lhglue" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lhroofwee" zone="littleha" dff="lhroofwee" col="lhroofwee" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lhroofst01" zone="littleha" dff="lhroofst01" col="lhroofst01" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lhstairs7" zone="littleha" dff="lhstairs7" col="lhstairs7" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lhroofst17" zone="littleha" dff="lhroofst17" col="lhroofst17" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lithavabit04" zone="littleha" dff="lithavabit04" col="lithavabit04" txd="lhgardens" alphaTransparency="nil" lod="true" lodID="lithavabit04" lodDistance="149.5"></definition>
+    <definition id="lhblbrd1" zone="littleha" dff="lhblbrd1" col="lhblbrd1" txd="bilbrd1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lhroofst09" zone="littleha" dff="lhroofst09" col="lhroofst09" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="hav_garagedoor02" zone="littleha" dff="hav_garagedoor02" col="hav_garagedoor02" txd="lh_garagebits" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="fuckedcars02" zone="littleha" dff="fuckedcars02" col="fuckedcars02" txd="lhfuckercars" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="deli_interior" zone="littleha" dff="deli_interior" col="deli_interior" txd="deliint" alphaTransparency="nil" lod="nil" lodDistance="30"></definition>
+    <definition id="labiggrass" zone="littleha" dff="labiggrass" col="labiggrass" txd="sharedbiggrass" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="signagelh" zone="littleha" dff="signagelh" col="signagelh" txd="lhroadsign" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="BillBd04" zone="littleha" dff="BillBd04" col="BillBd04" txd="littlhab1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="miamiland179" zone="littleha" dff="miamiland179" col="miamiland179" txd="lithablk12" alphaTransparency="nil" lod="true" lodID="miamiland179" lodDistance="149.5"></definition>
+    <definition id="lhdirtpassax1" zone="littleha" dff="lhdirtpassax1" col="lhdirtpassax1" txd="lhglue" alphaTransparency="nil" lod="nil" lodDistance="25"></definition>
+    <definition id="miamiland173" zone="littleha" dff="miamiland173" col="miamiland173" txd="litthabg1" alphaTransparency="nil" lod="true" lodID="miamiland173" lodDistance="130"></definition>
+    <definition id="cof_shad4" zone="littleha" dff="cof_shad4" col="cof_shad4" txd="cofshad" alphaTransparency="true" lod="nil" lodDistance="20"></definition>
+    <definition id="lhjetty" zone="littleha" dff="lhjetty" col="lhjetty" txd="lhjetty" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lhbasket" zone="littleha" dff="lhbasket" col="lhbasket" txd="havbasketball" alphaTransparency="nil" lod="true" lodID="lhbasket" lodDistance="149.5"></definition>
+    <definition id="lithawaste2" zone="littleha" dff="lithawaste2" col="lithawaste2" txd="lithawaste" alphaTransparency="nil" lod="true" lodID="lithawaste2" lodDistance="149.5"></definition>
+    <definition id="lhblbrd3" zone="littleha" dff="lhblbrd3" col="lhblbrd3" txd="lhblbrd3" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lh_racemap" zone="littleha" dff="lh_racemap" col="lh_racemap" txd="lh_racemap" alphaTransparency="nil" lod="nil" lodDistance="22"></definition>
+    <definition id="hospital" zone="littleha" dff="hospital" col="hospital" txd="hahospital" alphaTransparency="nil" lod="true" lodID="hospital" lodDistance="160"></definition>
+    <definition id="telewire02" zone="littleha" dff="telewire02" col="telewire02" txd="wire" alphaTransparency="nil" lod="nil" lodDistance="149.5"></definition>
+    <definition id="havanahouse09" zone="littleha" dff="havanahouse09" col="havanahouse09" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="havanahouse09" lodDistance="70"></definition>
+    <definition id="havanahouse06" zone="littleha" dff="havanahouse06" col="havanahouse06" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="havanahouse06" lodDistance="70"></definition>
+    <definition id="lh2glue01" zone="littleha" dff="lh2glue01" col="lh2glue01" txd="lhglue" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
+    <definition id="cof_extwindw" zone="littleha" dff="cof_extwindw" col="cof_extwindw" txd="cofshopwind" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="cof_intfloor" zone="littleha" dff="cof_intfloor" col="cof_intfloor" txd="cofshopint" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
+    <definition id="cof_bardetail" zone="littleha" dff="cof_bardetail" col="cof_bardetail" txd="cofshopintdet" alphaTransparency="nil" lod="nil" lodDistance="15"></definition>
+    <definition id="miamiland180" zone="littleha" dff="miamiland180" col="miamiland180" txd="lithablk12" alphaTransparency="nil" lod="true" lodID="miamiland180" lodDistance="130"></definition>
+    <definition id="lh_buildingg1" zone="littleha" dff="lh_buildingg1" col="lh_buildingg1" txd="lithablk9" alphaTransparency="nil" lod="true" lodID="lh_buildingg1" lodDistance="140"></definition>
+    <definition id="lhroofst02" zone="littleha" dff="lhroofst02" col="lhroofst02" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lhcargo" zone="littleha" dff="lhcargo" col="lhcargo" txd="lhalleysect" alphaTransparency="nil" lod="nil" lodDistance="65"></definition>
+    <definition id="grasspatch" zone="littleha" dff="grasspatch" col="grasspatch" txd="grasspatch" alphaTransparency="nil" lod="true" lodID="grasspatch" lodDistance="55"></definition>
+    <definition id="lhavnew_bush" zone="littleha" dff="lhavnew_bush" col="lhavnew_bush" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="149.5"></definition>
+    <definition id="fuckedcars01" zone="littleha" dff="fuckedcars01" col="fuckedcars01" txd="lhfuckercars" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="lhblbrd8" zone="littleha" dff="lhblbrd8" col="lhblbrd8" txd="lhblbrd8" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lhroofst04" zone="littleha" dff="lhroofst04" col="lhroofst04" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lhsbackbit" zone="littleha" dff="lhsbackbit" col="lhsbackbit" txd="lh_taxi" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="lithavabit07" zone="littleha" dff="lithavabit07" col="lithavabit07" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="lithavabit07" lodDistance="70"></definition>
+    <definition id="vrates" zone="littleha" dff="vrates" col="vrates" txd="lh_taxi" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="lhroadc1" zone="littleha" dff="lhroadc1" col="lhroadc1" txd="lh_roads" alphaTransparency="nil" lod="true" lodID="lhroadc1" lodDistance="150"></definition>
+    <definition id="car_fucko03" zone="littleha" dff="car_fucko03" col="car_fucko03" txd="lhfuckercars" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="littlharoadgg2" zone="littleha" dff="littlharoadgg2" col="littlharoadgg2" txd="lh_roads" alphaTransparency="nil" lod="true" lodID="littlharoadgg2" lodDistance="149.5"></definition>
+    <definition id="lhcoastsky2" zone="littleha" dff="lhcoastsky2" col="lhcoastsky2" txd="habuildblok" alphaTransparency="nil" lod="true" lodID="lhcoastsky2" lodDistance="150"></definition>
+    <definition id="lhroadc4" zone="littleha" dff="lhroadc4" col="lhroadc4" txd="lh_roads" alphaTransparency="nil" lod="true" lodID="lhroadc4" lodDistance="149.5"></definition>
+    <definition id="littleha_police" zone="littleha" dff="littleha_police" col="littleha_police" txd="hav_police" alphaTransparency="nil" lod="true" lodID="littleha_police" lodDistance="149.5"></definition>
+    <definition id="miamiland178" zone="littleha" dff="miamiland178" col="miamiland178" txd="ageneric" alphaTransparency="nil" lod="true" lodID="miamiland178" lodDistance="149.5"></definition>
+    <definition id="littleha_hardwareb" zone="littleha" dff="littleha_hardwareb" col="littleha_hardwareb" txd="wa_tool2" alphaTransparency="nil" lod="nil" lodDistance="120"></definition>
+    <definition id="lh2glue" zone="littleha" dff="lh2glue" col="lh2glue" txd="lhglue" alphaTransparency="nil" lod="nil" lodDistance="25"></definition>
+    <definition id="havbuild" zone="littleha" dff="havbuild" col="havbuild" txd="lithahotel" alphaTransparency="nil" lod="true" lodID="havbuild" lodDistance="149.5"></definition>
+    <definition id="lithavabit05" zone="littleha" dff="lithavabit05" col="lithavabit05" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="lithavabit05" lodDistance="70"></definition>
+    <definition id="drycleaners" zone="littleha" dff="drycleaners" col="drycleaners" txd="drycleaners" alphaTransparency="nil" lod="nil" lodDistance="22.5"></definition>
+    <definition id="labiggrass01" zone="littleha" dff="labiggrass01" col="labiggrass01" txd="sharedbiggrass" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="lhblbrd2" zone="littleha" dff="lhblbrd2" col="lhblbrd2" txd="lhblbrd2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lhroofst12" zone="littleha" dff="lhroofst12" col="lhroofst12" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="miamiland177" zone="littleha" dff="miamiland177" col="miamiland177" txd="ageneric" alphaTransparency="nil" lod="true" lodID="miamiland177" lodDistance="149.5"></definition>
+    <definition id="lhroadc3" zone="littleha" dff="lhroadc3" col="lhroadc3" txd="lh_roads" alphaTransparency="nil" lod="true" lodID="lhroadc3" lodDistance="150"></definition>
+    <definition id="miamiland037" zone="littleha" dff="miamiland037" col="miamiland037" txd="littlhab1" alphaTransparency="nil" lod="true" lodID="miamiland037" lodDistance="150"></definition>
+    <definition id="veged01" zone="littleha" dff="veged01" col="veged01" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="149.5"></definition>
+    <definition id="lhroofst11" zone="littleha" dff="lhroofst11" col="lhroofst11" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cof_shad2" zone="littleha" dff="cof_shad2" col="cof_shad2" txd="cofshad" alphaTransparency="true" lod="nil" lodDistance="20"></definition>
+    <definition id="havanahouse10" zone="littleha" dff="havanahouse10" col="havanahouse10" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="havanahouse10" lodDistance="70"></definition>
+    <definition id="lhdirtpass1" zone="littleha" dff="lhdirtpass1" col="lhdirtpass1" txd="lhglue" alphaTransparency="nil" lod="nil" lodDistance="25"></definition>
+    <definition id="lhglue3" zone="littleha" dff="lhglue3" col="lhglue3" txd="lhglue" alphaTransparency="nil" lod="nil" lodDistance="25"></definition>
+    <definition id="lhroofst16" zone="littleha" dff="lhroofst16" col="lhroofst16" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lithavabit03" zone="littleha" dff="lithavabit03" col="lithavabit03" txd="lhgardens" alphaTransparency="nil" lod="nil" lodDistance="149.5"></definition>
+    <definition id="cof_seat" zone="littleha" dff="cof_seat" col="cof_seat" txd="cofshopintdet" alphaTransparency="nil" lod="nil" lodDistance="15"></definition>
+    <definition id="lhgrasspatchg" zone="littleha" dff="lhgrasspatchg" col="lhgrasspatchg" txd="grasspatch" alphaTransparency="nil" lod="nil" lodDistance="55"></definition>
+    <definition id="cof_shad1" zone="littleha" dff="cof_shad1" col="cof_shad1" txd="cofshad" alphaTransparency="true" lod="nil" lodDistance="20"></definition>
+    <definition id="miamiland039" zone="littleha" dff="miamiland039" col="miamiland039" txd="ageneric" alphaTransparency="nil" lod="true" lodID="miamiland039" lodDistance="149.5"></definition>
+    <definition id="havanahouse03" zone="littleha" dff="havanahouse03" col="havanahouse03" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="havanahouse03" lodDistance="70"></definition>
+    <definition id="littlehabroad" zone="littleha" dff="littlehabroad" col="littlehabroad" txd="lh_roads" alphaTransparency="nil" lod="true" lodID="littlehabroad" lodDistance="170"></definition>
+    <definition id="lhwallbit" zone="littleha" dff="lhwallbit" col="lhwallbit" txd="hav_health" alphaTransparency="nil" lod="true" lodID="lhwallbit" lodDistance="149.5"></definition>
+    <definition id="lhroofstuffg" zone="littleha" dff="lhroofstuffg" col="lhroofstuffg" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="havbit01" zone="littleha" dff="havbit01" col="havbit01" txd="lhgardens" alphaTransparency="nil" lod="nil" lodDistance="149.5"></definition>
+    <definition id="hav_garagedoor04" zone="littleha" dff="hav_garagedoor04" col="hav_garagedoor04" txd="lh_garagebits" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="lh_buildingg3" zone="littleha" dff="lh_buildingg3" col="lh_buildingg3" txd="lithablk9" alphaTransparency="nil" lod="true" lodID="lh_buildingg3" lodDistance="280"></definition>
+    <definition id="lhavroad1" zone="littleha" dff="lhavroad1" col="lhavroad1" txd="ageneric" alphaTransparency="nil" lod="true" lodID="lhavroad1" lodDistance="150"></definition>
+    <definition id="labiggrass02" zone="littleha" dff="labiggrass02" col="labiggrass02" txd="sharedbiggrass" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="lh_buildingw1" zone="littleha" dff="lh_buildingw1" col="lh_buildingw1" txd="littlhab1" alphaTransparency="nil" lod="true" lodID="lh_buildingw1" lodDistance="100"></definition>
+    <definition id="havbit02" zone="littleha" dff="havbit02" col="havbit02" txd="lhgardens" alphaTransparency="nil" lod="true" lodID="havbit02" lodDistance="149.5"></definition>
+    <definition id="lh_groundstains" zone="littleha" dff="lh_groundstains" col="lh_groundstains" txd="lh_garagebits" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lithavabit11" zone="littleha" dff="lithavabit11" col="lithavabit11" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="lithavabit11" lodDistance="70"></definition>
+    <definition id="fuckedcars05" zone="littleha" dff="fuckedcars05" col="fuckedcars05" txd="lhfuckercars" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="veged" zone="littleha" dff="veged" col="veged" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="149.5"></definition>
+    <definition id="lh_showdoor1" zone="littleha" dff="lh_showdoor1" col="lh_showdoor1" txd="lh_garagebits" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lharoadab" zone="littleha" dff="lharoadab" col="lharoadab" txd="ageneric" alphaTransparency="nil" lod="true" lodID="lharoadab" lodDistance="150"></definition>
+    <definition id="lhtankdoor" zone="littleha" dff="lhtankdoor" col="lhtankdoor" txd="lithablk9" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lithavabit12" zone="littleha" dff="lithavabit12" col="lithavabit12" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="lithavabit12" lodDistance="70"></definition>
+    <definition id="deli_exterior_front" zone="littleha" dff="deli_exterior_front" col="deli_exterior_front" txd="deliext" alphaTransparency="nil" lod="true" lodID="deli_exterior_front" lodDistance="80"></definition>
+    <definition id="lh_icedoor" zone="littleha" dff="lh_icedoor" col="lh_icedoor" txd="lh_taxi" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="lithavabit09" zone="littleha" dff="lithavabit09" col="lithavabit09" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="lithavabit09" lodDistance="70"></definition>
+    <definition id="lha_carfence" zone="littleha" dff="lha_carfence" col="lha_carfence" txd="air_carshow" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="cof_shpdetail1" zone="littleha" dff="cof_shpdetail1" col="cof_shpdetail1" txd="cofshopintdet" alphaTransparency="nil" lod="nil" lodDistance="15"></definition>
+    <definition id="havanahouse01" zone="littleha" dff="havanahouse01" col="havanahouse01" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="havanahouse01" lodDistance="70"></definition>
+    <definition id="havanahouse11" zone="littleha" dff="havanahouse11" col="havanahouse11" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="havanahouse11" lodDistance="70"></definition>
+    <definition id="hav_car_show_out2" zone="littleha" dff="hav_car_show_out2" col="hav_car_show_out2" txd="lh_garagebits" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="lhbuild1b" zone="littleha" dff="lhbuild1b" col="lhbuild1b" txd="littlhablk7" alphaTransparency="nil" lod="true" lodID="lhbuild1b" lodDistance="150"></definition>
+    <definition id="miamiland041" zone="littleha" dff="miamiland041" col="miamiland041" txd="lh_roads" alphaTransparency="nil" lod="true" lodID="miamiland041" lodDistance="150"></definition>
+    <definition id="lhroofst19" zone="littleha" dff="lhroofst19" col="lhroofst19" txd="lhrooft2" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="lhavroad2" zone="littleha" dff="lhavroad2" col="lhavroad2" txd="ageneric" alphaTransparency="nil" lod="true" lodID="lhavroad2" lodDistance="150"></definition>
+    <definition id="glue_corner01" zone="littleha" dff="glue_corner01" col="glue_corner01" txd="lhglue" alphaTransparency="nil" lod="nil" lodDistance="25"></definition>
+    <definition id="havanahouse04" zone="littleha" dff="havanahouse04" col="havanahouse04" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="havanahouse04" lodDistance="70"></definition>
+    <definition id="lh_carshow_windows" zone="littleha" dff="lh_carshow_windows" col="lh_carshow_windows" txd="hai_carshowint" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lhroofst08" zone="littleha" dff="lhroofst08" col="lhroofst08" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lithavabit08" zone="littleha" dff="lithavabit08" col="lithavabit08" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="lithavabit08" lodDistance="70"></definition>
+    <definition id="lhsteps3" zone="littleha" dff="lhsteps3" col="lhsteps3" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lhroofst18" zone="littleha" dff="lhroofst18" col="lhroofst18" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="vegetationb03" zone="littleha" dff="vegetationb03" col="vegetationb03" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="320"></definition>
+    <definition id="fuckedcars03" zone="littleha" dff="fuckedcars03" col="fuckedcars03" txd="lhfuckercars" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="miamiland176" zone="littleha" dff="miamiland176" col="miamiland176" txd="ageneric" alphaTransparency="nil" lod="true" lodID="miamiland176" lodDistance="149.5"></definition>
+    <definition id="havanahouse02" zone="littleha" dff="havanahouse02" col="havanahouse02" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="havanahouse02" lodDistance="70"></definition>
+    <definition id="miamiland175" zone="littleha" dff="miamiland175" col="miamiland175" txd="litthablk6" alphaTransparency="nil" lod="true" lodID="miamiland175" lodDistance="149.5"></definition>
+    <definition id="lhroofst10" zone="littleha" dff="lhroofst10" col="lhroofst10" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lh_icecream02" zone="littleha" dff="lh_icecream02" col="lh_icecream02" txd="lh_taxi" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="lhbuild034" zone="littleha" dff="lhbuild034" col="lhbuild034" txd="lhbuild3" alphaTransparency="nil" lod="true" lodID="lhbuild034" lodDistance="150"></definition>
+    <definition id="havbit03" zone="littleha" dff="havbit03" col="havbit03" txd="littlehab2" alphaTransparency="nil" lod="true" lodID="havbit03" lodDistance="100"></definition>
+    <definition id="lithavroad3" zone="littleha" dff="lithavroad3" col="lithavroad3" txd="lh_roads" alphaTransparency="nil" lod="true" lodID="lithavroad3" lodDistance="149.5"></definition>
+    <definition id="veged02" zone="littleha" dff="veged02" col="veged02" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="telewire03" zone="littleha" dff="telewire03" col="telewire03" txd="wire" alphaTransparency="nil" lod="nil" lodDistance="149.5"></definition>
+    <definition id="miamiland171" zone="littleha" dff="miamiland171" col="miamiland171" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="miamiland171" lodDistance="100"></definition>
+    <definition id="lihawasteb2" zone="littleha" dff="lihawasteb2" col="lihawasteb2" txd="lithawaste" alphaTransparency="nil" lod="true" lodID="lihawasteb2" lodDistance="150"></definition>
+    <definition id="littleha_hardware" zone="littleha" dff="littleha_hardware" col="littleha_hardware" txd="wa_tool2" alphaTransparency="nil" lod="true" lodID="littleha_hardware" lodDistance="120"></definition>
+    <definition id="lhddirt" zone="littleha" dff="lhddirt" col="lhddirt" txd="lhglue" alphaTransparency="nil" lod="true" lodID="lhddirt" lodDistance="25"></definition>
+    <definition id="vegeha1" zone="littleha" dff="vegeha1" col="vegeha1" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="320"></definition>
+    <definition id="havbackbit" zone="littleha" dff="havbackbit" col="havbackbit" txd="littlehab2" alphaTransparency="nil" lod="true" lodID="havbackbit" lodDistance="150"></definition>
+    <definition id="havgangshop" zone="littleha" dff="havgangshop" col="havgangshop" txd="lhgangshop" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
+    <definition id="miamiland172" zone="littleha" dff="miamiland172" col="miamiland172" txd="litthabg1" alphaTransparency="nil" lod="true" lodID="miamiland172" lodDistance="130"></definition>
+    <definition id="lhroofst03" zone="littleha" dff="lhroofst03" col="lhroofst03" txd="lhrooft" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="miamiland174" zone="littleha" dff="miamiland174" col="miamiland174" txd="littlhablk7" alphaTransparency="nil" lod="true" lodID="miamiland174" lodDistance="149.5"></definition>
+    <definition id="lhcoastsky1" zone="littleha" dff="lhcoastsky1" col="lhcoastsky1" txd="habuildblok" alphaTransparency="nil" lod="true" lodID="lhcoastsky1" lodDistance="150"></definition>
+    <definition id="lh_showdoor03" zone="littleha" dff="lh_showdoor03" col="lh_showdoor03" txd="lh_garagebits" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="lithavabit06" zone="littleha" dff="lithavabit06" col="lithavabit06" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="lithavabit06" lodDistance="70"></definition>
+    <definition id="lhdirtpassz" zone="littleha" dff="lhdirtpassz" col="lhdirtpassz" txd="lhglue" alphaTransparency="nil" lod="nil" lodDistance="25"></definition>
+    <definition id="lhbillboard05xx" zone="littleha" dff="lhbillboard05xx" col="lhbillboard05xx" txd="lhbillbrd" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cofbarbothint" zone="littleha" dff="cofbarbothint" col="cofbarbothint" txd="cofintout" alphaTransparency="nil" lod="nil" lodDistance="20"></definition>
+    <definition id="lhparkline2" zone="littleha" dff="lhparkline2" col="lhparkline2" txd="lhparkline" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="telewire04" zone="littleha" dff="telewire04" col="telewire04" txd="wire" alphaTransparency="nil" lod="nil" lodDistance="149.5"></definition>
+    <definition id="miamiland170" zone="littleha" dff="miamiland170" col="miamiland170" txd="littlehab2" alphaTransparency="nil" lod="true" lodID="miamiland170" lodDistance="100"></definition>
+    <definition id="lithavabit10" zone="littleha" dff="lithavabit10" col="lithavabit10" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="lithavabit10" lodDistance="70"></definition>
+    <definition id="littlehacoast02" zone="littleha" dff="littlehacoast02" col="littlehacoast02" txd="lithablk4" alphaTransparency="nil" lod="true" lodID="littlehacoast02" lodDistance="150"></definition>
+    <definition id="hav_car_show_int" zone="littleha" dff="hav_car_show_int" col="hav_car_show_int" txd="hai_carshowint" alphaTransparency="nil" lod="nil" lodDistance="75"></definition>
+    <definition id="vegetationb" zone="littleha" dff="vegetationb" col="vegetationb" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="149.5"></definition>
+    <definition id="glue_straight01" zone="littleha" dff="glue_straight01" col="glue_straight01" txd="lhglue" alphaTransparency="nil" lod="nil" lodDistance="25"></definition>
+    <definition id="havhotel" zone="littleha" dff="havhotel" col="havhotel" txd="lhhotelbg" alphaTransparency="nil" lod="true" lodID="havhotel" lodDistance="149.5"></definition>
+    <definition id="cof_xtremedet" zone="littleha" dff="cof_xtremedet" col="cof_xtremedet" txd="cofshopintdet" alphaTransparency="nil" lod="nil" lodDistance="12.5"></definition>
+    <definition id="fuckedcars06" zone="littleha" dff="fuckedcars06" col="fuckedcars06" txd="lhfuckercars" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="lhgrnda1" zone="littleha" dff="lhgrnda1" col="lhgrnda1" txd="lithawaste" alphaTransparency="nil" lod="true" lodID="lhgrnda1" lodDistance="150"></definition>
+    <definition id="lithahousebk2" zone="littleha" dff="lithahousebk2" col="lithahousebk2" txd="lithablk22" alphaTransparency="nil" lod="true" lodID="lithahousebk2" lodDistance="120"></definition>
+    <definition id="lh_buildingg2" zone="littleha" dff="lh_buildingg2" col="lh_buildingg2" txd="lithablk9" alphaTransparency="nil" lod="true" lodID="lh_buildingg2" lodDistance="150"></definition>
+    <definition id="hav_car_show_out" zone="littleha" dff="hav_car_show_out" col="hav_car_show_out" txd="air_carshow" alphaTransparency="nil" lod="true" lodID="hav_car_show_out" lodDistance="150"></definition>
+    <definition id="hav_garagedoor1" zone="littleha" dff="hav_garagedoor1" col="hav_garagedoor1" txd="lh_garagebits" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="carshowflags" zone="littleha" dff="carshowflags" col="carshowflags" txd="air_carshow" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="havanahouse07" zone="littleha" dff="havanahouse07" col="havanahouse07" txd="lithahouse" alphaTransparency="nil" lod="true" lodID="havanahouse07" lodDistance="70"></definition>
+</zoneDefinitions>

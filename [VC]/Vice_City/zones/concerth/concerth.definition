@@ -1,0 +1,22 @@
+<zoneDefinitions>
+    <definition id="concerth08" zone="concerth" dff="concerth08" col="concerth08" txd="stagestuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth06" zone="concerth" dff="concerth06" col="concerth06" txd="stagestuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth48" zone="concerth" dff="concerth48" col="concerth48" txd="bakstgstuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth02" zone="concerth" dff="concerth02" col="concerth02" txd="bakstgstuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth05" zone="concerth" dff="concerth05" col="concerth05" txd="stagestuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth10" zone="concerth" dff="concerth10" col="concerth10" txd="stagestuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth29" zone="concerth" dff="concerth29" col="concerth29" txd="stagestuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth49" zone="concerth" dff="concerth49" col="concerth49" txd="bakstgstuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth04" zone="concerth" dff="concerth04" col="concerth04" txd="bakstgstuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth27" zone="concerth" dff="concerth27" col="concerth27" txd="bakstgstuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth07" zone="concerth" dff="concerth07" col="concerth07" txd="stagestuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth11" zone="concerth" dff="concerth11" col="concerth11" txd="stagestuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth56" zone="concerth" dff="concerth56" col="concerth56" txd="stagestuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth09" zone="concerth" dff="concerth09" col="concerth09" txd="stagestuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth51" zone="concerth" dff="concerth51" col="concerth51" txd="bakstgstuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth52" zone="concerth" dff="concerth52" col="concerth52" txd="bakstgstuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth12" zone="concerth" dff="concerth12" col="concerth12" txd="stagebar" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth03" zone="concerth" dff="concerth03" col="concerth03" txd="bakstgstuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth54" zone="concerth" dff="concerth54" col="concerth54" txd="bakstgstuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="concerth50" zone="concerth" dff="concerth50" col="concerth50" txd="bakstgstuff" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+</zoneDefinitions>

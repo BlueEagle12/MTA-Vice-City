@@ -1,0 +1,5 @@
+<zoneDefinitions>
+    <definition id="rockpatch1" zone="dynamic" dff="rockpatch1" col="rockpatch1" txd="rocky" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="wshxrefhirise1" zone="dynamic" dff="wshxrefhirise1" col="wshxrefhirise1" txd="wshxrefhirise" alphaTransparency="nil" lod="true" lodID="wshxrefhirise1" lodDistance="75"></definition>
+    <definition id="rockpatch03" zone="dynamic" dff="rockpatch03" col="rockpatch03" txd="rocky" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+</zoneDefinitions>

@@ -1,0 +1,42 @@
+<zoneDefinitions>
+    <definition id="cdseabed33" zone="islandsf" dff="cdseabed33" col="cdseabed33" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed33" lodDistance="299"></definition>
+    <definition id="cdseabed05" zone="islandsf" dff="cdseabed05" col="cdseabed05" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed05" lodDistance="299"></definition>
+    <definition id="cdseabed27" zone="islandsf" dff="cdseabed27" col="cdseabed27" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed27" lodDistance="299"></definition>
+    <definition id="cdseabed04" zone="islandsf" dff="cdseabed04" col="cdseabed04" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed04" lodDistance="299"></definition>
+    <definition id="seacorpse" zone="islandsf" dff="seacorpse" col="seacorpse" txd="corpsedrown" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
+    <definition id="cdseabed02" zone="islandsf" dff="cdseabed02" col="cdseabed02" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed02" lodDistance="299"></definition>
+    <definition id="seabedshit1" zone="islandsf" dff="seabedshit1" col="seabedshit1" txd="dock_shipsunder" alphaTransparency="nil" lod="true" lodID="seabedshit1" lodDistance="144"></definition>
+    <definition id="cdseabed17" zone="islandsf" dff="cdseabed17" col="cdseabed17" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed17" lodDistance="299"></definition>
+    <definition id="cdseabed32" zone="islandsf" dff="cdseabed32" col="cdseabed32" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed32" lodDistance="299"></definition>
+    <definition id="cdseabed21" zone="islandsf" dff="cdseabed21" col="cdseabed21" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed21" lodDistance="299"></definition>
+    <definition id="cdseabed03" zone="islandsf" dff="cdseabed03" col="cdseabed03" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed03" lodDistance="299"></definition>
+    <definition id="cdseabed15" zone="islandsf" dff="cdseabed15" col="cdseabed15" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed15" lodDistance="299"></definition>
+    <definition id="seabedcars04" zone="islandsf" dff="seabedcars04" col="seabedcars04" txd="fuckedcarlh" alphaTransparency="nil" lod="true" lodID="seabedcars04" lodDistance="50"></definition>
+    <definition id="cdseabed20" zone="islandsf" dff="cdseabed20" col="cdseabed20" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed20" lodDistance="299"></definition>
+    <definition id="cdseabed08" zone="islandsf" dff="cdseabed08" col="cdseabed08" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed08" lodDistance="299"></definition>
+    <definition id="cdseabed13" zone="islandsf" dff="cdseabed13" col="cdseabed13" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed13" lodDistance="299"></definition>
+    <definition id="cdseabed28" zone="islandsf" dff="cdseabed28" col="cdseabed28" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed28" lodDistance="299"></definition>
+    <definition id="cdseabed22" zone="islandsf" dff="cdseabed22" col="cdseabed22" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed22" lodDistance="299"></definition>
+    <definition id="cdseabed31" zone="islandsf" dff="cdseabed31" col="cdseabed31" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed31" lodDistance="299"></definition>
+    <definition id="seabedcars" zone="islandsf" dff="seabedcars" col="seabedcars" txd="fuckedcarlh" alphaTransparency="nil" lod="true" lodID="seabedcars" lodDistance="50"></definition>
+    <definition id="cdseabed10" zone="islandsf" dff="cdseabed10" col="cdseabed10" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed10" lodDistance="299"></definition>
+    <definition id="cdseabed23" zone="islandsf" dff="cdseabed23" col="cdseabed23" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed23" lodDistance="299"></definition>
+    <definition id="cdseaan" zone="islandsf" dff="cdseaan" col="cdseaan" txd="seabed2" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="cdseabed06" zone="islandsf" dff="cdseabed06" col="cdseabed06" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed06" lodDistance="299"></definition>
+    <definition id="cdseabed18" zone="islandsf" dff="cdseabed18" col="cdseabed18" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed18" lodDistance="299"></definition>
+    <definition id="cdseabed26" zone="islandsf" dff="cdseabed26" col="cdseabed26" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed26" lodDistance="299"></definition>
+    <definition id="cdseabed29" zone="islandsf" dff="cdseabed29" col="cdseabed29" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed29" lodDistance="299"></definition>
+    <definition id="seabedshit02" zone="islandsf" dff="seabedshit02" col="seabedshit02" txd="dock_shipsunder" alphaTransparency="nil" lod="true" lodID="seabedshit02" lodDistance="144"></definition>
+    <definition id="cdseabed01" zone="islandsf" dff="cdseabed01" col="cdseabed01" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed01" lodDistance="299"></definition>
+    <definition id="cdseabed11" zone="islandsf" dff="cdseabed11" col="cdseabed11" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed11" lodDistance="299"></definition>
+    <definition id="cdseabed25" zone="islandsf" dff="cdseabed25" col="cdseabed25" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed25" lodDistance="299"></definition>
+    <definition id="cdseabed07" zone="islandsf" dff="cdseabed07" col="cdseabed07" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed07" lodDistance="299"></definition>
+    <definition id="cdseabed09" zone="islandsf" dff="cdseabed09" col="cdseabed09" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed09" lodDistance="299"></definition>
+    <definition id="cdseabed16" zone="islandsf" dff="cdseabed16" col="cdseabed16" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed16" lodDistance="299"></definition>
+    <definition id="cdseabed14" zone="islandsf" dff="cdseabed14" col="cdseabed14" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed14" lodDistance="299"></definition>
+    <definition id="cdseabed12" zone="islandsf" dff="cdseabed12" col="cdseabed12" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed12" lodDistance="299"></definition>
+    <definition id="cdseabed24" zone="islandsf" dff="cdseabed24" col="cdseabed24" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed24" lodDistance="299"></definition>
+    <definition id="cdseabed30" zone="islandsf" dff="cdseabed30" col="cdseabed30" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed30" lodDistance="299"></definition>
+    <definition id="cdseabed19" zone="islandsf" dff="cdseabed19" col="cdseabed19" txd="seabed2" alphaTransparency="nil" lod="true" lodID="cdseabed19" lodDistance="299"></definition>
+    <definition id="seacorpse01" zone="islandsf" dff="seacorpse01" col="seacorpse01" txd="corpsedrown" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
+</zoneDefinitions>

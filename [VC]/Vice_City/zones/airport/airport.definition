@@ -1,0 +1,150 @@
+<zoneDefinitions>
+    <definition id="air_brway_030" zone="airport" dff="air_brway_030" col="air_brway_030" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_booth1_01" zone="airport" dff="ap_booth1_01" col="ap_booth1_01" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_steps1_04" zone="airport" dff="ap_steps1_04" col="ap_steps1_04" txd="airstuff2" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_gatedisp1_02" zone="airport" dff="ap_gatedisp1_02" col="ap_gatedisp1_02" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_rland07" zone="airport" dff="ap_rland07" col="ap_rland07" txd="ap_viceairport" alphaTransparency="nil" lod="true" lodID="ap_rland07" lodDistance="299"></definition>
+    <definition id="ap_rland08" zone="airport" dff="ap_rland08" col="ap_rland08" txd="ap_ground1" alphaTransparency="nil" lod="true" lodID="ap_rland08" lodDistance="299"></definition>
+    <definition id="ap_dockstairs1" zone="airport" dff="ap_dockstairs1" col="ap_dockstairs1" txd="ap_seaplanprop" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_termAintfloor2" zone="airport" dff="ap_termAintfloor2" col="ap_termAintfloor2" txd="ap_terminal1" alphaTransparency="nil" lod="true" lodID="ap_termAintfloor2" lodDistance="135"></definition>
+    <definition id="ap_terminAgrflo1" zone="airport" dff="ap_terminAgrflo1" col="ap_terminAgrflo1" txd="ap_terminal1" alphaTransparency="nil" lod="true" lodID="ap_terminAgrflo1" lodDistance="280"></definition>
+    <definition id="ap_hangar1_04" zone="airport" dff="ap_hangar1_04" col="ap_hangar1_04" txd="airport" alphaTransparency="nil" lod="true" lodID="ap_hangar1_04" lodDistance="290"></definition>
+    <definition id="ap_steps1_02" zone="airport" dff="ap_steps1_02" col="ap_steps1_02" txd="airstuff2" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_windowstruts" zone="airport" dff="ap_windowstruts" col="ap_windowstruts" txd="ap_termwindows" alphaTransparency="nil" lod="true" lodID="ap_windowstruts" lodDistance="299"></definition>
+    <definition id="ap_roadsigns1_03" zone="airport" dff="ap_roadsigns1_03" col="ap_roadsigns1_03" txd="ap_build2" alphaTransparency="nil" lod="true" lodID="ap_roadsigns1_03" lodDistance="125"></definition>
+    <definition id="ap_planters2_01" zone="airport" dff="ap_planters2_01" col="ap_planters2_01" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="ap_seaplanehanger1" zone="airport" dff="ap_seaplanehanger1" col="ap_seaplanehanger1" txd="ap_seasplane" alphaTransparency="nil" lod="true" lodID="ap_seaplanehanger1" lodDistance="170"></definition>
+    <definition id="ap_steps1_07" zone="airport" dff="ap_steps1_07" col="ap_steps1_07" txd="airstuff2" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_boardshad1" zone="airport" dff="ap_boardshad1" col="ap_boardshad1" txd="ap_terminal1boards" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_trailer_01" zone="airport" dff="ap_trailer_01" col="ap_trailer_01" txd="luggage" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="ap_dockwall1" zone="airport" dff="ap_dockwall1" col="ap_dockwall1" txd="ap_roadsect1" alphaTransparency="nil" lod="true" lodID="ap_dockwall1" lodDistance="130"></definition>
+    <definition id="ap_termsign1_nt" zone="airport" dff="ap_termsign1_nt" col="ap_termsign1_nt" txd="ap_termwindows" alphaTransparency="nil" lod="true" lodID="ap_termsign1_nt" lodDistance="299" timeIn="20" timeOut="6"></definition>
+    <definition id="ap_termAintfloor1" zone="airport" dff="ap_termAintfloor1" col="ap_termAintfloor1" txd="ap_terminal1" alphaTransparency="nil" lod="true" lodID="ap_termAintfloor1" lodDistance="135"></definition>
+    <definition id="ap_runsign6_02" zone="airport" dff="ap_runsign6_02" col="ap_runsign6_02" txd="ap_runsigns1" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_seaplanfence1" zone="airport" dff="ap_seaplanfence1" col="ap_seaplanfence1" txd="ap_seasplane" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
+    <definition id="ap_gatedisp1_01" zone="airport" dff="ap_gatedisp1_01" col="ap_gatedisp1_01" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_screens2_01" zone="airport" dff="ap_screens2_01" col="ap_screens2_01" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_termAintfloor1b" zone="airport" dff="ap_termAintfloor1b" col="ap_termAintfloor1b" txd="ap_terminal1" alphaTransparency="nil" lod="true" lodID="ap_termAintfloor1b" lodDistance="300"></definition>
+    <definition id="ap_seafences" zone="airport" dff="ap_seafences" col="ap_seafences" txd="ap_seasplane" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
+    <definition id="ap_roadsect2a" zone="airport" dff="ap_roadsect2a" col="ap_roadsect2a" txd="ap_roads" alphaTransparency="nil" lod="true" lodID="ap_roadsect2a" lodDistance="299"></definition>
+    <definition id="ap_blastdef_03" zone="airport" dff="ap_blastdef_03" col="ap_blastdef_03" txd="ap_newprops1opac" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_flyingschool1" zone="airport" dff="ap_flyingschool1" col="ap_flyingschool1" txd="ap_build3" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
+    <definition id="ap_kerb1" zone="airport" dff="ap_kerb1" col="ap_kerb1" txd="ap_ci_indus2" alphaTransparency="nil" lod="nil" lodDistance="78"></definition>
+    <definition id="ap_hland_01" zone="airport" dff="ap_hland_01" col="ap_hland_01" txd="ap_ground1" alphaTransparency="nil" lod="true" lodID="ap_hland_01" lodDistance="299"></definition>
+    <definition id="ap_firetrucks" zone="airport" dff="ap_firetrucks" col="ap_firetrucks" txd="ap_build2" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="apairprtbits05" zone="airport" dff="apairprtbits05" col="apairprtbits05" txd="airport" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="ap_termsign1_dy" zone="airport" dff="ap_termsign1_dy" col="ap_termsign1_dy" txd="ap_termwindows" alphaTransparency="nil" lod="true" lodID="ap_termsign1_dy" lodDistance="299" timeIn="6" timeOut="20"></definition>
+    <definition id="ap_booth1_02" zone="airport" dff="ap_booth1_02" col="ap_booth1_02" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_rland04" zone="airport" dff="ap_rland04" col="ap_rland04" txd="ap_viceairport" alphaTransparency="nil" lod="true" lodID="ap_rland04" lodDistance="299"></definition>
+    <definition id="apairprtbits07" zone="airport" dff="apairprtbits07" col="apairprtbits07" txd="airport" alphaTransparency="nil" lod="nil" lodDistance="290"></definition>
+    <definition id="air_brway_33" zone="airport" dff="air_brway_33" col="air_brway_33" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_subfraightback02" zone="airport" dff="ap_subfraightback02" col="ap_subfraightback02" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="165"></definition>
+    <definition id="ap_midtank1" zone="airport" dff="ap_midtank1" col="ap_midtank1" txd="ap_fuel2" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="ap_roadsigns1_02" zone="airport" dff="ap_roadsigns1_02" col="ap_roadsigns1_02" txd="ap_build2" alphaTransparency="nil" lod="true" lodID="ap_roadsigns1_02" lodDistance="125"></definition>
+    <definition id="ap_treeshot1_02" zone="airport" dff="ap_treeshot1_02" col="ap_treeshot1_02" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_barriergate1" zone="airport" dff="ap_barriergate1" col="ap_barriergate1" txd="ap_checkpoints" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="ap_gatesB" zone="airport" dff="ap_gatesB" col="ap_gatesB" txd="ap_terminal1boards" alphaTransparency="nil" lod="true" lodID="ap_gatesB" lodDistance="150"></definition>
+    <definition id="ap_termAintfloor2b" zone="airport" dff="ap_termAintfloor2b" col="ap_termAintfloor2b" txd="ap_terminal1" alphaTransparency="nil" lod="true" lodID="ap_termAintfloor2b" lodDistance="300"></definition>
+    <definition id="ap_termsign1_01" zone="airport" dff="ap_termsign1_01" col="ap_termsign1_01" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_runsign10_03" zone="airport" dff="ap_runsign10_03" col="ap_runsign10_03" txd="ap_runsigns1" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_newesca_02" zone="airport" dff="ap_newesca_02" col="ap_newesca_02" txd="ap_clothes" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="ap_planters1_01" zone="airport" dff="ap_planters1_01" col="ap_planters1_01" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="ap_terminAgatesA" zone="airport" dff="ap_terminAgatesA" col="ap_terminAgatesA" txd="ap_terminal1" alphaTransparency="nil" lod="true" lodID="ap_terminAgatesA" lodDistance="90"></definition>
+    <definition id="ap_roadsect2b" zone="airport" dff="ap_roadsect2b" col="ap_roadsect2b" txd="ap_roads" alphaTransparency="nil" lod="true" lodID="ap_roadsect2b" lodDistance="299"></definition>
+    <definition id="ap_terminA_roof2" zone="airport" dff="ap_terminA_roof2" col="ap_terminA_roof2" txd="ap_terminal1" alphaTransparency="nil" lod="true" lodID="ap_terminA_roof2" lodDistance="299"></definition>
+    <definition id="ap_steps1_01" zone="airport" dff="ap_steps1_01" col="ap_steps1_01" txd="airstuff2" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_fuelbay1" zone="airport" dff="ap_fuelbay1" col="ap_fuelbay1" txd="ap_fuel1" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="ap_rland05" zone="airport" dff="ap_rland05" col="ap_rland05" txd="ap_viceairport" alphaTransparency="nil" lod="true" lodID="ap_rland05" lodDistance="299"></definition>
+    <definition id="jump_box108" zone="airport" dff="jump_box108" col="jump_box108" txd="jumpbox" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_seahangstuft" zone="airport" dff="ap_seahangstuft" col="ap_seahangstuft" txd="ap_seaplanprop" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
+    <definition id="ap_smahangar2_05" zone="airport" dff="ap_smahangar2_05" col="ap_smahangar2_05" txd="airport" alphaTransparency="nil" lod="true" lodID="ap_smahangar2_05" lodDistance="150"></definition>
+    <definition id="air_brway_34" zone="airport" dff="air_brway_34" col="air_brway_34" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_smahangar2_06" zone="airport" dff="ap_smahangar2_06" col="ap_smahangar2_06" txd="airport" alphaTransparency="nil" lod="true" lodID="ap_smahangar2_06" lodDistance="150"></definition>
+    <definition id="ap_terminAgrflo2" zone="airport" dff="ap_terminAgrflo2" col="ap_terminAgrflo2" txd="ap_terminal1" alphaTransparency="nil" lod="true" lodID="ap_terminAgrflo2" lodDistance="280"></definition>
+    <definition id="ap_termsign2_01" zone="airport" dff="ap_termsign2_01" col="ap_termsign2_01" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_steps1_03" zone="airport" dff="ap_steps1_03" col="ap_steps1_03" txd="airstuff2" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_blastdef_01" zone="airport" dff="ap_blastdef_01" col="ap_blastdef_01" txd="ap_newprops1opac" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_freight1_01b" zone="airport" dff="ap_freight1_01b" col="ap_freight1_01b" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="ap_rland01" zone="airport" dff="ap_rland01" col="ap_rland01" txd="ap_viceairport" alphaTransparency="nil" lod="true" lodID="ap_rland01" lodDistance="299"></definition>
+    <definition id="apairprtbits01" zone="airport" dff="apairprtbits01" col="apairprtbits01" txd="airport" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="ap_newesca_01" zone="airport" dff="ap_newesca_01" col="ap_newesca_01" txd="ap_clothes" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="ap_hotelpool" zone="airport" dff="ap_hotelpool" col="ap_hotelpool" txd="ap_build3" alphaTransparency="nil" lod="nil" lodDistance="145"></definition>
+    <definition id="ap_freightterminal1" zone="airport" dff="ap_freightterminal1" col="ap_freightterminal1" txd="ap_build3" alphaTransparency="nil" lod="true" lodID="ap_freightterminal1" lodDistance="180"></definition>
+    <definition id="jump_box115" zone="airport" dff="jump_box115" col="jump_box115" txd="jumpbox" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_booth3_01" zone="airport" dff="ap_booth3_01" col="ap_booth3_01" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="jump_box_02" zone="airport" dff="jump_box_02" col="jump_box_02" txd="jumpbox" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_smahangar2_04" zone="airport" dff="ap_smahangar2_04" col="ap_smahangar2_04" txd="airport" alphaTransparency="nil" lod="true" lodID="ap_smahangar2_04" lodDistance="180"></definition>
+    <definition id="ap_rland03" zone="airport" dff="ap_rland03" col="ap_rland03" txd="ap_viceairport" alphaTransparency="nil" lod="true" lodID="ap_rland03" lodDistance="299"></definition>
+    <definition id="ap_smahangar2_01" zone="airport" dff="ap_smahangar2_01" col="ap_smahangar2_01" txd="airport" alphaTransparency="nil" lod="true" lodID="ap_smahangar2_01" lodDistance="290"></definition>
+    <definition id="ap_treesfw1_01" zone="airport" dff="ap_treesfw1_01" col="ap_treesfw1_01" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_subfraightback04" zone="airport" dff="ap_subfraightback04" col="ap_subfraightback04" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="165"></definition>
+    <definition id="ap_freight1_01" zone="airport" dff="ap_freight1_01" col="ap_freight1_01" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="ap_freight3_01" zone="airport" dff="ap_freight3_01" col="ap_freight3_01" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="165"></definition>
+    <definition id="ap_flargetank1" zone="airport" dff="ap_flargetank1" col="ap_flargetank1" txd="ap_fuel2" alphaTransparency="nil" lod="true" lodID="ap_flargetank1" lodDistance="160"></definition>
+    <definition id="ap_runsign3_01" zone="airport" dff="ap_runsign3_01" col="ap_runsign3_01" txd="ap_runsigns1" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_terminA2_01" zone="airport" dff="ap_terminA2_01" col="ap_terminA2_01" txd="ap_terminal1" alphaTransparency="nil" lod="true" lodID="ap_terminA2_01" lodDistance="299"></definition>
+    <definition id="ap_boxjunct1" zone="airport" dff="ap_boxjunct1" col="ap_boxjunct1" txd="ap_roads" alphaTransparency="nil" lod="nil" lodDistance="135"></definition>
+    <definition id="ap_newescaGLAS_02" zone="airport" dff="ap_newescaGLAS_02" col="ap_newescaGLAS_02" txd="ap_clothes" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="ap_booth2_03" zone="airport" dff="ap_booth2_03" col="ap_booth2_03" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_freight2_01" zone="airport" dff="ap_freight2_01" col="ap_freight2_01" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="165"></definition>
+    <definition id="ap_smallradar1" zone="airport" dff="ap_smallradar1" col="ap_smallradar1" txd="ap_build4" alphaTransparency="nil" lod="true" lodID="ap_smallradar1" lodDistance="299"></definition>
+    <definition id="jump_box114" zone="airport" dff="jump_box114" col="jump_box114" txd="jumpbox" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_smallhangars1_01" zone="airport" dff="ap_smallhangars1_01" col="ap_smallhangars1_01" txd="airport" alphaTransparency="nil" lod="true" lodID="ap_smallhangars1_01" lodDistance="290"></definition>
+    <definition id="ap_seaplaland1" zone="airport" dff="ap_seaplaland1" col="ap_seaplaland1" txd="ap_seasplane" alphaTransparency="nil" lod="true" lodID="ap_seaplaland1" lodDistance="180"></definition>
+    <definition id="ap_wallfence6" zone="airport" dff="ap_wallfence6" col="ap_wallfence6" txd="ap_roads" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_terminA_roof1" zone="airport" dff="ap_terminA_roof1" col="ap_terminA_roof1" txd="ap_terminal1" alphaTransparency="nil" lod="true" lodID="ap_terminA_roof1" lodDistance="299"></definition>
+    <definition id="ap_steps1_06" zone="airport" dff="ap_steps1_06" col="ap_steps1_06" txd="airstuff2" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_terminA_01" zone="airport" dff="ap_terminA_01" col="ap_terminA_01" txd="ap_terminal1" alphaTransparency="nil" lod="true" lodID="ap_terminA_01" lodDistance="299"></definition>
+    <definition id="air_brway_31" zone="airport" dff="air_brway_31" col="air_brway_31" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_hangar1_01" zone="airport" dff="ap_hangar1_01" col="ap_hangar1_01" txd="airport" alphaTransparency="nil" lod="true" lodID="ap_hangar1_01" lodDistance="290"></definition>
+    <definition id="ap_smahangar2_03" zone="airport" dff="ap_smahangar2_03" col="ap_smahangar2_03" txd="airport" alphaTransparency="nil" lod="true" lodID="ap_smahangar2_03" lodDistance="180"></definition>
+    <definition id="ap_runsign7_03" zone="airport" dff="ap_runsign7_03" col="ap_runsign7_03" txd="ap_runsigns1" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="carparkfence0" zone="airport" dff="carparkfence0" col="carparkfence0" txd="ap_roads" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="jump_box113" zone="airport" dff="jump_box113" col="jump_box113" txd="jumpbox" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_rland06" zone="airport" dff="ap_rland06" col="ap_rland06" txd="ap_viceairport" alphaTransparency="nil" lod="true" lodID="ap_rland06" lodDistance="299"></definition>
+    <definition id="ap_screens1_01" zone="airport" dff="ap_screens1_01" col="ap_screens1_01" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_oiltank1_01" zone="airport" dff="ap_oiltank1_01" col="ap_oiltank1_01" txd="ap_fuel1" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="ap_gsecurity1" zone="airport" dff="ap_gsecurity1" col="ap_gsecurity1" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="30"></definition>
+    <definition id="ap_newescaGLAS_01" zone="airport" dff="ap_newescaGLAS_01" col="ap_newescaGLAS_01" txd="ap_clothes" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="ap_steps1_08" zone="airport" dff="ap_steps1_08" col="ap_steps1_08" txd="airstuff2" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_booth2_01" zone="airport" dff="ap_booth2_01" col="ap_booth2_01" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_runsigns5_01" zone="airport" dff="ap_runsigns5_01" col="ap_runsigns5_01" txd="ap_runsigns1" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_oilpipes1" zone="airport" dff="ap_oilpipes1" col="ap_oilpipes1" txd="ap_fuel1" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="airport_carpark0" zone="airport" dff="airport_carpark0" col="airport_carpark0" txd="ap_carpark3" alphaTransparency="nil" lod="true" lodID="airport_carpark0" lodDistance="299"></definition>
+    <definition id="ap_security2" zone="airport" dff="ap_security2" col="ap_security2" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_rland02" zone="airport" dff="ap_rland02" col="ap_rland02" txd="ap_viceairport" alphaTransparency="nil" lod="true" lodID="ap_rland02" lodDistance="299"></definition>
+    <definition id="ap_wallfence2" zone="airport" dff="ap_wallfence2" col="ap_wallfence2" txd="ap_roads" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_terminAchek1_02" zone="airport" dff="ap_terminAchek1_02" col="ap_terminAchek1_02" txd="ap_terminAint" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_freight2_01a" zone="airport" dff="ap_freight2_01a" col="ap_freight2_01a" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="165"></definition>
+    <definition id="Helipad0" zone="airport" dff="Helipad0" col="Helipad0" txd="helipad" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
+    <definition id="ap_barriergate4" zone="airport" dff="ap_barriergate4" col="ap_barriergate4" txd="ap_checkpoints" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="ap_wallfence7" zone="airport" dff="ap_wallfence7" col="ap_wallfence7" txd="ap_roads" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_stairsout04" zone="airport" dff="ap_stairsout04" col="ap_stairsout04" txd="ap_build2" alphaTransparency="nil" lod="nil" lodDistance="175"></definition>
+    <definition id="ap_transpol1" zone="airport" dff="ap_transpol1" col="ap_transpol1" txd="ap_misc1" alphaTransparency="nil" lod="true" lodID="ap_transpol1" lodDistance="150"></definition>
+    <definition id="ap_barriergate2" zone="airport" dff="ap_barriergate2" col="ap_barriergate2" txd="ap_checkpoints" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="ap_wallfence1" zone="airport" dff="ap_wallfence1" col="ap_wallfence1" txd="ap_roads" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_fuelshad1" zone="airport" dff="ap_fuelshad1" col="ap_fuelshad1" txd="ap_fuel3" alphaTransparency="true" lod="nil" lodDistance="299"></definition>
+    <definition id="jump_box112" zone="airport" dff="jump_box112" col="jump_box112" txd="jumpbox" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_gatesA" zone="airport" dff="ap_gatesA" col="ap_gatesA" txd="ap_terminal1boards" alphaTransparency="nil" lod="true" lodID="ap_gatesA" lodDistance="150"></definition>
+    <definition id="ap_smahangar2_02" zone="airport" dff="ap_smahangar2_02" col="ap_smahangar2_02" txd="airport" alphaTransparency="nil" lod="true" lodID="ap_smahangar2_02" lodDistance="180"></definition>
+    <definition id="air_brway_32" zone="airport" dff="air_brway_32" col="air_brway_32" txd="airgrndb" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_termwindows1b" zone="airport" dff="ap_termwindows1b" col="ap_termwindows1b" txd="ap_termwindows" alphaTransparency="true" lod="true" lodID="ap_termwindows1b" lodDistance="299"></definition>
+    <definition id="ap_hookerinn1" zone="airport" dff="ap_hookerinn1" col="ap_hookerinn1" txd="ap_build3" alphaTransparency="nil" lod="true" lodID="ap_hookerinn1" lodDistance="145"></definition>
+    <definition id="ap_roadsect1" zone="airport" dff="ap_roadsect1" col="ap_roadsect1" txd="ap_roadsect1" alphaTransparency="nil" lod="true" lodID="ap_roadsect1" lodDistance="299"></definition>
+    <definition id="ap_subfraightback01" zone="airport" dff="ap_subfraightback01" col="ap_subfraightback01" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="165"></definition>
+    <definition id="ap_concwall1" zone="airport" dff="ap_concwall1" col="ap_concwall1" txd="ap_misc1" alphaTransparency="nil" lod="true" lodID="ap_concwall1" lodDistance="78"></definition>
+    <definition id="ap_terminAchek1_01" zone="airport" dff="ap_terminAchek1_01" col="ap_terminAchek1_01" txd="ap_terminAint" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_gsecurity2" zone="airport" dff="ap_gsecurity2" col="ap_gsecurity2" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="30"></definition>
+    <definition id="ap_steps1_05" zone="airport" dff="ap_steps1_05" col="ap_steps1_05" txd="airstuff2" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="ap_pots1_01" zone="airport" dff="ap_pots1_01" col="ap_pots1_01" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_freight3_01a" zone="airport" dff="ap_freight3_01a" col="ap_freight3_01a" txd="subcrates" alphaTransparency="nil" lod="nil" lodDistance="165"></definition>
+    <definition id="ap_termwindows1" zone="airport" dff="ap_termwindows1" col="ap_termwindows1" txd="ap_termwindows" alphaTransparency="true" lod="true" lodID="ap_termwindows1" lodDistance="299"></definition>
+    <definition id="ap_seaplanedock1" zone="airport" dff="ap_seaplanedock1" col="ap_seaplanedock1" txd="ap_seaplanprop" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_pots2_01" zone="airport" dff="ap_pots2_01" col="ap_pots2_01" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="apairprtbits08" zone="airport" dff="apairprtbits08" col="apairprtbits08" txd="airport" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="ap_hotroadsect1" zone="airport" dff="ap_hotroadsect1" col="ap_hotroadsect1" txd="ap_roadsect1" alphaTransparency="nil" lod="true" lodID="ap_hotroadsect1" lodDistance="299"></definition>
+    <definition id="ap_security1" zone="airport" dff="ap_security1" col="ap_security1" txd="ap_airstuff1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ap_06trailer01" zone="airport" dff="ap_06trailer01" col="ap_06trailer01" txd="luggage" alphaTransparency="nil" lod="nil" lodDistance="145"></definition>
+    <definition id="ap_tower" zone="airport" dff="ap_tower" col="ap_tower" txd="ap_buildings2" alphaTransparency="nil" lod="true" lodID="ap_tower" lodDistance="299"></definition>
+    <definition id="ap_terminAgatesB" zone="airport" dff="ap_terminAgatesB" col="ap_terminAgatesB" txd="ap_terminal1" alphaTransparency="nil" lod="true" lodID="ap_terminAgatesB" lodDistance="90"></definition>
+</zoneDefinitions>

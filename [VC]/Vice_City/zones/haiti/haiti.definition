@@ -1,0 +1,94 @@
+<zoneDefinitions>
+    <definition id="bed_shop" zone="haiti" dff="bed_shop" col="bed_shop" txd="bed" alphaTransparency="nil" lod="true" lodID="bed_shop" lodDistance="85"></definition>
+    <definition id="ihaitsnip" zone="haiti" dff="ihaitsnip" col="ihaitsnip" txd="ihsnidxc" alphaTransparency="nil" lod="true" lodID="ihaitsnip" lodDistance="144"></definition>
+    <definition id="pw_bayfence2_01" zone="haiti" dff="pw_bayfence2_01" col="pw_bayfence2_01" txd="lh_PWbuild2" alphaTransparency="nil" lod="nil" lodDistance="75"></definition>
+    <definition id="haiticar09" zone="haiti" dff="haiticar09" col="haiticar09" txd="carwreck" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="sjmkhus2" zone="haiti" dff="sjmkhus2" col="sjmkhus2" txd="hai_hoj" alphaTransparency="nil" lod="true" lodID="sjmkhus2" lodDistance="200"></definition>
+    <definition id="sjmtionb02" zone="haiti" dff="sjmtionb02" col="sjmtionb02" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
+    <definition id="haitiskyt" zone="haiti" dff="haitiskyt" col="haitiskyt" txd="haitbuildb" alphaTransparency="nil" lod="true" lodID="haitiskyt" lodDistance="190"></definition>
+    <definition id="haiwashpaynspray" zone="haiti" dff="haiwashpaynspray" col="haiwashpaynspray" txd="haiwash" alphaTransparency="nil" lod="true" lodID="haiwashpaynspray" lodDistance="70"></definition>
+    <definition id="lh_dockposts2" zone="haiti" dff="lh_dockposts2" col="lh_dockposts2" txd="lh_dockstuff1" alphaTransparency="nil" lod="nil" lodDistance="144"></definition>
+    <definition id="lh_crushefuck" zone="haiti" dff="lh_crushefuck" col="lh_crushefuck" txd="crusher1" alphaTransparency="nil" lod="true" lodID="lh_crushefuck" lodDistance="150"></definition>
+    <definition id="lh-hitbuild1aa" zone="haiti" dff="lh-hitbuild1aa" col="lh-hitbuild1aa" txd="lhaitiblk6f" alphaTransparency="nil" lod="true" lodID="lh-hitbuild1aa" lodDistance="144"></definition>
+    <definition id="stationfence" zone="haiti" dff="stationfence" col="stationfence" txd="h_haibloce" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="haiticar13" zone="haiti" dff="haiticar13" col="haiticar13" txd="carwreck" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="littlehacoast05" zone="haiti" dff="littlehacoast05" col="littlehacoast05" txd="sjmh1haitiroad" alphaTransparency="nil" lod="true" lodID="littlehacoast05" lodDistance="199"></definition>
+    <definition id="lh_pianoshop" zone="haiti" dff="lh_pianoshop" col="lh_pianoshop" txd="sjmhbghaitiground" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="haicoast1" zone="haiti" dff="haicoast1" col="haicoast1" txd="sjmhahaitiground" alphaTransparency="nil" lod="true" lodID="haicoast1" lodDistance="150"></definition>
+    <definition id="pw_groundplane" zone="haiti" dff="pw_groundplane" col="pw_groundplane" txd="lh_PWbuild1grnd" alphaTransparency="nil" lod="true" lodID="pw_groundplane" lodDistance="145"></definition>
+    <definition id="litharoada9" zone="haiti" dff="litharoada9" col="litharoada9" txd="sjmh1haitiroad" alphaTransparency="nil" lod="true" lodID="litharoada9" lodDistance="199"></definition>
+    <definition id="roofbit07" zone="haiti" dff="roofbit07" col="roofbit07" txd="roofbit" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="litlhaitibuilding02" zone="haiti" dff="litlhaitibuilding02" col="litlhaitibuilding02" txd="lhaitiblk6f" alphaTransparency="nil" lod="true" lodID="litlhaitibuilding02" lodDistance="144"></definition>
+    <definition id="sjmhafinrd" zone="haiti" dff="sjmhafinrd" col="sjmhafinrd" txd="sjmh1haitiroad" alphaTransparency="nil" lod="true" lodID="sjmhafinrd" lodDistance="150"></definition>
+    <definition id="lh_haiblockc1" zone="haiti" dff="lh_haiblockc1" col="lh_haiblockc1" txd="lh_haiblockc1" alphaTransparency="nil" lod="true" lodID="lh_haiblockc1" lodDistance="144"></definition>
+    <definition id="biggrass2" zone="haiti" dff="biggrass2" col="biggrass2" txd="haitplnt" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="haicoast2" zone="haiti" dff="haicoast2" col="haicoast2" txd="sjmhahaitiground" alphaTransparency="nil" lod="true" lodID="haicoast2" lodDistance="150"></definition>
+    <definition id="lh_crushers15" zone="haiti" dff="lh_crushers15" col="lh_crushers15" txd="crusherb" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="haitistation01" zone="haiti" dff="haitistation01" col="haitistation01" txd="h_haibloce" alphaTransparency="nil" lod="true" lodID="haitistation01" lodDistance="100"></definition>
+    <definition id="haiwshpspryneon1" zone="haiti" dff="haiwshpspryneon1" col="haiwshpspryneon1" txd="haiwash" alphaTransparency="nil" lod="nil" lodDistance="290" timeIn="22" timeOut="5"></definition>
+    <definition id="hibita1" zone="haiti" dff="hibita1" col="hibita1" txd="lhaitiblk4sj" alphaTransparency="nil" lod="true" lodID="hibita1" lodDistance="300"></definition>
+    <definition id="lithitsjm1" zone="haiti" dff="lithitsjm1" col="lithitsjm1" txd="hai_hoj" alphaTransparency="nil" lod="true" lodID="lithitsjm1" lodDistance="122"></definition>
+    <definition id="haiwshpnsdoor" zone="haiti" dff="haiwshpnsdoor" col="haiwshpnsdoor" txd="haiwash" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="sjmnd04" zone="haiti" dff="sjmnd04" col="sjmnd04" txd="lhaith9" alphaTransparency="nil" lod="true" lodID="sjmnd04" lodDistance="145"></definition>
+    <definition id="lithitsjm3" zone="haiti" dff="lithitsjm3" col="lithitsjm3" txd="hai_hoj" alphaTransparency="nil" lod="true" lodID="lithitsjm3" lodDistance="122"></definition>
+    <definition id="grassbitsjm" zone="haiti" dff="grassbitsjm" col="grassbitsjm" txd="lhaitiblk4sj" alphaTransparency="nil" lod="nil" lodDistance="199"></definition>
+    <definition id="litharoada8" zone="haiti" dff="litharoada8" col="litharoada8" txd="sjmh1haitiroad" alphaTransparency="nil" lod="true" lodID="litharoada8" lodDistance="199"></definition>
+    <definition id="pw_presrommshad" zone="haiti" dff="pw_presrommshad" col="pw_presrommshad" txd="LH_PWInterior2" alphaTransparency="true" lod="nil" lodDistance="60"></definition>
+    <definition id="HAITI1RD" zone="haiti" dff="HAITI1RD" col="HAITI1RD" txd="sjmh1haitiroad" alphaTransparency="nil" lod="true" lodID="HAITI1RD" lodDistance="200"></definition>
+    <definition id="pw_backfence1" zone="haiti" dff="pw_backfence1" col="pw_backfence1" txd="lh_PWbuild2" alphaTransparency="nil" lod="nil" lodDistance="145"></definition>
+    <definition id="tesad06sas" zone="haiti" dff="tesad06sas" col="tesad06sas" txd="telephait" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="pw_press1_03" zone="haiti" dff="pw_press1_03" col="pw_press1_03" txd="LH_PWInterior" alphaTransparency="nil" lod="nil" lodDistance="30"></definition>
+    <definition id="lh_crushers08" zone="haiti" dff="lh_crushers08" col="lh_crushers08" txd="lhmachine1m" alphaTransparency="nil" lod="true" lodID="lh_crushers08" lodDistance="100"></definition>
+    <definition id="sjmbigsig2" zone="haiti" dff="sjmbigsig2" col="sjmbigsig2" txd="sjmspray" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="haiticent" zone="haiti" dff="haiticent" col="haiticent" txd="h_haibloce" alphaTransparency="nil" lod="true" lodID="haiticent" lodDistance="120"></definition>
+    <definition id="sjmcrushlpo" zone="haiti" dff="sjmcrushlpo" col="sjmcrushlpo" txd="crusherb" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="lh_crushers14" zone="haiti" dff="lh_crushers14" col="lh_crushers14" txd="sjmjcrusher4" alphaTransparency="nil" lod="true" lodID="lh_crushers14" lodDistance="150"></definition>
+    <definition id="lh_crushers13" zone="haiti" dff="lh_crushers13" col="lh_crushers13" txd="crusherb" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="sjmcrushmnf" zone="haiti" dff="sjmcrushmnf" col="sjmcrushmnf" txd="ssjmcrusher5" alphaTransparency="nil" lod="true" lodID="sjmcrushmnf" lodDistance="150"></definition>
+    <definition id="haiticar12" zone="haiti" dff="haiticar12" col="haiticar12" txd="carwreck" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="litlhaitibuilding07" zone="haiti" dff="litlhaitibuilding07" col="litlhaitibuilding07" txd="sjmh5haitiroad" alphaTransparency="nil" lod="true" lodID="litlhaitibuilding07" lodDistance="145"></definition>
+    <definition id="lh_boxgirdbridge" zone="haiti" dff="lh_boxgirdbridge" col="lh_boxgirdbridge" txd="lh_dockstuff1" alphaTransparency="nil" lod="true" lodID="lh_boxgirdbridge" lodDistance="144"></definition>
+    <definition id="lithitsjm2" zone="haiti" dff="lithitsjm2" col="lithitsjm2" txd="hai_hoj" alphaTransparency="nil" lod="true" lodID="lithitsjm2" lodDistance="122"></definition>
+    <definition id="sjmkhus1" zone="haiti" dff="sjmkhus1" col="sjmkhus1" txd="hai_hoj" alphaTransparency="nil" lod="true" lodID="sjmkhus1" lodDistance="200"></definition>
+    <definition id="sjmfsthus" zone="haiti" dff="sjmfsthus" col="sjmfsthus" txd="hai_hoj" alphaTransparency="nil" lod="true" lodID="sjmfsthus" lodDistance="100"></definition>
+    <definition id="sjmgrass2" zone="haiti" dff="sjmgrass2" col="sjmgrass2" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lithitsjm6" zone="haiti" dff="lithitsjm6" col="lithitsjm6" txd="hai_hoj" alphaTransparency="nil" lod="true" lodID="lithitsjm6" lodDistance="122"></definition>
+    <definition id="litlhaitibuilding09" zone="haiti" dff="litlhaitibuilding09" col="litlhaitibuilding09" txd="lhaitiblk6k" alphaTransparency="nil" lod="true" lodID="litlhaitibuilding09" lodDistance="165"></definition>
+    <definition id="sjmcrushju" zone="haiti" dff="sjmcrushju" col="sjmcrushju" txd="crusher3" alphaTransparency="nil" lod="true" lodID="sjmcrushju" lodDistance="150"></definition>
+    <definition id="pw_priint" zone="haiti" dff="pw_priint" col="pw_priint" txd="LH_PWInterior" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="sjmhoose" zone="haiti" dff="sjmhoose" col="sjmhoose" txd="hai_hoj" alphaTransparency="nil" lod="true" lodID="sjmhoose" lodDistance="100"></definition>
+    <definition id="pw_paperroll_02" zone="haiti" dff="pw_paperroll_02" col="pw_paperroll_02" txd="lh_PWbuild2" alphaTransparency="nil" lod="nil" lodDistance="75"></definition>
+    <definition id="lithitsjm5" zone="haiti" dff="lithitsjm5" col="lithitsjm5" txd="hai_hoj" alphaTransparency="nil" lod="true" lodID="lithitsjm5" lodDistance="122"></definition>
+    <definition id="pw_staffpark01" zone="haiti" dff="pw_staffpark01" col="pw_staffpark01" txd="lh_PWbuild2" alphaTransparency="nil" lod="nil" lodDistance="75"></definition>
+    <definition id="tesad06ss" zone="haiti" dff="tesad06ss" col="tesad06ss" txd="telephait" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="drugstoreext" zone="haiti" dff="drugstoreext" col="drugstoreext" txd="chem" alphaTransparency="nil" lod="true" lodID="drugstoreext" lodDistance="200"></definition>
+    <definition id="lithit14" zone="haiti" dff="lithit14" col="lithit14" txd="hai_hoj" alphaTransparency="nil" lod="true" lodID="lithit14" lodDistance="100"></definition>
+    <definition id="drugstoreint" zone="haiti" dff="drugstoreint" col="drugstoreint" txd="chem2" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="haiticar08" zone="haiti" dff="haiticar08" col="haiticar08" txd="carwreck" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="litharoada6" zone="haiti" dff="litharoada6" col="litharoada6" txd="sjmh1haitiroad" alphaTransparency="nil" lod="true" lodID="litharoada6" lodDistance="199"></definition>
+    <definition id="haitiroadbuild" zone="haiti" dff="haitiroadbuild" col="haitiroadbuild" txd="haitrdbuilf" alphaTransparency="nil" lod="true" lodID="haitiroadbuild" lodDistance="150"></definition>
+    <definition id="pw_printworks" zone="haiti" dff="pw_printworks" col="pw_printworks" txd="lh_PWbuild1" alphaTransparency="nil" lod="true" lodID="pw_printworks" lodDistance="200"></definition>
+    <definition id="roofbit2" zone="haiti" dff="roofbit2" col="roofbit2" txd="roofbit" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="lh_hitbuild1a" zone="haiti" dff="lh_hitbuild1a" col="lh_hitbuild1a" txd="lhaitiblk6f" alphaTransparency="nil" lod="true" lodID="lh_hitbuild1a" lodDistance="144"></definition>
+    <definition id="lh_dockposts3" zone="haiti" dff="lh_dockposts3" col="lh_dockposts3" txd="lh_dockstuff1" alphaTransparency="nil" lod="nil" lodDistance="144"></definition>
+    <definition id="pw_paperroll_03" zone="haiti" dff="pw_paperroll_03" col="pw_paperroll_03" txd="lh_PWbuild2" alphaTransparency="nil" lod="nil" lodDistance="75"></definition>
+    <definition id="haicoastfirst" zone="haiti" dff="haicoastfirst" col="haicoastfirst" txd="sjmhbghaitiground" alphaTransparency="nil" lod="true" lodID="haicoastfirst" lodDistance="150"></definition>
+    <definition id="haititag" zone="haiti" dff="haititag" col="haititag" txd="haititag" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="lh_crushers09" zone="haiti" dff="lh_crushers09" col="lh_crushers09" txd="crusher2" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="sjmcrushbn" zone="haiti" dff="sjmcrushbn" col="sjmcrushbn" txd="sjmbncrusher5" alphaTransparency="nil" lod="true" lodID="sjmcrushbn" lodDistance="150"></definition>
+    <definition id="sjmcoast04" zone="haiti" dff="sjmcoast04" col="sjmcoast04" txd="sjmh1haitiroad" alphaTransparency="nil" lod="true" lodID="sjmcoast04" lodDistance="200"></definition>
+    <definition id="sjmbigsig" zone="haiti" dff="sjmbigsig" col="sjmbigsig" txd="sjmspray" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="haiticar10" zone="haiti" dff="haiticar10" col="haiticar10" txd="carwreck" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="pw_stairbarrier" zone="haiti" dff="pw_stairbarrier" col="pw_stairbarrier" txd="lh_PWbuild2" alphaTransparency="nil" lod="nil" lodDistance="75"></definition>
+    <definition id="sjmcrushtankr" zone="haiti" dff="sjmcrushtankr" col="sjmcrushtankr" txd="bitcrusher5" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="tesad06" zone="haiti" dff="tesad06" col="tesad06" txd="telephait" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="hai_houses27" zone="haiti" dff="hai_houses27" col="hai_houses27" txd="hai_hoj" alphaTransparency="nil" lod="true" lodID="hai_houses27" lodDistance="100"></definition>
+    <definition id="fence01" zone="haiti" dff="fence01" col="fence01" txd="lh_haiblockc2" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="sewer2" zone="haiti" dff="sewer2" col="sewer2" txd="lhaitiblk4sj" alphaTransparency="nil" lod="true" lodID="sewer2" lodDistance="300"></definition>
+    <definition id="htnroadnew" zone="haiti" dff="htnroadnew" col="htnroadnew" txd="sjmh1haitiroad" alphaTransparency="nil" lod="true" lodID="htnroadnew" lodDistance="199"></definition>
+    <definition id="lh_dockposts1" zone="haiti" dff="lh_dockposts1" col="lh_dockposts1" txd="lh_dockstuff1" alphaTransparency="nil" lod="nil" lodDistance="144"></definition>
+    <definition id="pw_stairs" zone="haiti" dff="pw_stairs" col="pw_stairs" txd="lh_PWbuild2" alphaTransparency="nil" lod="nil" lodDistance="75"></definition>
+    <definition id="sjmgrass" zone="haiti" dff="sjmgrass" col="sjmgrass" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="pw_paperroll_01" zone="haiti" dff="pw_paperroll_01" col="pw_paperroll_01" txd="lh_PWbuild2" alphaTransparency="nil" lod="nil" lodDistance="75"></definition>
+    <definition id="lithitsjm4" zone="haiti" dff="lithitsjm4" col="lithitsjm4" txd="hai_hoj" alphaTransparency="nil" lod="true" lodID="lithitsjm4" lodDistance="122"></definition>
+</zoneDefinitions>

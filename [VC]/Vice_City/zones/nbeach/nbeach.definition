@@ -1,0 +1,82 @@
+<zoneDefinitions>
+    <definition id="nb_road01" zone="nbeach" dff="nb_road01" col="nb_road01" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road01" lodDistance="189.5"></definition>
+    <definition id="nbdcprmndfnc2" zone="nbeach" dff="nbdcprmndfnc2" col="nbdcprmndfnc2" txd="nbdcprmndfnc" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="hoteltrees06" zone="nbeach" dff="hoteltrees06" col="hoteltrees06" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="nb_road12" zone="nbeach" dff="nb_road12" col="nb_road12" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road12" lodDistance="170"></definition>
+    <definition id="nbhotel02" zone="nbeach" dff="nbhotel02" col="nbhotel02" txd="nbhotel02" alphaTransparency="nil" lod="true" lodID="nbhotel02" lodDistance="149.5"></definition>
+    <definition id="nb_road04" zone="nbeach" dff="nb_road04" col="nb_road04" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road04" lodDistance="149.5"></definition>
+    <definition id="nbhotel04" zone="nbeach" dff="nbhotel04" col="nbhotel04" txd="nbhotel04" alphaTransparency="nil" lod="true" lodID="nbhotel04" lodDistance="125"></definition>
+    <definition id="nbdecoshop03" zone="nbeach" dff="nbdecoshop03" col="nbdecoshop03" txd="nbdecoshop03" alphaTransparency="nil" lod="true" lodID="nbdecoshop03" lodDistance="149.5"></definition>
+    <definition id="nbeachrdsign" zone="nbeach" dff="nbeachrdsign" col="nbeachrdsign" txd="nbeachrdsign" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="nbdcprmndfnc1" zone="nbeach" dff="nbdcprmndfnc1" col="nbdcprmndfnc1" txd="nbdecopromnd" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="nbmiamiland057" zone="nbeach" dff="nbmiamiland057" col="nbmiamiland057" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland057" lodDistance="149.5"></definition>
+    <definition id="malltrees01" zone="nbeach" dff="malltrees01" col="malltrees01" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="beachblend01" zone="nbeach" dff="beachblend01" col="beachblend01" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="nbmiamiland051" zone="nbeach" dff="nbmiamiland051" col="nbmiamiland051" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland051" lodDistance="149.5"></definition>
+    <definition id="nbmiamiland068" zone="nbeach" dff="nbmiamiland068" col="nbmiamiland068" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland068" lodDistance="149.5"></definition>
+    <definition id="nbmiamiland048" zone="nbeach" dff="nbmiamiland048" col="nbmiamiland048" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland048" lodDistance="149.5"></definition>
+    <definition id="beachblend04" zone="nbeach" dff="beachblend04" col="beachblend04" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="seveneleven" zone="nbeach" dff="seveneleven" col="seveneleven" txd="seveneleven" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="shpfrnts03rail02" zone="nbeach" dff="shpfrnts03rail02" col="shpfrnts03rail02" txd="shopfronts03" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="nbdecoshop01" zone="nbeach" dff="nbdecoshop01" col="nbdecoshop01" txd="nbdecoshop01" alphaTransparency="nil" lod="true" lodID="nbdecoshop01" lodDistance="169.5"></definition>
+    <definition id="nbmiamiland050" zone="nbeach" dff="nbmiamiland050" col="nbmiamiland050" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland050" lodDistance="149.5"></definition>
+    <definition id="pharmacy_kb1" zone="nbeach" dff="pharmacy_kb1" col="pharmacy_kb1" txd="pharmacyint" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="ci_nbbridge1fn2" zone="nbeach" dff="ci_nbbridge1fn2" col="ci_nbbridge1fn2" txd="nb_bridge1" alphaTransparency="nil" lod="true" lodID="ci_nbbridge1fn2" lodDistance="70"></definition>
+    <definition id="beachblend02" zone="nbeach" dff="beachblend02" col="beachblend02" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="nbmiamiland065" zone="nbeach" dff="nbmiamiland065" col="nbmiamiland065" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland065" lodDistance="149.5"></definition>
+    <definition id="4x4rockstop" zone="nbeach" dff="4x4rockstop" col="4x4rockstop" txd="nbchdrtrack" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="4x4signstop" zone="nbeach" dff="4x4signstop" col="4x4signstop" txd="nbchdrtrack" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
+    <definition id="nbmiamiland049" zone="nbeach" dff="nbmiamiland049" col="nbmiamiland049" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland049" lodDistance="149.5"></definition>
+    <definition id="nbchflw02" zone="nbeach" dff="nbchflw02" col="nbchflw02" txd="nbchflw" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
+    <definition id="nbmiamiland061" zone="nbeach" dff="nbmiamiland061" col="nbmiamiland061" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland061" lodDistance="149.5"></definition>
+    <definition id="nbmiamiland059" zone="nbeach" dff="nbmiamiland059" col="nbmiamiland059" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland059" lodDistance="149.5"></definition>
+    <definition id="nbsavehotel" zone="nbeach" dff="nbsavehotel" col="nbsavehotel" txd="nbsavehotel" alphaTransparency="nil" lod="true" lodID="nbsavehotel" lodDistance="149.5"></definition>
+    <definition id="beachblend03" zone="nbeach" dff="beachblend03" col="beachblend03" txd="shared_beach" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="shopfronts03" zone="nbeach" dff="shopfronts03" col="shopfronts03" txd="shopfronts03" alphaTransparency="nil" lod="true" lodID="shopfronts03" lodDistance="169.5"></definition>
+    <definition id="nb_road05" zone="nbeach" dff="nb_road05" col="nb_road05" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road05" lodDistance="149.5"></definition>
+    <definition id="nbdecoshplants" zone="nbeach" dff="nbdecoshplants" col="nbdecoshplants" txd="nbdecoshop02" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="nbeachb1" zone="nbeach" dff="nbeachb1" col="nbeachb1" txd="shared_beach" alphaTransparency="nil" lod="true" lodID="nbeachb1" lodDistance="220"></definition>
+    <definition id="4x4racecotop" zone="nbeach" dff="4x4racecotop" col="4x4racecotop" txd="nbchdrtrack" alphaTransparency="nil" lod="true" lodID="4x4racecotop" lodDistance="240"></definition>
+    <definition id="nbmiamiland052" zone="nbeach" dff="nbmiamiland052" col="nbmiamiland052" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland052" lodDistance="149.5"></definition>
+    <definition id="nbmiamiland053" zone="nbeach" dff="nbmiamiland053" col="nbmiamiland053" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland053" lodDistance="149.5"></definition>
+    <definition id="nbmiamiland055" zone="nbeach" dff="nbmiamiland055" col="nbmiamiland055" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland055" lodDistance="149.5"></definition>
+    <definition id="nbmiamiland054" zone="nbeach" dff="nbmiamiland054" col="nbmiamiland054" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland054" lodDistance="149.5"></definition>
+    <definition id="nbdecoshop02" zone="nbeach" dff="nbdecoshop02" col="nbdecoshop02" txd="nbdecoshop02" alphaTransparency="nil" lod="true" lodID="nbdecoshop02" lodDistance="149.5"></definition>
+    <definition id="nbmiamiland063" zone="nbeach" dff="nbmiamiland063" col="nbmiamiland063" txd="nbeachgen" alphaTransparency="nil" lod="true" lodID="nbmiamiland063" lodDistance="149.5"></definition>
+    <definition id="nbhotel08" zone="nbeach" dff="nbhotel08" col="nbhotel08" txd="nbhotel08" alphaTransparency="nil" lod="true" lodID="nbhotel08" lodDistance="149.5"></definition>
+    <definition id="ci_nbbridge1fn3" zone="nbeach" dff="ci_nbbridge1fn3" col="ci_nbbridge1fn3" txd="nb_bridge1" alphaTransparency="nil" lod="true" lodID="ci_nbbridge1fn3" lodDistance="70"></definition>
+    <definition id="mallseats01" zone="nbeach" dff="mallseats01" col="mallseats01" txd="nbdecopromnd" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="nb_road10" zone="nbeach" dff="nb_road10" col="nb_road10" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road10" lodDistance="149.5"></definition>
+    <definition id="nbsavhtlglass" zone="nbeach" dff="nbsavhtlglass" col="nbsavhtlglass" txd="nbsavehotel" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="nbhotel02glss" zone="nbeach" dff="nbhotel02glss" col="nbhotel02glss" txd="nbhotel02" alphaTransparency="nil" lod="nil" lodDistance="110"></definition>
+    <definition id="shpfrnts03rail01" zone="nbeach" dff="shpfrnts03rail01" col="shpfrnts03rail01" txd="shopfronts03" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="nb_road02" zone="nbeach" dff="nb_road02" col="nb_road02" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road02" lodDistance="149.5"></definition>
+    <definition id="nb_road03" zone="nbeach" dff="nb_road03" col="nb_road03" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road03" lodDistance="149.5"></definition>
+    <definition id="nb_road08" zone="nbeach" dff="nb_road08" col="nb_road08" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road08" lodDistance="149.5"></definition>
+    <definition id="nb_road11" zone="nbeach" dff="nb_road11" col="nb_road11" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road11" lodDistance="149.5"></definition>
+    <definition id="nb_road14" zone="nbeach" dff="nb_road14" col="nb_road14" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road14" lodDistance="149.5"></definition>
+    <definition id="nbeachb" zone="nbeach" dff="nbeachb" col="nbeachb" txd="shared_beach" alphaTransparency="nil" lod="true" lodID="nbeachb" lodDistance="220"></definition>
+    <definition id="nbdecopromnd2" zone="nbeach" dff="nbdecopromnd2" col="nbdecopromnd2" txd="nbdecopromnd" alphaTransparency="nil" lod="true" lodID="nbdecopromnd2" lodDistance="149.5"></definition>
+    <definition id="ci_nbbridge1" zone="nbeach" dff="ci_nbbridge1" col="ci_nbbridge1" txd="nb_bridge1" alphaTransparency="nil" lod="true" lodID="ci_nbbridge1" lodDistance="190"></definition>
+    <definition id="nb_road09" zone="nbeach" dff="nb_road09" col="nb_road09" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road09" lodDistance="149.5"></definition>
+    <definition id="nbhotel03" zone="nbeach" dff="nbhotel03" col="nbhotel03" txd="nbhotel03" alphaTransparency="nil" lod="true" lodID="nbhotel03" lodDistance="149.5"></definition>
+    <definition id="nbdcoshp01glss" zone="nbeach" dff="nbdcoshp01glss" col="nbdcoshp01glss" txd="nbdecoshop01" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="nb_road13" zone="nbeach" dff="nb_road13" col="nb_road13" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road13" lodDistance="149.5"></definition>
+    <definition id="4x4racecotop2" zone="nbeach" dff="4x4racecotop2" col="4x4racecotop2" txd="nbchdrtrack" alphaTransparency="nil" lod="true" lodID="4x4racecotop2" lodDistance="260"></definition>
+    <definition id="nb_road15" zone="nbeach" dff="nb_road15" col="nb_road15" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road15" lodDistance="149.5"></definition>
+    <definition id="nbhotel01" zone="nbeach" dff="nbhotel01" col="nbhotel01" txd="nbhotel01" alphaTransparency="nil" lod="true" lodID="nbhotel01" lodDistance="149.5"></definition>
+    <definition id="4x4finishline" zone="nbeach" dff="4x4finishline" col="4x4finishline" txd="nbchdrtrack" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="hoteltrees03" zone="nbeach" dff="hoteltrees03" col="hoteltrees03" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="hoteltrees05" zone="nbeach" dff="hoteltrees05" col="hoteltrees05" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="hoteltrees02" zone="nbeach" dff="hoteltrees02" col="hoteltrees02" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="nbhotel07" zone="nbeach" dff="nbhotel07" col="nbhotel07" txd="nbhotel07" alphaTransparency="nil" lod="true" lodID="nbhotel07" lodDistance="149.5"></definition>
+    <definition id="nbroadnew1" zone="nbeach" dff="nbroadnew1" col="nbroadnew1" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nbroadnew1" lodDistance="149.5"></definition>
+    <definition id="nbhotel06" zone="nbeach" dff="nbhotel06" col="nbhotel06" txd="nbhotel06" alphaTransparency="nil" lod="true" lodID="nbhotel06" lodDistance="125"></definition>
+    <definition id="nb_road06" zone="nbeach" dff="nb_road06" col="nb_road06" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road06" lodDistance="149.5"></definition>
+    <definition id="nbhtel06shdw" zone="nbeach" dff="nbhtel06shdw" col="nbhtel06shdw" txd="nbhotel06" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="nbdecopromnd" zone="nbeach" dff="nbdecopromnd" col="nbdecopromnd" txd="nbdecopromnd" alphaTransparency="nil" lod="true" lodID="nbdecopromnd" lodDistance="149.5"></definition>
+    <definition id="nb_road07" zone="nbeach" dff="nb_road07" col="nb_road07" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nb_road07" lodDistance="149.5"></definition>
+    <definition id="nbchflw01" zone="nbeach" dff="nbchflw01" col="nbchflw01" txd="nbchflw" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
+    <definition id="nbhotel05" zone="nbeach" dff="nbhotel05" col="nbhotel05" txd="nbhotel05" alphaTransparency="nil" lod="true" lodID="nbhotel05" lodDistance="149.5"></definition>
+    <definition id="hoteltrees01" zone="nbeach" dff="hoteltrees01" col="hoteltrees01" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+</zoneDefinitions>

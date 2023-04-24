@@ -1,0 +1,4 @@
+<zoneDefinitions>
+    <definition id="pizza" zone="probs" dff="pizza" col="pizza" txd="pizza" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
+    <definition id="cluckin" zone="probs" dff="cluckin" col="cluckin" txd="vgndwntwn23" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
+</zoneDefinitions>

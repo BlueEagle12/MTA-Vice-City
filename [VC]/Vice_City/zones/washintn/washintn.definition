@@ -1,0 +1,158 @@
+<zoneDefinitions>
+    <definition id="wshnrthroad01" zone="washintn" dff="wshnrthroad01" col="wshnrthroad01" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad01" lodDistance="140"></definition>
+    <definition id="wshnrthroad20" zone="washintn" dff="wshnrthroad20" col="wshnrthroad20" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad20" lodDistance="140"></definition>
+    <definition id="wshtelgrphcabl03" zone="washintn" dff="wshtelgrphcabl03" col="wshtelgrphcabl03" txd="wshtelgrph" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="washpshoutdet" zone="washintn" dff="washpshoutdet" col="washpshoutdet" txd="washmallnew" alphaTransparency="nil" lod="true" lodID="washpshoutdet" lodDistance="120"></definition>
+    <definition id="wshnrthroad26" zone="washintn" dff="wshnrthroad26" col="wshnrthroad26" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad26" lodDistance="140"></definition>
+    <definition id="nrth3veg25" zone="washintn" dff="nrth3veg25" col="nrth3veg25" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="washbuild116" zone="washintn" dff="washbuild116" col="washbuild116" txd="washlandb" alphaTransparency="nil" lod="true" lodID="washbuild116" lodDistance="70"></definition>
+    <definition id="wshhotelwater1" zone="washintn" dff="wshhotelwater1" col="wshhotelwater1" txd="wshbuildws40" alphaTransparency="nil" lod="nil" lodDistance="120"></definition>
+    <definition id="nrth4veg08" zone="washintn" dff="nrth4veg08" col="nrth4veg08" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="washbuild063" zone="washintn" dff="washbuild063" col="washbuild063" txd="washnewbuild3" alphaTransparency="nil" lod="true" lodID="washbuild063" lodDistance="80"></definition>
+    <definition id="wsh_roadswsh01" zone="washintn" dff="wsh_roadswsh01" col="wsh_roadswsh01" txd="wash_hosp" alphaTransparency="nil" lod="true" lodID="wsh_roadswsh01" lodDistance="110"></definition>
+    <definition id="carwashpole3" zone="washintn" dff="carwashpole3" col="carwashpole3" txd="washnewbuild3" alphaTransparency="nil" lod="nil" lodDistance="40"></definition>
+    <definition id="wshbuildws322" zone="washintn" dff="wshbuildws322" col="wshbuildws322" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wshbuildws322" lodDistance="90"></definition>
+    <definition id="nrth3veg05" zone="washintn" dff="nrth3veg05" col="nrth3veg05" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="wshtelgrphcabl05" zone="washintn" dff="wshtelgrphcabl05" col="wshtelgrphcabl05" txd="wshtelgrph" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="wshnrthroad04" zone="washintn" dff="wshnrthroad04" col="wshnrthroad04" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad04" lodDistance="140"></definition>
+    <definition id="ggneonsign2" zone="washintn" dff="ggneonsign2" col="ggneonsign2" txd="wshneon" alphaTransparency="nil" lod="nil" lodDistance="290" timeIn="22" timeOut="5"></definition>
+    <definition id="washbuild075" zone="washintn" dff="washbuild075" col="washbuild075" txd="washnewbuild2" alphaTransparency="nil" lod="true" lodID="washbuild075" lodDistance="90"></definition>
+    <definition id="washbuild187" zone="washintn" dff="washbuild187" col="washbuild187" txd="washbuild120" alphaTransparency="nil" lod="true" lodID="washbuild187" lodDistance="140"></definition>
+    <definition id="wshtelgrphcabl04" zone="washintn" dff="wshtelgrphcabl04" col="wshtelgrphcabl04" txd="wshtelgrph" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="wshbuildws16" zone="washintn" dff="wshbuildws16" col="wshbuildws16" txd="washnewbuild5" alphaTransparency="nil" lod="true" lodID="wshbuildws16" lodDistance="100"></definition>
+    <definition id="wshbuildws43" zone="washintn" dff="wshbuildws43" col="wshbuildws43" txd="washmallnew" alphaTransparency="nil" lod="true" lodID="wshbuildws43" lodDistance="120"></definition>
+    <definition id="wshmalsign4" zone="washintn" dff="wshmalsign4" col="wshmalsign4" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wshmalsign4" lodDistance="70"></definition>
+    <definition id="woshmallglas1" zone="washintn" dff="woshmallglas1" col="woshmallglas1" txd="woshmalglas" alphaTransparency="nil" lod="true" lodID="woshmallglas1" lodDistance="50"></definition>
+    <definition id="washbuild014" zone="washintn" dff="washbuild014" col="washbuild014" txd="washbuild124" alphaTransparency="nil" lod="true" lodID="washbuild014" lodDistance="100"></definition>
+    <definition id="wtn_roadsigns01" zone="washintn" dff="wtn_roadsigns01" col="wtn_roadsigns01" txd="washlandb" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="wsh_roadswsh04" zone="washintn" dff="wsh_roadswsh04" col="wsh_roadswsh04" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wsh_roadswsh04" lodDistance="100"></definition>
+    <definition id="washbuild072" zone="washintn" dff="washbuild072" col="washbuild072" txd="northbuild" alphaTransparency="nil" lod="true" lodID="washbuild072" lodDistance="90"></definition>
+    <definition id="basketballcourt05" zone="washintn" dff="basketballcourt05" col="basketballcourt05" txd="washbballcrt" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="nrth3veg16" zone="washintn" dff="nrth3veg16" col="nrth3veg16" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="wshnrthroad12" zone="washintn" dff="wshnrthroad12" col="wshnrthroad12" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad12" lodDistance="140"></definition>
+    <definition id="woshmallglas2" zone="washintn" dff="woshmallglas2" col="woshmallglas2" txd="woshmalglas" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="washbuild073" zone="washintn" dff="washbuild073" col="washbuild073" txd="northbuild" alphaTransparency="nil" lod="true" lodID="washbuild073" lodDistance="110"></definition>
+    <definition id="washfence1" zone="washintn" dff="washfence1" col="washfence1" txd="washfence128" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="nrth3veg50" zone="washintn" dff="nrth3veg50" col="nrth3veg50" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="nrth4veg212" zone="washintn" dff="nrth4veg212" col="nrth4veg212" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="carwashpole1" zone="washintn" dff="carwashpole1" col="carwashpole1" txd="washnewbuild3" alphaTransparency="nil" lod="nil" lodDistance="40"></definition>
+    <definition id="washskyplant2" zone="washintn" dff="washskyplant2" col="washskyplant2" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="washbuild025neon" zone="washintn" dff="washbuild025neon" col="washbuild025neon" txd="wshneon" alphaTransparency="nil" lod="true" lodID="washbuild025neon" lodDistance="290" timeIn="22" timeOut="5"></definition>
+    <definition id="wshnrthroad27" zone="washintn" dff="wshnrthroad27" col="wshnrthroad27" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad27" lodDistance="140"></definition>
+    <definition id="wash_deco042" zone="washintn" dff="wash_deco042" col="wash_deco042" txd="washmiamistrip13" alphaTransparency="nil" lod="true" lodID="wash_deco042" lodDistance="130"></definition>
+    <definition id="nrth7veg09" zone="washintn" dff="nrth7veg09" col="nrth7veg09" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="wshmalsign3" zone="washintn" dff="wshmalsign3" col="wshmalsign3" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wshmalsign3" lodDistance="70"></definition>
+    <definition id="wshmalsign1" zone="washintn" dff="wshmalsign1" col="wshmalsign1" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wshmalsign1" lodDistance="70"></definition>
+    <definition id="woshmalneon2" zone="washintn" dff="woshmalneon2" col="woshmalneon2" txd="wshneon" alphaTransparency="nil" lod="nil" lodDistance="290" timeIn="22" timeOut="5"></definition>
+    <definition id="wshmalsign2" zone="washintn" dff="wshmalsign2" col="wshmalsign2" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wshmalsign2" lodDistance="70"></definition>
+    <definition id="washbuild199" zone="washintn" dff="washbuild199" col="washbuild199" txd="washmallnew" alphaTransparency="nil" lod="true" lodID="washbuild199" lodDistance="50"></definition>
+    <definition id="nrth4veg09" zone="washintn" dff="nrth4veg09" col="nrth4veg09" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="wshnrthroad06" zone="washintn" dff="wshnrthroad06" col="wshnrthroad06" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad06" lodDistance="140"></definition>
+    <definition id="washgasneon02" zone="washintn" dff="washgasneon02" col="washgasneon02" txd="wshneon" alphaTransparency="nil" lod="nil" lodDistance="290" timeIn="22" timeOut="5"></definition>
+    <definition id="wshnrthroad24" zone="washintn" dff="wshnrthroad24" col="wshnrthroad24" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad24" lodDistance="140"></definition>
+    <definition id="wshbuildws38" zone="washintn" dff="wshbuildws38" col="wshbuildws38" txd="washbuild120" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="wash_deco02" zone="washintn" dff="wash_deco02" col="wash_deco02" txd="washmiamistrip3" alphaTransparency="nil" lod="true" lodID="wash_deco02" lodDistance="130"></definition>
+    <definition id="wshbuildws19" zone="washintn" dff="wshbuildws19" col="wshbuildws19" txd="washnewbuild1" alphaTransparency="nil" lod="true" lodID="wshbuildws19" lodDistance="140"></definition>
+    <definition id="washbuild184" zone="washintn" dff="washbuild184" col="washbuild184" txd="washnewbuild3" alphaTransparency="nil" lod="true" lodID="washbuild184" lodDistance="80"></definition>
+    <definition id="washotelneon1" zone="washintn" dff="washotelneon1" col="washotelneon1" txd="wshneon" alphaTransparency="nil" lod="nil" lodDistance="290" timeIn="22" timeOut="5"></definition>
+    <definition id="wshnrthroad11" zone="washintn" dff="wshnrthroad11" col="wshnrthroad11" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad11" lodDistance="140"></definition>
+    <definition id="wshnrthroad14" zone="washintn" dff="wshnrthroad14" col="wshnrthroad14" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad14" lodDistance="140"></definition>
+    <definition id="washbuild074" zone="washintn" dff="washbuild074" col="washbuild074" txd="northbuild" alphaTransparency="nil" lod="true" lodID="washbuild074" lodDistance="110"></definition>
+    <definition id="wshnrthpstr05" zone="washintn" dff="wshnrthpstr05" col="wshnrthpstr05" txd="washnrthpstr1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="washbuild200" zone="washintn" dff="washbuild200" col="washbuild200" txd="washmallnew" alphaTransparency="nil" lod="true" lodID="washbuild200" lodDistance="60"></definition>
+    <definition id="woshmalmarkings" zone="washintn" dff="woshmalmarkings" col="woshmalmarkings" txd="wshmolmrk" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="washnewsky3" zone="washintn" dff="washnewsky3" col="washnewsky3" txd="washsky1" alphaTransparency="nil" lod="true" lodID="washnewsky3" lodDistance="140"></definition>
+    <definition id="carwashpole2" zone="washintn" dff="carwashpole2" col="carwashpole2" txd="washnewbuild3" alphaTransparency="nil" lod="nil" lodDistance="40"></definition>
+    <definition id="nrth3veg35" zone="washintn" dff="nrth3veg35" col="nrth3veg35" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="wshswimupbar" zone="washintn" dff="wshswimupbar" col="wshswimupbar" txd="swimupbar" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
+    <definition id="carwashsign1" zone="washintn" dff="carwashsign1" col="carwashsign1" txd="washnewbuild3" alphaTransparency="nil" lod="nil" lodDistance="40"></definition>
+    <definition id="washnewsky1" zone="washintn" dff="washnewsky1" col="washnewsky1" txd="washsky1" alphaTransparency="nil" lod="true" lodID="washnewsky1" lodDistance="140"></definition>
+    <definition id="wash_deco022" zone="washintn" dff="wash_deco022" col="wash_deco022" txd="washmiamistrip3" alphaTransparency="nil" lod="true" lodID="wash_deco022" lodDistance="130"></definition>
+    <definition id="wshnrthpstr03" zone="washintn" dff="wshnrthpstr03" col="wshnrthpstr03" txd="washnrthpstr1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="wshnrthroad05" zone="washintn" dff="wshnrthroad05" col="wshnrthroad05" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad05" lodDistance="140"></definition>
+    <definition id="wash_hosp03" zone="washintn" dff="wash_hosp03" col="wash_hosp03" txd="wash_hosp" alphaTransparency="nil" lod="true" lodID="wash_hosp03" lodDistance="100"></definition>
+    <definition id="ggsalonsign1" zone="washintn" dff="ggsalonsign1" col="ggsalonsign1" txd="newashbuild1" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="wshotelveg1" zone="washintn" dff="wshotelveg1" col="wshotelveg1" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="wash_deco012" zone="washintn" dff="wash_deco012" col="wash_deco012" txd="washmiamistrip4" alphaTransparency="nil" lod="true" lodID="wash_deco012" lodDistance="130"></definition>
+    <definition id="cokpoolwater" zone="washintn" dff="cokpoolwater" col="cokpoolwater" txd="washwater" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
+    <definition id="wshbuildws31" zone="washintn" dff="wshbuildws31" col="wshbuildws31" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wshbuildws31" lodDistance="90"></definition>
+    <definition id="wshbuildws312" zone="washintn" dff="wshbuildws312" col="wshbuildws312" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wshbuildws312" lodDistance="90"></definition>
+    <definition id="washbuild202" zone="washintn" dff="washbuild202" col="washbuild202" txd="ageneric" alphaTransparency="nil" lod="true" lodID="washbuild202" lodDistance="50"></definition>
+    <definition id="washgasneon" zone="washintn" dff="washgasneon" col="washgasneon" txd="wshneon" alphaTransparency="nil" lod="nil" lodDistance="290" timeIn="22" timeOut="5"></definition>
+    <definition id="washgasneon01" zone="washintn" dff="washgasneon01" col="washgasneon01" txd="wshneon" alphaTransparency="nil" lod="nil" lodDistance="290" timeIn="22" timeOut="5"></definition>
+    <definition id="wash_deco01" zone="washintn" dff="wash_deco01" col="wash_deco01" txd="washmiamistrip4" alphaTransparency="nil" lod="true" lodID="wash_deco01" lodDistance="130"></definition>
+    <definition id="wshmalsign5" zone="washintn" dff="wshmalsign5" col="wshmalsign5" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wshmalsign5" lodDistance="70"></definition>
+    <definition id="wshbuildws43ins" zone="washintn" dff="wshbuildws43ins" col="wshbuildws43ins" txd="washmallnew" alphaTransparency="nil" lod="true" lodID="wshbuildws43ins" lodDistance="70"></definition>
+    <definition id="washskyplant1" zone="washintn" dff="washskyplant1" col="washskyplant1" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="wshbuildws30" zone="washintn" dff="wshbuildws30" col="wshbuildws30" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wshbuildws30" lodDistance="110"></definition>
+    <definition id="nrth1veg37" zone="washintn" dff="nrth1veg37" col="nrth1veg37" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="washnewsky2" zone="washintn" dff="washnewsky2" col="washnewsky2" txd="washsky1" alphaTransparency="nil" lod="true" lodID="washnewsky2" lodDistance="140"></definition>
+    <definition id="woshmaldirt1" zone="washintn" dff="woshmaldirt1" col="woshmaldirt1" txd="wshbuildirt" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="washbuild071" zone="washintn" dff="washbuild071" col="washbuild071" txd="northbuild" alphaTransparency="nil" lod="true" lodID="washbuild071" lodDistance="90"></definition>
+    <definition id="washawninga1" zone="washintn" dff="washawninga1" col="washawninga1" txd="washnewbuild2" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
+    <definition id="wshnrthroad10" zone="washintn" dff="wshnrthroad10" col="wshnrthroad10" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad10" lodDistance="140"></definition>
+    <definition id="wshbuildws32" zone="washintn" dff="wshbuildws32" col="wshbuildws32" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wshbuildws32" lodDistance="90"></definition>
+    <definition id="wshnrthpstr02" zone="washintn" dff="wshnrthpstr02" col="wshnrthpstr02" txd="washnrthpstr1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="wsh_roadswsh05" zone="washintn" dff="wsh_roadswsh05" col="wsh_roadswsh05" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wsh_roadswsh05" lodDistance="130"></definition>
+    <definition id="wshnrthroad03" zone="washintn" dff="wshnrthroad03" col="wshnrthroad03" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad03" lodDistance="140"></definition>
+    <definition id="basketballcourt04" zone="washintn" dff="basketballcourt04" col="basketballcourt04" txd="washbballcrt" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="washmallwater" zone="washintn" dff="washmallwater" col="washmallwater" txd="washmallnew" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="washbuild068" zone="washintn" dff="washbuild068" col="washbuild068" txd="washnewbuild21" alphaTransparency="nil" lod="true" lodID="washbuild068" lodDistance="100"></definition>
+    <definition id="wash_deco032" zone="washintn" dff="wash_deco032" col="wash_deco032" txd="washmiamistrip2" alphaTransparency="nil" lod="true" lodID="wash_deco032" lodDistance="130"></definition>
+    <definition id="wshhotelawn1" zone="washintn" dff="wshhotelawn1" col="wshhotelawn1" txd="washnewbuild5" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="wshnrthroad19" zone="washintn" dff="wshnrthroad19" col="wshnrthroad19" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad19" lodDistance="140"></definition>
+    <definition id="wash_deco04" zone="washintn" dff="wash_deco04" col="wash_deco04" txd="washmiamistrip13" alphaTransparency="nil" lod="true" lodID="wash_deco04" lodDistance="130"></definition>
+    <definition id="wshnrthroad07" zone="washintn" dff="wshnrthroad07" col="wshnrthroad07" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad07" lodDistance="140"></definition>
+    <definition id="washbuild198" zone="washintn" dff="washbuild198" col="washbuild198" txd="washmallpark" alphaTransparency="nil" lod="true" lodID="washbuild198" lodDistance="120"></definition>
+    <definition id="wash_deco05" zone="washintn" dff="wash_deco05" col="wash_deco05" txd="washmiamistrip11" alphaTransparency="nil" lod="true" lodID="wash_deco05" lodDistance="130"></definition>
+    <definition id="wash_brdgsup1" zone="washintn" dff="wash_brdgsup1" col="wash_brdgsup1" txd="bridge" alphaTransparency="nil" lod="true" lodID="wash_brdgsup1" lodDistance="150"></definition>
+    <definition id="wshnrthroad21" zone="washintn" dff="wshnrthroad21" col="wshnrthroad21" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad21" lodDistance="140"></definition>
+    <definition id="wshnrthroad23" zone="washintn" dff="wshnrthroad23" col="wshnrthroad23" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad23" lodDistance="140"></definition>
+    <definition id="wshnrthroad02" zone="washintn" dff="wshnrthroad02" col="wshnrthroad02" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad02" lodDistance="140"></definition>
+    <definition id="nrth1veg42" zone="washintn" dff="nrth1veg42" col="nrth1veg42" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="wshmallneon" zone="washintn" dff="wshmallneon" col="wshmallneon" txd="wshneon" alphaTransparency="nil" lod="nil" lodDistance="290" timeIn="22" timeOut="5"></definition>
+    <definition id="wshnrthroad18" zone="washintn" dff="wshnrthroad18" col="wshnrthroad18" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad18" lodDistance="140"></definition>
+    <definition id="wshbuildws264" zone="washintn" dff="wshbuildws264" col="wshbuildws264" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wshbuildws264" lodDistance="100"></definition>
+    <definition id="wshnrthroad22" zone="washintn" dff="wshnrthroad22" col="wshnrthroad22" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad22" lodDistance="140"></definition>
+    <definition id="wshbuildws43ins2" zone="washintn" dff="wshbuildws43ins2" col="wshbuildws43ins2" txd="washmallnew" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="wash_hosp02" zone="washintn" dff="wash_hosp02" col="wash_hosp02" txd="wash_hosp" alphaTransparency="nil" lod="true" lodID="wash_hosp02" lodDistance="100"></definition>
+    <definition id="washbuild062" zone="washintn" dff="washbuild062" col="washbuild062" txd="washnewbuild3" alphaTransparency="nil" lod="true" lodID="washbuild062" lodDistance="60"></definition>
+    <definition id="wshnrthpstr1" zone="washintn" dff="wshnrthpstr1" col="wshnrthpstr1" txd="washnrthpstr1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="wshbuildws20" zone="washintn" dff="wshbuildws20" col="wshbuildws20" txd="washbuild44" alphaTransparency="nil" lod="true" lodID="wshbuildws20" lodDistance="90"></definition>
+    <definition id="wshnrthroad08" zone="washintn" dff="wshnrthroad08" col="wshnrthroad08" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad08" lodDistance="140"></definition>
+    <definition id="washbuild025" zone="washintn" dff="washbuild025" col="washbuild025" txd="washnewbuild23" alphaTransparency="nil" lod="true" lodID="washbuild025" lodDistance="90"></definition>
+    <definition id="nrth3veg08" zone="washintn" dff="nrth3veg08" col="nrth3veg08" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="wash_pizzaplace" zone="washintn" dff="wash_pizzaplace" col="wash_pizzaplace" txd="newashbuild1" alphaTransparency="nil" lod="true" lodID="wash_pizzaplace" lodDistance="90"></definition>
+    <definition id="washtooceanrd1" zone="washintn" dff="washtooceanrd1" col="washtooceanrd1" txd="washroads" alphaTransparency="nil" lod="true" lodID="washtooceanrd1" lodDistance="150"></definition>
+    <definition id="washbuild003" zone="washintn" dff="washbuild003" col="washbuild003" txd="newashbuild1" alphaTransparency="nil" lod="true" lodID="washbuild003" lodDistance="90"></definition>
+    <definition id="wshbuildws09" zone="washintn" dff="wshbuildws09" col="wshbuildws09" txd="northbuild" alphaTransparency="nil" lod="true" lodID="wshbuildws09" lodDistance="140"></definition>
+    <definition id="washbuild201" zone="washintn" dff="washbuild201" col="washbuild201" txd="ageneric" alphaTransparency="nil" lod="true" lodID="washbuild201" lodDistance="50"></definition>
+    <definition id="washfence2" zone="washintn" dff="washfence2" col="washfence2" txd="washfence128" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="wshswmupstuf" zone="washintn" dff="wshswmupstuf" col="wshswmupstuf" txd="swimupbar" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
+    <definition id="wshnrthpstr07" zone="washintn" dff="wshnrthpstr07" col="wshnrthpstr07" txd="washnrthpstr1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="wshbuil19wall" zone="washintn" dff="wshbuil19wall" col="wshbuil19wall" txd="washnewbuild1" alphaTransparency="nil" lod="true" lodID="wshbuil19wall" lodDistance="110"></definition>
+    <definition id="wshnrthroad15" zone="washintn" dff="wshnrthroad15" col="wshnrthroad15" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad15" lodDistance="140"></definition>
+    <definition id="wshbuildws40" zone="washintn" dff="wshbuildws40" col="wshbuildws40" txd="washnewbuild5" alphaTransparency="nil" lod="true" lodID="wshbuildws40" lodDistance="120"></definition>
+    <definition id="wshtelgrphcabl02" zone="washintn" dff="wshtelgrphcabl02" col="wshtelgrphcabl02" txd="wshtelgrph" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="wshbuildws07" zone="washintn" dff="wshbuildws07" col="wshbuildws07" txd="washnewbuild2" alphaTransparency="nil" lod="true" lodID="wshbuildws07" lodDistance="110"></definition>
+    <definition id="wshnrthroad09" zone="washintn" dff="wshnrthroad09" col="wshnrthroad09" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad09" lodDistance="140"></definition>
+    <definition id="washbuild120" zone="washintn" dff="washbuild120" col="washbuild120" txd="washbuild120" alphaTransparency="nil" lod="true" lodID="washbuild120" lodDistance="110"></definition>
+    <definition id="nrth4veg21" zone="washintn" dff="nrth4veg21" col="nrth4veg21" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="washbuild119" zone="washintn" dff="washbuild119" col="washbuild119" txd="washbuild120" alphaTransparency="nil" lod="true" lodID="washbuild119" lodDistance="90"></definition>
+    <definition id="wshnrthroad16" zone="washintn" dff="wshnrthroad16" col="wshnrthroad16" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad16" lodDistance="140"></definition>
+    <definition id="wshnrthroad28" zone="washintn" dff="wshnrthroad28" col="wshnrthroad28" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad28" lodDistance="140"></definition>
+    <definition id="wash_hospgrnd" zone="washintn" dff="wash_hospgrnd" col="wash_hospgrnd" txd="wash_hosp" alphaTransparency="nil" lod="true" lodID="wash_hospgrnd" lodDistance="130"></definition>
+    <definition id="wash_hospital" zone="washintn" dff="wash_hospital" col="wash_hospital" txd="wash_hosp" alphaTransparency="nil" lod="true" lodID="wash_hospital" lodDistance="90"></definition>
+    <definition id="wshnrthroad13" zone="washintn" dff="wshnrthroad13" col="wshnrthroad13" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad13" lodDistance="140"></definition>
+    <definition id="nrth1veg21" zone="washintn" dff="nrth1veg21" col="nrth1veg21" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="washbuild005" zone="washintn" dff="washbuild005" col="washbuild005" txd="newashbuild1" alphaTransparency="nil" lod="true" lodID="washbuild005" lodDistance="90"></definition>
+    <definition id="nrth7veg" zone="washintn" dff="nrth7veg" col="nrth7veg" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="wshbuildws12" zone="washintn" dff="wshbuildws12" col="wshbuildws12" txd="washnewbuild23" alphaTransparency="nil" lod="true" lodID="wshbuildws12" lodDistance="90"></definition>
+    <definition id="nrth4veg05" zone="washintn" dff="nrth4veg05" col="nrth4veg05" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="wshbuildws26" zone="washintn" dff="wshbuildws26" col="wshbuildws26" txd="washlandb" alphaTransparency="nil" lod="true" lodID="wshbuildws26" lodDistance="130"></definition>
+    <definition id="washpshoutveg" zone="washintn" dff="washpshoutveg" col="washpshoutveg" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="144"></definition>
+    <definition id="wshnrthroad17" zone="washintn" dff="wshnrthroad17" col="wshnrthroad17" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad17" lodDistance="140"></definition>
+    <definition id="wshnrthroad25" zone="washintn" dff="wshnrthroad25" col="wshnrthroad25" txd="ageneric" alphaTransparency="nil" lod="true" lodID="wshnrthroad25" lodDistance="140"></definition>
+    <definition id="nrth3veg59" zone="washintn" dff="nrth3veg59" col="nrth3veg59" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="wash_deco03" zone="washintn" dff="wash_deco03" col="wash_deco03" txd="washmiamistrip2" alphaTransparency="nil" lod="true" lodID="wash_deco03" lodDistance="130"></definition>
+</zoneDefinitions>

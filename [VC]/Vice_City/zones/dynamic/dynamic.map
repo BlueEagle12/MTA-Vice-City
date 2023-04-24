@@ -1,0 +1,33 @@
+<map>
+    <object id="wshxrefhirise1" model="8585" posX="55.857624053955" posY="-1107.4289550781" posZ="15.319757461548" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="wshxrefhirise1" model="8585" posX="29.340522766113" posY="-1106.9182128906" posZ="15.319757461548" rotX="0" rotY="0" rotZ="270" interior="0" dimension="-1"></object>
+    <object id="rockpatch1" model="8585" posX="751.15301513672" posY="-1586.2650146484" posZ="3.499137878418" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="179.50030517578" posY="-1745.5229492188" posZ="-18.354476928711" rotX="0" rotY="0" rotZ="315.5" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="92.482208251953" posY="-1678.0607910156" posZ="-18.354476928711" rotX="0" rotY="0" rotZ="315.5" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-31.627716064453" posY="-1748.2259521484" posZ="-18.354476928711" rotX="0" rotY="0" rotZ="315.5" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="572.88452148438" posY="-1639.6783447266" posZ="-18.354476928711" rotX="0" rotY="0" rotZ="315.5" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="647.05395507813" posY="-1482.9219970703" posZ="-18.354476928711" rotX="0" rotY="0" rotZ="315.5" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="708.65002441406" posY="-1525.9099121094" posZ="-18.354476928711" rotX="0" rotY="0" rotZ="339" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="284.94198608398" posY="-1879.7600097656" posZ="-18.354499816895" rotX="0" rotY="0" rotZ="315.5" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="513.84802246094" posY="-1884.1800537109" posZ="-18.354499816895" rotX="0" rotY="0" rotZ="308.00006103516" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="449.30801391602" posY="-1925.9899902344" posZ="-18.354499816895" rotX="0.00030517578125" rotY="0" rotZ="247.49993896484" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="359.74700927734" posY="-1966.8100585938" posZ="-18.354499816895" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="390.54901123047" posY="-1907.8199462891" posZ="-18.354499816895" rotX="0" rotY="0" rotZ="90.000213623047" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-575.55603027344" posY="-778.40197753906" posZ="-22.564399719238" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-317.29400634766" posY="-782.01800537109" posZ="-22.564399719238" rotX="0" rotY="0" rotZ="64.500061035156" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-210.04100036621" posY="-1652.6600341797" posZ="-7.1880397796631" rotX="0" rotY="0" rotZ="64.500061035156" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-365.92599487305" posY="-1861.2099609375" posZ="-20.159200668335" rotX="0" rotY="0" rotZ="64.500061035156" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-602.01898193359" posY="-1242.9599609375" posZ="-20.159200668335" rotX="0" rotY="0" rotZ="64.500061035156" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-679.16497802734" posY="-634.43499755859" posZ="-20.159200668335" rotX="0" rotY="0" rotZ="64.500061035156" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-614.89898681641" posY="-58.616401672363" posZ="-20.159200668335" rotX="0" rotY="0" rotZ="64.500061035156" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-549.73999023438" posY="369.59600830078" posZ="-20.159200668335" rotX="0" rotY="0" rotZ="64.500061035156" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-281.86499023438" posY="262.4880065918" posZ="-20.159200668335" rotX="0" rotY="0" rotZ="64.500061035156" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-559.68902587891" posY="254.11700439453" posZ="-20.159200668335" rotX="0" rotY="0" rotZ="129" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-355.50900268555" posY="656.4169921875" posZ="-20.159200668335" rotX="0" rotY="0" rotZ="129" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-70.663299560547" posY="700.57897949219" posZ="-23.625299453735" rotX="0" rotY="0" rotZ="129" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-251.72200012207" posY="975.36401367188" posZ="-20.159200668335" rotX="0" rotY="0" rotZ="129" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="-148.20700073242" posY="1270.2399902344" posZ="-20.159200668335" rotX="0" rotY="0" rotZ="129" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="66.132797241211" posY="1351.3699951172" posZ="-20.159200668335" rotX="0" rotY="0" rotZ="129" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="1203.3599853516" posY="364.83898925781" posZ="-26.681999206543" rotX="0" rotY="0" rotZ="129" interior="0" dimension="-1"></object>
+    <object id="rockpatch03" model="8585" posX="1152.8299560547" posY="192.69200134277" posZ="-26.681999206543" rotX="0" rotY="0" rotZ="129" interior="0" dimension="-1"></object>
+</map>

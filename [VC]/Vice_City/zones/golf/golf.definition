@@ -1,0 +1,69 @@
+<zoneDefinitions>
+    <definition id="golfroad3" zone="golf" dff="golfroad3" col="golfroad3" txd="golf3" alphaTransparency="nil" lod="true" lodID="golfroad3" lodDistance="300"></definition>
+    <definition id="gf_picket1_01" zone="golf" dff="gf_picket1_01" col="gf_picket1_01" txd="golf_clubhouse2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_treesfw3_01" zone="golf" dff="gf_treesfw3_01" col="gf_treesfw3_01" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="750"></definition>
+    <definition id="gf_golfwall" zone="golf" dff="gf_golfwall" col="gf_golfwall" txd="gf_hedge1" alphaTransparency="nil" lod="true" lodID="gf_golfwall" lodDistance="100"></definition>
+    <definition id="gf_flagstees3" zone="golf" dff="gf_flagstees3" col="gf_flagstees3" txd="gfflag" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_treesfw1_01" zone="golf" dff="gf_treesfw1_01" col="gf_treesfw1_01" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="750"></definition>
+    <definition id="gf_northbridge1" zone="golf" dff="gf_northbridge1" col="gf_northbridge1" txd="gf_northbridge" alphaTransparency="nil" lod="true" lodID="gf_northbridge1" lodDistance="100"></definition>
+    <definition id="gf_clublight1_01" zone="golf" dff="gf_clublight1_01" col="gf_clublight1_01" txd="golf_clubhouse1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_ivy_balcny_07" zone="golf" dff="gf_ivy_balcny_07" col="gf_ivy_balcny_07" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_flagstees43" zone="golf" dff="gf_flagstees43" col="gf_flagstees43" txd="gfflag" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="gf_hedge3_01" zone="golf" dff="gf_hedge3_01" col="gf_hedge3_01" txd="gf_hedge1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_tennisfence" zone="golf" dff="gf_tennisfence" col="gf_tennisfence" txd="gfflag" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_hedge1_01" zone="golf" dff="gf_hedge1_01" col="gf_hedge1_01" txd="gf_hedge1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_smallislebridge1" zone="golf" dff="gf_smallislebridge1" col="gf_smallislebridge1" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_smallislebridge1" lodDistance="100"></definition>
+    <definition id="gf_treesfw5_01" zone="golf" dff="gf_treesfw5_01" col="gf_treesfw5_01" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="750"></definition>
+    <definition id="golfroad5" zone="golf" dff="golfroad5" col="golfroad5" txd="golf3" alphaTransparency="nil" lod="true" lodID="golfroad5" lodDistance="300"></definition>
+    <definition id="nbecland13_gf" zone="golf" dff="nbecland13_gf" col="nbecland13_gf" txd="gf_nbtecland" alphaTransparency="nil" lod="true" lodID="nbecland13_gf" lodDistance="164"></definition>
+    <definition id="gf_mainisland1m_01" zone="golf" dff="gf_mainisland1m_01" col="gf_mainisland1m_01" txd="golf3" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="golfroad2" zone="golf" dff="golfroad2" col="golfroad2" txd="golf3" alphaTransparency="nil" lod="true" lodID="golfroad2" lodDistance="300"></definition>
+    <definition id="gf_northisland2" zone="golf" dff="gf_northisland2" col="gf_northisland2" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_northisland2" lodDistance="300"></definition>
+    <definition id="gf_ivy_balcny_01" zone="golf" dff="gf_ivy_balcny_01" col="gf_ivy_balcny_01" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_mainisl4_01" zone="golf" dff="gf_mainisl4_01" col="gf_mainisl4_01" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_mainisl4_01" lodDistance="300"></definition>
+    <definition id="gf_flagstees42" zone="golf" dff="gf_flagstees42" col="gf_flagstees42" txd="gfflag" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="nt_security1" zone="golf" dff="nt_security1" col="nt_security1" txd="golf_clubhouse1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_smallisland1_01" zone="golf" dff="gf_smallisland1_01" col="gf_smallisland1_01" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_smallisland1_01" lodDistance="300"></definition>
+    <definition id="gf_northisland1c" zone="golf" dff="gf_northisland1c" col="gf_northisland1c" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_northisland1c" lodDistance="300"></definition>
+    <definition id="gf_mainisland2a_01" zone="golf" dff="gf_mainisland2a_01" col="gf_mainisland2a_01" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_mainisland2a_01" lodDistance="300"></definition>
+    <definition id="gf_hedge2_01" zone="golf" dff="gf_hedge2_01" col="gf_hedge2_01" txd="gf_hedge1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_pedbridge3" zone="golf" dff="gf_pedbridge3" col="gf_pedbridge3" txd="golf_bridge" alphaTransparency="nil" lod="true" lodID="gf_pedbridge3" lodDistance="300"></definition>
+    <definition id="gf_mainisland3b_01" zone="golf" dff="gf_mainisland3b_01" col="gf_mainisland3b_01" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_mainisland3b_01" lodDistance="300"></definition>
+    <definition id="golfroad4" zone="golf" dff="golfroad4" col="golfroad4" txd="golf3" alphaTransparency="nil" lod="true" lodID="golfroad4" lodDistance="300"></definition>
+    <definition id="gf_water01" zone="golf" dff="gf_water01" col="gf_water01" txd="gfwater" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="gf_mainisland1a_01" zone="golf" dff="gf_mainisland1a_01" col="gf_mainisland1a_01" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_mainisland1a_01" lodDistance="300"></definition>
+    <definition id="gf_drdivide1_01" zone="golf" dff="gf_drdivide1_01" col="gf_drdivide1_01" txd="gfnorthisland3" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_water03" zone="golf" dff="gf_water03" col="gf_water03" txd="gfwater" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="gf_tree1_01" zone="golf" dff="gf_tree1_01" col="gf_tree1_01" txd="gfpalms" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_water02" zone="golf" dff="gf_water02" col="gf_water02" txd="gfwater" alphaTransparency="nil" lod="nil" lodDistance="300"></definition>
+    <definition id="gf_northisland1b" zone="golf" dff="gf_northisland1b" col="gf_northisland1b" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_northisland1b" lodDistance="300"></definition>
+    <definition id="gf_treesfw4_01" zone="golf" dff="gf_treesfw4_01" col="gf_treesfw4_01" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="750"></definition>
+    <definition id="gf_mainisl2b_01" zone="golf" dff="gf_mainisl2b_01" col="gf_mainisl2b_01" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_mainisl2b_01" lodDistance="300"></definition>
+    <definition id="gf_treesfw2_01" zone="golf" dff="gf_treesfw2_01" col="gf_treesfw2_01" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="750"></definition>
+    <definition id="gf_signPlane01" zone="golf" dff="gf_signPlane01" col="gf_signPlane01" txd="gf_roadblock" alphaTransparency="nil" lod="true" lodID="gf_signPlane01" lodDistance="100"></definition>
+    <definition id="gf_tree2_02" zone="golf" dff="gf_tree2_02" col="gf_tree2_02" txd="gfpalms" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_mainisland6n_01" zone="golf" dff="gf_mainisland6n_01" col="gf_mainisland6n_01" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_mainisland6n_01" lodDistance="300"></definition>
+    <definition id="gf_rollerjump" zone="golf" dff="gf_rollerjump" col="gf_rollerjump" txd="golf_clubhouse1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_northisland1" zone="golf" dff="gf_northisland1" col="gf_northisland1" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_northisland1" lodDistance="300"></definition>
+    <definition id="gf_hedge5_01" zone="golf" dff="gf_hedge5_01" col="gf_hedge5_01" txd="gf_hedge1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_mainisland6b_01" zone="golf" dff="gf_mainisland6b_01" col="gf_mainisland6b_01" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_mainisland6b_01" lodDistance="300"></definition>
+    <definition id="gf_woodbridge1_01" zone="golf" dff="gf_woodbridge1_01" col="gf_woodbridge1_01" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_woodbridge1_01" lodDistance="100"></definition>
+    <definition id="golfroad1" zone="golf" dff="golfroad1" col="golfroad1" txd="golf3" alphaTransparency="nil" lod="true" lodID="golfroad1" lodDistance="300"></definition>
+    <definition id="gf_mainisland1b_01" zone="golf" dff="gf_mainisland1b_01" col="gf_mainisland1b_01" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_mainisland1b_01" lodDistance="300"></definition>
+    <definition id="gf_northisland3" zone="golf" dff="gf_northisland3" col="gf_northisland3" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_northisland3" lodDistance="300"></definition>
+    <definition id="gf_planters2" zone="golf" dff="gf_planters2" col="gf_planters2" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_hedge4_01" zone="golf" dff="gf_hedge4_01" col="gf_hedge4_01" txd="gf_hedge1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_stadlight1_02" zone="golf" dff="gf_stadlight1_02" col="gf_stadlight1_02" txd="golf_clubhouse2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_flagstees2" zone="golf" dff="gf_flagstees2" col="gf_flagstees2" txd="gfflag" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="nbt_road12_gf" zone="golf" dff="nbt_road12_gf" col="nbt_road12_gf" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nbt_road12_gf" lodDistance="164"></definition>
+    <definition id="gf_clubhouse1" zone="golf" dff="gf_clubhouse1" col="gf_clubhouse1" txd="golf_clubhouse1" alphaTransparency="nil" lod="true" lodID="gf_clubhouse1" lodDistance="100"></definition>
+    <definition id="gf_mainisl5_01" zone="golf" dff="gf_mainisl5_01" col="gf_mainisl5_01" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_mainisl5_01" lodDistance="300"></definition>
+    <definition id="gf_flagstees1" zone="golf" dff="gf_flagstees1" col="gf_flagstees1" txd="gfflag" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="golfroad7" zone="golf" dff="golfroad7" col="golfroad7" txd="golf3" alphaTransparency="nil" lod="true" lodID="golfroad7" lodDistance="300"></definition>
+    <definition id="gf_planters4" zone="golf" dff="gf_planters4" col="gf_planters4" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_drivingrange1" zone="golf" dff="gf_drivingrange1" col="gf_drivingrange1" txd="gfnorthisland3" alphaTransparency="nil" lod="true" lodID="gf_drivingrange1" lodDistance="100"></definition>
+    <definition id="gf_mainisland6a_01" zone="golf" dff="gf_mainisland6a_01" col="gf_mainisland6a_01" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_mainisland6a_01" lodDistance="300"></definition>
+    <definition id="gf_flagstees4" zone="golf" dff="gf_flagstees4" col="gf_flagstees4" txd="gfflag" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="gf_hedge6_01" zone="golf" dff="gf_hedge6_01" col="gf_hedge6_01" txd="gf_hedge1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="gf_mainisland3a_01" zone="golf" dff="gf_mainisland3a_01" col="gf_mainisland3a_01" txd="golf3" alphaTransparency="nil" lod="true" lodID="gf_mainisland3a_01" lodDistance="300"></definition>
+</zoneDefinitions>

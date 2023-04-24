@@ -1,0 +1,5 @@
+<map>
+    <object id="pizza" model="8585" posX="419.69869995117" posY="87.359275817871" posZ="16.543119430542" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="pizza" model="8585" posX="419.69869995117" posY="87.359275817871" posZ="16.543119430542" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <object id="cluckin" model="8585" posX="-1049.3070068359" posY="36.494033813477" posZ="9.1737222671509" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+</map>

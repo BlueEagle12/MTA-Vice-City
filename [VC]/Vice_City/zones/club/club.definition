@@ -1,0 +1,37 @@
+<zoneDefinitions>
+    <definition id="club_exterior03" zone="club" dff="club_exterior03" col="club_exterior03" txd="cl_ext2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_bckrm_couchs" zone="club" dff="cl_bckrm_couchs" col="cl_bckrm_couchs" txd="hi_cutcluboffice" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_main_roomb2" zone="club" dff="cl_main_roomb2" col="cl_main_roomb2" txd="hi_cutmaincl" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cb_CLUBSTAIRS" zone="club" dff="cb_CLUBSTAIRS" col="cb_CLUBSTAIRS" txd="hi_cutclubbar" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_tbl_chait_tmpb" zone="club" dff="cl_tbl_chait_tmpb" col="cl_tbl_chait_tmpb" txd="mainclub2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_coolers" zone="club" dff="cl_coolers" col="cl_coolers" txd="hi_cutclubbar" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_yachtmdl" zone="club" dff="cl_yachtmdl" col="cl_yachtmdl" txd="cl_yacht" alphaTransparency="nil" lod="nil" lodDistance="10"></definition>
+    <definition id="cl_main_room" zone="club" dff="cl_main_room" col="cl_main_room" txd="hi_cutmaincl" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_stage_roof" zone="club" dff="cl_stage_roof" col="cl_stage_roof" txd="hi_cutmaincl" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="club_exterior04" zone="club" dff="club_exterior04" col="club_exterior04" txd="cl_ext2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="clubceilingdome" zone="club" dff="clubceilingdome" col="clubceilingdome" txd="mainclub2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_railing" zone="club" dff="cl_railing" col="cl_railing" txd="mainclub2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_stage" zone="club" dff="cl_stage" col="cl_stage" txd="hi_cutmaincl" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_lightsuprts" zone="club" dff="cl_lightsuprts" col="cl_lightsuprts" txd="mainclub2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_recessedlights1" zone="club" dff="cl_recessedlights1" col="cl_recessedlights1" txd="mainclub2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_main_roomb" zone="club" dff="cl_main_roomb" col="cl_main_roomb" txd="hi_cutmaincl" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_ofs_props" zone="club" dff="cl_ofs_props" col="cl_ofs_props" txd="hi_cuttblprop" alphaTransparency="nil" lod="nil" lodDistance="10"></definition>
+    <definition id="cl_curtains" zone="club" dff="cl_curtains" col="cl_curtains" txd="hi_cutmaincl" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="club_exterior05" zone="club" dff="club_exterior05" col="club_exterior05" txd="cl_ext2" alphaTransparency="nil" lod="true" lodID="club_exterior05" lodDistance="100"></definition>
+    <definition id="cl_bckrm_tablewee" zone="club" dff="cl_bckrm_tablewee" col="cl_bckrm_tablewee" txd="hi_cutcluboffice" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_main_room12" zone="club" dff="cl_main_room12" col="cl_main_room12" txd="hi_cutmaincl" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_mainwalls" zone="club" dff="cl_mainwalls" col="cl_mainwalls" txd="hi_cutclwaltst" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_bar_temp1" zone="club" dff="cl_bar_temp1" col="cl_bar_temp1" txd="hi_cutclubbar" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_dancefloor" zone="club" dff="cl_dancefloor" col="cl_dancefloor" txd="hi_cutmaincl" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_tablesetlrg" zone="club" dff="cl_tablesetlrg" col="cl_tablesetlrg" txd="hi_cuttblprop" alphaTransparency="nil" lod="nil" lodDistance="7"></definition>
+    <definition id="cl_spots" zone="club" dff="cl_spots" col="cl_spots" txd="mainclub2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_tblesetsml" zone="club" dff="cl_tblesetsml" col="cl_tblesetsml" txd="hi_cuttblprop" alphaTransparency="nil" lod="nil" lodDistance="7"></definition>
+    <definition id="cl_recessed_flr" zone="club" dff="cl_recessed_flr" col="cl_recessed_flr" txd="mainclub2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_bckrm_tble" zone="club" dff="cl_bckrm_tble" col="cl_bckrm_tble" txd="hi_cutcluboffice" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_of_opac" zone="club" dff="cl_of_opac" col="cl_of_opac" txd="hi_cutclof_opa" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_railingb" zone="club" dff="cl_railingb" col="cl_railingb" txd="mainclub2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_tbl_chait_tmp" zone="club" dff="cl_tbl_chait_tmp" col="cl_tbl_chait_tmp" txd="mainclub2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="clubbackroom" zone="club" dff="clubbackroom" col="clubbackroom" txd="hi_cutcluboffice" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_mainwallsb" zone="club" dff="cl_mainwallsb" col="cl_mainwallsb" txd="hi_cutclwaltst" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="cl_light_st" zone="club" dff="cl_light_st" col="cl_light_st" txd="hi_cutmaincl" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+</zoneDefinitions>

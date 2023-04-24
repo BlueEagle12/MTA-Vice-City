@@ -1,0 +1,105 @@
+<zoneDefinitions>
+    <definition id="nbchwbridge" zone="nbeachw" dff="nbchwbridge" col="nbchwbridge" txd="nbwbridge" alphaTransparency="nil" lod="true" lodID="nbchwbridge" lodDistance="120"></definition>
+    <definition id="nb2glue" zone="nbeachw" dff="nb2glue" col="nb2glue" txd="nbglue" alphaTransparency="nil" lod="nil" lodDistance="21"></definition>
+    <definition id="starbits20" zone="nbeachw" dff="starbits20" col="starbits20" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="starbits13b" zone="nbeachw" dff="starbits13b" col="starbits13b" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starbits13b" lodDistance="108"></definition>
+    <definition id="nw_nbwroad02" zone="nbeachw" dff="nw_nbwroad02" col="nw_nbwroad02" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nw_nbwroad02" lodDistance="108"></definition>
+    <definition id="starwaterfrnt07" zone="nbeachw" dff="starwaterfrnt07" col="starwaterfrnt07" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starwaterfrnt07" lodDistance="128"></definition>
+    <definition id="starbits22" zone="nbeachw" dff="starbits22" col="starbits22" txd="starbits22" alphaTransparency="nil" lod="true" lodID="starbits22" lodDistance="60"></definition>
+    <definition id="nbt_balcony03" zone="nbeachw" dff="nbt_balcony03" col="nbt_balcony03" txd="nbw_hotel06balcony" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="nbbridgbit2" zone="nbeachw" dff="nbbridgbit2" col="nbbridgbit2" txd="nbwbridge" alphaTransparency="nil" lod="true" lodID="nbbridgbit2" lodDistance="185"></definition>
+    <definition id="starwaterfrnt05" zone="nbeachw" dff="starwaterfrnt05" col="starwaterfrnt05" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starwaterfrnt05" lodDistance="128"></definition>
+    <definition id="nbt_apartpool01" zone="nbeachw" dff="nbt_apartpool01" col="nbt_apartpool01" txd="nbt_apartpool" alphaTransparency="nil" lod="nil" lodDistance="108"></definition>
+    <definition id="starwaterfrnt10" zone="nbeachw" dff="starwaterfrnt10" col="starwaterfrnt10" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starwaterfrnt10" lodDistance="128"></definition>
+    <definition id="starwaterfrnt06" zone="nbeachw" dff="starwaterfrnt06" col="starwaterfrnt06" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starwaterfrnt06" lodDistance="128"></definition>
+    <definition id="nbeachroads03" zone="nbeachw" dff="nbeachroads03" col="nbeachroads03" txd="nbeachwgen" alphaTransparency="nil" lod="true" lodID="nbeachroads03" lodDistance="145"></definition>
+    <definition id="nbt_htlpoolrm02" zone="nbeachw" dff="nbt_htlpoolrm02" col="nbt_htlpoolrm02" txd="nbt_htlpoolrm" alphaTransparency="nil" lod="true" lodID="nbt_htlpoolrm02" lodDistance="60"></definition>
+    <definition id="nbthotel10" zone="nbeachw" dff="nbthotel10" col="nbthotel10" txd="nbthotel08" alphaTransparency="nil" lod="true" lodID="nbthotel10" lodDistance="64"></definition>
+    <definition id="stardepot_FENCE" zone="nbeachw" dff="stardepot_FENCE" col="stardepot_FENCE" txd="stardepot" alphaTransparency="nil" lod="nil" lodDistance="160"></definition>
+    <definition id="starbits50" zone="nbeachw" dff="starbits50" col="starbits50" txd="starbits50" alphaTransparency="nil" lod="true" lodID="starbits50" lodDistance="60"></definition>
+    <definition id="starwaterfrnt12" zone="nbeachw" dff="starwaterfrnt12" col="starwaterfrnt12" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starwaterfrnt12" lodDistance="128"></definition>
+    <definition id="nbeachroads09" zone="nbeachw" dff="nbeachroads09" col="nbeachroads09" txd="nbeachwgen" alphaTransparency="nil" lod="true" lodID="nbeachroads09" lodDistance="130"></definition>
+    <definition id="nw_nbwroad01" zone="nbeachw" dff="nw_nbwroad01" col="nw_nbwroad01" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nw_nbwroad01" lodDistance="155"></definition>
+    <definition id="starbits13" zone="nbeachw" dff="starbits13" col="starbits13" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starbits13" lodDistance="108"></definition>
+    <definition id="nbw_roadsigns" zone="nbeachw" dff="nbw_roadsigns" col="nbw_roadsigns" txd="buildsite" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
+    <definition id="starbits58" zone="nbeachw" dff="starbits58" col="starbits58" txd="starvillas01" alphaTransparency="nil" lod="true" lodID="starbits58" lodDistance="42"></definition>
+    <definition id="starbits56" zone="nbeachw" dff="starbits56" col="starbits56" txd="starvillas01" alphaTransparency="nil" lod="true" lodID="starbits56" lodDistance="42"></definition>
+    <definition id="nbw_grssypatch" zone="nbeachw" dff="nbw_grssypatch" col="nbw_grssypatch" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="nbw_grssypatch" lodDistance="100"></definition>
+    <definition id="starbits59" zone="nbeachw" dff="starbits59" col="starbits59" txd="starvillas01" alphaTransparency="nil" lod="true" lodID="starbits59" lodDistance="42"></definition>
+    <definition id="nbw_bridgew" zone="nbeachw" dff="nbw_bridgew" col="nbw_bridgew" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nbw_bridgew" lodDistance="130"></definition>
+    <definition id="starbits52" zone="nbeachw" dff="starbits52" col="starbits52" txd="nbeachwgen" alphaTransparency="nil" lod="true" lodID="starbits52" lodDistance="84"></definition>
+    <definition id="nbthotel08fence02" zone="nbeachw" dff="nbthotel08fence02" col="nbthotel08fence02" txd="nbthotel08fence" alphaTransparency="nil" lod="nil" lodDistance="42"></definition>
+    <definition id="starscaffold_pole" zone="nbeachw" dff="starscaffold_pole" col="starscaffold_pole" txd="starbuildsite" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="starbits24" zone="nbeachw" dff="starbits24" col="starbits24" txd="starbits24" alphaTransparency="nil" lod="true" lodID="starbits24" lodDistance="60"></definition>
+    <definition id="bldigste1mesh" zone="nbeachw" dff="bldigste1mesh" col="bldigste1mesh" txd="starbuildsite" alphaTransparency="nil" lod="true" lodID="bldigste1mesh" lodDistance="84"></definition>
+    <definition id="nbeachbed02" zone="nbeachw" dff="nbeachbed02" col="nbeachbed02" txd="nbw_pinkblock" alphaTransparency="nil" lod="nil" lodDistance="65"></definition>
+    <definition id="nbwneon02" zone="nbeachw" dff="nbwneon02" col="nbwneon02" txd="nbthotel08" alphaTransparency="nil" lod="nil" lodDistance="100" timeIn="22" timeOut="5"></definition>
+    <definition id="wash_hardwindow" zone="nbeachw" dff="wash_hardwindow" col="wash_hardwindow" txd="nbwtoolshp5" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="starwaterfrnt08" zone="nbeachw" dff="starwaterfrnt08" col="starwaterfrnt08" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starwaterfrnt08" lodDistance="128"></definition>
+    <definition id="starwaterfrnt11" zone="nbeachw" dff="starwaterfrnt11" col="starwaterfrnt11" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starwaterfrnt11" lodDistance="128"></definition>
+    <definition id="starbitbush" zone="nbeachw" dff="starbitbush" col="starbitbush" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="starblocks03" zone="nbeachw" dff="starblocks03" col="starblocks03" txd="sta_pinkblock" alphaTransparency="nil" lod="true" lodID="starblocks03" lodDistance="200"></definition>
+    <definition id="starbits45" zone="nbeachw" dff="starbits45" col="starbits45" txd="starvillas01" alphaTransparency="nil" lod="true" lodID="starbits45" lodDistance="42"></definition>
+    <definition id="nbt_htlpiswr02" zone="nbeachw" dff="nbt_htlpiswr02" col="nbt_htlpiswr02" txd="nbt_htlpoolrm" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="nbt_hotel15" zone="nbeachw" dff="nbt_hotel15" col="nbt_hotel15" txd="nbw_hotel06" alphaTransparency="nil" lod="true" lodID="nbt_hotel15" lodDistance="108"></definition>
+    <definition id="starbits57" zone="nbeachw" dff="starbits57" col="starbits57" txd="starvillas01" alphaTransparency="nil" lod="true" lodID="starbits57" lodDistance="42"></definition>
+    <definition id="nbw_bush01" zone="nbeachw" dff="nbw_bush01" col="nbw_bush01" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="starsbush2" zone="nbeachw" dff="starsbush2" col="starsbush2" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
+    <definition id="nbt_htlpoolbase02" zone="nbeachw" dff="nbt_htlpoolbase02" col="nbt_htlpoolbase02" txd="nbt_htlpoolbase" alphaTransparency="nil" lod="true" lodID="nbt_htlpoolbase02" lodDistance="108"></definition>
+    <definition id="nbt_htlpoolbase01b" zone="nbeachw" dff="nbt_htlpoolbase01b" col="nbt_htlpoolbase01b" txd="htlpoolbase" alphaTransparency="nil" lod="true" lodID="nbt_htlpoolbase01b" lodDistance="108"></definition>
+    <definition id="starbits54" zone="nbeachw" dff="starbits54" col="starbits54" txd="starvillas01" alphaTransparency="nil" lod="true" lodID="starbits54" lodDistance="42"></definition>
+    <definition id="nbeachwjetty02" zone="nbeachw" dff="nbeachwjetty02" col="nbeachwjetty02" txd="nbwjetty" alphaTransparency="nil" lod="true" lodID="nbeachwjetty02" lodDistance="120"></definition>
+    <definition id="buldingsite1" zone="nbeachw" dff="buldingsite1" col="buldingsite1" txd="starbuildsite" alphaTransparency="nil" lod="true" lodID="buldingsite1" lodDistance="84"></definition>
+    <definition id="nbwneon01" zone="nbeachw" dff="nbwneon01" col="nbwneon01" txd="nbt_htlpoolbar01" alphaTransparency="nil" lod="nil" lodDistance="100" timeIn="22" timeOut="5"></definition>
+    <definition id="nbt_htlpoolrm01" zone="nbeachw" dff="nbt_htlpoolrm01" col="nbt_htlpoolrm01" txd="nbt_htlpoolrm" alphaTransparency="nil" lod="true" lodID="nbt_htlpoolrm01" lodDistance="60"></definition>
+    <definition id="nbt_balcony02" zone="nbeachw" dff="nbt_balcony02" col="nbt_balcony02" txd="nbw_hotel06balcony" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="nbt_apartpool03" zone="nbeachw" dff="nbt_apartpool03" col="nbt_apartpool03" txd="nbt_apartpool" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="nbroofst11" zone="nbeachw" dff="nbroofst11" col="nbroofst11" txd="nbrooft" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="starblocks02" zone="nbeachw" dff="starblocks02" col="starblocks02" txd="sta_pinkblock" alphaTransparency="nil" lod="true" lodID="starblocks02" lodDistance="200"></definition>
+    <definition id="nbeachwjetty01" zone="nbeachw" dff="nbeachwjetty01" col="nbeachwjetty01" txd="nbwjetty" alphaTransparency="nil" lod="true" lodID="nbeachwjetty01" lodDistance="100"></definition>
+    <definition id="nbt_hotel08" zone="nbeachw" dff="nbt_hotel08" col="nbt_hotel08" txd="nbw_hotel06" alphaTransparency="nil" lod="true" lodID="nbt_hotel08" lodDistance="108"></definition>
+    <definition id="nbt_htlpoolbase01" zone="nbeachw" dff="nbt_htlpoolbase01" col="nbt_htlpoolbase01" txd="htlpoolbase" alphaTransparency="nil" lod="true" lodID="nbt_htlpoolbase01" lodDistance="108"></definition>
+    <definition id="nbeachroads02" zone="nbeachw" dff="nbeachroads02" col="nbeachroads02" txd="nbeachwgen" alphaTransparency="nil" lod="true" lodID="nbeachroads02" lodDistance="108"></definition>
+    <definition id="nw_nbwroad04" zone="nbeachw" dff="nw_nbwroad04" col="nw_nbwroad04" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nw_nbwroad04" lodDistance="108"></definition>
+    <definition id="wash_hardwares" zone="nbeachw" dff="wash_hardwares" col="wash_hardwares" txd="nbwtoolshp5" alphaTransparency="nil" lod="true" lodID="wash_hardwares" lodDistance="100"></definition>
+    <definition id="starbits05" zone="nbeachw" dff="starbits05" col="starbits05" txd="nbeachwgen" alphaTransparency="nil" lod="true" lodID="starbits05" lodDistance="100"></definition>
+    <definition id="const_woodfence30" zone="nbeachw" dff="const_woodfence30" col="const_woodfence30" txd="buildsite" alphaTransparency="nil" lod="true" lodID="const_woodfence30" lodDistance="120"></definition>
+    <definition id="buildingground50" zone="nbeachw" dff="buildingground50" col="buildingground50" txd="buildsite" alphaTransparency="nil" lod="true" lodID="buildingground50" lodDistance="108"></definition>
+    <definition id="starbits51" zone="nbeachw" dff="starbits51" col="starbits51" txd="starbits51" alphaTransparency="nil" lod="true" lodID="starbits51" lodDistance="60"></definition>
+    <definition id="starbl02b" zone="nbeachw" dff="starbl02b" col="starbl02b" txd="nbw_pinkblock" alphaTransparency="nil" lod="true" lodID="starbl02b" lodDistance="145"></definition>
+    <definition id="bldngst2mesh" zone="nbeachw" dff="bldngst2mesh" col="bldngst2mesh" txd="buildingsite2" alphaTransparency="nil" lod="true" lodID="bldngst2mesh" lodDistance="135"></definition>
+    <definition id="nbt_htlpoolbase04" zone="nbeachw" dff="nbt_htlpoolbase04" col="nbt_htlpoolbase04" txd="nbt_htlpoolbase" alphaTransparency="nil" lod="true" lodID="nbt_htlpoolbase04" lodDistance="108"></definition>
+    <definition id="nbt_htlpiswr01" zone="nbeachw" dff="nbt_htlpiswr01" col="nbt_htlpiswr01" txd="nbt_htlpoolrm" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="nbt_hotel13" zone="nbeachw" dff="nbt_hotel13" col="nbt_hotel13" txd="nbw_hotel06" alphaTransparency="nil" lod="true" lodID="nbt_hotel13" lodDistance="108"></definition>
+    <definition id="nbt_balcony05" zone="nbeachw" dff="nbt_balcony05" col="nbt_balcony05" txd="nbw_hotel06balcony" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
+    <definition id="nw_nbwroad07" zone="nbeachw" dff="nw_nbwroad07" col="nw_nbwroad07" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nw_nbwroad07" lodDistance="145"></definition>
+    <definition id="nbt_barfence01" zone="nbeachw" dff="nbt_barfence01" col="nbt_barfence01" txd="nbt_barfence01" alphaTransparency="nil" lod="nil" lodDistance="30"></definition>
+    <definition id="starblocks04" zone="nbeachw" dff="starblocks04" col="starblocks04" txd="starbuildsite" alphaTransparency="nil" lod="true" lodID="starblocks04" lodDistance="108"></definition>
+    <definition id="starbits55" zone="nbeachw" dff="starbits55" col="starbits55" txd="starvillas01" alphaTransparency="nil" lod="true" lodID="starbits55" lodDistance="42"></definition>
+    <definition id="nbwbusshy2" zone="nbeachw" dff="nbwbusshy2" col="nbwbusshy2" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="240"></definition>
+    <definition id="starwaterfrnt09b" zone="nbeachw" dff="starwaterfrnt09b" col="starwaterfrnt09b" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starwaterfrnt09b" lodDistance="108"></definition>
+    <definition id="nbt_apartpool02" zone="nbeachw" dff="nbt_apartpool02" col="nbt_apartpool02" txd="nbt_apartpool01" alphaTransparency="nil" lod="nil" lodDistance="108"></definition>
+    <definition id="starbits06" zone="nbeachw" dff="starbits06" col="starbits06" txd="starbits06" alphaTransparency="nil" lod="true" lodID="starbits06" lodDistance="60"></definition>
+    <definition id="nbeachroads01" zone="nbeachw" dff="nbeachroads01" col="nbeachroads01" txd="nbeachwgen" alphaTransparency="nil" lod="true" lodID="nbeachroads01" lodDistance="108"></definition>
+    <definition id="nbeachbed01" zone="nbeachw" dff="nbeachbed01" col="nbeachbed01" txd="nbw_pinkblock" alphaTransparency="nil" lod="nil" lodDistance="65"></definition>
+    <definition id="nw_nbwroad05" zone="nbeachw" dff="nw_nbwroad05" col="nw_nbwroad05" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nw_nbwroad05" lodDistance="108"></definition>
+    <definition id="buildingsite2" zone="nbeachw" dff="buildingsite2" col="buildingsite2" txd="buildingsite2" alphaTransparency="nil" lod="true" lodID="buildingsite2" lodDistance="108"></definition>
+    <definition id="nbw_bush02" zone="nbeachw" dff="nbw_bush02" col="nbw_bush02" txd="sta_pinkblock" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+    <definition id="nw_nbwroad06" zone="nbeachw" dff="nw_nbwroad06" col="nw_nbwroad06" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nw_nbwroad06" lodDistance="200"></definition>
+    <definition id="nw_nbwroad08" zone="nbeachw" dff="nw_nbwroad08" col="nw_nbwroad08" txd="nbwbridge" alphaTransparency="nil" lod="true" lodID="nw_nbwroad08" lodDistance="185"></definition>
+    <definition id="buildingground40" zone="nbeachw" dff="buildingground40" col="buildingground40" txd="buildsite" alphaTransparency="nil" lod="true" lodID="buildingground40" lodDistance="108"></definition>
+    <definition id="starbits13c" zone="nbeachw" dff="starbits13c" col="starbits13c" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starbits13c" lodDistance="108"></definition>
+    <definition id="starbits49" zone="nbeachw" dff="starbits49" col="starbits49" txd="starbits49" alphaTransparency="nil" lod="true" lodID="starbits49" lodDistance="60"></definition>
+    <definition id="nbt_htlpool01" zone="nbeachw" dff="nbt_htlpool01" col="nbt_htlpool01" txd="htlpoolbase" alphaTransparency="nil" lod="nil" lodDistance="108"></definition>
+    <definition id="starbits17" zone="nbeachw" dff="starbits17" col="starbits17" txd="starbits17" alphaTransparency="nil" lod="true" lodID="starbits17" lodDistance="60"></definition>
+    <definition id="nbt_htlpoolbase03" zone="nbeachw" dff="nbt_htlpoolbase03" col="nbt_htlpoolbase03" txd="htlpoolbase" alphaTransparency="nil" lod="true" lodID="nbt_htlpoolbase03" lodDistance="108"></definition>
+    <definition id="starbits46" zone="nbeachw" dff="starbits46" col="starbits46" txd="starvillas01" alphaTransparency="nil" lod="true" lodID="starbits46" lodDistance="42"></definition>
+    <definition id="nbchwbridgb" zone="nbeachw" dff="nbchwbridgb" col="nbchwbridgb" txd="nbwbridge" alphaTransparency="nil" lod="true" lodID="nbchwbridgb" lodDistance="120"></definition>
+    <definition id="starwaterfrnt06b" zone="nbeachw" dff="starwaterfrnt06b" col="starwaterfrnt06b" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starwaterfrnt06b" lodDistance="108"></definition>
+    <definition id="nw_nbwroad03" zone="nbeachw" dff="nw_nbwroad03" col="nw_nbwroad03" txd="ageneric" alphaTransparency="nil" lod="true" lodID="nw_nbwroad03" lodDistance="108"></definition>
+    <definition id="nbt_htlpoolbar01" zone="nbeachw" dff="nbt_htlpoolbar01" col="nbt_htlpoolbar01" txd="nbt_htlpoolbar01" alphaTransparency="nil" lod="true" lodID="nbt_htlpoolbar01" lodDistance="60"></definition>
+    <definition id="stardepot" zone="nbeachw" dff="stardepot" col="stardepot" txd="stardepot" alphaTransparency="nil" lod="true" lodID="stardepot" lodDistance="120"></definition>
+    <definition id="starwaterfrnt09" zone="nbeachw" dff="starwaterfrnt09" col="starwaterfrnt09" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starwaterfrnt09" lodDistance="128"></definition>
+    <definition id="starwaterfrnt07b" zone="nbeachw" dff="starwaterfrnt07b" col="starwaterfrnt07b" txd="starwaterfrnt01" alphaTransparency="nil" lod="true" lodID="starwaterfrnt07b" lodDistance="108"></definition>
+    <definition id="muck_nbeachw" zone="nbeachw" dff="muck_nbeachw" col="muck_nbeachw" txd="nbeachwgen" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
+</zoneDefinitions>
