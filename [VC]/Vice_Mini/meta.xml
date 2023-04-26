@@ -1,5 +1,5 @@
 <meta>
-	<info name="JConversion Rectangle Map" author="JDev" version="4" type="script" />
+	<info name="Rectangle Map" author="Blue Eagle" version="5" type="script" />
 	
 	<script src="Settings.lua" type="client" />
 	<script src="Client.lua" type="client" />

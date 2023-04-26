@@ -1,7 +1,6 @@
 <meta>
 	<info type="script" name="Vice_City" author="Blue Eagle" description="Blender Converted Map" version="1" eagleLoad="1" />
 
-	<script src="water.lua" type="client" />
 	<!-- Map Files -->
 	<map src="zones/downtown/downtown.map" type="server" />
 	<map src="zones/starisl/starisl.map" type="server" />
