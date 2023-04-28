@@ -1,6 +1,8 @@
 # MTA-Vice-City
 
-Full vice city conversion for MTA:SA
+Full vice city conversion for MTA:SA with LODs
+
+-- Missing alot of open world interiors
 
 Feel free to post any bugs in Issues, or directly message me on discord.
 If you have a bug fix make a pull request and inform me and I'll review it.
