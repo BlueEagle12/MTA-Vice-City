@@ -1,6 +1,0 @@
-<meta>
-	<info name="Water" author="Blue Eagle" version="1" type="script" />
-	
-	<script src="Client.lua" type="client" />
-	
-</meta>
