@@ -1,0 +1,13 @@
+<map>
+    <object id="striplights" model="8585" posX="82.41" posY="-1458.75" posZ="7.48817" rotX="0" rotY="-0" rotZ="0" interior="5"></object>
+    <object id="stripinter" model="8585" posX="84.65" posY="-1462.57" posZ="5.49834" rotX="0" rotY="-0" rotZ="0" interior="5"></object>
+    <object id="stripinterupside" model="8585" posX="83.61" posY="-1459.31" posZ="0.900804" rotX="0" rotY="-0" rotZ="0" interior="5"></object>
+    <object id="stripback" model="8585" posX="69.35" posY="-1449.89" posZ="5.36425" rotX="-6.3890523735038e-06" rotY="7.1719992005501e-13" rotZ="-4.1399478732987e-20" interior="5"></object>
+    <object id="stripinterfloor" model="8585" posX="84.65" posY="-1462.57" posZ="5.49834" rotX="0" rotY="-0" rotZ="0" interior="5"></object>
+    <object id="propcollecttable" model="1670" posX="90.25" posY="-1455.26" posZ="4.65048" rotX="0" rotY="0" rotZ="-179.99999493349" interior="5"></object>
+    <object id="propcollecttable" model="1670" posX="88.56" posY="-1452.38" posZ="4.65048" rotX="-0" rotY="-0" rotZ="119.99997686485" interior="5"></object>
+    <object id="propashtray1" model="1665" posX="89.43" posY="-1453.83" posZ="4.65293" rotX="0" rotY="0" rotZ="-135.0000662744" interior="5"></object>
+    <object id="propbeerglass1" model="1666" posX="89.45" posY="-1453.67" posZ="4.72061" rotX="0" rotY="-0" rotZ="0" interior="5"></object>
+    <object id="propashtray1" model="1665" posX="91.06" posY="-1456.66" posZ="4.65293" rotX="0" rotY="0" rotZ="-135.0000662744" interior="5"></object>
+    <object id="propbeerglass1" model="1666" posX="88.48" posY="-1452.26" posZ="4.72061" rotX="0" rotY="-0" rotZ="0" interior="5"></object>
+</map>

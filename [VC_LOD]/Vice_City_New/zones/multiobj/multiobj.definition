@@ -1,0 +1,6 @@
+<zoneDefinitions>
+    <definition id="htl_fan_rotate_nt" zone="multiobj" col="htl_fan_rotate_nt" txd="fanani" flags="" lodDistance="30" timeIn="20" timeOut="6"></definition>
+    <definition id="htl_fan_static_nt" zone="multiobj" col="htl_fan_static_nt" txd="fanani" flags="" lodDistance="30" timeIn="20" timeOut="6"></definition>
+    <definition id="htl_fan_static_dy" zone="multiobj" col="htl_fan_static_dy" txd="fanani" flags="" lodDistance="30" timeIn="6" timeOut="20"></definition>
+    <definition id="htl_fan_rotate_dy" zone="multiobj" col="htl_fan_rotate_dy" txd="fanani" flags="" lodDistance="30" timeIn="6" timeOut="20"></definition>
+</zoneDefinitions>

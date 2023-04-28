@@ -1,0 +1,52 @@
+<zoneDefinitions>
+    <definition id="cooker1" zone="VC_generic" col="cooker1" txd="vcgeneric" flags="128" lodDistance="42"></definition>
+    <definition id="rockpatch1" zone="VC_generic" col="rockpatch1" txd="rocky" flags="128" lodDistance="299"></definition>
+    <definition id="rockpatch03" zone="VC_generic" col="rockpatch03" txd="rocky" flags="128" lodDistance="299"></definition>
+    <definition id="kb_couch06_vc" zone="VC_generic" col="kb_couch06_vc" txd="vc_hi_cutbnkcoch" flags="4" lodDistance="80"></definition>
+    <definition id="miamphon" zone="VC_generic" col="miamphon" txd="dynphnm" flags="128" lodDistance="42"></definition>
+    <definition id="miamifirehyd" zone="VC_generic" col="miamifirehyd" txd="firem" flags="128" lodDistance="35"></definition>
+    <definition id="miamibin" zone="VC_generic" col="miamibin" txd="miamibin" flags="4,128" lodDistance="15"></definition>
+    <definition id="newsstand1" zone="VC_generic" col="newsstand1" txd="dynnewstnd" flags="" lodDistance="42"></definition>
+    <definition id="gardenbencha" zone="VC_generic" col="gardenbencha" txd="vc_benches" flags="" lodDistance="45"></definition>
+    <definition id="pickupmusic" zone="VC_generic" col="pickupmusic" txd="vcgeneric" flags="128" lodDistance="100"></definition>
+    <definition id="kb_planterbush2" zone="VC_generic" col="kb_planterbush2" txd="vcgeneric" flags="4,128" lodDistance="40"></definition>
+    <definition id="lf_mediastage" zone="VC_generic" col="lf_mediastage" txd="lf_mediastage" flags="128" lodDistance="100"></definition>
+    <definition id="lf_banner" zone="VC_generic" col="lf_banner" txd="lofbanner" flags="128" lodDistance="100"></definition>
+    <definition id="lodxrefhirise1" zone="VC_generic" col="wshxrefhirise1" txd="vc_wshxreflod" flags="128" lodDistance="700"></definition>
+    <definition id="wshxrefhirise1" zone="VC_generic" col="wshxrefhirise1" txd="wshxrefhirise" flags="128" lodDistance="65"></definition>
+    <definition id="jw_coffin" zone="VC_generic" col="jw_coffin" txd="jwcoffin" flags="" lodDistance="35"></definition>
+    <definition id="odrampbit_vc" zone="VC_generic" col="odrampbit_vc" txd="odnrooft_vc" flags="4,128" lodDistance="80"></definition>
+    <definition id="Xnbt_chaseroom" zone="VC_generic" col="Xnbt_chaseroom" txd="nbtrooftop" flags="128" lodDistance="150"></definition>
+    <definition id="dts_bbdoor0" zone="VC_generic" col="dts_bbdoor0" txd="dts_grassbits" flags="4" lodDistance="200"></definition>
+    <definition id="cranetopa0" zone="VC_generic" col="cranetopa0" txd="cranetopa" flags="4,2097152" lodDistance="299"></definition>
+    <definition id="nbdecoshop01_glass1" zone="VC_generic" col="nbdecoshop01_glass1" txd="vcgeneric" flags="4,64,1024,2097152" lodDistance="80"></definition>
+    <definition id="nbdecoshop01_glass2" zone="VC_generic" col="nbdecoshop01_glass2" txd="vcgeneric" flags="4,64,1024,2097152" lodDistance="80"></definition>
+    <definition id="nbdecoshop01_glass3" zone="VC_generic" col="nbdecoshop01_glass3" txd="vcgeneric" flags="4,64,1024,2097152" lodDistance="80"></definition>
+    <definition id="shopfronts03_glass1" zone="VC_generic" col="shopfronts03_glass1" txd="vcgeneric" flags="4,64,1024,2097152" lodDistance="80"></definition>
+    <definition id="shopfronts03_glass2" zone="VC_generic" col="shopfronts03_glass2" txd="vcgeneric" flags="4,64,1024,2097152" lodDistance="80"></definition>
+    <definition id="lodlightbeam" zone="VC_generic" col="lodlightbeam" txd="lodlightbeam" flags="4,64" lodDistance="1500" timeIn="21" timeOut="5"></definition>
+    <definition id="xod_beacon_dy" zone="VC_generic" col="xod_beacon_dy" txd="xrefhotels" flags="128" lodDistance="200" timeIn="5" timeOut="21"></definition>
+    <definition id="xod_beacon_nt" zone="VC_generic" col="xod_beacon_nt" txd="xrefhotels" flags="128" lodDistance="200" timeIn="21" timeOut="5"></definition>
+    <definition id="xod_starlite_dy" zone="VC_generic" col="xod_starlite_dy" txd="xrefhotels" flags="128" lodDistance="200" timeIn="5" timeOut="21"></definition>
+    <definition id="xod_starlite_nt" zone="VC_generic" col="xod_starlite_nt" txd="xrefhotels" flags="128" lodDistance="200" timeIn="21" timeOut="5"></definition>
+    <definition id="xod_leslie_nt" zone="VC_generic" col="xod_leslie_nt" txd="xrefhotels" flags="128" lodDistance="200" timeIn="21" timeOut="5"></definition>
+    <definition id="xod_leslie_dy" zone="VC_generic" col="xod_leslie_dy" txd="xrefhotels" flags="128" lodDistance="200" timeIn="5" timeOut="21"></definition>
+    <definition id="xod_majestic_dy" zone="VC_generic" col="xod_majestic_dy" txd="xrefhotels" flags="128" lodDistance="200" timeIn="5" timeOut="21"></definition>
+    <definition id="xod_majestic_nt" zone="VC_generic" col="xod_majestic_nt" txd="xrefhotels" flags="128" lodDistance="200" timeIn="21" timeOut="5"></definition>
+    <definition id="xod_macalpin_dy" zone="VC_generic" col="xod_macalpin_dy" txd="xrefhotels" flags="128" lodDistance="200" timeIn="5" timeOut="21"></definition>
+    <definition id="xod_macalpin_nt" zone="VC_generic" col="xod_macalpin_nt" txd="xrefhotels" flags="128" lodDistance="200" timeIn="21" timeOut="5"></definition>
+    <definition id="lod_macalpin_dy" zone="VC_generic" col="xod_macalpin_dy" txd="LODxrefhot" flags="128" lodDistance="900" timeIn="5" timeOut="21"></definition>
+    <definition id="xod_tides_dy" zone="VC_generic" col="xod_tides_dy" txd="xrefhotels" flags="128" lodDistance="200" timeIn="5" timeOut="21"></definition>
+    <definition id="xod_tides_nt" zone="VC_generic" col="xod_tides_nt" txd="xrefhotels" flags="128" lodDistance="200" timeIn="21" timeOut="5"></definition>
+    <definition id="lod_tides_dy" zone="VC_generic" col="xod_tides_dy" txd="LODxrefhot" flags="128" lodDistance="900" timeIn="5" timeOut="21"></definition>
+    <definition id="lod_majestic_dy" zone="VC_generic" col="xod_majestic_dy" txd="LODxrefhot" flags="128" lodDistance="900" timeIn="5" timeOut="21"></definition>
+    <definition id="lod_starlite_dy" zone="VC_generic" col="xod_starlite_dy" txd="LODxrefhot" flags="128" lodDistance="900" timeIn="5" timeOut="21"></definition>
+    <definition id="lod_leslie_dy" zone="VC_generic" col="xod_leslie_dy" txd="LODxrefhot" flags="128" lodDistance="900" timeIn="5" timeOut="21"></definition>
+    <definition id="lod_beacon_dy" zone="VC_generic" col="xod_beacon_dy" txd="LODxrefhot" flags="128" lodDistance="900" timeIn="5" timeOut="21"></definition>
+    <definition id="lod_beacon_nt" zone="VC_generic" col="xod_beacon_nt" txd="LODxrefhot" flags="128" lodDistance="900" timeIn="21" timeOut="5"></definition>
+    <definition id="lod_starlite_nt" zone="VC_generic" col="xod_starlite_nt" txd="LODxrefhot" flags="128" lodDistance="900" timeIn="21" timeOut="5"></definition>
+    <definition id="lod_macalpin_nt" zone="VC_generic" col="xod_macalpin_nt" txd="LODxrefhot" flags="128" lodDistance="900" timeIn="21" timeOut="5"></definition>
+    <definition id="lod_leslie_nt" zone="VC_generic" col="xod_leslie_nt" txd="LODxrefhot" flags="128" lodDistance="900" timeIn="21" timeOut="5"></definition>
+    <definition id="lod_majestic_nt" zone="VC_generic" col="xod_majestic_nt" txd="LODxrefhot" flags="128" lodDistance="900" timeIn="21" timeOut="5"></definition>
+    <definition id="lod_tides_nt" zone="VC_generic" col="xod_tides_nt" txd="LODxrefhot" flags="128" lodDistance="900" timeIn="21" timeOut="5"></definition>
+</zoneDefinitions>

@@ -1,0 +1,16 @@
+<zoneDefinitions>
+    <definition id="lw_room_main" zone="lawyers" col="lw_room_main" txd="hi_cutlaw2" flags="1,32" lodDistance="100"></definition>
+    <definition id="lw_lights" zone="lawyers" col="lw_lights" txd="hi_cutlaw1" flags="1,4,32" lodDistance="100"></definition>
+    <definition id="lw_palm1" zone="lawyers" col="lw_palm1" txd="vcgeneric" flags="1,4,32" lodDistance="100"></definition>
+    <definition id="lw_floor_opac" zone="lawyers" col="lw_floor_opac" txd="hi_cutlaw1" flags="1,4,32" lodDistance="100"></definition>
+    <definition id="lw_rug" zone="lawyers" col="lw_rug" txd="hi_cutlaw1" flags="1,32" lodDistance="100"></definition>
+    <definition id="lw_shado" zone="lawyers" col="lw_shado" txd="hi_cutlawshad" flags="1,4,32" lodDistance="100"></definition>
+    <definition id="lw_officedesk01" zone="lawyers" col="lw_officedesk01" txd="hi_cutlaw1" flags="1,32" lodDistance="100"></definition>
+    <definition id="lawcutmapb" zone="lawyers" col="lawcutmapb" txd="lawcutext" flags="" lodDistance="140"></definition>
+    <definition id="lawcutmapc" zone="lawyers" col="lawcutmapc" txd="lawcutext" flags="" lodDistance="140"></definition>
+    <definition id="lawcutmapa" zone="lawyers" col="lawcutmapa" txd="lawcutext" flags="" lodDistance="140"></definition>
+    <definition id="lw_roombitsb" zone="lawyers" col="lw_roombitsb" txd="hi_cutlaw3" flags="1,4,32" lodDistance="100"></definition>
+    <definition id="fixedbects06" zone="lawyers" col="fixedbects06" txd="hi_cutlaw1" flags="1,32" lodDistance="7"></definition>
+    <definition id="lw_roombitsc" zone="lawyers" col="lw_roombitsc" txd="hi_cutlaw3b" flags="1,4,32" lodDistance="100"></definition>
+    <definition id="lw_roombitsbb" zone="lawyers" col="lw_roombitsbb" txd="hi_cutlaw3c" flags="1,4,32" lodDistance="100"></definition>
+</zoneDefinitions>

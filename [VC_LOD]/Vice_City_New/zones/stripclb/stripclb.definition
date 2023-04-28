@@ -1,0 +1,8 @@
+<zoneDefinitions>
+    <definition id="striplights" zone="stripclb" col="striplights" txd="striplights" flags="" lodDistance="200"></definition>
+    <definition id="stripinter" zone="stripclb" col="stripinter" txd="wshstripint" flags="" lodDistance="200"></definition>
+    <definition id="stripinterupside" zone="stripclb" col="stripinterupside" txd="stripinter" flags="" lodDistance="200"></definition>
+    <definition id="stripback" zone="stripclb" col="stripback" txd="stripback" flags="" lodDistance="200"></definition>
+    <definition id="stripinterfloor" zone="stripclb" col="stripinterfloor" txd="wshstripint" flags="4" lodDistance="200"></definition>
+    <definition id="strpbckdrclsd" zone="stripclb" col="strpbckdrclsd" txd="stripback" flags="" lodDistance="200"></definition>
+</zoneDefinitions>
