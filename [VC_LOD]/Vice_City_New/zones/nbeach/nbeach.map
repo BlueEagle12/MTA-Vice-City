@@ -1,91 +1,91 @@
 <map>
-    <object id="nbdecoshop01_glass1" model="8585" posX="445.38" posY="798.52" posZ="7.47266" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbdecoshop01_glass2" model="8585" posX="445.38" posY="794.28" posZ="7.47266" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbdecoshop01_glass3" model="8585" posX="445.38" posY="783.64" posZ="7.47266" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="shopfronts03_glass1" model="8585" posX="377.19" posY="753.94" posZ="6.60839" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="shopfronts03_glass2" model="8585" posX="378.71" posY="757.95" posZ="6.432" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="shopfronts03_glass2" model="8585" posX="2628.533" posY="-4492.013" posZ="6.615" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbmiamiland048" model="8585" posX="245.8584" posY="1298.01611" posZ="10.48642" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland048"></object>
-    <object id="nbmiamiland049" model="8585" posX="200.3125" posY="1227.69189" posZ="9.38735" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland049"></object>
-    <object id="nbmiamiland050" model="8585" posX="237.39453" posY="1166.71387" posZ="9.17442" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland050"></object>
-    <object id="nbmiamiland051" model="8585" posX="364.7666" posY="1317.10693" posZ="9.43376" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland051"></object>
-    <object id="nbmiamiland052" model="8585" posX="459.94043" posY="1313.51172" posZ="6.95031" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland052"></object>
-    <object id="nbmiamiland053" model="8585" posX="542.92773" posY="1282.56299" posZ="2.32863" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland053"></object>
-    <object id="nbmiamiland054" model="8585" posX="551.39844" posY="1156.18604" posZ="8.83277" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland054"></object>
-    <object id="nbmiamiland055" model="8585" posX="557.86914" posY="1016.53906" posZ="9.91745" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland055"></object>
-    <object id="nbmiamiland057" model="8585" posX="252.11816" posY="1073.68506" posZ="1.65251" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland057"></object>
-    <object id="nbmiamiland059" model="8585" posX="284.5" posY="936.15039" posZ="-5.25789" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland059"></object>
-    <object id="nbmiamiland061" model="8585" posX="596.40625" posY="869.26318" posZ="5.95125" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland061"></object>
-    <object id="nbmiamiland068" model="8585" posX="589.5" posY="695.12109" posZ="3.38266" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland068"></object>
-    <object id="nbsavehotel" model="8585" posX="596.96094" posY="852.74854" posZ="47.27899" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodavehotel"></object>
-    <object id="nbhotel02" model="8585" posX="554.36523" posY="1015.61084" posZ="68.98566" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel02"></object>
-    <object id="nbhotel01" model="8585" posX="583.32422" posY="697.66699" posZ="49.0685" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel01"></object>
-    <object id="nbhotel03" model="8585" posX="552.06836" posY="1159.39014" posZ="31.65484" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel03"></object>
-    <object id="nbdecoshop02" model="8585" posX="481.17285" posY="917.854" posZ="15.00378" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodecoshop02"></object>
-    <object id="nbdecoshop01" model="8585" posX="493.04102" posY="829.53271" posZ="16.83003" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodecoshop01"></object>
-    <object id="nbdecoshop03" model="8585" posX="368.0332" posY="911.89648" posZ="14.79948" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodecoshop03"></object>
-    <object id="nbhotel05" model="8585" posX="407.63281" posY="1312.29687" posZ="29.29555" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel05"></object>
-    <object id="nbhotel06" model="8585" posX="268.18066" posY="1310.68408" posZ="24.25055" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel06"></object>
-    <object id="nbhotel04" model="8585" posX="541.44238" posY="1282.57812" posZ="19.62107" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel04"></object>
-    <object id="nbhotel07" model="8585" posX="195.98242" posY="1228.47314" posZ="22.96795" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel07"></object>
-    <object id="nbhotel08" model="8585" posX="275.92188" posY="1017.375" posZ="20.57486" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel08"></object>
-    <object id="vc_nb_road15" model="8585" posX="466.32129" posY="769.58984" posZ="5.42717" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road15"></object>
-    <object id="nbmiamiland065" model="8585" posX="271.04102" posY="846.50293" posZ="-5.90618" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland065"></object>
-    <object id="nbmiamiland063" model="8585" posX="228.46777" posY="774.61426" posZ="-6.04944" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland063"></object>
-    <object id="hoteltrees01" model="8585" posX="275.59863" posY="1021.75781" posZ="16.32726" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="hoteltrees02" model="8585" posX="554.05078" posY="1024.74902" posZ="15.1113" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="hoteltrees03" model="8585" posX="532.69629" posY="1052.94482" posZ="13.34447" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbdecopromnd" model="8585" posX="417.63574" posY="970.48145" posZ="9.43868" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodecopromnd"></object>
-    <object id="nbdecoshplants" model="8585" posX="481.17285" posY="917.854" posZ="15.00378" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="malltrees01" model="8585" posX="407.97656" posY="977.5249" posZ="10.12342" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="mallseats01" model="8585" posX="408.08887" posY="977.60449" posZ="5.67156" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbdcprmndfnc2" model="8585" posX="460.0791" posY="987.61865" posZ="11.83522" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbdcprmndfnc1" model="8585" posX="383.15039" posY="985.93994" posZ="8.88608" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbsavhtlglass" model="8585" posX="599.95801" posY="852.66992" posZ="12.045" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbdcoshp01glss" model="8585" posX="472.78613" posY="798.11523" posZ="6.37839" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="4x4signstop" model="8585" posX="702.16992" posY="721.12646" posZ="8.20188" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="4x4rockstop" model="8585" posX="783.55566" posY="767.15137" posZ="4.10125" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="seveneleven" model="8585" posX="458.72168" posY="790.33936" posZ="8.44984" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="pharmacy_kb1" model="8585" posX="382.6416" posY="754.02393" posZ="6.9958" rotX="-0" rotY="-0" rotZ="90" interior="0"></object>
-    <object id="shopfronts03" model="8585" posX="387.82227" posY="757.85254" posZ="12.14434" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodpfronts03"></object>
-    <object id="shpfrnts03rail02" model="8585" posX="387.82227" posY="813.82324" posZ="18.52585" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="shpfrnts03rail01" model="8585" posX="387.82227" posY="701.88135" posZ="18.52585" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbhotel02glss" model="8585" posX="558.60059" posY="1014.88086" posZ="13.39808" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="vc_nb_road01" model="8585" posX="543.84277" posY="697.0249" posZ="4.11242" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road01"></object>
-    <object id="vc_nb_road02" model="8585" posX="549.83203" posY="867.08154" posZ="7.08472" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road02"></object>
-    <object id="vc_nb_road03" model="8585" posX="515.30664" posY="1012.68506" posZ="10.50279" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road03"></object>
-    <object id="vc_nb_road04" model="8585" posX="509.35449" posY="1157.14014" posZ="9.60501" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road04"></object>
-    <object id="vc_nb_road05" model="8585" posX="513.24609" posY="1259.43018" posZ="9.38865" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road05"></object>
-    <object id="vc_nb_road06" model="8585" posX="449.83887" posY="1279.4873" posZ="10.39178" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road06"></object>
-    <object id="vc_nb_road07" model="8585" posX="359.2998" posY="1282.81885" posZ="10.14658" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road07"></object>
-    <object id="vc_nb_road08" model="8585" posX="258.7373" posY="1273.56494" posZ="10.27494" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road08"></object>
-    <object id="vc_nb_road09" model="8585" posX="222.99219" posY="1232.02783" posZ="10.45619" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road09"></object>
-    <object id="vc_nb_road10" model="8585" posX="266.12793" posY="1189.60791" posZ="11.97564" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road10"></object>
-    <object id="vc_nb_road11" model="8585" posX="288.21094" posY="1086.49316" posZ="10.21167" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road11"></object>
-    <object id="vc_nb_road12" model="8585" posX="367.97656" posY="943.68896" posZ="7.92559" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road12"></object>
-    <object id="vc_nb_road13" model="8585" posX="342.44727" posY="823.42187" posZ="4.51941" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road13"></object>
-    <object id="vc_nb_road14" model="8585" posX="262.75586" posY="762.7124" posZ="3.94637" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road14"></object>
-    <object id="nbroadnew1" model="8585" posX="480.33984" posY="913.73096" posZ="7.13348" rotX="-0" rotY="-0" rotZ="23.000339429204" interior="0" lodID="lodoadnew1"></object>
-    <object id="4x4racecotop" model="8585" posX="785.55957" posY="854.09082" posZ="-1.87388" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodracecotop"></object>
-    <object id="nbeachb" model="8585" posX="760.48926" posY="1017.05615" posZ="-0.89189" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachb"></object>
-    <object id="nbeachb1" model="8585" posX="744.38184" posY="1176.07324" posZ="-2.28016" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachb1"></object>
-    <object id="4x4racecotop2" model="8585" posX="785.72754" posY="683.27734" posZ="-1.11571" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodracecotop2"></object>
-    <object id="beachblend01" model="8585" posX="762.46191" posY="1188.46191" posZ="-6.92134" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="beachblend02" model="8585" posX="940.94336" posY="1017.05615" posZ="-6.04037" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="beachblend03" model="8585" posX="962.91406" posY="854.09082" posZ="-5.26959" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="beachblend04" model="8585" posX="962.93945" posY="683.07861" posZ="-3.9095" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbdecopromnd2" model="8585" posX="417.63574" posY="981.68311" posZ="8.00864" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodecopromnd2"></object>
-    <object id="ci_nbbridge1" model="8585" posX="218.14453" posY="974.23047" posZ="-2.04862" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnbbridge1"></object>
-    <object id="ci_nbbridge1fn3" model="8585" posX="128.39941" posY="997.86523" posZ="9.05826" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="ci_nbbridge1fn2" model="8585" posX="209.35547" posY="970.36133" posZ="17.98092" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbhtel06shdw" model="8585" posX="265.4834" posY="1301.91699" posZ="12.29278" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbeachrdsign" model="8585" posX="334.87207" posY="951.74023" posZ="18.82953" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="hoteltrees05" model="8585" posX="196.23828" posY="1282.28418" posZ="22.8821" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="hoteltrees06" model="8585" posX="486.12988" posY="1324.33105" posZ="18.22188" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbchflw01" model="8585" posX="483.2832" posY="1325.98291" posZ="18.07035" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbchflw02" model="8585" posX="190.98145" posY="1285.94482" posZ="21.52916" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="4x4finishline" model="8585" posX="741.26074" posY="716.1499" posZ="5.27457" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="veg_palm04" model="620" posX="482.67773" posY="1294.06396" posZ="10.11959" rotX="0" rotY="0" rotZ="180" interior="0"></object>
+    <building id="nbdecoshop01_glass1" model="1234" posX="445.38" posY="798.52" posZ="7.47266" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbdecoshop01_glass2" model="1234" posX="445.38" posY="794.28" posZ="7.47266" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbdecoshop01_glass3" model="1234" posX="445.38" posY="783.64" posZ="7.47266" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="shopfronts03_glass1" model="1234" posX="377.19" posY="753.94" posZ="6.60839" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="shopfronts03_glass2" model="1234" posX="378.71" posY="757.95" posZ="6.432" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="shopfronts03_glass2" model="1234" posX="2628.533" posY="-4492.013" posZ="6.615" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbmiamiland048" model="1234" posX="245.8584" posY="1298.01611" posZ="10.48642" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland048"></building>
+    <building id="nbmiamiland049" model="1234" posX="200.3125" posY="1227.69189" posZ="9.38735" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland049"></building>
+    <building id="nbmiamiland050" model="1234" posX="237.39453" posY="1166.71387" posZ="9.17442" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland050"></building>
+    <building id="nbmiamiland051" model="1234" posX="364.7666" posY="1317.10693" posZ="9.43376" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland051"></building>
+    <building id="nbmiamiland052" model="1234" posX="459.94043" posY="1313.51172" posZ="6.95031" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland052"></building>
+    <building id="nbmiamiland053" model="1234" posX="542.92773" posY="1282.56299" posZ="2.32863" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland053"></building>
+    <building id="nbmiamiland054" model="1234" posX="551.39844" posY="1156.18604" posZ="8.83277" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland054"></building>
+    <building id="nbmiamiland055" model="1234" posX="557.86914" posY="1016.53906" posZ="9.91745" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland055"></building>
+    <building id="nbmiamiland057" model="1234" posX="252.11816" posY="1073.68506" posZ="1.65251" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland057"></building>
+    <building id="nbmiamiland059" model="1234" posX="284.5" posY="936.15039" posZ="-5.25789" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland059"></building>
+    <building id="nbmiamiland061" model="1234" posX="596.40625" posY="869.26318" posZ="5.95125" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland061"></building>
+    <building id="nbmiamiland068" model="1234" posX="589.5" posY="695.12109" posZ="3.38266" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland068"></building>
+    <building id="nbsavehotel" model="1234" posX="596.96094" posY="852.74854" posZ="47.27899" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodavehotel"></building>
+    <building id="nbhotel02" model="1234" posX="554.36523" posY="1015.61084" posZ="68.98566" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel02"></building>
+    <building id="nbhotel01" model="1234" posX="583.32422" posY="697.66699" posZ="49.0685" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel01"></building>
+    <building id="nbhotel03" model="1234" posX="552.06836" posY="1159.39014" posZ="31.65484" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel03"></building>
+    <building id="nbdecoshop02" model="1234" posX="481.17285" posY="917.854" posZ="15.00378" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodecoshop02"></building>
+    <building id="nbdecoshop01" model="1234" posX="493.04102" posY="829.53271" posZ="16.83003" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodecoshop01"></building>
+    <building id="nbdecoshop03" model="1234" posX="368.0332" posY="911.89648" posZ="14.79948" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodecoshop03"></building>
+    <building id="nbhotel05" model="1234" posX="407.63281" posY="1312.29687" posZ="29.29555" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel05"></building>
+    <building id="nbhotel06" model="1234" posX="268.18066" posY="1310.68408" posZ="24.25055" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel06"></building>
+    <building id="nbhotel04" model="1234" posX="541.44238" posY="1282.57812" posZ="19.62107" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel04"></building>
+    <building id="nbhotel07" model="1234" posX="195.98242" posY="1228.47314" posZ="22.96795" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel07"></building>
+    <building id="nbhotel08" model="1234" posX="275.92188" posY="1017.375" posZ="20.57486" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodotel08"></building>
+    <building id="vc_nb_road15" model="1234" posX="466.32129" posY="769.58984" posZ="5.42717" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road15"></building>
+    <building id="nbmiamiland065" model="1234" posX="271.04102" posY="846.50293" posZ="-5.90618" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland065"></building>
+    <building id="nbmiamiland063" model="1234" posX="228.46777" posY="774.61426" posZ="-6.04944" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland063"></building>
+    <building id="hoteltrees01" model="1234" posX="275.59863" posY="1021.75781" posZ="16.32726" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="hoteltrees02" model="1234" posX="554.05078" posY="1024.74902" posZ="15.1113" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="hoteltrees03" model="1234" posX="532.69629" posY="1052.94482" posZ="13.34447" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbdecopromnd" model="1234" posX="417.63574" posY="970.48145" posZ="9.43868" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodecopromnd"></building>
+    <building id="nbdecoshplants" model="1234" posX="481.17285" posY="917.854" posZ="15.00378" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="malltrees01" model="1234" posX="407.97656" posY="977.5249" posZ="10.12342" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="mallseats01" model="1234" posX="408.08887" posY="977.60449" posZ="5.67156" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbdcprmndfnc2" model="1234" posX="460.0791" posY="987.61865" posZ="11.83522" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbdcprmndfnc1" model="1234" posX="383.15039" posY="985.93994" posZ="8.88608" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbsavhtlglass" model="1234" posX="599.95801" posY="852.66992" posZ="12.045" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbdcoshp01glss" model="1234" posX="472.78613" posY="798.11523" posZ="6.37839" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="4x4signstop" model="1234" posX="702.16992" posY="721.12646" posZ="8.20188" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="4x4rockstop" model="1234" posX="783.55566" posY="767.15137" posZ="4.10125" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="seveneleven" model="1234" posX="458.72168" posY="790.33936" posZ="8.44984" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="pharmacy_kb1" model="1234" posX="382.6416" posY="754.02393" posZ="6.9958" rotX="-0" rotY="-0" rotZ="90" interior="0"></building>
+    <building id="shopfronts03" model="1234" posX="387.82227" posY="757.85254" posZ="12.14434" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodpfronts03"></building>
+    <building id="shpfrnts03rail02" model="1234" posX="387.82227" posY="813.82324" posZ="18.52585" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="shpfrnts03rail01" model="1234" posX="387.82227" posY="701.88135" posZ="18.52585" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbhotel02glss" model="1234" posX="558.60059" posY="1014.88086" posZ="13.39808" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="vc_nb_road01" model="1234" posX="543.84277" posY="697.0249" posZ="4.11242" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road01"></building>
+    <building id="vc_nb_road02" model="1234" posX="549.83203" posY="867.08154" posZ="7.08472" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road02"></building>
+    <building id="vc_nb_road03" model="1234" posX="515.30664" posY="1012.68506" posZ="10.50279" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road03"></building>
+    <building id="vc_nb_road04" model="1234" posX="509.35449" posY="1157.14014" posZ="9.60501" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road04"></building>
+    <building id="vc_nb_road05" model="1234" posX="513.24609" posY="1259.43018" posZ="9.38865" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road05"></building>
+    <building id="vc_nb_road06" model="1234" posX="449.83887" posY="1279.4873" posZ="10.39178" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road06"></building>
+    <building id="vc_nb_road07" model="1234" posX="359.2998" posY="1282.81885" posZ="10.14658" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road07"></building>
+    <building id="vc_nb_road08" model="1234" posX="258.7373" posY="1273.56494" posZ="10.27494" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road08"></building>
+    <building id="vc_nb_road09" model="1234" posX="222.99219" posY="1232.02783" posZ="10.45619" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road09"></building>
+    <building id="vc_nb_road10" model="1234" posX="266.12793" posY="1189.60791" posZ="11.97564" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road10"></building>
+    <building id="vc_nb_road11" model="1234" posX="288.21094" posY="1086.49316" posZ="10.21167" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road11"></building>
+    <building id="vc_nb_road12" model="1234" posX="367.97656" posY="943.68896" posZ="7.92559" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road12"></building>
+    <building id="vc_nb_road13" model="1234" posX="342.44727" posY="823.42187" posZ="4.51941" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road13"></building>
+    <building id="vc_nb_road14" model="1234" posX="262.75586" posY="762.7124" posZ="3.94637" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnb_road14"></building>
+    <building id="nbroadnew1" model="1234" posX="480.33984" posY="913.73096" posZ="7.13348" rotX="-0" rotY="-0" rotZ="23.000339429204" interior="0" lodID="lodoadnew1"></building>
+    <building id="4x4racecotop" model="1234" posX="785.55957" posY="854.09082" posZ="-1.87388" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodracecotop"></building>
+    <building id="nbeachb" model="1234" posX="760.48926" posY="1017.05615" posZ="-0.89189" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachb"></building>
+    <building id="nbeachb1" model="1234" posX="744.38184" posY="1176.07324" posZ="-2.28016" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachb1"></building>
+    <building id="4x4racecotop2" model="1234" posX="785.72754" posY="683.27734" posZ="-1.11571" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodracecotop2"></building>
+    <building id="beachblend01" model="1234" posX="762.46191" posY="1188.46191" posZ="-6.92134" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="beachblend02" model="1234" posX="940.94336" posY="1017.05615" posZ="-6.04037" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="beachblend03" model="1234" posX="962.91406" posY="854.09082" posZ="-5.26959" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="beachblend04" model="1234" posX="962.93945" posY="683.07861" posZ="-3.9095" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbdecopromnd2" model="1234" posX="417.63574" posY="981.68311" posZ="8.00864" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodecopromnd2"></building>
+    <building id="ci_nbbridge1" model="1234" posX="218.14453" posY="974.23047" posZ="-2.04862" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnbbridge1"></building>
+    <building id="ci_nbbridge1fn3" model="1234" posX="128.39941" posY="997.86523" posZ="9.05826" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="ci_nbbridge1fn2" model="1234" posX="209.35547" posY="970.36133" posZ="17.98092" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbhtel06shdw" model="1234" posX="265.4834" posY="1301.91699" posZ="12.29278" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbeachrdsign" model="1234" posX="334.87207" posY="951.74023" posZ="18.82953" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="hoteltrees05" model="1234" posX="196.23828" posY="1282.28418" posZ="22.8821" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="hoteltrees06" model="1234" posX="486.12988" posY="1324.33105" posZ="18.22188" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbchflw01" model="1234" posX="483.2832" posY="1325.98291" posZ="18.07035" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbchflw02" model="1234" posX="190.98145" posY="1285.94482" posZ="21.52916" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="4x4finishline" model="1234" posX="741.26074" posY="716.1499" posZ="5.27457" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="veg_palm04" model="620" posX="482.67773" posY="1294.06396" posZ="10.11959" rotX="0" rotY="0" rotZ="180" interior="0"></object>
     <object id="veg_palm04" model="620" posX="519.99316" posY="1327.2168" posZ="7.53858" rotX="-0" rotY="-0" rotZ="44.999616118851" interior="0"></object>
     <object id="veg_palm04" model="620" posX="551.02344" posY="1313.22803" posZ="9.38211" rotX="0" rotY="0" rotZ="-135.00038388115" interior="0"></object>
     <object id="veg_palm04" model="620" posX="467.91211" posY="1296.00391" posZ="10.34059" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
@@ -379,24 +379,24 @@
     <object id="MTraffic2" model="1284" posX="530.1709" posY="946.2959" posZ="13.15113" rotX="0" rotY="0" rotZ="-157.50014170056" interior="0"></object>
     <object id="MTraffic2" model="1284" posX="508.50391" posY="1005.30518" posZ="14.25221" rotX="0" rotY="0" rotZ="-164.00038268493" interior="0"></object>
     <object id="MTraffic2" model="1284" posX="524.76172" posY="976.70557" posZ="14.19828" rotX="-0" rotY="-0" rotZ="21.499554124534" interior="0"></object>
-    <object id="mlmiamiland056" model="8585" posX="303.73633" posY="1216.34717" posZ="15.506" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland056"></object>
-    <object id="mlmiamiland058" model="8585" posX="432.8125" posY="1214.89697" posZ="15.23743" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland058"></object>
-    <object id="mlmiamiland060" model="8585" posX="391.04492" posY="1081.66016" posZ="14.00287" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland060"></object>
-    <object id="newmallcp_03" model="8585" posX="322.23828" posY="1192.94385" posZ="12.65477" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmallcp_03"></object>
-    <object id="mlmallflag02" model="8585" posX="303.96875" posY="1260.23193" posZ="20.00413" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="mlmallflag12" model="8585" posX="347.1543" posY="1132.08789" posZ="19.18393" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="mlmallflag14" model="8585" posX="347.17773" posY="1024.0332" posZ="19.18393" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="mlnpoint02" model="8585" posX="379.20703" posY="1259.25781" posZ="15.34846" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="mlnpoint04" model="8585" posX="480.70508" posY="1124.39795" posZ="21.14709" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="mlnpoint06" model="8585" posX="449.75977" posY="993.26221" posZ="21.86346" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="newmallcp_05" model="8585" posX="362.23828" posY="1192.94385" posZ="15.35543" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmallcp_05"></object>
-    <object id="newmallcp_02" model="8585" posX="322.23828" posY="1192.94287" posZ="17.75678" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmallcp_02"></object>
-    <object id="newmallcp_04" model="8585" posX="362.23828" posY="1192.94287" posZ="19.16103" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmallcp_04"></object>
-    <object id="newmallcp_01" model="8585" posX="322.23828" posY="1206.14307" posZ="21.55298" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmallcp_01"></object>
-    <object id="nmalloutside" model="8585" posX="414.46191" posY="1047.79199" posZ="18.32346" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodlloutside"></object>
-    <object id="nbnorthmallext1" model="8585" posX="414.04395" posY="1124.43799" posZ="17.93569" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodorthmallext1"></object>
-    <object id="mlnorthmalllftex" model="8585" posX="422.67969" posY="1202.61816" posZ="18.32346" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodorthmalllftex"></object>
-    <object id="mlmallroof01" model="8585" posX="413.8252" posY="1126.6499" posZ="32.22914" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodallroof01"></object>
-    <object id="mlmiamiland060b" model="8585" posX="391.04492" posY="1081.66016" posZ="14.00287" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="mlmiamiland056" model="1234" posX="303.73633" posY="1216.34717" posZ="15.506" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland056"></building>
+    <building id="mlmiamiland058" model="1234" posX="432.8125" posY="1214.89697" posZ="15.23743" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland058"></building>
+    <building id="mlmiamiland060" model="1234" posX="391.04492" posY="1081.66016" posZ="14.00287" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodiamiland060"></building>
+    <building id="newmallcp_03" model="1234" posX="322.23828" posY="1192.94385" posZ="12.65477" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmallcp_03"></building>
+    <building id="mlmallflag02" model="1234" posX="303.96875" posY="1260.23193" posZ="20.00413" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="mlmallflag12" model="1234" posX="347.1543" posY="1132.08789" posZ="19.18393" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="mlmallflag14" model="1234" posX="347.17773" posY="1024.0332" posZ="19.18393" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="mlnpoint02" model="1234" posX="379.20703" posY="1259.25781" posZ="15.34846" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="mlnpoint04" model="1234" posX="480.70508" posY="1124.39795" posZ="21.14709" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="mlnpoint06" model="1234" posX="449.75977" posY="993.26221" posZ="21.86346" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="newmallcp_05" model="1234" posX="362.23828" posY="1192.94385" posZ="15.35543" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmallcp_05"></building>
+    <building id="newmallcp_02" model="1234" posX="322.23828" posY="1192.94287" posZ="17.75678" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmallcp_02"></building>
+    <building id="newmallcp_04" model="1234" posX="362.23828" posY="1192.94287" posZ="19.16103" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmallcp_04"></building>
+    <building id="newmallcp_01" model="1234" posX="322.23828" posY="1206.14307" posZ="21.55298" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmallcp_01"></building>
+    <building id="nmalloutside" model="1234" posX="414.46191" posY="1047.79199" posZ="18.32346" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodlloutside"></building>
+    <building id="nbnorthmallext1" model="1234" posX="414.04395" posY="1124.43799" posZ="17.93569" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodorthmallext1"></building>
+    <building id="mlnorthmalllftex" model="1234" posX="422.67969" posY="1202.61816" posZ="18.32346" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodorthmalllftex"></building>
+    <building id="mlmallroof01" model="1234" posX="413.8252" posY="1126.6499" posZ="32.22914" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodallroof01"></building>
+    <building id="mlmiamiland060b" model="1234" posX="391.04492" posY="1081.66016" posZ="14.00287" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
     <object id="submarine" model="1612" posX="362.74219" posY="1630.93701" posZ="-23.75995" rotX="-0" rotY="-0" rotZ="78.500606240559" interior="0"></object>
 </map>

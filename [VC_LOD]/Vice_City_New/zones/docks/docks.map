@@ -1,142 +1,142 @@
 <map>
-    <object id="cranetopa0" model="8585" posX="-877.84" posY="-1478.92" posZ="108.205" rotX="0" rotY="-0" rotZ="-60.000023135152" interior="0" lodID="lodnetopa0"></object>
-    <object id="dk_dockroads01" model="8585" posX="-782.97754" posY="-1140.23926" posZ="-6.15" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads01"></object>
-    <object id="dk_dockroads02" model="8585" posX="-918.44775" posY="-1356.77734" posZ="4.75317" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads02"></object>
-    <object id="dk_dockroads03" model="8585" posX="-829.89355" posY="-1406.58691" posZ="33.24754" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads03"></object>
-    <object id="dk_dockroads04" model="8585" posX="-720.28125" posY="-1419.37109" posZ="-12.29205" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads04"></object>
-    <object id="dk_dockroads05" model="8585" posX="-723.04297" posY="-1277.38184" posZ="21.624" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads05"></object>
-    <object id="dk_dockroads06" model="8585" posX="-645.15527" posY="-928.41895" posZ="2.125" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads06"></object>
-    <object id="docks10" model="8585" posX="-943.98389" posY="-1348.77539" posZ="18.08503" rotX="0" rotY="-0" rotZ="-22.000051421913" interior="0" lodID="lodks10"></object>
-    <object id="docks21" model="8585" posX="-928.47607" posY="-1466.13965" posZ="-0.8003" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks21"></object>
-    <object id="docks29" model="8585" posX="-1074.5332" posY="-1341.80176" posZ="-3.2318" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks29"></object>
-    <object id="docks30" model="8585" posX="-750.92187" posY="-1547.72461" posZ="-3.04491" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks30"></object>
-    <object id="docks31" model="8585" posX="-695.05225" posY="-1567.96582" posZ="-2.93112" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks31"></object>
-    <object id="docks37" model="8585" posX="-710.57275" posY="-1558.35547" posZ="5.37709" rotX="0" rotY="-0" rotZ="-21.499554124534" interior="0" lodID="lodks37"></object>
-    <object id="docks40" model="8585" posX="-766.5249" posY="-1540.79883" posZ="10.00391" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks40"></object>
-    <object id="docks42" model="8585" posX="-842.33936" posY="-1071.24512" posZ="7.87296" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks42"></object>
-    <object id="docks43" model="8585" posX="-838.49316" posY="-1087.67188" posZ="6.9962" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks43"></object>
-    <object id="dk_dockroads08" model="8585" posX="-810.50293" posY="-976.35059" posZ="26.145" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads08"></object>
-    <object id="docks46" model="8585" posX="-854.56543" posY="-991.50293" posZ="12.0034" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks46"></object>
-    <object id="docks47" model="8585" posX="-834.48145" posY="-1106.58008" posZ="7.88316" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks47"></object>
-    <object id="docks48" model="8585" posX="-829.46484" posY="-1124.1709" posZ="7.01332" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks48"></object>
-    <object id="docks49" model="8585" posX="-824.32812" posY="-1142.18262" posZ="7.87296" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks49"></object>
-    <object id="docks50" model="8585" posX="-818.32129" posY="-1160.04883" posZ="7.01332" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks50"></object>
-    <object id="docks51" model="8585" posX="-811.90869" posY="-1178.14258" posZ="7.873" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks51"></object>
-    <object id="docks52" model="8585" posX="-805.42578" posY="-1196.1416" posZ="7.01332" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks52"></object>
-    <object id="docks53" model="8585" posX="-798.91846" posY="-1214.11523" posZ="7.87296" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks53"></object>
-    <object id="docks85" model="8585" posX="-752.28076" posY="-1395.35547" posZ="9.25075" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks85"></object>
-    <object id="docksprops04" model="8585" posX="-932.7793" posY="-1408.54297" posZ="7.54944" rotX="0" rotY="-0" rotZ="-25.99988394764" interior="0" lodID="lodksprops04"></object>
-    <object id="docksprops10" model="8585" posX="-941.06787" posY="-1484.83203" posZ="6.7643" rotX="0" rotY="-0" rotZ="-23.99975331869" interior="0" lodID="lodksprops10"></object>
-    <object id="doc_shedbig30" model="8585" posX="-1161.04199" posY="-1381.60156" posZ="15.72378" rotX="0" rotY="-0" rotZ="-21.499554124534" interior="0" lodID="lod_shedbig30"></object>
-    <object id="boatcranelg0" model="8585" posX="-797.98437" posY="-1593.5459" posZ="20.4897" rotX="-0" rotY="-0" rotZ="69.500104809541" interior="0"></object>
-    <object id="crgoshp010" model="8585" posX="-752.96826" posY="-1599.1377" posZ="20.59068" rotX="0" rotY="-0" rotZ="-21.000606640326" interior="0" lodID="lodoshp010"></object>
-    <object id="cranebasea0" model="8585" posX="-876.95605" posY="-1478.08301" posZ="71.11073" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnebasea0"></object>
-    <object id="doc_dockwareold" model="8585" posX="-686.92969" posY="-1526.89648" posZ="10.07962" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_dockwareold"></object>
-    <object id="dk_waretank" model="8585" posX="-838.0498" posY="-1498.13867" posZ="8.33787" rotX="0" rotY="-0" rotZ="-22.000051421913" interior="0" lodID="lodwaretank"></object>
-    <object id="doc_crane_cab0" model="8585" posX="-1021.58984" posY="-1472.45703" posZ="16.3812" rotX="0" rotY="-0" rotZ="-113.99987181448" interior="0"></object>
-    <object id="boatcranesm0" model="8585" posX="-710.3208" posY="-1636.33594" posZ="29.0281" rotX="-0" rotY="-0" rotZ="69.500104809541" interior="0"></object>
-    <object id="dockcranescale01" model="8585" posX="-974.2334" posY="-1459.90723" posZ="38.7" rotX="0" rotY="-0" rotZ="-23.000339429204" interior="0" lodID="lodkcranescale01"></object>
-    <object id="doc_crane_cab01" model="8585" posX="-947.87793" posY="-1504.33301" posZ="16.3812" rotX="0" rotY="-0" rotZ="-113.99987181448" interior="0"></object>
-    <object id="doc_crane_cab02" model="8585" posX="-890.88965" posY="-1527.5127" posZ="16.3812" rotX="0" rotY="-0" rotZ="-113.99987181448" interior="0"></object>
-    <object id="doc_crane_cab03" model="8585" posX="-818.65869" posY="-1525.73047" posZ="16.3812" rotX="0" rotY="-0" rotZ="-113.99987181448" interior="0"></object>
-    <object id="doc_crane_cab04" model="8585" posX="-651.63867" posY="-1543.38672" posZ="21.9153" rotX="0" rotY="-0" rotZ="-21.000606640326" interior="0"></object>
-    <object id="doc_craneeggs04" model="8585" posX="-663.37744" posY="-1538.83301" posZ="9.06669" rotX="0" rotY="-0" rotZ="-21.000606640326" interior="0"></object>
-    <object id="dkshipment01" model="8585" posX="-1052.20996" posY="-1450.30664" posZ="8.03142" rotX="-0" rotY="-0" rotZ="157.50014170056" interior="0" lodID="lodhipment01"></object>
-    <object id="dockfuel02" model="8585" posX="-1036.31885" posY="-1466.53223" posZ="12.5902" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodkfuel02"></object>
-    <object id="dockfuel07" model="8585" posX="-660.32373" posY="-1537.33691" posZ="12.0688" rotX="0" rotY="-0" rotZ="-113.50055101563" interior="0"></object>
-    <object id="portcabgaz06" model="8585" posX="-704.26367" posY="-1262.85352" posZ="6.22624" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dk_cargoshp03" model="8585" posX="-646.93213" posY="-1322.89941" posZ="13.97364" rotX="-0" rotY="-0" rotZ="25.500345363772" interior="0" lodID="lodcargoshp03"></object>
-    <object id="dk_cargoshp04" model="8585" posX="-616.45117" posY="-1388.50879" posZ="16.64504" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp04"></object>
-    <object id="dk_cargoshp05" model="8585" posX="-684.80078" posY="-1241.95313" posZ="19.53904" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp05"></object>
-    <object id="dk_cargoshp10" model="8585" posX="-644.47998" posY="-1321.59863" posZ="20.50684" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></object>
-    <object id="dk_cargoshp12" model="8585" posX="-691.33594" posY="-1227.71777" posZ="18.79066" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></object>
-    <object id="dk_cargoshp24" model="8585" posX="-657.14795" posY="-1301.23047" posZ="9.18614" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp24"></object>
-    <object id="dk_cargoshp25" model="8585" posX="-611.13037" posY="-1399.91602" posZ="15.24986" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp25"></object>
-    <object id="dk_cargoshp28" model="8585" posX="-629.46533" posY="-1359.84961" posZ="27.53747" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp28"></object>
-    <object id="dk_cargoshp31" model="8585" posX="-681.19287" posY="-1249.63477" posZ="27.32225" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></object>
-    <object id="dk_cargoshp32" model="8585" posX="-616.92383" posY="-1387.39941" posZ="28.90838" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp32"></object>
-    <object id="dk_cargoshp35" model="8585" posX="-638.81396" posY="-1339.76074" posZ="22.77416" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp35"></object>
-    <object id="dk_cargoshp40" model="8585" posX="-652.5835" posY="-1285.20117" posZ="12.88226" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp40"></object>
-    <object id="dk_cargoshp41" model="8585" posX="-663.98437" posY="-1285.7793" posZ="27.53747" rotX="0" rotY="0" rotZ="-155.00005584102" interior="0" lodID="lodcargoshp41"></object>
-    <object id="dk_cargoshp47" model="8585" posX="-622.71436" posY="-1374.28711" posZ="22.77415" rotX="0" rotY="0" rotZ="-155.00005584102" interior="0" lodID="lodcargoshp47"></object>
-    <object id="dk_cargoshp50" model="8585" posX="-670.70605" posY="-1271.36914" posZ="22.77416" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp50"></object>
-    <object id="dk_cargoshp51" model="8585" posX="-654.60645" posY="-1305.89453" posZ="22.77415" rotX="0" rotY="0" rotZ="-155.00005584102" interior="0" lodID="lodcargoshp51"></object>
-    <object id="dk_cargoshp53" model="8585" posX="-690.3457" posY="-1251.59766" posZ="25.57628" rotX="0" rotY="270" rotZ="0" interior="0"></object>
-    <object id="dk_cargoshp54" model="8585" posX="-667.20459" posY="-1244.59863" posZ="24.29193" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></object>
-    <object id="dk_cargoshp64" model="8585" posX="-647.08691" posY="-1322.85059" posZ="37.14403" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp64"></object>
-    <object id="dk_cargoshp66" model="8585" posX="-655.58594" posY="-1304.58398" posZ="10.53525" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></object>
-    <object id="dk_cargoshp70" model="8585" posX="-623.1875" posY="-1374.06445" posZ="14.72854" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp70"></object>
-    <object id="dk_cargoshp71" model="8585" posX="-634.13916" posY="-1339.27344" posZ="13.42796" rotX="-0" rotY="-0" rotZ="25.500345363772" interior="0" lodID="lodcargoshp71"></object>
-    <object id="dk_cargoshp72" model="8585" posX="-655.34766" posY="-1305.00391" posZ="14.72853" rotX="-0" rotY="-0" rotZ="24.50028758004" interior="0" lodID="lodcargoshp72"></object>
-    <object id="dk_cargoshp73" model="8585" posX="-669.9707" posY="-1273.1709" posZ="14.72853" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp73"></object>
-    <object id="dk_cargoshp76" model="8585" posX="-695.17139" posY="-1220.30859" posZ="10.21754" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="shipstairs" model="8585" posX="-693.54395" posY="-1237.33398" posZ="19.19287" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dk_cargoshp95" model="8585" posX="-620.07666" posY="-1392.11816" posZ="19.40088" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></object>
-    <object id="dk_cargoshp100" model="8585" posX="-608.52148" posY="-1396.22363" posZ="16.20333" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dockfence" model="8585" posX="-680.88477" posY="-1479.72656" posZ="4.72204" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dock_camjones" model="8585" posX="-841.84082" posY="-906.2373" posZ="8.71341" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodk_camjones"></object>
-    <object id="dock_grassarea" model="8585" posX="-842.39209" posY="-1178.16895" posZ="7.40212" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodk_grassarea"></object>
-    <object id="docksware01" model="8585" posX="-1015.20215" posY="-1196.80762" posZ="15.23748" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodksware01"></object>
-    <object id="dk_gatebar01" model="8585" posX="-724.78369" posY="-1280.91797" posZ="6.98328" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dk_gatebox01" model="8585" posX="-715.29395" posY="-1275.7207" posZ="4.02026" rotX="0" rotY="-0" rotZ="-66.00012818552" interior="0"></object>
-    <object id="dockgate01" model="8585" posX="-719.55566" posY="-1268.19824" posZ="7.6086" rotX="-0" rotY="-0" rotZ="113.99987181448" interior="0"></object>
-    <object id="dockgate02" model="8585" posX="-738.64258" posY="-1276.7207" posZ="7.62469" rotX="-0" rotY="-0" rotZ="113.99987181448" interior="0"></object>
-    <object id="docks92" model="8585" posX="-834.06885" posY="-1337.95313" posZ="18.27029" rotX="-0" rotY="-0" rotZ="90" interior="0" lodID="lodks92"></object>
-    <object id="docks93" model="8585" posX="-912.70752" posY="-1305.67969" posZ="18.799" rotX="-0" rotY="-0" rotZ="90" interior="0" lodID="lodks93"></object>
-    <object id="docksprops11" model="8585" posX="-722.24463" posY="-1337.36621" posZ="6.70302" rotX="0" rotY="0" rotZ="-158.99939335967" interior="0" lodID="lodksprops11"></object>
-    <object id="docks95" model="8585" posX="-814.82568" posY="-1291.61133" posZ="18.18736" rotX="-0" rotY="-0" rotZ="90" interior="0" lodID="lodks95"></object>
-    <object id="dk_gatebar02" model="8585" posX="-757.79297" posY="-1273.28516" posZ="6.91421" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="docks96" model="8585" posX="-735.65918" posY="-1295.62012" posZ="9.30377" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks96"></object>
-    <object id="dk_bridgesupp01" model="8585" posX="-732.35303" posY="-925.79883" posZ="3.58667" rotX="0" rotY="-0" rotZ="-4.0000609459658" interior="0" lodID="lodbridgesupp01"></object>
-    <object id="dk_bridgesupp03" model="8585" posX="-598.28418" posY="-930.4668" posZ="4.37758" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodbridgesupp03"></object>
-    <object id="dk_dockbridge" model="8585" posX="-415.13037" posY="-928.7998" posZ="7.60659" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockbridge"></object>
-    <object id="dk_rail01" model="8585" posX="-732.74121" posY="-926.55957" posZ="4.92725" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dkcargohull2" model="8585" posX="-640.93994" posY="-1355.10938" posZ="3.494" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodargohull2"></object>
-    <object id="dk_bridgesupp04" model="8585" posX="-370.7251" posY="-934.12305" posZ="4.91575" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodbridgesupp04"></object>
-    <object id="dkshipment03" model="8585" posX="-973.07129" posY="-1442.54395" posZ="8.16034" rotX="0" rotY="-0" rotZ="-113.99987181448" interior="0" lodID="lodhipment03"></object>
-    <object id="dkshipment05" model="8585" posX="-908.42334" posY="-1499.95508" posZ="8.16034" rotX="-0" rotY="-0" rotZ="66.00012818552" interior="0" lodID="lodhipment05"></object>
-    <object id="b_hse_ext" model="8585" posX="-657.39453" posY="-1479.12793" posZ="11.84165" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodse_ext"></object>
-    <object id="b_hse_pier" model="8585" posX="-627.94629" posY="-1488.72168" posZ="7.816" rotX="0" rotY="-0" rotZ="-21.499554124534" interior="0" lodID="lodse_pier"></object>
-    <object id="boat_kb1" model="8585" posX="-621.81152" posY="-1512.6123" posZ="6.24387" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="boat_kb2" model="8585" posX="-651.80078" posY="-1472.98047" posZ="9.40166" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="b_hse_interior" model="8585" posX="-655.64795" posY="-1479.81055" posZ="11.208" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="docks28" model="8585" posX="-772.32031" posY="-1429.50195" posZ="18.60232" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks28"></object>
-    <object id="docks32" model="8585" posX="-679.52295" posY="-1514.01367" posZ="-3.09263" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks32"></object>
-    <object id="dk_rail02" model="8585" posX="-660.97266" posY="-931.5459" posZ="7.88676" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dk_rail03" model="8585" posX="-589.20459" posY="-933.96875" posZ="12.87688" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dk_cargoshp65" model="8585" posX="-640.66992" posY="-1341.37988" posZ="10.53524" rotX="-0" rotY="-0" rotZ="24.50028758004" interior="0"></object>
-    <object id="dk_cargoshp01" model="8585" posX="-625.20898" posY="-1374.53613" posZ="10.53524" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></object>
-    <object id="dk_cargoshp68" model="8585" posX="-667.21191" posY="-1271.15527" posZ="10.54353" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></object>
-    <object id="dkglue3" model="8585" posX="-841.15234" posY="-950.06836" posZ="5.12858" rotX="-0" rotY="-0" rotZ="95.000223716157" interior="0"></object>
-    <object id="dkfirtpass2" model="8585" posX="-840.02783" posY="-916.71484" posZ="11.37306" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="rustship_structure0" model="8585" posX="-998.76514" posY="-1524.67578" posZ="14.61002" rotX="0" rotY="-0" rotZ="-22.000051421913" interior="0" lodID="lodtship_structure0"></object>
-    <object id="dk_waretankdoor1" model="8585" posX="-832.98096" posY="-1484.41211" posZ="6.93358" rotX="-0" rotY="-0" rotZ="67.999568620664" interior="0"></object>
-    <object id="docksprops12" model="8585" posX="-749.24609" posY="-1375.47266" posZ="6.92194" rotX="0" rotY="-0" rotZ="-112.99997617082" interior="0"></object>
-    <object id="docksprops13" model="8585" posX="-738.45996" posY="-1433.95801" posZ="6.86315" rotX="-0" rotY="-0" rotZ="156.00024668131" interior="0"></object>
-    <object id="dk_shipstair" model="8585" posX="-691.66504" posY="-1283.33203" posZ="7.02485" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></object>
-    <object id="docksprops14" model="8585" posX="-847.59961" posY="-1446.29492" posZ="7.56331" rotX="0" rotY="-0" rotZ="-24.999944158984" interior="0" lodID="lodksprops14"></object>
-    <object id="dk_rail04" model="8585" posX="-517.43604" posY="-934.25391" posZ="18.34884" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dk_rail05" model="8585" posX="-445.66748" posY="-934.53906" posZ="20.67715" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dk_rail06" model="8585" posX="-373.89941" posY="-935.97852" posZ="19.04562" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dk_rail07" model="8585" posX="-302.13086" posY="-937.9668" posZ="14.48266" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dk_paynspray" model="8585" posX="-903.69336" posY="-1266.18066" posZ="9.08703" rotX="0" rotY="-0" rotZ="67.000023829178" interior="0" lodID="lodpaynspray"></object>
-    <object id="dk_paynspraydoor" model="8585" posX="-910.00195" posY="-1264.70996" posZ="6.49232" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="b_hse_pierfence" model="8585" posX="-626.80176" posY="-1498.11719" posZ="1.87286" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodse_pierfence"></object>
-    <object id="docksprops15" model="8585" posX="-844.32422" posY="-1496.66895" posZ="6.74235" rotX="0" rotY="-0" rotZ="-23.99975331869" interior="0" lodID="lodksprops15"></object>
-    <object id="docks61" model="8585" posX="-746.19189" posY="-1159.67676" posZ="-5.91662" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks61"></object>
-    <object id="docks60" model="8585" posX="-781.32812" posY="-973.89746" posZ="-6.16972" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks60"></object>
-    <object id="docks62" model="8585" posX="-685.31689" posY="-1353.83301" posZ="1.037" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks62"></object>
-    <object id="dk_bombdoor" model="8585" posX="-1161.31689" posY="-1402.47461" posZ="6.798" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dock_props02" model="8585" posX="-696.0752" posY="-1582.9043" posZ="7.4887" rotX="0" rotY="-0" rotZ="67.999568620664" interior="0"></object>
-    <object id="docks10rail" model="8585" posX="-994.74463" posY="-1360.50195" posZ="16.0782" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dkcargohull2b" model="8585" posX="-640.93994" posY="-1355.10938" posZ="3.494" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></object>
-    <object id="dkcargohull2c" model="8585" posX="-640.93994" posY="-1355.10938" posZ="3.494" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></object>
-    <object id="dk_rdsignsn" model="8585" posX="-809.62012" posY="-895.19434" posZ="10.87076" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dk_rdsignsbr" model="8585" posX="-738.5957" posY="-925.8916" posZ="12.56054" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dockgrass" model="8585" posX="-687.74121" posY="-1564.73047" posZ="6.05262" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="b_hse_interiorrays" model="8585" posX="-655.64795" posY="-1479.81055" posZ="11.208" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="dockcranescale01" model="8585" posX="-859.48584" posY="-1517.69434" posZ="38.7" rotX="0" rotY="-0" rotZ="-23.499697887802" interior="0" lodID="lodkcranescale0"></object>
-    <object id="veg_palm04" model="620" posX="-740.65088" posY="-1191.50488" posZ="3.7003" rotX="0" rotY="-0" rotZ="-92.02418628741" interior="0"></object>
+    <building id="cranetopa0" model="1234" posX="-877.84" posY="-1478.92" posZ="108.205" rotX="0" rotY="-0" rotZ="-60.000023135152" interior="0" lodID="lodnetopa0"></building>
+    <building id="dk_dockroads01" model="1234" posX="-782.97754" posY="-1140.23926" posZ="-6.15" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads01"></building>
+    <building id="dk_dockroads02" model="1234" posX="-918.44775" posY="-1356.77734" posZ="4.75317" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads02"></building>
+    <building id="dk_dockroads03" model="1234" posX="-829.89355" posY="-1406.58691" posZ="33.24754" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads03"></building>
+    <building id="dk_dockroads04" model="1234" posX="-720.28125" posY="-1419.37109" posZ="-12.29205" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads04"></building>
+    <building id="dk_dockroads05" model="1234" posX="-723.04297" posY="-1277.38184" posZ="21.624" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads05"></building>
+    <building id="dk_dockroads06" model="1234" posX="-645.15527" posY="-928.41895" posZ="2.125" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads06"></building>
+    <building id="docks10" model="1234" posX="-943.98389" posY="-1348.77539" posZ="18.08503" rotX="0" rotY="-0" rotZ="-22.000051421913" interior="0" lodID="lodks10"></building>
+    <building id="docks21" model="1234" posX="-928.47607" posY="-1466.13965" posZ="-0.8003" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks21"></building>
+    <building id="docks29" model="1234" posX="-1074.5332" posY="-1341.80176" posZ="-3.2318" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks29"></building>
+    <building id="docks30" model="1234" posX="-750.92187" posY="-1547.72461" posZ="-3.04491" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks30"></building>
+    <building id="docks31" model="1234" posX="-695.05225" posY="-1567.96582" posZ="-2.93112" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks31"></building>
+    <building id="docks37" model="1234" posX="-710.57275" posY="-1558.35547" posZ="5.37709" rotX="0" rotY="-0" rotZ="-21.499554124534" interior="0" lodID="lodks37"></building>
+    <building id="docks40" model="1234" posX="-766.5249" posY="-1540.79883" posZ="10.00391" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks40"></building>
+    <building id="docks42" model="1234" posX="-842.33936" posY="-1071.24512" posZ="7.87296" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks42"></building>
+    <building id="docks43" model="1234" posX="-838.49316" posY="-1087.67188" posZ="6.9962" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks43"></building>
+    <building id="dk_dockroads08" model="1234" posX="-810.50293" posY="-976.35059" posZ="26.145" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockroads08"></building>
+    <building id="docks46" model="1234" posX="-854.56543" posY="-991.50293" posZ="12.0034" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks46"></building>
+    <building id="docks47" model="1234" posX="-834.48145" posY="-1106.58008" posZ="7.88316" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks47"></building>
+    <building id="docks48" model="1234" posX="-829.46484" posY="-1124.1709" posZ="7.01332" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks48"></building>
+    <building id="docks49" model="1234" posX="-824.32812" posY="-1142.18262" posZ="7.87296" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks49"></building>
+    <building id="docks50" model="1234" posX="-818.32129" posY="-1160.04883" posZ="7.01332" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks50"></building>
+    <building id="docks51" model="1234" posX="-811.90869" posY="-1178.14258" posZ="7.873" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks51"></building>
+    <building id="docks52" model="1234" posX="-805.42578" posY="-1196.1416" posZ="7.01332" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks52"></building>
+    <building id="docks53" model="1234" posX="-798.91846" posY="-1214.11523" posZ="7.87296" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks53"></building>
+    <building id="docks85" model="1234" posX="-752.28076" posY="-1395.35547" posZ="9.25075" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks85"></building>
+    <building id="docksprops04" model="1234" posX="-932.7793" posY="-1408.54297" posZ="7.54944" rotX="0" rotY="-0" rotZ="-25.99988394764" interior="0" lodID="lodksprops04"></building>
+    <building id="docksprops10" model="1234" posX="-941.06787" posY="-1484.83203" posZ="6.7643" rotX="0" rotY="-0" rotZ="-23.99975331869" interior="0" lodID="lodksprops10"></building>
+    <building id="doc_shedbig30" model="1234" posX="-1161.04199" posY="-1381.60156" posZ="15.72378" rotX="0" rotY="-0" rotZ="-21.499554124534" interior="0" lodID="lod_shedbig30"></building>
+    <building id="boatcranelg0" model="1234" posX="-797.98437" posY="-1593.5459" posZ="20.4897" rotX="-0" rotY="-0" rotZ="69.500104809541" interior="0"></building>
+    <building id="crgoshp010" model="1234" posX="-752.96826" posY="-1599.1377" posZ="20.59068" rotX="0" rotY="-0" rotZ="-21.000606640326" interior="0" lodID="lodoshp010"></building>
+    <building id="cranebasea0" model="1234" posX="-876.95605" posY="-1478.08301" posZ="71.11073" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnebasea0"></building>
+    <building id="doc_dockwareold" model="1234" posX="-686.92969" posY="-1526.89648" posZ="10.07962" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_dockwareold"></building>
+    <building id="dk_waretank" model="1234" posX="-838.0498" posY="-1498.13867" posZ="8.33787" rotX="0" rotY="-0" rotZ="-22.000051421913" interior="0" lodID="lodwaretank"></building>
+    <building id="doc_crane_cab0" model="1234" posX="-1021.58984" posY="-1472.45703" posZ="16.3812" rotX="0" rotY="-0" rotZ="-113.99987181448" interior="0"></building>
+    <building id="boatcranesm0" model="1234" posX="-710.3208" posY="-1636.33594" posZ="29.0281" rotX="-0" rotY="-0" rotZ="69.500104809541" interior="0"></building>
+    <building id="dockcranescale01" model="1234" posX="-974.2334" posY="-1459.90723" posZ="38.7" rotX="0" rotY="-0" rotZ="-23.000339429204" interior="0" lodID="lodkcranescale01"></building>
+    <building id="doc_crane_cab01" model="1234" posX="-947.87793" posY="-1504.33301" posZ="16.3812" rotX="0" rotY="-0" rotZ="-113.99987181448" interior="0"></building>
+    <building id="doc_crane_cab02" model="1234" posX="-890.88965" posY="-1527.5127" posZ="16.3812" rotX="0" rotY="-0" rotZ="-113.99987181448" interior="0"></building>
+    <building id="doc_crane_cab03" model="1234" posX="-818.65869" posY="-1525.73047" posZ="16.3812" rotX="0" rotY="-0" rotZ="-113.99987181448" interior="0"></building>
+    <building id="doc_crane_cab04" model="1234" posX="-651.63867" posY="-1543.38672" posZ="21.9153" rotX="0" rotY="-0" rotZ="-21.000606640326" interior="0"></building>
+    <building id="doc_craneeggs04" model="1234" posX="-663.37744" posY="-1538.83301" posZ="9.06669" rotX="0" rotY="-0" rotZ="-21.000606640326" interior="0"></building>
+    <building id="dkshipment01" model="1234" posX="-1052.20996" posY="-1450.30664" posZ="8.03142" rotX="-0" rotY="-0" rotZ="157.50014170056" interior="0" lodID="lodhipment01"></building>
+    <building id="dockfuel02" model="1234" posX="-1036.31885" posY="-1466.53223" posZ="12.5902" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodkfuel02"></building>
+    <building id="dockfuel07" model="1234" posX="-660.32373" posY="-1537.33691" posZ="12.0688" rotX="0" rotY="-0" rotZ="-113.50055101563" interior="0"></building>
+    <building id="portcabgaz06" model="1234" posX="-704.26367" posY="-1262.85352" posZ="6.22624" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dk_cargoshp03" model="1234" posX="-646.93213" posY="-1322.89941" posZ="13.97364" rotX="-0" rotY="-0" rotZ="25.500345363772" interior="0" lodID="lodcargoshp03"></building>
+    <building id="dk_cargoshp04" model="1234" posX="-616.45117" posY="-1388.50879" posZ="16.64504" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp04"></building>
+    <building id="dk_cargoshp05" model="1234" posX="-684.80078" posY="-1241.95313" posZ="19.53904" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp05"></building>
+    <building id="dk_cargoshp10" model="1234" posX="-644.47998" posY="-1321.59863" posZ="20.50684" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></building>
+    <building id="dk_cargoshp12" model="1234" posX="-691.33594" posY="-1227.71777" posZ="18.79066" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></building>
+    <building id="dk_cargoshp24" model="1234" posX="-657.14795" posY="-1301.23047" posZ="9.18614" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp24"></building>
+    <building id="dk_cargoshp25" model="1234" posX="-611.13037" posY="-1399.91602" posZ="15.24986" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp25"></building>
+    <building id="dk_cargoshp28" model="1234" posX="-629.46533" posY="-1359.84961" posZ="27.53747" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp28"></building>
+    <building id="dk_cargoshp31" model="1234" posX="-681.19287" posY="-1249.63477" posZ="27.32225" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></building>
+    <building id="dk_cargoshp32" model="1234" posX="-616.92383" posY="-1387.39941" posZ="28.90838" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp32"></building>
+    <building id="dk_cargoshp35" model="1234" posX="-638.81396" posY="-1339.76074" posZ="22.77416" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp35"></building>
+    <building id="dk_cargoshp40" model="1234" posX="-652.5835" posY="-1285.20117" posZ="12.88226" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp40"></building>
+    <building id="dk_cargoshp41" model="1234" posX="-663.98437" posY="-1285.7793" posZ="27.53747" rotX="0" rotY="0" rotZ="-155.00005584102" interior="0" lodID="lodcargoshp41"></building>
+    <building id="dk_cargoshp47" model="1234" posX="-622.71436" posY="-1374.28711" posZ="22.77415" rotX="0" rotY="0" rotZ="-155.00005584102" interior="0" lodID="lodcargoshp47"></building>
+    <building id="dk_cargoshp50" model="1234" posX="-670.70605" posY="-1271.36914" posZ="22.77416" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp50"></building>
+    <building id="dk_cargoshp51" model="1234" posX="-654.60645" posY="-1305.89453" posZ="22.77415" rotX="0" rotY="0" rotZ="-155.00005584102" interior="0" lodID="lodcargoshp51"></building>
+    <building id="dk_cargoshp53" model="1234" posX="-690.3457" posY="-1251.59766" posZ="25.57628" rotX="0" rotY="270" rotZ="0" interior="0"></building>
+    <building id="dk_cargoshp54" model="1234" posX="-667.20459" posY="-1244.59863" posZ="24.29193" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></building>
+    <building id="dk_cargoshp64" model="1234" posX="-647.08691" posY="-1322.85059" posZ="37.14403" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp64"></building>
+    <building id="dk_cargoshp66" model="1234" posX="-655.58594" posY="-1304.58398" posZ="10.53525" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></building>
+    <building id="dk_cargoshp70" model="1234" posX="-623.1875" posY="-1374.06445" posZ="14.72854" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp70"></building>
+    <building id="dk_cargoshp71" model="1234" posX="-634.13916" posY="-1339.27344" posZ="13.42796" rotX="-0" rotY="-0" rotZ="25.500345363772" interior="0" lodID="lodcargoshp71"></building>
+    <building id="dk_cargoshp72" model="1234" posX="-655.34766" posY="-1305.00391" posZ="14.72853" rotX="-0" rotY="-0" rotZ="24.50028758004" interior="0" lodID="lodcargoshp72"></building>
+    <building id="dk_cargoshp73" model="1234" posX="-669.9707" posY="-1273.1709" posZ="14.72853" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodcargoshp73"></building>
+    <building id="dk_cargoshp76" model="1234" posX="-695.17139" posY="-1220.30859" posZ="10.21754" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="shipstairs" model="1234" posX="-693.54395" posY="-1237.33398" posZ="19.19287" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dk_cargoshp95" model="1234" posX="-620.07666" posY="-1392.11816" posZ="19.40088" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></building>
+    <building id="dk_cargoshp100" model="1234" posX="-608.52148" posY="-1396.22363" posZ="16.20333" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dockfence" model="1234" posX="-680.88477" posY="-1479.72656" posZ="4.72204" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dock_camjones" model="1234" posX="-841.84082" posY="-906.2373" posZ="8.71341" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodk_camjones"></building>
+    <building id="dock_grassarea" model="1234" posX="-842.39209" posY="-1178.16895" posZ="7.40212" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodk_grassarea"></building>
+    <building id="docksware01" model="1234" posX="-1015.20215" posY="-1196.80762" posZ="15.23748" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodksware01"></building>
+    <building id="dk_gatebar01" model="1234" posX="-724.78369" posY="-1280.91797" posZ="6.98328" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dk_gatebox01" model="1234" posX="-715.29395" posY="-1275.7207" posZ="4.02026" rotX="0" rotY="-0" rotZ="-66.00012818552" interior="0"></building>
+    <building id="dockgate01" model="1234" posX="-719.55566" posY="-1268.19824" posZ="7.6086" rotX="-0" rotY="-0" rotZ="113.99987181448" interior="0"></building>
+    <building id="dockgate02" model="1234" posX="-738.64258" posY="-1276.7207" posZ="7.62469" rotX="-0" rotY="-0" rotZ="113.99987181448" interior="0"></building>
+    <building id="docks92" model="1234" posX="-834.06885" posY="-1337.95313" posZ="18.27029" rotX="-0" rotY="-0" rotZ="90" interior="0" lodID="lodks92"></building>
+    <building id="docks93" model="1234" posX="-912.70752" posY="-1305.67969" posZ="18.799" rotX="-0" rotY="-0" rotZ="90" interior="0" lodID="lodks93"></building>
+    <building id="docksprops11" model="1234" posX="-722.24463" posY="-1337.36621" posZ="6.70302" rotX="0" rotY="0" rotZ="-158.99939335967" interior="0" lodID="lodksprops11"></building>
+    <building id="docks95" model="1234" posX="-814.82568" posY="-1291.61133" posZ="18.18736" rotX="-0" rotY="-0" rotZ="90" interior="0" lodID="lodks95"></building>
+    <building id="dk_gatebar02" model="1234" posX="-757.79297" posY="-1273.28516" posZ="6.91421" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="docks96" model="1234" posX="-735.65918" posY="-1295.62012" posZ="9.30377" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks96"></building>
+    <building id="dk_bridgesupp01" model="1234" posX="-732.35303" posY="-925.79883" posZ="3.58667" rotX="0" rotY="-0" rotZ="-4.0000609459658" interior="0" lodID="lodbridgesupp01"></building>
+    <building id="dk_bridgesupp03" model="1234" posX="-598.28418" posY="-930.4668" posZ="4.37758" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodbridgesupp03"></building>
+    <building id="dk_dockbridge" model="1234" posX="-415.13037" posY="-928.7998" posZ="7.60659" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddockbridge"></building>
+    <building id="dk_rail01" model="1234" posX="-732.74121" posY="-926.55957" posZ="4.92725" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dkcargohull2" model="1234" posX="-640.93994" posY="-1355.10938" posZ="3.494" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0" lodID="lodargohull2"></building>
+    <building id="dk_bridgesupp04" model="1234" posX="-370.7251" posY="-934.12305" posZ="4.91575" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodbridgesupp04"></building>
+    <building id="dkshipment03" model="1234" posX="-973.07129" posY="-1442.54395" posZ="8.16034" rotX="0" rotY="-0" rotZ="-113.99987181448" interior="0" lodID="lodhipment03"></building>
+    <building id="dkshipment05" model="1234" posX="-908.42334" posY="-1499.95508" posZ="8.16034" rotX="-0" rotY="-0" rotZ="66.00012818552" interior="0" lodID="lodhipment05"></building>
+    <building id="b_hse_ext" model="1234" posX="-657.39453" posY="-1479.12793" posZ="11.84165" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodse_ext"></building>
+    <building id="b_hse_pier" model="1234" posX="-627.94629" posY="-1488.72168" posZ="7.816" rotX="0" rotY="-0" rotZ="-21.499554124534" interior="0" lodID="lodse_pier"></building>
+    <building id="boat_kb1" model="1234" posX="-621.81152" posY="-1512.6123" posZ="6.24387" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="boat_kb2" model="1234" posX="-651.80078" posY="-1472.98047" posZ="9.40166" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="b_hse_interior" model="1234" posX="-655.64795" posY="-1479.81055" posZ="11.208" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="docks28" model="1234" posX="-772.32031" posY="-1429.50195" posZ="18.60232" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks28"></building>
+    <building id="docks32" model="1234" posX="-679.52295" posY="-1514.01367" posZ="-3.09263" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks32"></building>
+    <building id="dk_rail02" model="1234" posX="-660.97266" posY="-931.5459" posZ="7.88676" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dk_rail03" model="1234" posX="-589.20459" posY="-933.96875" posZ="12.87688" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dk_cargoshp65" model="1234" posX="-640.66992" posY="-1341.37988" posZ="10.53524" rotX="-0" rotY="-0" rotZ="24.50028758004" interior="0"></building>
+    <building id="dk_cargoshp01" model="1234" posX="-625.20898" posY="-1374.53613" posZ="10.53524" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></building>
+    <building id="dk_cargoshp68" model="1234" posX="-667.21191" posY="-1271.15527" posZ="10.54353" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></building>
+    <building id="dkglue3" model="1234" posX="-841.15234" posY="-950.06836" posZ="5.12858" rotX="-0" rotY="-0" rotZ="95.000223716157" interior="0"></building>
+    <building id="dkfirtpass2" model="1234" posX="-840.02783" posY="-916.71484" posZ="11.37306" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="rustship_structure0" model="1234" posX="-998.76514" posY="-1524.67578" posZ="14.61002" rotX="0" rotY="-0" rotZ="-22.000051421913" interior="0" lodID="lodtship_structure0"></building>
+    <building id="dk_waretankdoor1" model="1234" posX="-832.98096" posY="-1484.41211" posZ="6.93358" rotX="-0" rotY="-0" rotZ="67.999568620664" interior="0"></building>
+    <building id="docksprops12" model="1234" posX="-749.24609" posY="-1375.47266" posZ="6.92194" rotX="0" rotY="-0" rotZ="-112.99997617082" interior="0"></building>
+    <building id="docksprops13" model="1234" posX="-738.45996" posY="-1433.95801" posZ="6.86315" rotX="-0" rotY="-0" rotZ="156.00024668131" interior="0"></building>
+    <building id="dk_shipstair" model="1234" posX="-691.66504" posY="-1283.33203" posZ="7.02485" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></building>
+    <building id="docksprops14" model="1234" posX="-847.59961" posY="-1446.29492" posZ="7.56331" rotX="0" rotY="-0" rotZ="-24.999944158984" interior="0" lodID="lodksprops14"></building>
+    <building id="dk_rail04" model="1234" posX="-517.43604" posY="-934.25391" posZ="18.34884" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dk_rail05" model="1234" posX="-445.66748" posY="-934.53906" posZ="20.67715" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dk_rail06" model="1234" posX="-373.89941" posY="-935.97852" posZ="19.04562" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dk_rail07" model="1234" posX="-302.13086" posY="-937.9668" posZ="14.48266" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dk_paynspray" model="1234" posX="-903.69336" posY="-1266.18066" posZ="9.08703" rotX="0" rotY="-0" rotZ="67.000023829178" interior="0" lodID="lodpaynspray"></building>
+    <building id="dk_paynspraydoor" model="1234" posX="-910.00195" posY="-1264.70996" posZ="6.49232" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="b_hse_pierfence" model="1234" posX="-626.80176" posY="-1498.11719" posZ="1.87286" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodse_pierfence"></building>
+    <building id="docksprops15" model="1234" posX="-844.32422" posY="-1496.66895" posZ="6.74235" rotX="0" rotY="-0" rotZ="-23.99975331869" interior="0" lodID="lodksprops15"></building>
+    <building id="docks61" model="1234" posX="-746.19189" posY="-1159.67676" posZ="-5.91662" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks61"></building>
+    <building id="docks60" model="1234" posX="-781.32812" posY="-973.89746" posZ="-6.16972" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks60"></building>
+    <building id="docks62" model="1234" posX="-685.31689" posY="-1353.83301" posZ="1.037" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodks62"></building>
+    <building id="dk_bombdoor" model="1234" posX="-1161.31689" posY="-1402.47461" posZ="6.798" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dock_props02" model="1234" posX="-696.0752" posY="-1582.9043" posZ="7.4887" rotX="0" rotY="-0" rotZ="67.999568620664" interior="0"></building>
+    <building id="docks10rail" model="1234" posX="-994.74463" posY="-1360.50195" posZ="16.0782" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dkcargohull2b" model="1234" posX="-640.93994" posY="-1355.10938" posZ="3.494" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></building>
+    <building id="dkcargohull2c" model="1234" posX="-640.93994" posY="-1355.10938" posZ="3.494" rotX="-0" rotY="-0" rotZ="24.999944158984" interior="0"></building>
+    <building id="dk_rdsignsn" model="1234" posX="-809.62012" posY="-895.19434" posZ="10.87076" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dk_rdsignsbr" model="1234" posX="-738.5957" posY="-925.8916" posZ="12.56054" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dockgrass" model="1234" posX="-687.74121" posY="-1564.73047" posZ="6.05262" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="b_hse_interiorrays" model="1234" posX="-655.64795" posY="-1479.81055" posZ="11.208" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="dockcranescale01" model="1234" posX="-859.48584" posY="-1517.69434" posZ="38.7" rotX="0" rotY="-0" rotZ="-23.499697887802" interior="0" lodID="lodkcranescale0"></building>
+    <building id="veg_palm04" model="620" posX="-740.65088" posY="-1191.50488" posZ="3.7003" rotX="0" rotY="-0" rotZ="-92.02418628741" interior="0"></object>
     <object id="veg_palwee03" model="619" posX="-746.87305" posY="-1167.82422" posZ="3.8299" rotX="0" rotY="0" rotZ="-135.10316518546" interior="0"></object>
     <object id="veg_palwee02" model="624" posX="-748.85205" posY="-1142.17285" posZ="3.16371" rotX="-0" rotY="-0" rotZ="12.558014118225" interior="0"></object>
     <object id="veg_palm01" model="648" posX="-768.18848" posY="-1117.77832" posZ="3.57278" rotX="0" rotY="0" rotZ="-138.81508311319" interior="0"></object>
@@ -171,7 +171,7 @@
     <object id="veg_palm04" model="620" posX="-751.88281" posY="-1179.72461" posZ="3.70418" rotX="0" rotY="-0" rotZ="-92.02418628741" interior="0"></object>
     <object id="veg_palwee01" model="623" posX="-707.79639" posY="-1254.23242" posZ="3.44338" rotX="44.637540630546" rotY="-6.4193739769242" rotZ="6.4599254691781" interior="0"></object>
     <object id="veg_palwee01" model="623" posX="-718.35156" posY="-1262.16797" posZ="-0.34329" rotX="44.637040297287" rotY="-6.4185724145052" rotZ="-128.54021776533" interior="0"></object>
-    <object id="dock_props03" model="8585" posX="-690.52686" posY="-1578.01563" posZ="8.7225" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="dock_props03" model="1234" posX="-690.52686" posY="-1578.01563" posZ="8.7225" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
     <object id="nt_aircon1_02" model="1618" posX="-729.01562" posY="-1471.03125" posZ="11.2669" rotX="90" rotY="-0" rotZ="-170.99986981632" interior="0"></object>
     <object id="nt_aircon1_01" model="1617" posX="-668.59619" posY="-1485.47852" posZ="11.32329" rotX="0" rotY="0" rotZ="68.499517066995" interior="0"></object>
     <object id="nt_aircon3_01" model="1623" posX="-728.98975" posY="-1535.53613" posZ="11.04618" rotX="90" rotY="-0" rotZ="-112.00005142191" interior="0"></object>

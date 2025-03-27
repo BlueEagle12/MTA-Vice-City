@@ -1,16 +1,16 @@
 <map>
-    <object id="lw_room_main" model="8585" posX="141.1" posY="-1366.34" posZ="6.14267" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></object>
-    <object id="lw_lights" model="8585" posX="141.24" posY="-1365.32" posZ="8.17157" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></object>
-    <object id="lw_palm1" model="8585" posX="139.86" posY="-1369.2" posZ="7.14041" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></object>
-    <object id="lw_floor_opac" model="8585" posX="140.9" posY="-1366.25" posZ="6.14267" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></object>
-    <object id="lw_rug" model="8585" posX="140.93" posY="-1366.17" posZ="6.14272" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></object>
-    <object id="lw_shado" model="8585" posX="140.9" posY="-1366.25" posZ="6.16284" rotX="0" rotY="-0" rotZ="0" interior="6"></object>
-    <object id="lw_officedesk01" model="8585" posX="141.49" posY="-1365.17" posZ="6.49623" rotX="0" rotY="-0" rotZ="0" interior="6"></object>
-    <object id="lawcutmapb" model="8585" posX="188.47" posY="-1370.61" posZ="10.1172" rotX="0" rotY="-0" rotZ="0" interior="6"></object>
-    <object id="lawcutmapc" model="8585" posX="148.16" posY="-1467.59" posZ="11.4537" rotX="0" rotY="-0" rotZ="0" interior="6"></object>
-    <object id="lawcutmapa" model="8585" posX="137.71" posY="-1393.45" posZ="3.31684" rotX="0" rotY="-0" rotZ="0" interior="6"></object>
-    <object id="lw_roombitsb" model="8585" posX="141.1" posY="-1366.33" posZ="6.14267" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></object>
-    <object id="fixedbects06" model="8585" posX="142.78" posY="-1367.56" posZ="6.66776" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></object>
-    <object id="lw_roombitsc" model="8585" posX="141.1" posY="-1366.33" posZ="6.14267" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></object>
-    <object id="lw_roombitsbb" model="8585" posX="140.76" posY="-1366.71" posZ="6.14267" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></object>
+    <building id="lw_room_main" model="1234" posX="141.1" posY="-1366.34" posZ="6.14267" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></building>
+    <building id="lw_lights" model="1234" posX="141.24" posY="-1365.32" posZ="8.17157" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></building>
+    <building id="lw_palm1" model="1234" posX="139.86" posY="-1369.2" posZ="7.14041" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></building>
+    <building id="lw_floor_opac" model="1234" posX="140.9" posY="-1366.25" posZ="6.14267" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></building>
+    <building id="lw_rug" model="1234" posX="140.93" posY="-1366.17" posZ="6.14272" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></building>
+    <building id="lw_shado" model="1234" posX="140.9" posY="-1366.25" posZ="6.16284" rotX="0" rotY="-0" rotZ="0" interior="6"></building>
+    <building id="lw_officedesk01" model="1234" posX="141.49" posY="-1365.17" posZ="6.49623" rotX="0" rotY="-0" rotZ="0" interior="6"></building>
+    <building id="lawcutmapb" model="1234" posX="188.47" posY="-1370.61" posZ="10.1172" rotX="0" rotY="-0" rotZ="0" interior="6"></building>
+    <building id="lawcutmapc" model="1234" posX="148.16" posY="-1467.59" posZ="11.4537" rotX="0" rotY="-0" rotZ="0" interior="6"></building>
+    <building id="lawcutmapa" model="1234" posX="137.71" posY="-1393.45" posZ="3.31684" rotX="0" rotY="-0" rotZ="0" interior="6"></building>
+    <building id="lw_roombitsb" model="1234" posX="141.1" posY="-1366.33" posZ="6.14267" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></building>
+    <building id="fixedbects06" model="1234" posX="142.78" posY="-1367.56" posZ="6.66776" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></building>
+    <building id="lw_roombitsc" model="1234" posX="141.1" posY="-1366.33" posZ="6.14267" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></building>
+    <building id="lw_roombitsbb" model="1234" posX="140.76" posY="-1366.71" posZ="6.14267" rotX="0" rotY="-0" rotZ="-19.999975035461" interior="6"></building>
 </map>

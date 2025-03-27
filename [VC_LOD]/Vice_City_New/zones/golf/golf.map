@@ -1,71 +1,71 @@
 <map>
-    <object id="gf_tree1_01" model="8585" posX="88.92773" posY="222.92383" posZ="21.81646" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_tree2_02" model="8585" posX="125.67969" posY="236.03076" posZ="21.84524" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_smallisland1_01" model="8585" posX="19.3877" posY="-212.89648" posZ="2.44489" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsmallisland1_01"></object>
-    <object id="gf_flagstees3" model="8585" posX="-19.7373" posY="302.75195" posZ="16.78742" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_flagstees4" model="8585" posX="66.08789" posY="0.91991999999982" posZ="12.60234" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_mainisl5_01" model="8585" posX="-1.2548800000004" posY="-58.44824" posZ="5.32723" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisl5_01"></object>
-    <object id="gf_tennisfence" model="8585" posX="129.66602" posY="343.02637" posZ="13.88443" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_northisland1" model="8585" posX="152.05859" posY="534.19238" posZ="2.5996" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnorthisland1"></object>
-    <object id="gf_northbridge1" model="8585" posX="90.92285" posY="404.81299" posZ="1.50343" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnorthbridge1"></object>
-    <object id="gf_planters2" model="8585" posX="29.84082" posY="246.61572" posZ="17.49896" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_ivy_balcny_01" model="8585" posX="13.43652" posY="236.125" posZ="18.11942" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_ivy_balcny_07" model="8585" posX="31.96289" posY="245.84277" posZ="15.56535" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_smallislebridge1" model="8585" posX="42.84961" posY="-153.0918" posZ="3.33955" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsmallislebridge1"></object>
-    <object id="gf_flagstees2" model="8585" posX="154.22656" posY="512.52051" posZ="7.1303" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_flagstees1" model="8585" posX="-155.86475" posY="516.28906" posZ="7.13893" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_drivingrange1" model="8585" posX="81.7959" posY="582.96484" posZ="11.53464" rotX="0" rotY="0" rotZ="-162.50035718287" interior="0" lodID="loddrivingrange1"></object>
-    <object id="gf_drdivide1_01" model="8585" posX="78.87402" posY="582.16211" posZ="9.97948" rotX="0" rotY="0" rotZ="-162.50035718287" interior="0"></object>
-    <object id="gf_hedge1_01" model="8585" posX="146.61328" posY="256.03906" posZ="14.35555" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_hedge2_01" model="8585" posX="29.30957" posY="192.24902" posZ="16.64581" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_hedge3_01" model="8585" posX="-43.60352" posY="127.01318" posZ="13.17148" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_hedge5_01" model="8585" posX="41.71973" posY="152.4082" posZ="16.51082" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_northisland2" model="8585" posX="-70.32178" posY="524.10254" posZ="-9.73278" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnorthisland2"></object>
-    <object id="gf_mainisland3a_01" model="8585" posX="84.23145" posY="293.63867" posZ="4.45852" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland3a_01"></object>
-    <object id="gf_mainisland2a_01" model="8585" posX="-12.3877" posY="202.82568" posZ="0.05702" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland2a_01"></object>
-    <object id="gf_mainisland1a_01" model="8585" posX="149.1084" posY="188.98828" posZ="2.79943" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland1a_01"></object>
-    <object id="gf_mainisl2b_01" model="8585" posX="-12.97266" posY="318.45605" posZ="5.20535" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisl2b_01"></object>
-    <object id="gf_mainisland1b_01" model="8585" posX="147.7998" posY="81.82666" posZ="3.42325" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland1b_01"></object>
-    <object id="gf_northisland3" model="8585" posX="-220.21338" posY="521.77393" posZ="0.90221" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnorthisland3"></object>
-    <object id="gf_mainisland6b_01" model="8585" posX="133.62793" posY="-108.40527" posZ="0.28047" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland6b_01"></object>
-    <object id="gf_clubhouse1" model="8585" posX="96.73438" posY="264.37695" posZ="21.41879" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodclubhouse1"></object>
-    <object id="gf_picket1_01" model="8585" posX="101.93848" posY="254.91943" posZ="15.32819" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_clublight1_01" model="8585" posX="102.00098" posY="251.72266" posZ="15.08776" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_stadlight1_02" model="8585" posX="164.88867" posY="367.71484" posZ="16.01216" rotX="-0" rotY="-0" rotZ="44.999616118851" interior="0"></object>
-    <object id="gf_planters4" model="8585" posX="99.68555" posY="254.20703" posZ="15.45325" rotX="-0" rotY="-0" rotZ="84.50012652915" interior="0"></object>
-    <object id="gardenbencha" model="8585" posX="91.21777" posY="566.82568" posZ="7.72683" rotX="0" rotY="0" rotZ="-144.50061591824" interior="0"></object>
-    <object id="gardenbencha" model="8585" posX="78.38184" posY="583.08643" posZ="7.71996" rotX="-0" rotY="-0" rotZ="110.99989200255" interior="0"></object>
-    <object id="gf_treesfw1_01" model="8585" posX="-5.9951199999996" posY="247.74805" posZ="29.69873" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_treesfw2_01" model="8585" posX="55.46973" posY="125.82568" posZ="29.55595" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_treesfw3_01" model="8585" posX="50.80859" posY="-29.5127" posZ="24.60464" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_treesfw4_01" model="8585" posX="158.00488" posY="524.2168" posZ="20.85654" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_treesfw5_01" model="8585" posX="-181.00293" posY="523.21973" posZ="19.9238" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_mainisland6a_01" model="8585" posX="123.86621" posY="-10.94238" posZ="2.81322" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland6a_01"></object>
-    <object id="gf_mainisl4_01" model="8585" posX="8.7929700000004" posY="99.91553" posZ="1.68879" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisl4_01"></object>
-    <object id="gf_water01" model="8585" posX="10.33789" posY="31.6543" posZ="14.50001" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_water02" model="8585" posX="73.54492" posY="11.50293" posZ="9.707" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_water03" model="8585" posX="135.1416" posY="11.00488" posZ="2.85487" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nt_security1" model="8585" posX="93.64551" posY="267.24854" posZ="14.75011" rotX="0" rotY="0" rotZ="180" interior="0"></object>
-    <object id="gf_pedbridge3" model="8585" posX="188.86328" posY="377.11426" posZ="4.59352" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodpedbridge3"></object>
-    <object id="golfroad5" model="8585" posX="-15.72754" posY="110.84326" posZ="6.90008" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodfroad5"></object>
-    <object id="golfroad3" model="8585" posX="163.75586" posY="191.2002" posZ="2.79943" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodfroad3"></object>
-    <object id="golfroad4" model="8585" posX="82.37598" posY="293.63867" posZ="4.45852" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodfroad4"></object>
-    <object id="golfroad1" model="8585" posX="154.17285" posY="306.78516" posZ="3.30733" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodfroad1"></object>
-    <object id="golfroad7" model="8585" posX="152.05859" posY="534.19238" posZ="2.5996" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="golfroad2" model="8585" posX="82.37598" posY="293.63867" posZ="4.45852" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodfroad2"></object>
-    <object id="nbt_road12_gf" model="8585" posX="212.28711" posY="239.56348" posZ="8.04487" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road12_gf"></object>
-    <object id="gf_rollerjump" model="8585" posX="79.66797" posY="241.74658" posZ="15.48362" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_mainisland3b_01" model="8585" posX="154.17285" posY="306.78516" posZ="3.30733" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland3b_01"></object>
-    <object id="gf_golfwall" model="8585" posX="107.77246" posY="227.729" posZ="14.85639" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodgolfwall"></object>
-    <object id="gf_northisland1b" model="8585" posX="152.05859" posY="534.19238" posZ="2.5996" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_northisland1c" model="8585" posX="152.05859" posY="534.19238" posZ="2.5996" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_mainisland1m_01" model="8585" posX="149.1084" posY="188.98828" posZ="2.79943" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_mainisland6n_01" model="8585" posX="133.62793" posY="-108.40527" posZ="0.28047" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_woodbridge1_01" model="8585" posX="-8.8593700000001" posY="129.52246" posZ="20.14302" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodwoodbridge1"></object>
-    <object id="gf_hedge6_01" model="8585" posX="115.94531" posY="206.52881" posZ="13.20443" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="gf_hedge4_01" model="8585" posX="-27.6582" posY="90.91553" posZ="14.68203" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
-    <object id="nbecland13_gf" model="8585" posX="218.57031" posY="245.67773" posZ="-4.87721" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland13_gf"></object>
-    <object id="gf_signplane01" model="8585" posX="-65.2832" posY="90.31885" posZ="18.44268" rotX="86.87090077426" rotY="-1.7913833489483" rotZ="97.92287836169" interior="0"></object>
+    <building id="gf_tree1_01" model="1234" posX="88.92773" posY="222.92383" posZ="21.81646" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_tree2_02" model="1234" posX="125.67969" posY="236.03076" posZ="21.84524" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_smallisland1_01" model="1234" posX="19.3877" posY="-212.89648" posZ="2.44489" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsmallisland1_01"></building>
+    <building id="gf_flagstees3" model="1234" posX="-19.7373" posY="302.75195" posZ="16.78742" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_flagstees4" model="1234" posX="66.08789" posY="0.91991999999982" posZ="12.60234" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_mainisl5_01" model="1234" posX="-1.2548800000004" posY="-58.44824" posZ="5.32723" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisl5_01"></building>
+    <building id="gf_tennisfence" model="1234" posX="129.66602" posY="343.02637" posZ="13.88443" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_northisland1" model="1234" posX="152.05859" posY="534.19238" posZ="2.5996" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnorthisland1"></building>
+    <building id="gf_northbridge1" model="1234" posX="90.92285" posY="404.81299" posZ="1.50343" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnorthbridge1"></building>
+    <building id="gf_planters2" model="1234" posX="29.84082" posY="246.61572" posZ="17.49896" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_ivy_balcny_01" model="1234" posX="13.43652" posY="236.125" posZ="18.11942" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_ivy_balcny_07" model="1234" posX="31.96289" posY="245.84277" posZ="15.56535" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_smallislebridge1" model="1234" posX="42.84961" posY="-153.0918" posZ="3.33955" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsmallislebridge1"></building>
+    <building id="gf_flagstees2" model="1234" posX="154.22656" posY="512.52051" posZ="7.1303" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_flagstees1" model="1234" posX="-155.86475" posY="516.28906" posZ="7.13893" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_drivingrange1" model="1234" posX="81.7959" posY="582.96484" posZ="11.53464" rotX="0" rotY="0" rotZ="-162.50035718287" interior="0" lodID="loddrivingrange1"></building>
+    <building id="gf_drdivide1_01" model="1234" posX="78.87402" posY="582.16211" posZ="9.97948" rotX="0" rotY="0" rotZ="-162.50035718287" interior="0"></building>
+    <building id="gf_hedge1_01" model="1234" posX="146.61328" posY="256.03906" posZ="14.35555" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_hedge2_01" model="1234" posX="29.30957" posY="192.24902" posZ="16.64581" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_hedge3_01" model="1234" posX="-43.60352" posY="127.01318" posZ="13.17148" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_hedge5_01" model="1234" posX="41.71973" posY="152.4082" posZ="16.51082" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_northisland2" model="1234" posX="-70.32178" posY="524.10254" posZ="-9.73278" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnorthisland2"></building>
+    <building id="gf_mainisland3a_01" model="1234" posX="84.23145" posY="293.63867" posZ="4.45852" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland3a_01"></building>
+    <building id="gf_mainisland2a_01" model="1234" posX="-12.3877" posY="202.82568" posZ="0.05702" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland2a_01"></building>
+    <building id="gf_mainisland1a_01" model="1234" posX="149.1084" posY="188.98828" posZ="2.79943" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland1a_01"></building>
+    <building id="gf_mainisl2b_01" model="1234" posX="-12.97266" posY="318.45605" posZ="5.20535" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisl2b_01"></building>
+    <building id="gf_mainisland1b_01" model="1234" posX="147.7998" posY="81.82666" posZ="3.42325" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland1b_01"></building>
+    <building id="gf_northisland3" model="1234" posX="-220.21338" posY="521.77393" posZ="0.90221" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnorthisland3"></building>
+    <building id="gf_mainisland6b_01" model="1234" posX="133.62793" posY="-108.40527" posZ="0.28047" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland6b_01"></building>
+    <building id="gf_clubhouse1" model="1234" posX="96.73438" posY="264.37695" posZ="21.41879" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodclubhouse1"></building>
+    <building id="gf_picket1_01" model="1234" posX="101.93848" posY="254.91943" posZ="15.32819" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_clublight1_01" model="1234" posX="102.00098" posY="251.72266" posZ="15.08776" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_stadlight1_02" model="1234" posX="164.88867" posY="367.71484" posZ="16.01216" rotX="-0" rotY="-0" rotZ="44.999616118851" interior="0"></building>
+    <building id="gf_planters4" model="1234" posX="99.68555" posY="254.20703" posZ="15.45325" rotX="-0" rotY="-0" rotZ="84.50012652915" interior="0"></building>
+    <building id="gardenbencha" model="1234" posX="91.21777" posY="566.82568" posZ="7.72683" rotX="0" rotY="0" rotZ="-144.50061591824" interior="0"></building>
+    <building id="gardenbencha" model="1234" posX="78.38184" posY="583.08643" posZ="7.71996" rotX="-0" rotY="-0" rotZ="110.99989200255" interior="0"></building>
+    <building id="gf_treesfw1_01" model="1234" posX="-5.9951199999996" posY="247.74805" posZ="29.69873" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_treesfw2_01" model="1234" posX="55.46973" posY="125.82568" posZ="29.55595" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_treesfw3_01" model="1234" posX="50.80859" posY="-29.5127" posZ="24.60464" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_treesfw4_01" model="1234" posX="158.00488" posY="524.2168" posZ="20.85654" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_treesfw5_01" model="1234" posX="-181.00293" posY="523.21973" posZ="19.9238" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_mainisland6a_01" model="1234" posX="123.86621" posY="-10.94238" posZ="2.81322" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland6a_01"></building>
+    <building id="gf_mainisl4_01" model="1234" posX="8.7929700000004" posY="99.91553" posZ="1.68879" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisl4_01"></building>
+    <building id="gf_water01" model="1234" posX="10.33789" posY="31.6543" posZ="14.50001" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_water02" model="1234" posX="73.54492" posY="11.50293" posZ="9.707" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_water03" model="1234" posX="135.1416" posY="11.00488" posZ="2.85487" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nt_security1" model="1234" posX="93.64551" posY="267.24854" posZ="14.75011" rotX="0" rotY="0" rotZ="180" interior="0"></building>
+    <building id="gf_pedbridge3" model="1234" posX="188.86328" posY="377.11426" posZ="4.59352" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodpedbridge3"></building>
+    <building id="golfroad5" model="1234" posX="-15.72754" posY="110.84326" posZ="6.90008" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodfroad5"></building>
+    <building id="golfroad3" model="1234" posX="163.75586" posY="191.2002" posZ="2.79943" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodfroad3"></building>
+    <building id="golfroad4" model="1234" posX="82.37598" posY="293.63867" posZ="4.45852" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodfroad4"></building>
+    <building id="golfroad1" model="1234" posX="154.17285" posY="306.78516" posZ="3.30733" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodfroad1"></building>
+    <building id="golfroad7" model="1234" posX="152.05859" posY="534.19238" posZ="2.5996" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="golfroad2" model="1234" posX="82.37598" posY="293.63867" posZ="4.45852" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodfroad2"></building>
+    <building id="nbt_road12_gf" model="1234" posX="212.28711" posY="239.56348" posZ="8.04487" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road12_gf"></building>
+    <building id="gf_rollerjump" model="1234" posX="79.66797" posY="241.74658" posZ="15.48362" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_mainisland3b_01" model="1234" posX="154.17285" posY="306.78516" posZ="3.30733" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmainisland3b_01"></building>
+    <building id="gf_golfwall" model="1234" posX="107.77246" posY="227.729" posZ="14.85639" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodgolfwall"></building>
+    <building id="gf_northisland1b" model="1234" posX="152.05859" posY="534.19238" posZ="2.5996" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_northisland1c" model="1234" posX="152.05859" posY="534.19238" posZ="2.5996" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_mainisland1m_01" model="1234" posX="149.1084" posY="188.98828" posZ="2.79943" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_mainisland6n_01" model="1234" posX="133.62793" posY="-108.40527" posZ="0.28047" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_woodbridge1_01" model="1234" posX="-8.8593700000001" posY="129.52246" posZ="20.14302" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodwoodbridge1"></building>
+    <building id="gf_hedge6_01" model="1234" posX="115.94531" posY="206.52881" posZ="13.20443" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="gf_hedge4_01" model="1234" posX="-27.6582" posY="90.91553" posZ="14.68203" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <building id="nbecland13_gf" model="1234" posX="218.57031" posY="245.67773" posZ="-4.87721" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland13_gf"></building>
+    <building id="gf_signplane01" model="1234" posX="-65.2832" posY="90.31885" posZ="18.44268" rotX="86.87090077426" rotY="-1.7913833489483" rotZ="97.92287836169" interior="0"></building>
     <object id="veg_tree3" model="615" posX="10.15234" posY="-229.0332" posZ="2.55633" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
     <object id="veg_tree3" model="615" posX="150.45313" posY="268.08936" posZ="6.21527" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
     <object id="veg_palwee02" model="624" posX="68.40918" posY="450.31494" posZ="4.08031" rotX="-0" rotY="-0" rotZ="27.664491704557" interior="0"></object>
