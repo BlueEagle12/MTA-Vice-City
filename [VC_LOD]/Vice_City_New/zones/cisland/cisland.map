@@ -1,140 +1,140 @@
 <map>
-    <building id="ci_islandwest" model="1234" posX="-94.04932" posY="977.78516" posZ="-8.96765" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodislandwest"></building>
-    <building id="ci_studiowall" model="1234" posX="-48.92187" posY="950.73437" posZ="8.10771" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodstudiowall"></building>
-    <building id="vc_ci_astage" model="1234" posX="-89.4502" posY="967.45605" posZ="10.64717" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodci_astage"></building>
-    <building id="ci_mansionwall1" model="1234" posX="13.18457" posY="1123.96973" posZ="8.6741" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="vc_ci_watertank" model="1234" posX="-106.53809" posY="1028.96973" posZ="15.78109" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodci_watertank"></building>
-    <building id="ci_screening" model="1234" posX="-2.0732399999997" posY="931.40479" posZ="8.34692" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodscreening"></building>
-    <building id="ci_screeningstairs" model="1234" posX="-4.4951199999996" posY="919.4165" posZ="6.07747" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_offices" model="1234" posX="-37.69336" posY="918.59277" posZ="9.35672" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodoffices"></building>
-    <building id="ci_gateway" model="1234" posX="11.5127" posY="963.2417" posZ="9.07856" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_backdrop" model="1234" posX="-99.54297" posY="986.20312" posZ="7.65781" rotX="90" rotY="-0" rotZ="-0" interior="0"></building>
-    <building id="ci_industrial1" model="1234" posX="56.31738" posY="942.2627" posZ="10.3414" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodindustrial1"></building>
-    <building id="ci_screening2" model="1234" posX="-9.5488299999997" posY="908.73779" posZ="8.34692" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodscreening2"></building>
-    <building id="ci_kerb1" model="1234" posX="-37.16895" posY="932.33838" posZ="3.97182" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_fence2" model="1234" posX="93.24121" posY="924.38965" posZ="5.07821" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_trees1" model="1234" posX="-12.28906" posY="861.16211" posZ="9.302" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_planter2" model="1234" posX="-13.59668" posY="940.83984" posZ="5.04452" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_planter1" model="1234" posX="-36.86621" posY="932.31299" posZ="5.04452" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_trees02" model="1234" posX="73.41406" posY="1052.45996" posZ="10.61093" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_islandeast" model="1234" posX="37.28809" posY="935.95703" posZ="-2.6459" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodislandeast"></building>
-    <building id="ci_busht_02" model="1234" posX="84.5332" posY="1075.22412" posZ="11.26535" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_trees03" model="1234" posX="-62.22949" posY="1097.28906" posZ="10.61093" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_busht_04" model="1234" posX="-65.48096" posY="1092.96289" posZ="7.94737" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_busht_06" model="1234" posX="-14.14746" posY="1126.43799" posZ="11.26535" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_islandnorth" model="1234" posX="8.7197299999998" posY="1126.40186" posZ="2.00039" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodislandnorth"></building>
-    <building id="ci_graf_mansion3" model="1234" posX="17.86133" posY="1163.79492" posZ="20.2548" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_graf_mansion1" model="1234" posX="74.54199" posY="1104.30273" posZ="20.34652" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_posters" model="1234" posX="-45.77344" posY="966.80957" posZ="7.35944" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_studwallgraf" model="1234" posX="-19.25293" posY="1021.19727" posZ="4.73394" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_busht_08" model="1234" posX="12.24414" posY="1068.0918" posZ="8.78808" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_graf_fountain" model="1234" posX="10.79102" posY="1094.24023" posZ="11.10076" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_boards1" model="1234" posX="15.25391" posY="1159.93994" posZ="18.3987" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_boards2" model="1234" posX="71.92188" posY="1102.18799" posZ="13.25723" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_trees04" model="1234" posX="54.60547" posY="942.65088" posZ="9.35452" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_manscourt" model="1234" posX="-35.28223" posY="1195.8623" posZ="15.88677" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_poolhouse" model="1234" posX="-15.87695" posY="1220.6499" posZ="17.14178" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_poolwall1" model="1234" posX="17.0791" posY="1208.58301" posZ="15.03892" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_poolsteps" model="1234" posX="7.5156299999999" posY="1202.00098" posZ="12.15066" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_busht_11" model="1234" posX="-47.08594" posY="1169.28809" posZ="15.35925" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_trees05" model="1234" posX="60.41504" posY="1162.36523" posZ="18.48253" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_jawsramp1" model="1234" posX="-96.78027" posY="932.80371" posZ="4.55003" rotX="2.2571874112733" rotY="-1.0755620511789" rotZ="25.478266499279" interior="0"></building>
-    <building id="ci_backlot3" model="1234" posX="-61.13477" posY="879.84277" posZ="7.55087" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_backlot2" model="1234" posX="-46.3125" posY="900.75586" posZ="7.9705" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_backlot1" model="1234" posX="-85.69287" posY="892.65674" posZ="3.17388" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodbacklot1"></building>
-    <building id="ci_backlotprops3" model="1234" posX="-61.69531" posY="877.49561" posZ="7.55087" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_backlotprops2" model="1234" posX="-46.3125" posY="901.59082" posZ="7.9917" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_backlotprops1" model="1234" posX="-85.80664" posY="900.07666" posZ="8.01001" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_dstageext" model="1234" posX="-83.94336" posY="932.82471" posZ="9.87923" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddstageext"></building>
-    <building id="ci_dstagelight" model="1234" posX="-70.78467" posY="932.49951" posZ="3.8987" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_astagelight1" model="1234" posX="-65.82764" posY="962.47461" posZ="3.9987" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_astagelight2" model="1234" posX="-65.82764" posY="970.62793" posZ="3.9987" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_dirtcorn3" model="1234" posX="-114.70459" posY="920.19287" posZ="4.19336" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_dirtcorn4" model="1234" posX="-73.9873" posY="873.74023" posZ="4.16734" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_dirtcorn1" model="1234" posX="-88.43604" posY="1027.32129" posZ="4.20586" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_mans1rail" model="1234" posX="74.78906" posY="1104.58887" posZ="15.65696" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_mans2rail1" model="1234" posX="-51.2959" posY="1115.16797" posZ="13.97475" rotX="-0" rotY="-0" rotZ="90" interior="0"></building>
-    <building id="ci_mansion3ballust" model="1234" posX="17.7373" posY="1164.271" posZ="22.2298" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="gardenbencha" model="1234" posX="-44.03027" posY="1206.07715" posZ="14.64468" rotX="-0" rotY="-0" rotZ="90" interior="0"></building>
-    <building id="gardenbencha" model="1234" posX="-38.62598" posY="1186.16406" posZ="14.56085" rotX="90.500945140434" rotY="-0.00036260207023175" rotZ="135.0000530575" interior="0"></building>
-    <building id="ci_dirtcorn2" model="1234" posX="-115.53174" posY="985.47461" posZ="4.15477" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_mans1grafint" model="1234" posX="74.49023" posY="1104.32812" posZ="21.45174" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_mans1int" model="1234" posX="74.6748" posY="1104.03906" posZ="18.67556" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_mans1stair1" model="1234" posX="74.68359" posY="1113.15186" posZ="15.07895" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_mans1grndfl" model="1234" posX="74.66504" posY="1104.26904" posZ="15.64465" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_mans1istfl" model="1234" posX="74.49023" posY="1104.32812" posZ="20.56115" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_mans1stair2" model="1234" posX="62.99805" posY="1107.21387" posZ="21.96968" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_mans1rail1" model="1234" posX="74.68359" posY="1113.19922" posZ="15.07895" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_mans1roof" model="1234" posX="74.68555" posY="1104.26514" posZ="24.66774" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_officewindows" model="1234" posX="-37.69336" posY="918.59277" posZ="9.35672" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_dstage" model="1234" posX="-84.1377" posY="932.5" posZ="9.87923" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_pornobed" model="1234" posX="-84.92139" posY="932.61816" posZ="4.27143" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_pornocarpet" model="1234" posX="-90.771" posY="934.38135" posZ="3.78021" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_flatprop02" model="1234" posX="-83.7749" posY="934.79736" posZ="5.49029" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_camera1_01" model="1234" posX="-86.45166" posY="928.85303" posZ="4.43023" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_dstageshad" model="1234" posX="-84.021" posY="932.4624" posZ="3.86196" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_pornset1" model="1234" posX="-86.87158" posY="932.8457" posZ="5.73516" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_flatprop01" model="1234" posX="-93.47314" posY="940.77637" posZ="5.49029" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_table1_01" model="1234" posX="-78.50439" posY="922.06348" posZ="4.2282" rotX="0" rotY="-0" rotZ="-90" interior="0"></building>
-    <building id="ci_setshad1" model="1234" posX="-87.15967" posY="933.01221" posZ="5.6678" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_notice03" model="1234" posX="-68.94824" posY="925.78516" posZ="5.89745" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_lights1_01" model="1234" posX="-82.07568" posY="940.76611" posZ="6.18647" rotX="-0" rotY="-0" rotZ="100.99950855338" interior="0"></building>
-    <building id="ci_dstudiogantry" model="1234" posX="-84.19629" posY="932.44238" posZ="9.06141" rotX="0" rotY="-0" rotZ="-73.999230656931" interior="0"></building>
-    <building id="ci_dstudlights" model="1234" posX="-78.80225" posY="933.16504" posZ="10.09746" rotX="0" rotY="-0" rotZ="-73.999230656931" interior="0"></building>
-    <building id="ci_lights1_02" model="1234" posX="-89.82959" posY="925.39062" posZ="6.18647" rotX="0" rotY="0" rotZ="-124.99981495817" interior="0"></building>
-    <building id="ci_dstudganwal" model="1234" posX="-84.19629" posY="932.44238" posZ="9.06141" rotX="0" rotY="-0" rotZ="-73.999230656931" interior="0"></building>
-    <building id="ci_cstage" model="1234" posX="-4.7080100000003" posY="999.97168" posZ="9.87923" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcstage"></building>
-    <building id="ci_cstageint" model="1234" posX="-4.7080100000003" posY="999.97168" posZ="9.87923" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcstageint"></building>
-    <building id="ci_acyclorama" model="1234" posX="-95.75195" posY="967.42822" posZ="8.40972" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_shipset" model="1234" posX="-89.03369" posY="967.77783" posZ="10.39443" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_alights1_01" model="1234" posX="-73.85693" posY="977.00635" posZ="6.31499" rotX="-0" rotY="-0" rotZ="42.99976706977" interior="0"></building>
-    <building id="ci_astudlights" model="1234" posX="-70.02588" posY="966.99512" posZ="9.8476" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_astudganwal" model="1234" posX="-68.04102" posY="967.48975" posZ="11.73034" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_astagelights" model="1234" posX="-76.8584" posY="967.3623" posZ="12.85753" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nt_ladder_01" model="1234" posX="-74.77148" posY="971.65918" posZ="5.38053" rotX="-0" rotY="-0" rotZ="72.999529312645" interior="0"></building>
-    <building id="nt_ladder_02" model="1234" posX="-102.42871" posY="963.52539" posZ="7.85943" rotX="-0" rotY="-0" rotZ="109.99953112288" interior="0"></building>
-    <building id="ci_astageint" model="1234" posX="-89.4502" posY="967.45605" posZ="10.64717" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodastageint"></building>
-    <building id="ci_asteps" model="1234" posX="-89.39844" posY="959.97412" posZ="5.1769" rotX="0" rotY="-0" rotZ="-90" interior="0"></building>
-    <building id="ci_astudiogantry" model="1234" posX="-68.16016" posY="967.46826" posZ="8.04759" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_extertank" model="1234" posX="-98.31836" posY="997.63135" posZ="4.27176" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodextertank"></building>
-    <building id="ci_bcyclorama1" model="1234" posX="-31.58984" posY="1011.25195" posZ="8.40972" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_blights1_01" model="1234" posX="-27.79297" posY="997.98096" posZ="6.18647" rotX="0" rotY="-0" rotZ="-55.00018504183" interior="0"></building>
-    <building id="ci_bstudiogantry" model="1234" posX="-32.2959" posY="1008.08398" posZ="9.06141" rotX="0" rotY="0" rotZ="180" interior="0"></building>
-    <building id="ci_bstudlights" model="1234" posX="-31.52637" posY="1013.30908" posZ="10.09746" rotX="-0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_bstudganwal" model="1234" posX="-32.31836" posY="1007.9248" posZ="9.06141" rotX="-0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="vc_ci_bstage" model="1234" posX="-32.09082" posY="1007.74609" posZ="9.87923" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodbstage"></building>
-    <building id="ci_bstageint" model="1234" posX="-32.09082" posY="1007.74609" posZ="9.87923" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodbstageint"></building>
-    <building id="ci_moonsurface" model="1234" posX="-30.24707" posY="1018.37793" posZ="4.17608" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_spaceflag" model="1234" posX="-29.70801" posY="1009.15918" posZ="6.52302" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_lander" model="1234" posX="-33.88379" posY="1014.09912" posZ="7.36987" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_windmach" model="1234" posX="-86.80859" posY="999.54492" posZ="6.60999" rotX="-0" rotY="-0" rotZ="59.999736657295" interior="0"></building>
-    <building id="vc_ci_guardhouse1" model="1234" posX="1.0341799999997" posY="957.22217" posZ="5.56778" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_fountain" model="1234" posX="9.3671899999999" posY="1092.05273" posZ="13.72825" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="props_group1" model="1234" posX="-53.60937" posY="1019.81982" posZ="5.50752" rotX="14.999823607694" rotY="-5.5382100477305e-05" rotZ="-48.000326467693" interior="0"></building>
-    <building id="prop_group3" model="1234" posX="9.0927700000002" posY="976.44434" posZ="5.15217" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="prop_group2" model="1234" posX="-111.08643" posY="918.66211" posZ="5.51214" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_manintstuff" model="1234" posX="75.60059" posY="1099.22705" posZ="13.87048" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_mansion1" model="1234" posX="74.61133" posY="1104.37109" posZ="20.80235" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmansion1"></building>
-    <building id="ci_mansion2" model="1234" posX="-51.07812" posY="1114.99121" posZ="19.12015" rotX="-0" rotY="-0" rotZ="90" interior="0" lodID="lodmansion2"></building>
-    <building id="ci_mansion3" model="1234" posX="17.7373" posY="1164.271" posZ="22.2298" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmansion3"></building>
-    <building id="ci_seajetty" model="1234" posX="-127.59668" posY="1026.79004" posZ="-6.40607" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_palettes" model="1234" posX="83.2334" posY="1104.99512" posZ="13.33156" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_gobo1" model="1234" posX="-88.98389" posY="926.55176" posZ="6.08016" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_pornsetxtra" model="1234" posX="-90.16162" posY="939.50195" posZ="4.39771" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_stairsout01" model="1234" posX="-26.72461" posY="863.58545" posZ="7.75949" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_rdsigns" model="1234" posX="102.91113" posY="1011.59717" posZ="10.99048" rotX="-0.0087048388312813" rotY="85.002791491667" rotZ="-25.008611105478" interior="0"></building>
-    <building id="ci_rdsigns01" model="1234" posX="-99.47949" posY="1062.24219" posZ="11.51616" rotX="0.0014703226235051" rotY="84.998985155484" rotZ="165.00196771581" interior="0"></building>
-    <building id="ci_tankship" model="1234" posX="-98.54199" posY="995.54883" posZ="5.69778" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="ci_redhead1_01" model="1234" posX="-97.28223" posY="937.60156" posZ="5.20893" rotX="-0" rotY="-0" rotZ="152.00032924322" interior="0"></building>
-    <building id="ci_redhead1_01" model="1234" posX="-85.72119" posY="922.82324" posZ="5.20893" rotX="0" rotY="-0" rotZ="-104.49978345825" interior="0"></building>
-    <building id="ci_redhead1_01" model="1234" posX="-28.85352" posY="1002.16309" posZ="5.96356" rotX="0" rotY="-0" rotZ="-35.499384081764" interior="0"></building>
-    <building id="ci_redhead1_01" model="1234" posX="-24.85547" posY="1002.72119" posZ="5.96356" rotX="-0" rotY="-0" rotZ="3.5001828607631" interior="0"></building>
-    <building id="ci_redhead1_01" model="1234" posX="-98.91504" posY="958.91699" posZ="5.30671" rotX="0" rotY="0" rotZ="-121.00059793492" interior="0"></building>
-    <building id="ci_redhead1_01" model="1234" posX="-89.19141" posY="962.29248" posZ="8.07972" rotX="0" rotY="-0" rotZ="-27.500513590939" interior="0"></building>
-    <building id="ci_redhead1_01" model="1234" posX="-88.62891" posY="923.97705" posZ="5.20893" rotX="0" rotY="-0" rotZ="-75.500216541748" interior="0"></building>
-    <building id="ci_redhead1_01" model="1234" posX="-83.93018" posY="940.87891" posZ="5.20893" rotX="-0" rotY="-0" rotZ="152.00032924322" interior="0"></building>
-    <building id="ci_clightdesk" model="1234" posX="-76.07031" posY="940.51562" posZ="4.36931" rotX="90" rotY="-0" rotZ="3.4993387876737" interior="0"></building>
-    <building id="ci_windmach2" model="1234" posX="-86.80859" posY="999.54492" posZ="6.60999" rotX="-0" rotY="-0" rotZ="59.999736657295" interior="0"></building>
+    <object id="ci_islandwest" model="8585" posX="-94.04932" posY="977.78516" posZ="-8.96765" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodislandwest"></object>
+    <object id="ci_studiowall" model="8585" posX="-48.92187" posY="950.73437" posZ="8.10771" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodstudiowall"></object>
+    <object id="vc_ci_astage" model="8585" posX="-89.4502" posY="967.45605" posZ="10.64717" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodci_astage"></object>
+    <object id="ci_mansionwall1" model="8585" posX="13.18457" posY="1123.96973" posZ="8.6741" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="vc_ci_watertank" model="8585" posX="-106.53809" posY="1028.96973" posZ="15.78109" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodci_watertank"></object>
+    <object id="ci_screening" model="8585" posX="-2.0732399999997" posY="931.40479" posZ="8.34692" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodscreening"></object>
+    <object id="ci_screeningstairs" model="8585" posX="-4.4951199999996" posY="919.4165" posZ="6.07747" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_offices" model="8585" posX="-37.69336" posY="918.59277" posZ="9.35672" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodoffices"></object>
+    <object id="ci_gateway" model="8585" posX="11.5127" posY="963.2417" posZ="9.07856" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_backdrop" model="8585" posX="-99.54297" posY="986.20312" posZ="7.65781" rotX="90" rotY="-0" rotZ="-0" interior="0"></object>
+    <object id="ci_industrial1" model="8585" posX="56.31738" posY="942.2627" posZ="10.3414" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodindustrial1"></object>
+    <object id="ci_screening2" model="8585" posX="-9.5488299999997" posY="908.73779" posZ="8.34692" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodscreening2"></object>
+    <object id="ci_kerb1" model="8585" posX="-37.16895" posY="932.33838" posZ="3.97182" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_fence2" model="8585" posX="93.24121" posY="924.38965" posZ="5.07821" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_trees1" model="8585" posX="-12.28906" posY="861.16211" posZ="9.302" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_planter2" model="8585" posX="-13.59668" posY="940.83984" posZ="5.04452" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_planter1" model="8585" posX="-36.86621" posY="932.31299" posZ="5.04452" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_trees02" model="8585" posX="73.41406" posY="1052.45996" posZ="10.61093" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_islandeast" model="8585" posX="37.28809" posY="935.95703" posZ="-2.6459" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodislandeast"></object>
+    <object id="ci_busht_02" model="8585" posX="84.5332" posY="1075.22412" posZ="11.26535" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_trees03" model="8585" posX="-62.22949" posY="1097.28906" posZ="10.61093" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_busht_04" model="8585" posX="-65.48096" posY="1092.96289" posZ="7.94737" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_busht_06" model="8585" posX="-14.14746" posY="1126.43799" posZ="11.26535" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_islandnorth" model="8585" posX="8.7197299999998" posY="1126.40186" posZ="2.00039" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodislandnorth"></object>
+    <object id="ci_graf_mansion3" model="8585" posX="17.86133" posY="1163.79492" posZ="20.2548" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_graf_mansion1" model="8585" posX="74.54199" posY="1104.30273" posZ="20.34652" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_posters" model="8585" posX="-45.77344" posY="966.80957" posZ="7.35944" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_studwallgraf" model="8585" posX="-19.25293" posY="1021.19727" posZ="4.73394" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_busht_08" model="8585" posX="12.24414" posY="1068.0918" posZ="8.78808" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_graf_fountain" model="8585" posX="10.79102" posY="1094.24023" posZ="11.10076" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_boards1" model="8585" posX="15.25391" posY="1159.93994" posZ="18.3987" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_boards2" model="8585" posX="71.92188" posY="1102.18799" posZ="13.25723" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_trees04" model="8585" posX="54.60547" posY="942.65088" posZ="9.35452" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_manscourt" model="8585" posX="-35.28223" posY="1195.8623" posZ="15.88677" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_poolhouse" model="8585" posX="-15.87695" posY="1220.6499" posZ="17.14178" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_poolwall1" model="8585" posX="17.0791" posY="1208.58301" posZ="15.03892" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_poolsteps" model="8585" posX="7.5156299999999" posY="1202.00098" posZ="12.15066" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_busht_11" model="8585" posX="-47.08594" posY="1169.28809" posZ="15.35925" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_trees05" model="8585" posX="60.41504" posY="1162.36523" posZ="18.48253" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_jawsramp1" model="8585" posX="-96.78027" posY="932.80371" posZ="4.55003" rotX="2.2571874112733" rotY="-1.0755620511789" rotZ="25.478266499279" interior="0"></object>
+    <object id="ci_backlot3" model="8585" posX="-61.13477" posY="879.84277" posZ="7.55087" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_backlot2" model="8585" posX="-46.3125" posY="900.75586" posZ="7.9705" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_backlot1" model="8585" posX="-85.69287" posY="892.65674" posZ="3.17388" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodbacklot1"></object>
+    <object id="ci_backlotprops3" model="8585" posX="-61.69531" posY="877.49561" posZ="7.55087" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_backlotprops2" model="8585" posX="-46.3125" posY="901.59082" posZ="7.9917" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_backlotprops1" model="8585" posX="-85.80664" posY="900.07666" posZ="8.01001" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_dstageext" model="8585" posX="-83.94336" posY="932.82471" posZ="9.87923" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="loddstageext"></object>
+    <object id="ci_dstagelight" model="8585" posX="-70.78467" posY="932.49951" posZ="3.8987" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_astagelight1" model="8585" posX="-65.82764" posY="962.47461" posZ="3.9987" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_astagelight2" model="8585" posX="-65.82764" posY="970.62793" posZ="3.9987" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_dirtcorn3" model="8585" posX="-114.70459" posY="920.19287" posZ="4.19336" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_dirtcorn4" model="8585" posX="-73.9873" posY="873.74023" posZ="4.16734" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_dirtcorn1" model="8585" posX="-88.43604" posY="1027.32129" posZ="4.20586" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_mans1rail" model="8585" posX="74.78906" posY="1104.58887" posZ="15.65696" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_mans2rail1" model="8585" posX="-51.2959" posY="1115.16797" posZ="13.97475" rotX="-0" rotY="-0" rotZ="90" interior="0"></object>
+    <object id="ci_mansion3ballust" model="8585" posX="17.7373" posY="1164.271" posZ="22.2298" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="gardenbencha" model="8585" posX="-44.03027" posY="1206.07715" posZ="14.64468" rotX="-0" rotY="-0" rotZ="90" interior="0"></object>
+    <object id="gardenbencha" model="8585" posX="-38.62598" posY="1186.16406" posZ="14.56085" rotX="90.500945140434" rotY="-0.00036260207023175" rotZ="135.0000530575" interior="0"></object>
+    <object id="ci_dirtcorn2" model="8585" posX="-115.53174" posY="985.47461" posZ="4.15477" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_mans1grafint" model="8585" posX="74.49023" posY="1104.32812" posZ="21.45174" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_mans1int" model="8585" posX="74.6748" posY="1104.03906" posZ="18.67556" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_mans1stair1" model="8585" posX="74.68359" posY="1113.15186" posZ="15.07895" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_mans1grndfl" model="8585" posX="74.66504" posY="1104.26904" posZ="15.64465" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_mans1istfl" model="8585" posX="74.49023" posY="1104.32812" posZ="20.56115" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_mans1stair2" model="8585" posX="62.99805" posY="1107.21387" posZ="21.96968" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_mans1rail1" model="8585" posX="74.68359" posY="1113.19922" posZ="15.07895" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_mans1roof" model="8585" posX="74.68555" posY="1104.26514" posZ="24.66774" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_officewindows" model="8585" posX="-37.69336" posY="918.59277" posZ="9.35672" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_dstage" model="8585" posX="-84.1377" posY="932.5" posZ="9.87923" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_pornobed" model="8585" posX="-84.92139" posY="932.61816" posZ="4.27143" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_pornocarpet" model="8585" posX="-90.771" posY="934.38135" posZ="3.78021" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_flatprop02" model="8585" posX="-83.7749" posY="934.79736" posZ="5.49029" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_camera1_01" model="8585" posX="-86.45166" posY="928.85303" posZ="4.43023" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_dstageshad" model="8585" posX="-84.021" posY="932.4624" posZ="3.86196" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_pornset1" model="8585" posX="-86.87158" posY="932.8457" posZ="5.73516" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_flatprop01" model="8585" posX="-93.47314" posY="940.77637" posZ="5.49029" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_table1_01" model="8585" posX="-78.50439" posY="922.06348" posZ="4.2282" rotX="0" rotY="-0" rotZ="-90" interior="0"></object>
+    <object id="ci_setshad1" model="8585" posX="-87.15967" posY="933.01221" posZ="5.6678" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_notice03" model="8585" posX="-68.94824" posY="925.78516" posZ="5.89745" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_lights1_01" model="8585" posX="-82.07568" posY="940.76611" posZ="6.18647" rotX="-0" rotY="-0" rotZ="100.99950855338" interior="0"></object>
+    <object id="ci_dstudiogantry" model="8585" posX="-84.19629" posY="932.44238" posZ="9.06141" rotX="0" rotY="-0" rotZ="-73.999230656931" interior="0"></object>
+    <object id="ci_dstudlights" model="8585" posX="-78.80225" posY="933.16504" posZ="10.09746" rotX="0" rotY="-0" rotZ="-73.999230656931" interior="0"></object>
+    <object id="ci_lights1_02" model="8585" posX="-89.82959" posY="925.39062" posZ="6.18647" rotX="0" rotY="0" rotZ="-124.99981495817" interior="0"></object>
+    <object id="ci_dstudganwal" model="8585" posX="-84.19629" posY="932.44238" posZ="9.06141" rotX="0" rotY="-0" rotZ="-73.999230656931" interior="0"></object>
+    <object id="ci_cstage" model="8585" posX="-4.7080100000003" posY="999.97168" posZ="9.87923" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcstage"></object>
+    <object id="ci_cstageint" model="8585" posX="-4.7080100000003" posY="999.97168" posZ="9.87923" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcstageint"></object>
+    <object id="ci_acyclorama" model="8585" posX="-95.75195" posY="967.42822" posZ="8.40972" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_shipset" model="8585" posX="-89.03369" posY="967.77783" posZ="10.39443" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_alights1_01" model="8585" posX="-73.85693" posY="977.00635" posZ="6.31499" rotX="-0" rotY="-0" rotZ="42.99976706977" interior="0"></object>
+    <object id="ci_astudlights" model="8585" posX="-70.02588" posY="966.99512" posZ="9.8476" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_astudganwal" model="8585" posX="-68.04102" posY="967.48975" posZ="11.73034" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_astagelights" model="8585" posX="-76.8584" posY="967.3623" posZ="12.85753" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nt_ladder_01" model="8585" posX="-74.77148" posY="971.65918" posZ="5.38053" rotX="-0" rotY="-0" rotZ="72.999529312645" interior="0"></object>
+    <object id="nt_ladder_02" model="8585" posX="-102.42871" posY="963.52539" posZ="7.85943" rotX="-0" rotY="-0" rotZ="109.99953112288" interior="0"></object>
+    <object id="ci_astageint" model="8585" posX="-89.4502" posY="967.45605" posZ="10.64717" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodastageint"></object>
+    <object id="ci_asteps" model="8585" posX="-89.39844" posY="959.97412" posZ="5.1769" rotX="0" rotY="-0" rotZ="-90" interior="0"></object>
+    <object id="ci_astudiogantry" model="8585" posX="-68.16016" posY="967.46826" posZ="8.04759" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_extertank" model="8585" posX="-98.31836" posY="997.63135" posZ="4.27176" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodextertank"></object>
+    <object id="ci_bcyclorama1" model="8585" posX="-31.58984" posY="1011.25195" posZ="8.40972" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_blights1_01" model="8585" posX="-27.79297" posY="997.98096" posZ="6.18647" rotX="0" rotY="-0" rotZ="-55.00018504183" interior="0"></object>
+    <object id="ci_bstudiogantry" model="8585" posX="-32.2959" posY="1008.08398" posZ="9.06141" rotX="0" rotY="0" rotZ="180" interior="0"></object>
+    <object id="ci_bstudlights" model="8585" posX="-31.52637" posY="1013.30908" posZ="10.09746" rotX="-0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_bstudganwal" model="8585" posX="-32.31836" posY="1007.9248" posZ="9.06141" rotX="-0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="vc_ci_bstage" model="8585" posX="-32.09082" posY="1007.74609" posZ="9.87923" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodbstage"></object>
+    <object id="ci_bstageint" model="8585" posX="-32.09082" posY="1007.74609" posZ="9.87923" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodbstageint"></object>
+    <object id="ci_moonsurface" model="8585" posX="-30.24707" posY="1018.37793" posZ="4.17608" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_spaceflag" model="8585" posX="-29.70801" posY="1009.15918" posZ="6.52302" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_lander" model="8585" posX="-33.88379" posY="1014.09912" posZ="7.36987" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_windmach" model="8585" posX="-86.80859" posY="999.54492" posZ="6.60999" rotX="-0" rotY="-0" rotZ="59.999736657295" interior="0"></object>
+    <object id="vc_ci_guardhouse1" model="8585" posX="1.0341799999997" posY="957.22217" posZ="5.56778" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_fountain" model="8585" posX="9.3671899999999" posY="1092.05273" posZ="13.72825" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="props_group1" model="8585" posX="-53.60937" posY="1019.81982" posZ="5.50752" rotX="14.999823607694" rotY="-5.5382100477305e-05" rotZ="-48.000326467693" interior="0"></object>
+    <object id="prop_group3" model="8585" posX="9.0927700000002" posY="976.44434" posZ="5.15217" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="prop_group2" model="8585" posX="-111.08643" posY="918.66211" posZ="5.51214" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_manintstuff" model="8585" posX="75.60059" posY="1099.22705" posZ="13.87048" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_mansion1" model="8585" posX="74.61133" posY="1104.37109" posZ="20.80235" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmansion1"></object>
+    <object id="ci_mansion2" model="8585" posX="-51.07812" posY="1114.99121" posZ="19.12015" rotX="-0" rotY="-0" rotZ="90" interior="0" lodID="lodmansion2"></object>
+    <object id="ci_mansion3" model="8585" posX="17.7373" posY="1164.271" posZ="22.2298" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmansion3"></object>
+    <object id="ci_seajetty" model="8585" posX="-127.59668" posY="1026.79004" posZ="-6.40607" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_palettes" model="8585" posX="83.2334" posY="1104.99512" posZ="13.33156" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_gobo1" model="8585" posX="-88.98389" posY="926.55176" posZ="6.08016" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_pornsetxtra" model="8585" posX="-90.16162" posY="939.50195" posZ="4.39771" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_stairsout01" model="8585" posX="-26.72461" posY="863.58545" posZ="7.75949" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_rdsigns" model="8585" posX="102.91113" posY="1011.59717" posZ="10.99048" rotX="-0.0087048388312813" rotY="85.002791491667" rotZ="-25.008611105478" interior="0"></object>
+    <object id="ci_rdsigns01" model="8585" posX="-99.47949" posY="1062.24219" posZ="11.51616" rotX="0.0014703226235051" rotY="84.998985155484" rotZ="165.00196771581" interior="0"></object>
+    <object id="ci_tankship" model="8585" posX="-98.54199" posY="995.54883" posZ="5.69778" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="ci_redhead1_01" model="8585" posX="-97.28223" posY="937.60156" posZ="5.20893" rotX="-0" rotY="-0" rotZ="152.00032924322" interior="0"></object>
+    <object id="ci_redhead1_01" model="8585" posX="-85.72119" posY="922.82324" posZ="5.20893" rotX="0" rotY="-0" rotZ="-104.49978345825" interior="0"></object>
+    <object id="ci_redhead1_01" model="8585" posX="-28.85352" posY="1002.16309" posZ="5.96356" rotX="0" rotY="-0" rotZ="-35.499384081764" interior="0"></object>
+    <object id="ci_redhead1_01" model="8585" posX="-24.85547" posY="1002.72119" posZ="5.96356" rotX="-0" rotY="-0" rotZ="3.5001828607631" interior="0"></object>
+    <object id="ci_redhead1_01" model="8585" posX="-98.91504" posY="958.91699" posZ="5.30671" rotX="0" rotY="0" rotZ="-121.00059793492" interior="0"></object>
+    <object id="ci_redhead1_01" model="8585" posX="-89.19141" posY="962.29248" posZ="8.07972" rotX="0" rotY="-0" rotZ="-27.500513590939" interior="0"></object>
+    <object id="ci_redhead1_01" model="8585" posX="-88.62891" posY="923.97705" posZ="5.20893" rotX="0" rotY="-0" rotZ="-75.500216541748" interior="0"></object>
+    <object id="ci_redhead1_01" model="8585" posX="-83.93018" posY="940.87891" posZ="5.20893" rotX="-0" rotY="-0" rotZ="152.00032924322" interior="0"></object>
+    <object id="ci_clightdesk" model="8585" posX="-76.07031" posY="940.51562" posZ="4.36931" rotX="90" rotY="-0" rotZ="3.4993387876737" interior="0"></object>
+    <object id="ci_windmach2" model="8585" posX="-86.80859" posY="999.54492" posZ="6.60999" rotX="-0" rotY="-0" rotZ="59.999736657295" interior="0"></object>
     <object id="veg_tree3" model="615" posX="6.0830100000003" posY="853.57471" posZ="3.07598" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
     <object id="veg_palwee02" model="624" posX="-28.37402" posY="931.63574" posZ="0.37991" rotX="-0" rotY="-0" rotZ="27.664491704557" interior="0"></object>
     <object id="veg_palm02" model="621" posX="45.13086" posY="850.01758" posZ="2.89394" rotX="0" rotY="-0" rotZ="-64.370672958872" interior="0"></object>

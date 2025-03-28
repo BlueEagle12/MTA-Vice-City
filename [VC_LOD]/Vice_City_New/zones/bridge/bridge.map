@@ -1,24 +1,24 @@
 <map>
-    <building id="roosbridge_dt" model="1234" posX="-102.11" posY="77.2" posZ="-8.46718" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge_dt"></building>
-    <building id="roosbrgestartf_dt" model="1234" posX="-719.61" posY="28.71" posZ="-0.044857" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbrgestartf_dt"></building>
-    <building id="roosbridge1_dt" model="1234" posX="-534.49" posY="27.13" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge1_dt"></building>
-    <building id="roosbridge2_dt" model="1234" posX="-322.16" posY="42.45" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge2_dt"></building>
-    <building id="roosbridge3_dt" model="1234" posX="-176.54" posY="63.13" posZ="-8.35209" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge3_dt"></building>
-    <building id="roosbridge4_dt" model="1234" posX="-681.7" posY="27.3" posZ="-8.89664" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge4_dt"></building>
-    <building id="roosbridge5_dt" model="1234" posX="-436.09" posY="32.49" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge5_dt"></building>
-    <building id="roosbridge6_dt" model="1234" posX="-219.48" posY="52.76" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge6_dt"></building>
-    <building id="roosbridge07_dt" model="1234" posX="-601.46" posY="26.14" posZ="-8.3531" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge07_dt"></building>
-    <building id="roosbridge_nt" model="1234" posX="-102.11" posY="77.2" posZ="-8.46718" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge_nt"></building>
-    <building id="roosbrgestartf_nt" model="1234" posX="-719.61" posY="28.71" posZ="-0.044857" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbrgestartf_nt"></building>
-    <building id="roosbridge1_nt" model="1234" posX="-534.49" posY="27.13" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge1_nt"></building>
-    <building id="roosbridge2_nt" model="1234" posX="-322.16" posY="42.45" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge2_nt"></building>
-    <building id="roosbridge3_nt" model="1234" posX="-176.54" posY="63.13" posZ="-8.35209" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge3_nt"></building>
-    <building id="roosbridge4_nt" model="1234" posX="-681.7" posY="27.3" posZ="-8.89664" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge4_nt"></building>
-    <building id="roosbridge5_nt" model="1234" posX="-436.09" posY="32.49" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge5_nt"></building>
-    <building id="roosbridge6_nt" model="1234" posX="-219.48" posY="52.76" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge6_nt"></building>
-    <building id="roosbridge07_nt" model="1234" posX="-601.46" posY="26.14" posZ="-8.3531" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge07_nt"></building>
-    <building id="roosbrgestart_r_dt" model="1234" posX="-64.28" posY="85.47" posZ="2.1466" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbrgestart_r_dt"></building>
-    <building id="roosbrgestart_r_nt" model="1234" posX="-64.28" posY="85.47" posZ="2.1466" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbrgestart_r_nt"></building>
+    <object id="roosbridge_dt" model="8585" posX="-102.11" posY="77.2" posZ="-8.46718" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge_dt"></object>
+    <object id="roosbrgestartf_dt" model="8585" posX="-719.61" posY="28.71" posZ="-0.044857" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbrgestartf_dt"></object>
+    <object id="roosbridge1_dt" model="8585" posX="-534.49" posY="27.13" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge1_dt"></object>
+    <object id="roosbridge2_dt" model="8585" posX="-322.16" posY="42.45" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge2_dt"></object>
+    <object id="roosbridge3_dt" model="8585" posX="-176.54" posY="63.13" posZ="-8.35209" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge3_dt"></object>
+    <object id="roosbridge4_dt" model="8585" posX="-681.7" posY="27.3" posZ="-8.89664" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge4_dt"></object>
+    <object id="roosbridge5_dt" model="8585" posX="-436.09" posY="32.49" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge5_dt"></object>
+    <object id="roosbridge6_dt" model="8585" posX="-219.48" posY="52.76" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge6_dt"></object>
+    <object id="roosbridge07_dt" model="8585" posX="-601.46" posY="26.14" posZ="-8.3531" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge07_dt"></object>
+    <object id="roosbridge_nt" model="8585" posX="-102.11" posY="77.2" posZ="-8.46718" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge_nt"></object>
+    <object id="roosbrgestartf_nt" model="8585" posX="-719.61" posY="28.71" posZ="-0.044857" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbrgestartf_nt"></object>
+    <object id="roosbridge1_nt" model="8585" posX="-534.49" posY="27.13" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge1_nt"></object>
+    <object id="roosbridge2_nt" model="8585" posX="-322.16" posY="42.45" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge2_nt"></object>
+    <object id="roosbridge3_nt" model="8585" posX="-176.54" posY="63.13" posZ="-8.35209" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge3_nt"></object>
+    <object id="roosbridge4_nt" model="8585" posX="-681.7" posY="27.3" posZ="-8.89664" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge4_nt"></object>
+    <object id="roosbridge5_nt" model="8585" posX="-436.09" posY="32.49" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge5_nt"></object>
+    <object id="roosbridge6_nt" model="8585" posX="-219.48" posY="52.76" posZ="-8.40767" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge6_nt"></object>
+    <object id="roosbridge07_nt" model="8585" posX="-601.46" posY="26.14" posZ="-8.3531" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbridge07_nt"></object>
+    <object id="roosbrgestart_r_dt" model="8585" posX="-64.28" posY="85.47" posZ="2.1466" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbrgestart_r_dt"></object>
+    <object id="roosbrgestart_r_nt" model="8585" posX="-64.28" posY="85.47" posZ="2.1466" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodsbrgestart_r_nt"></object>
     <object id="lamppost2" model="1290" posX="-359.01" posY="38.14" posZ="25.5" rotX="-0" rotY="-0" rotZ="96.499942826916" interior="0"></object>
     <object id="lamppost2" model="1290" posX="-424.26" posY="32.53" posZ="25.5" rotX="0" rotY="-0" rotZ="-86.499998442693" interior="0"></object>
     <object id="lamppost2" model="1290" posX="-294.04" posY="45.58" posZ="25.5" rotX="-0" rotY="-0" rotZ="96.499942826916" interior="0"></object>

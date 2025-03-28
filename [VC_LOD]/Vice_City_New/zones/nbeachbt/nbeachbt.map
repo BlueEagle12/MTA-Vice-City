@@ -1,121 +1,121 @@
 <map>
-    <building id="Xnbt_chaseroom" model="1234" posX="384.93" posY="256.47" posZ="12.217" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbecland01" model="1234" posX="178.18652" posY="683.66309" posZ="-6.04944" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland01"></building>
-    <building id="nbecland03" model="1234" posX="282.4248" posY="646.46826" posZ="-5.92889" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland03"></building>
-    <building id="nbecland05" model="1234" posX="355.48242" posY="632.35205" posZ="-5.76292" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland05"></building>
-    <building id="nbt_road03" model="1234" posX="499.55078" posY="512.79199" posZ="4.37222" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road03"></building>
-    <building id="nbt_road05" model="1234" posX="458.69141" posY="602.95898" posZ="4.35269" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road05"></building>
-    <building id="nbecland09" model="1234" posX="283.41992" posY="367.78467" posZ="-6.38695" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland09"></building>
-    <building id="nbecland11" model="1234" posX="466.10449" posY="73.27002" posZ="4.10624" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland11"></building>
-    <building id="nbecland12" model="1234" posX="448.51465" posY="160.01562" posZ="5.79948" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland12"></building>
-    <building id="nbt_mansion01" model="1234" posX="428.19531" posY="600.79102" posZ="11.6678" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_mansion01"></building>
-    <building id="nbt_mansion02" model="1234" posX="443.67773" posY="524.61328" posZ="6.65185" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_mansion02"></building>
-    <building id="nbeachbit02" model="1234" posX="441.35938" posY="215.16748" posZ="9.20185" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachbit02"></building>
-    <building id="nbeachbit03" model="1234" posX="459.67285" posY="112.5249" posZ="9.16225" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachbit03"></building>
-    <building id="nbtshopfronts01" model="1234" posX="465.99805" posY="292.85352" posZ="11.4104" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodshopfronts01"></building>
-    <building id="nbeachbit04" model="1234" posX="381.64844" posY="303.96973" posZ="12.89856" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachbit04"></building>
-    <building id="nbeachbit05" model="1234" posX="422.34766" posY="185.06445" posZ="9.20185" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachbit05"></building>
-    <building id="nbeachbit06" model="1234" posX="476.16797" posY="199.85596" posZ="8.20314" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachbit06"></building>
-    <building id="nbt_hotel04" model="1234" posX="589.6123" posY="538.28418" posZ="22.273" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_hotel04"></building>
-    <building id="nbt_hotel02" model="1234" posX="537.25977" posY="205.83154" posZ="59.3048" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_hotel02"></building>
-    <building id="nbt_hotel05" model="1234" posX="330.31836" posY="713.81006" posZ="6.711" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_hotel05"></building>
-    <building id="nbt_hotel01" model="1234" posX="539.31836" posY="80.28809" posZ="29.2543" rotX="0" rotY="-0" rotZ="-93.999573274959" interior="0" lodID="lod_hotel01"></building>
-    <building id="nbt_hotel03" model="1234" posX="561.14453" posY="362.68799" posZ="59.421" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_hotel03"></building>
-    <building id="nbt_hotel06" model="1234" posX="295.86328" posY="384.25391" posZ="12.85747" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_hotel06"></building>
-    <building id="newbuilding01" model="1234" posX="296.24512" posY="286.625" posZ="6.32856" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodbuilding01"></building>
-    <building id="nbtshopfronts02" model="1234" posX="347.37012" posY="205.55664" posZ="8.03963" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodshopfronts02"></building>
-    <building id="nbhospgrnd" model="1234" posX="476.4707" posY="710.49219" posZ="4.1936" rotX="0" rotY="-0" rotZ="-3.0003415532284" interior="0" lodID="lodospgrnd"></building>
-    <building id="nbt_rooftopstart" model="1234" posX="384.93164" posY="256.46533" posZ="12.217" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_rooftopstart"></building>
-    <building id="plank01" model="1234" posX="351.66797" posY="344.43652" posZ="11.95443" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="plank02" model="1234" posX="350.45801" posY="378.3042" posZ="12.07089" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_skip" model="1234" posX="375.62305" posY="471.91064" posZ="5.92641" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_pizzaplace" model="1234" posX="419.76367" posY="88.32617" posZ="10.53996" rotX="-0" rotY="-0" rotZ="0" interior="0" lodID="lod_pizzaplace"></building>
-    <building id="nbt_mansionbase01" model="1234" posX="425.18359" posY="613.66797" posZ="5.70245" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_mansionbase01"></building>
-    <building id="mansionfence" model="1234" posX="428.19531" posY="600.79102" posZ="11.6678" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_mansiontrees01" model="1234" posX="425.52637" posY="614.18066" posZ="5.85181" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_mansion03" model="1234" posX="397.75098" posY="518.29346" posZ="6.65185" rotX="-0" rotY="-0" rotZ="-107.00047068735" interior="0" lodID="lod_mansion03"></building>
-    <building id="nbt_mansionbase02" model="1234" posX="419.5957" posY="523.8999" posZ="5.40335" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_mansionbase02"></building>
-    <building id="nbt_mansiontrees02" model="1234" posX="421.10254" posY="525.48877" posZ="6.06761" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_tikiprops01" model="1234" posX="416.3252" posY="517.12598" posZ="5.44322" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_hoteltrees01" model="1234" posX="540.66895" posY="95.2085" posZ="6.8765" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_hoteltrees02" model="1234" posX="533.77441" posY="191.646" posZ="8.55961" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_hotel03glass" model="1234" posX="561.14453" posY="362.68848" posZ="59.42125" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_hotel07" model="1234" posX="500.90527" posY="624.61279" posZ="4.05803" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_hotel07"></building>
-    <building id="nbt_hotel07fence" model="1234" posX="500.24512" posY="627.82275" posZ="6.01555" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nubuilding1glass" model="1234" posX="296.24512" posY="286.625" posZ="6.32856" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbeach_police" model="1234" posX="500.64746" posY="513.39746" posZ="8.89779" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodach_police"></building>
-    <building id="nbt_hotel06balcony" model="1234" posX="297.35156" posY="372.02148" posZ="12.5629" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_mans04balcony" model="1234" posX="505.3623" posY="560.7583" posZ="9.34936" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbeachbit03rails" model="1234" posX="464.09375" posY="132.95996" posZ="6.73348" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbecland12gates" model="1234" posX="371.58691" posY="151.67578" posZ="2.73684" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_mansion04" model="1234" posX="501.42383" posY="564.25098" posZ="4.41155" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_mansion04"></building>
-    <building id="nbecland12bball" model="1234" posX="451.90234" posY="164.89551" posZ="6.77846" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_mansiontrees03" model="1234" posX="501.70605" posY="564.92676" posZ="5.4893" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbroada1" model="1234" posX="342.46777" posY="517.23389" posZ="-5.52187" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodoada1"></building>
-    <building id="nbt_mansiontrees04" model="1234" posX="334.47852" posY="770.84082" posZ="7.52104" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_mansiontrees05" model="1234" posX="266.84863" posY="699.33008" posZ="7.46038" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_mnsnwtr02" model="1234" posX="416.39063" posY="517.07422" posZ="4.04843" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_mnsnwtr01" model="1234" posX="428.41895" posY="622.66211" posZ="4.32832" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="vc_nbtroadx" model="1234" posX="341.81348" posY="143.29199" posZ="-8.57218" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnbtroadx"></building>
-    <building id="beachbta" model="1234" posX="561.68555" posY="509.45361" posZ="5.66682" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodchbta"></building>
-    <building id="nbt_road04" model="1234" posX="456.41406" posY="346.93848" posZ="4.36012" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road04"></building>
-    <building id="nbt_road02" model="1234" posX="513.36719" posY="336.8457" posZ="3.95321" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road02"></building>
-    <building id="jewler_shop" model="1234" posX="382.7793" posY="207.62061" posZ="6.33689" rotX="-0" rotY="-0" rotZ="86.499826562907" interior="0"></building>
-    <building id="jewler_opac_stf" model="1234" posX="382.77539" posY="207.96924" posZ="5.78132" rotX="-0" rotY="-0" rotZ="86.499826562907" interior="0"></building>
-    <building id="nbeachbit04b" model="1234" posX="396.77246" posY="418.70703" posZ="12.792" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachbit04b"></building>
-    <building id="nbtshopfronts01b" model="1234" posX="478.92871" posY="407.42578" posZ="12.11835" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodshopfronts01b"></building>
-    <building id="nbtgardoor" model="1234" posX="457.63184" posY="340.4082" posZ="6.13404" rotX="0" rotY="-0" rotZ="-90" interior="0"></building>
-    <building id="nbt_road01" model="1234" posX="464.93652" posY="152.35107" posZ="4.272" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road01"></building>
-    <building id="nbt_road06" model="1234" posX="375.19043" posY="688.18066" posZ="4.23289" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road06"></building>
-    <building id="nbt_road07" model="1234" posX="197.65332" posY="690.48145" posZ="3.94638" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road07"></building>
-    <building id="nbt_road08" model="1234" posX="289.23633" posY="669.49023" posZ="4.06691" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road08"></building>
-    <building id="nbt_road09" model="1234" posX="393.45605" posY="515.08594" posZ="4.35619" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road09"></building>
-    <building id="nbt_road10" model="1234" posX="301.39941" posY="346.57715" posZ="4.493" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road10"></building>
-    <building id="nbt_road11" model="1234" posX="373.98145" posY="151.67578" posZ="3.976" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road11"></building>
-    <building id="nbchbit04bgrd1" model="1234" posX="396.77246" posY="416.86523" posZ="12.79225" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodhbit04bgrd1"></building>
-    <building id="nbchbit04grd2" model="1234" posX="381.64844" posY="303.96973" posZ="12.899" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodhbit04grd2"></building>
-    <building id="nbtshpfrts1bgrd" model="1234" posX="478.99805" posY="407.25635" posZ="12.11835" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodshpfrts1bgrd"></building>
-    <building id="nbtshpfrnts1grd" model="1234" posX="466.9707" posY="298.27246" posZ="11.4104" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodshpfrnts1grd"></building>
-    <building id="nbtgardoor02" model="1234" posX="301.50195" posY="402.0293" posZ="7.514" rotX="0" rotY="-0" rotZ="-107.49965552246" interior="0"></building>
-    <building id="nbecland10" model="1234" posX="611.99805" posY="334.1001" posZ="4.43818" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland10"></building>
-    <building id="nbeachsand1" model="1234" posX="828.20313" posY="155.68994" posZ="6.95319" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachsand1"></building>
-    <building id="nbeachsand2" model="1234" posX="752.17285" posY="332.04541" posZ="7.11353" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachsand2"></building>
-    <building id="beachbt" model="1234" posX="611.67188" posY="152.29443" posZ="4.17784" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodchbt"></building>
-    <building id="beachbtb" model="1234" posX="715.32715" posY="510.67676" posZ="6.02482" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodchbtb"></building>
-    <building id="beachbtb2" model="1234" posX="884.01758" posY="508.63477" posZ="-0.47874" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodchbtb2"></building>
-    <building id="nbeachsand2b" model="1234" posX="874.69434" posY="325.77539" posZ="4.47857" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachsand2b"></building>
-    <building id="beachblend05" model="1234" posX="951.63965" posY="508.63477" posZ="-5.26391" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="beachblend06" model="1234" posX="946.66016" posY="325.03906" posZ="-6.11001" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="beachblend07" model="1234" posX="950.83105" posY="146.22754" posZ="-4.32289" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbchbtjetty01" model="1234" posX="237.46484" posY="242.12305" posZ="-7.77456" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodhbtjetty01"></building>
-    <building id="newpools" model="1234" posX="295.1543" posY="288.87061" posZ="6.73923" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbchbtjetty02" model="1234" posX="333.61816" posY="537.26904" posZ="-5.34897" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodhbtjetty02"></building>
-    <building id="nbtshopfronts02b" model="1234" posX="386.83789" posY="131.78906" posZ="8.30689" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodshopfronts02b"></building>
-    <building id="nbtgardoor03" model="1234" posX="450.13672" posY="638.36768" posZ="5.602" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbechneon2" model="1234" posX="285.34766" posY="290.09033" posZ="14.878" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbecpaynspray" model="1234" posX="326.09766" posY="438.71777" posZ="8.67373" rotX="0" rotY="-0" rotZ="162.50035718287" interior="0" lodID="lodcpaynspray"></building>
-    <building id="nbecpnsneon1" model="1234" posX="330.27539" posY="426.87256" posZ="14.24982" rotX="-0" rotY="-0" rotZ="162.50035718287" interior="0"></building>
-    <building id="nbecnssignday_dy" model="1234" posX="335.95117" posY="435.69482" posZ="9.87374" rotX="-0" rotY="-0" rotZ="162.50035718287" interior="0"></building>
-    <building id="nbecpnsdoor" model="1234" posX="325.08301" posY="431.13672" posZ="5.58716" rotX="-0" rotY="-0" rotZ="162.50035718287" interior="0"></building>
-    <building id="nbecnssignight_nt" model="1234" posX="335.95117" posY="435.69482" posZ="9.87374" rotX="-0" rotY="-0" rotZ="162.50035718287" interior="0"></building>
-    <building id="nbeachwater1" model="1234" posX="323.22559" posY="720.70752" posZ="5.68681" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbec_divingbds" model="1234" posX="330.78516" posY="714.57666" posZ="-4.21673" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbeachvegy1" model="1234" posX="467.13672" posY="713.95508" posZ="8.57056" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbeachvegy2" model="1234" posX="557.57715" posY="368.28418" posZ="8.59" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbecland014" model="1234" posX="178.18652" posY="683.66309" posZ="-6.04944" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbecland013" model="1234" posX="178.18652" posY="683.66309" posZ="-6.04944" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbhospgrnd02" model="1234" posX="476.4707" posY="710.49219" posZ="4.1936" rotX="0" rotY="-0" rotZ="-3.0003415532284" interior="0"></building>
-    <building id="nbt_hotel0402" model="1234" posX="589.6123" posY="538.28418" posZ="22.273" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_hotel0702" model="1234" posX="500.90527" posY="624.61279" posZ="4.05803" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_mansion0402" model="1234" posX="501.42383" posY="564.25098" posZ="4.41155" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbeach_police02" model="1234" posX="500.64746" posY="513.39746" posZ="8.89779" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_hotel0602" model="1234" posX="295.86328" posY="384.25391" posZ="12.85747" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="newbuilding0102" model="1234" posX="296.24512" posY="286.625" posZ="6.32856" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_hotel0302" model="1234" posX="561.14453" posY="362.68799" posZ="59.421" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_hotel0202" model="1234" posX="537.25977" posY="205.83154" posZ="59.3048" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
-    <building id="nbt_hotel0102" model="1234" posX="539.31836" posY="80.28809" posZ="29.2543" rotX="0" rotY="-0" rotZ="-93.999573274959" interior="0"></building>
-    <building id="nbecbtwbrdge" model="1234" posX="373.98145" posY="151.67578" posZ="3.976" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcbtwbrdge"></building>
-    <building id="nbtshopfronts02win" model="1234" posX="347.37012" posY="205.55664" posZ="8.03963" rotX="0" rotY="-0" rotZ="0" interior="0"></building>
+    <object id="Xnbt_chaseroom" model="8585" posX="384.93" posY="256.47" posZ="12.217" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbecland01" model="8585" posX="178.18652" posY="683.66309" posZ="-6.04944" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland01"></object>
+    <object id="nbecland03" model="8585" posX="282.4248" posY="646.46826" posZ="-5.92889" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland03"></object>
+    <object id="nbecland05" model="8585" posX="355.48242" posY="632.35205" posZ="-5.76292" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland05"></object>
+    <object id="nbt_road03" model="8585" posX="499.55078" posY="512.79199" posZ="4.37222" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road03"></object>
+    <object id="nbt_road05" model="8585" posX="458.69141" posY="602.95898" posZ="4.35269" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road05"></object>
+    <object id="nbecland09" model="8585" posX="283.41992" posY="367.78467" posZ="-6.38695" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland09"></object>
+    <object id="nbecland11" model="8585" posX="466.10449" posY="73.27002" posZ="4.10624" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland11"></object>
+    <object id="nbecland12" model="8585" posX="448.51465" posY="160.01562" posZ="5.79948" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland12"></object>
+    <object id="nbt_mansion01" model="8585" posX="428.19531" posY="600.79102" posZ="11.6678" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_mansion01"></object>
+    <object id="nbt_mansion02" model="8585" posX="443.67773" posY="524.61328" posZ="6.65185" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_mansion02"></object>
+    <object id="nbeachbit02" model="8585" posX="441.35938" posY="215.16748" posZ="9.20185" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachbit02"></object>
+    <object id="nbeachbit03" model="8585" posX="459.67285" posY="112.5249" posZ="9.16225" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachbit03"></object>
+    <object id="nbtshopfronts01" model="8585" posX="465.99805" posY="292.85352" posZ="11.4104" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodshopfronts01"></object>
+    <object id="nbeachbit04" model="8585" posX="381.64844" posY="303.96973" posZ="12.89856" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachbit04"></object>
+    <object id="nbeachbit05" model="8585" posX="422.34766" posY="185.06445" posZ="9.20185" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachbit05"></object>
+    <object id="nbeachbit06" model="8585" posX="476.16797" posY="199.85596" posZ="8.20314" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachbit06"></object>
+    <object id="nbt_hotel04" model="8585" posX="589.6123" posY="538.28418" posZ="22.273" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_hotel04"></object>
+    <object id="nbt_hotel02" model="8585" posX="537.25977" posY="205.83154" posZ="59.3048" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_hotel02"></object>
+    <object id="nbt_hotel05" model="8585" posX="330.31836" posY="713.81006" posZ="6.711" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_hotel05"></object>
+    <object id="nbt_hotel01" model="8585" posX="539.31836" posY="80.28809" posZ="29.2543" rotX="0" rotY="-0" rotZ="-93.999573274959" interior="0" lodID="lod_hotel01"></object>
+    <object id="nbt_hotel03" model="8585" posX="561.14453" posY="362.68799" posZ="59.421" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_hotel03"></object>
+    <object id="nbt_hotel06" model="8585" posX="295.86328" posY="384.25391" posZ="12.85747" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_hotel06"></object>
+    <object id="newbuilding01" model="8585" posX="296.24512" posY="286.625" posZ="6.32856" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodbuilding01"></object>
+    <object id="nbtshopfronts02" model="8585" posX="347.37012" posY="205.55664" posZ="8.03963" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodshopfronts02"></object>
+    <object id="nbhospgrnd" model="8585" posX="476.4707" posY="710.49219" posZ="4.1936" rotX="0" rotY="-0" rotZ="-3.0003415532284" interior="0" lodID="lodospgrnd"></object>
+    <object id="nbt_rooftopstart" model="8585" posX="384.93164" posY="256.46533" posZ="12.217" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_rooftopstart"></object>
+    <object id="plank01" model="8585" posX="351.66797" posY="344.43652" posZ="11.95443" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="plank02" model="8585" posX="350.45801" posY="378.3042" posZ="12.07089" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_skip" model="8585" posX="375.62305" posY="471.91064" posZ="5.92641" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_pizzaplace" model="8585" posX="419.76367" posY="88.32617" posZ="10.53996" rotX="-0" rotY="-0" rotZ="0" interior="0" lodID="lod_pizzaplace"></object>
+    <object id="nbt_mansionbase01" model="8585" posX="425.18359" posY="613.66797" posZ="5.70245" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_mansionbase01"></object>
+    <object id="mansionfence" model="8585" posX="428.19531" posY="600.79102" posZ="11.6678" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_mansiontrees01" model="8585" posX="425.52637" posY="614.18066" posZ="5.85181" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_mansion03" model="8585" posX="397.75098" posY="518.29346" posZ="6.65185" rotX="-0" rotY="-0" rotZ="-107.00047068735" interior="0" lodID="lod_mansion03"></object>
+    <object id="nbt_mansionbase02" model="8585" posX="419.5957" posY="523.8999" posZ="5.40335" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_mansionbase02"></object>
+    <object id="nbt_mansiontrees02" model="8585" posX="421.10254" posY="525.48877" posZ="6.06761" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_tikiprops01" model="8585" posX="416.3252" posY="517.12598" posZ="5.44322" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_hoteltrees01" model="8585" posX="540.66895" posY="95.2085" posZ="6.8765" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_hoteltrees02" model="8585" posX="533.77441" posY="191.646" posZ="8.55961" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_hotel03glass" model="8585" posX="561.14453" posY="362.68848" posZ="59.42125" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_hotel07" model="8585" posX="500.90527" posY="624.61279" posZ="4.05803" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_hotel07"></object>
+    <object id="nbt_hotel07fence" model="8585" posX="500.24512" posY="627.82275" posZ="6.01555" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nubuilding1glass" model="8585" posX="296.24512" posY="286.625" posZ="6.32856" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbeach_police" model="8585" posX="500.64746" posY="513.39746" posZ="8.89779" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodach_police"></object>
+    <object id="nbt_hotel06balcony" model="8585" posX="297.35156" posY="372.02148" posZ="12.5629" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_mans04balcony" model="8585" posX="505.3623" posY="560.7583" posZ="9.34936" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbeachbit03rails" model="8585" posX="464.09375" posY="132.95996" posZ="6.73348" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbecland12gates" model="8585" posX="371.58691" posY="151.67578" posZ="2.73684" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_mansion04" model="8585" posX="501.42383" posY="564.25098" posZ="4.41155" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_mansion04"></object>
+    <object id="nbecland12bball" model="8585" posX="451.90234" posY="164.89551" posZ="6.77846" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_mansiontrees03" model="8585" posX="501.70605" posY="564.92676" posZ="5.4893" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbroada1" model="8585" posX="342.46777" posY="517.23389" posZ="-5.52187" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodoada1"></object>
+    <object id="nbt_mansiontrees04" model="8585" posX="334.47852" posY="770.84082" posZ="7.52104" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_mansiontrees05" model="8585" posX="266.84863" posY="699.33008" posZ="7.46038" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_mnsnwtr02" model="8585" posX="416.39063" posY="517.07422" posZ="4.04843" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_mnsnwtr01" model="8585" posX="428.41895" posY="622.66211" posZ="4.32832" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="vc_nbtroadx" model="8585" posX="341.81348" posY="143.29199" posZ="-8.57218" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodnbtroadx"></object>
+    <object id="beachbta" model="8585" posX="561.68555" posY="509.45361" posZ="5.66682" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodchbta"></object>
+    <object id="nbt_road04" model="8585" posX="456.41406" posY="346.93848" posZ="4.36012" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road04"></object>
+    <object id="nbt_road02" model="8585" posX="513.36719" posY="336.8457" posZ="3.95321" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road02"></object>
+    <object id="jewler_shop" model="8585" posX="382.7793" posY="207.62061" posZ="6.33689" rotX="-0" rotY="-0" rotZ="86.499826562907" interior="0"></object>
+    <object id="jewler_opac_stf" model="8585" posX="382.77539" posY="207.96924" posZ="5.78132" rotX="-0" rotY="-0" rotZ="86.499826562907" interior="0"></object>
+    <object id="nbeachbit04b" model="8585" posX="396.77246" posY="418.70703" posZ="12.792" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachbit04b"></object>
+    <object id="nbtshopfronts01b" model="8585" posX="478.92871" posY="407.42578" posZ="12.11835" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodshopfronts01b"></object>
+    <object id="nbtgardoor" model="8585" posX="457.63184" posY="340.4082" posZ="6.13404" rotX="0" rotY="-0" rotZ="-90" interior="0"></object>
+    <object id="nbt_road01" model="8585" posX="464.93652" posY="152.35107" posZ="4.272" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road01"></object>
+    <object id="nbt_road06" model="8585" posX="375.19043" posY="688.18066" posZ="4.23289" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road06"></object>
+    <object id="nbt_road07" model="8585" posX="197.65332" posY="690.48145" posZ="3.94638" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road07"></object>
+    <object id="nbt_road08" model="8585" posX="289.23633" posY="669.49023" posZ="4.06691" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road08"></object>
+    <object id="nbt_road09" model="8585" posX="393.45605" posY="515.08594" posZ="4.35619" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road09"></object>
+    <object id="nbt_road10" model="8585" posX="301.39941" posY="346.57715" posZ="4.493" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road10"></object>
+    <object id="nbt_road11" model="8585" posX="373.98145" posY="151.67578" posZ="3.976" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lod_road11"></object>
+    <object id="nbchbit04bgrd1" model="8585" posX="396.77246" posY="416.86523" posZ="12.79225" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodhbit04bgrd1"></object>
+    <object id="nbchbit04grd2" model="8585" posX="381.64844" posY="303.96973" posZ="12.899" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodhbit04grd2"></object>
+    <object id="nbtshpfrts1bgrd" model="8585" posX="478.99805" posY="407.25635" posZ="12.11835" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodshpfrts1bgrd"></object>
+    <object id="nbtshpfrnts1grd" model="8585" posX="466.9707" posY="298.27246" posZ="11.4104" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodshpfrnts1grd"></object>
+    <object id="nbtgardoor02" model="8585" posX="301.50195" posY="402.0293" posZ="7.514" rotX="0" rotY="-0" rotZ="-107.49965552246" interior="0"></object>
+    <object id="nbecland10" model="8585" posX="611.99805" posY="334.1001" posZ="4.43818" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcland10"></object>
+    <object id="nbeachsand1" model="8585" posX="828.20313" posY="155.68994" posZ="6.95319" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachsand1"></object>
+    <object id="nbeachsand2" model="8585" posX="752.17285" posY="332.04541" posZ="7.11353" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachsand2"></object>
+    <object id="beachbt" model="8585" posX="611.67188" posY="152.29443" posZ="4.17784" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodchbt"></object>
+    <object id="beachbtb" model="8585" posX="715.32715" posY="510.67676" posZ="6.02482" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodchbtb"></object>
+    <object id="beachbtb2" model="8585" posX="884.01758" posY="508.63477" posZ="-0.47874" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodchbtb2"></object>
+    <object id="nbeachsand2b" model="8585" posX="874.69434" posY="325.77539" posZ="4.47857" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodachsand2b"></object>
+    <object id="beachblend05" model="8585" posX="951.63965" posY="508.63477" posZ="-5.26391" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="beachblend06" model="8585" posX="946.66016" posY="325.03906" posZ="-6.11001" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="beachblend07" model="8585" posX="950.83105" posY="146.22754" posZ="-4.32289" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbchbtjetty01" model="8585" posX="237.46484" posY="242.12305" posZ="-7.77456" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodhbtjetty01"></object>
+    <object id="newpools" model="8585" posX="295.1543" posY="288.87061" posZ="6.73923" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbchbtjetty02" model="8585" posX="333.61816" posY="537.26904" posZ="-5.34897" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodhbtjetty02"></object>
+    <object id="nbtshopfronts02b" model="8585" posX="386.83789" posY="131.78906" posZ="8.30689" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodshopfronts02b"></object>
+    <object id="nbtgardoor03" model="8585" posX="450.13672" posY="638.36768" posZ="5.602" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbechneon2" model="8585" posX="285.34766" posY="290.09033" posZ="14.878" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbecpaynspray" model="8585" posX="326.09766" posY="438.71777" posZ="8.67373" rotX="0" rotY="-0" rotZ="162.50035718287" interior="0" lodID="lodcpaynspray"></object>
+    <object id="nbecpnsneon1" model="8585" posX="330.27539" posY="426.87256" posZ="14.24982" rotX="-0" rotY="-0" rotZ="162.50035718287" interior="0"></object>
+    <object id="nbecnssignday_dy" model="8585" posX="335.95117" posY="435.69482" posZ="9.87374" rotX="-0" rotY="-0" rotZ="162.50035718287" interior="0"></object>
+    <object id="nbecpnsdoor" model="8585" posX="325.08301" posY="431.13672" posZ="5.58716" rotX="-0" rotY="-0" rotZ="162.50035718287" interior="0"></object>
+    <object id="nbecnssignight_nt" model="8585" posX="335.95117" posY="435.69482" posZ="9.87374" rotX="-0" rotY="-0" rotZ="162.50035718287" interior="0"></object>
+    <object id="nbeachwater1" model="8585" posX="323.22559" posY="720.70752" posZ="5.68681" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbec_divingbds" model="8585" posX="330.78516" posY="714.57666" posZ="-4.21673" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbeachvegy1" model="8585" posX="467.13672" posY="713.95508" posZ="8.57056" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbeachvegy2" model="8585" posX="557.57715" posY="368.28418" posZ="8.59" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbecland014" model="8585" posX="178.18652" posY="683.66309" posZ="-6.04944" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbecland013" model="8585" posX="178.18652" posY="683.66309" posZ="-6.04944" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbhospgrnd02" model="8585" posX="476.4707" posY="710.49219" posZ="4.1936" rotX="0" rotY="-0" rotZ="-3.0003415532284" interior="0"></object>
+    <object id="nbt_hotel0402" model="8585" posX="589.6123" posY="538.28418" posZ="22.273" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_hotel0702" model="8585" posX="500.90527" posY="624.61279" posZ="4.05803" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_mansion0402" model="8585" posX="501.42383" posY="564.25098" posZ="4.41155" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbeach_police02" model="8585" posX="500.64746" posY="513.39746" posZ="8.89779" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_hotel0602" model="8585" posX="295.86328" posY="384.25391" posZ="12.85747" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="newbuilding0102" model="8585" posX="296.24512" posY="286.625" posZ="6.32856" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_hotel0302" model="8585" posX="561.14453" posY="362.68799" posZ="59.421" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_hotel0202" model="8585" posX="537.25977" posY="205.83154" posZ="59.3048" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
+    <object id="nbt_hotel0102" model="8585" posX="539.31836" posY="80.28809" posZ="29.2543" rotX="0" rotY="-0" rotZ="-93.999573274959" interior="0"></object>
+    <object id="nbecbtwbrdge" model="8585" posX="373.98145" posY="151.67578" posZ="3.976" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodcbtwbrdge"></object>
+    <object id="nbtshopfronts02win" model="8585" posX="347.37012" posY="205.55664" posZ="8.03963" rotX="0" rotY="-0" rotZ="0" interior="0"></object>
     <object id="bskball_lax" model="946" posX="455.59961" posY="184.3999" posZ="6.83571" rotX="-0" rotY="-0" rotZ="90" interior="0"></object>
     <object id="bskball_lax" model="946" posX="444.34961" posY="145.1499" posZ="6.31365" rotX="0" rotY="-0" rotZ="-70.000468877125" interior="0"></object>
     <object id="bskball_lax" model="946" posX="460.53027" posY="151.1499" posZ="6.31365" rotX="-0" rotY="-0" rotZ="108.99990852836" interior="0"></object>
