@@ -2,39 +2,39 @@
 	<info type="script" name="Vice_City" author="Blue Eagle" description="Blender Converted Map" version="1" eagleLoad="1" />
 
 	<!-- Map Files -->
-	<map src="zones/neons/neons.map" type="server" />
-	<map src="zones/multiobj/multiobj.map" type="server" />
-	<map src="zones/mansion/mansion.map" type="server" />
-	<map src="zones/lawyers/lawyers.map" type="server" />
-	<map src="zones/downtown/downtown.map" type="server" />
-	<map src="zones/airportN/airportN.map" type="server" />
-	<map src="zones/stripclb/stripclb.map" type="server" />
-	<map src="zones/nbeachw/nbeachw.map" type="server" />
-	<map src="zones/haitin/haitin.map" type="server" />
-	<map src="zones/haiti/haiti.map" type="server" />
-	<map src="zones/washints/washints.map" type="server" />
-	<map src="zones/islandsf/islandsf.map" type="server" />
-	<map src="zones/stadint/stadint.map" type="server" />
-	<map src="zones/oceandn/oceandn.map" type="server" />
-	<map src="zones/starisl/starisl.map" type="server" />
-	<map src="zones/bridge/bridge.map" type="server" />
-	<map src="zones/VC_seabed/VC_seabed.map" type="server" />
-	<map src="zones/bank/bank.map" type="server" />
-	<map src="zones/downtows/downtows.map" type="server" />
-	<map src="zones/cisland/cisland.map" type="server" />
-	<map src="zones/VC_generic/VC_generic.map" type="server" />
-	<map src="zones/golf/golf.map" type="server" />
-	<map src="zones/washintn/washintn.map" type="server" />
-	<map src="zones/club/club.map" type="server" />
-	<map src="zones/littleha/littleha.map" type="server" />
-	<map src="zones/nbeachbt/nbeachbt.map" type="server" />
-	<map src="zones/oceandrv/oceandrv.map" type="server" />
-	<map src="zones/airport/airport.map" type="server" />
-	<map src="zones/docks/docks.map" type="server" />
-	<map src="zones/hotel/hotel.map" type="server" />
-	<map src="zones/nbeach/nbeach.map" type="server" />
-	<map src="zones/mall/mall.map" type="server" />
-	<map src="zones/concerth/concerth.map" type="server" />
+	<file src="zones/neons/neons.map" type="client" />
+	<file src="zones/multiobj/multiobj.map" type="client" />
+	<file src="zones/mansion/mansion.map" type="client" />
+	<file src="zones/lawyers/lawyers.map" type="client" />
+	<file src="zones/downtown/downtown.map" type="client" />
+	<file src="zones/airportN/airportN.map" type="client" />
+	<file src="zones/stripclb/stripclb.map" type="client" />
+	<file src="zones/nbeachw/nbeachw.map" type="client" />
+	<file src="zones/haitin/haitin.map" type="client" />
+	<file src="zones/haiti/haiti.map" type="client" />
+	<file src="zones/washints/washints.map" type="client" />
+	<file src="zones/islandsf/islandsf.map" type="client" />
+	<file src="zones/stadint/stadint.map" type="client" />
+	<file src="zones/oceandn/oceandn.map" type="client" />
+	<file src="zones/starisl/starisl.map" type="client" />
+	<file src="zones/bridge/bridge.map" type="client" />
+	<file src="zones/VC_seabed/VC_seabed.map" type="client" />
+	<file src="zones/bank/bank.map" type="client" />
+	<file src="zones/downtows/downtows.map" type="client" />
+	<file src="zones/cisland/cisland.map" type="client" />
+	<file src="zones/VC_generic/VC_generic.map" type="client" />
+	<file src="zones/golf/golf.map" type="client" />
+	<file src="zones/washintn/washintn.map" type="client" />
+	<file src="zones/club/club.map" type="client" />
+	<file src="zones/littleha/littleha.map" type="client" />
+	<file src="zones/nbeachbt/nbeachbt.map" type="client" />
+	<file src="zones/oceandrv/oceandrv.map" type="client" />
+	<file src="zones/airport/airport.map" type="client" />
+	<file src="zones/docks/docks.map" type="client" />
+	<file src="zones/hotel/hotel.map" type="client" />
+	<file src="zones/nbeach/nbeach.map" type="client" />
+	<file src="zones/mall/mall.map" type="client" />
+	<file src="zones/concerth/concerth.map" type="client" />
  
 	<file src="zones/multiobj/multiobj.definition" type="client" />
 	<file src="zones/airport/airport.definition" type="client" />
