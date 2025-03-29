@@ -12,4 +12,4 @@ Requires eagleLoader (NIGHTLY)
 [Link](https://github.com/BlueEagle12/MTA-SA---Eagle-Loader/tree/Nightly)
 
 Join us on discord for any map support or easier bug reports.
-[EagleInc Discord](https://discord.gg/Pa3eRPAf6D)
+[Discord](https://discord.gg/Pa3eRPAf6D)
