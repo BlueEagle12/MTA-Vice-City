@@ -1,0 +1,32 @@
+<zoneDefinitions>
+    <definition id="LODlloutside" zone="mall" col="LODlloutside" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODorthmalllftex" zone="mall" col="LODorthmalllftex" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODiamiland056" zone="mall" col="LODiamiland056" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODiamiland058" zone="mall" col="LODiamiland058" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODiamiland060" zone="mall" col="LODiamiland060" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODmallcp_01" zone="mall" col="LODmallcp_01" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODmallcp_02" zone="mall" col="LODmallcp_02" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODmallcp_03" zone="mall" col="LODmallcp_03" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODmallcp_04" zone="mall" col="LODmallcp_04" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODmallcp_05" zone="mall" col="LODmallcp_05" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODallroof01" zone="mall" col="LODallroof01" txd="mallroof" flags="7" lodDistance="1500"></definition>
+    <definition id="nbnorthmallext1" zone="mall" col="nbnorthmallext1" txd="mallext" flags="" lodDistance="200"></definition>
+    <definition id="nmalloutside" zone="mall" col="nmalloutside" txd="mallext" flags="" lodDistance="200"></definition>
+    <definition id="mlnorthmalllftex" zone="mall" col="mlnorthmalllftex" txd="mallext" flags="7" lodDistance="140"></definition>
+    <definition id="mlmiamiland056" zone="mall" col="mlmiamiland056" txd="mall_ground" flags="" lodDistance="140"></definition>
+    <definition id="mlmiamiland058" zone="mall" col="mlmiamiland058" txd="mall_ground" flags="" lodDistance="140"></definition>
+    <definition id="mlmiamiland060" zone="mall" col="mlmiamiland060" txd="mall_ground" flags="" lodDistance="180"></definition>
+    <definition id="newmallcp_01" zone="mall" col="newmallcp_01" txd="mallcarpark" flags="" lodDistance="90"></definition>
+    <definition id="newmallcp_02" zone="mall" col="newmallcp_02" txd="mallcarpark" flags="" lodDistance="90"></definition>
+    <definition id="newmallcp_03" zone="mall" col="newmallcp_03" txd="mallcarpark" flags="" lodDistance="90"></definition>
+    <definition id="newmallcp_04" zone="mall" col="newmallcp_04" txd="mallcarpark" flags="" lodDistance="90"></definition>
+    <definition id="newmallcp_05" zone="mall" col="newmallcp_05" txd="mallcarpark" flags="" lodDistance="90"></definition>
+    <definition id="mlmallroof01" zone="mall" col="mlmallroof01" txd="mallroof" flags="7" lodDistance="200"></definition>
+    <definition id="mlmallflag02" zone="mall" col="mlmallflag02" txd="mallitems" flags="7" lodDistance="140"></definition>
+    <definition id="mlmallflag12" zone="mall" col="mlmallflag12" txd="mallitems" flags="7" lodDistance="140"></definition>
+    <definition id="mlmallflag14" zone="mall" col="mlmallflag14" txd="mallitems" flags="7" lodDistance="140"></definition>
+    <definition id="mlNpoint02" zone="mall" col="mlNpoint02" txd="mallcarpark" flags="7" lodDistance="140"></definition>
+    <definition id="mlNpoint04" zone="mall" col="mlNpoint04" txd="mallcarpark" flags="7" lodDistance="140"></definition>
+    <definition id="mlNpoint06" zone="mall" col="mlNpoint06" txd="mallcarpark" flags="7" lodDistance="140"></definition>
+    <definition id="mlmiamiland060b" zone="mall" col="mlmiamiland060b" txd="mall_ground" flags="" lodDistance="180"></definition>
+</zoneDefinitions>
