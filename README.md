@@ -1,9 +1,9 @@
 # MTA-Vice-City
 
 Full vice city conversion for MTA:SA with LODs
-UPDATED FOR EARLY 3.0 SUPPORT
+UPDATED FOR EARLY 3.1 SUPPORT
 
--- Missing alot of open world interiors
+-- Missing open world interiors, mini map is off and water is off. Will take care of this soon
 
 Feel free to post any bugs in Issues, or directly message me on discord.
 If you have a bug fix make a pull request and inform me and I'll review it.
