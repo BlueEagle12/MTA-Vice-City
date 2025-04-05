@@ -10,3 +10,6 @@ Requires eagleLoader
 
 Join us on discord for any map support or easier bug reports.
 [EagleInc Discord](https://discord.gg/dp5sp7tD3B)
+
+
+REQUIRES NIGHTLY EAGLE LOADER
