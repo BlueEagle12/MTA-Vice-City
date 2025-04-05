@@ -1,135 +1,220 @@
 <zoneDefinitions>
-    <definition id="docks96" zone="docks" dff="docks96" col="docks96" txd="dk_midbuilds" alphaTransparency="nil" lod="true" lodID="docks96" lodDistance="80"></definition>
-    <definition id="dk_cargoshp25" zone="docks" dff="dk_cargoshp25" col="dk_cargoshp25" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp25" lodDistance="80"></definition>
-    <definition id="doc_crane_cab02" zone="docks" dff="doc_crane_cab02" col="doc_crane_cab02" txd="crate" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="dk_cargoshp05" zone="docks" dff="dk_cargoshp05" col="dk_cargoshp05" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp05" lodDistance="112"></definition>
-    <definition id="docks52" zone="docks" dff="docks52" col="docks52" txd="dk_midbuilds" alphaTransparency="nil" lod="true" lodID="docks52" lodDistance="80"></definition>
-    <definition id="dk_rdsignsbr" zone="docks" dff="dk_rdsignsbr" col="dk_rdsignsbr" txd="dockroads" alphaTransparency="nil" lod="nil" lodDistance="105"></definition>
-    <definition id="dkshipment03" zone="docks" dff="dkshipment03" col="dkshipment03" txd="crate" alphaTransparency="nil" lod="true" lodID="dkshipment03" lodDistance="50"></definition>
-    <definition id="dk_bridgesupp04" zone="docks" dff="dk_bridgesupp04" col="dk_bridgesupp04" txd="dock_bridge" alphaTransparency="nil" lod="true" lodID="dk_bridgesupp04" lodDistance="144"></definition>
-    <definition id="dk_dockroads03" zone="docks" dff="dk_dockroads03" col="dk_dockroads03" txd="dockroads" alphaTransparency="nil" lod="true" lodID="dk_dockroads03" lodDistance="144"></definition>
-    <definition id="boat_kb1" zone="docks" dff="boat_kb1" col="boat_kb1" txd="boathouse" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="docksprops10" zone="docks" dff="docksprops10" col="docksprops10" txd="crate" alphaTransparency="nil" lod="true" lodID="docksprops10" lodDistance="50"></definition>
-    <definition id="dk_cargoshp53" zone="docks" dff="dk_cargoshp53" col="dk_cargoshp53" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="120"></definition>
-    <definition id="docks40" zone="docks" dff="docks40" col="docks40" txd="docfactories" alphaTransparency="nil" lod="true" lodID="docks40" lodDistance="80"></definition>
-    <definition id="dk_cargoshp95" zone="docks" dff="dk_cargoshp95" col="dk_cargoshp95" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="120"></definition>
-    <definition id="docks93" zone="docks" dff="docks93" col="docks93" txd="docks" alphaTransparency="nil" lod="true" lodID="docks93" lodDistance="90"></definition>
-    <definition id="docksprops15" zone="docks" dff="docksprops15" col="docksprops15" txd="crate" alphaTransparency="nil" lod="true" lodID="docksprops15" lodDistance="50"></definition>
-    <definition id="docksware01" zone="docks" dff="docksware01" col="docksware01" txd="docks" alphaTransparency="nil" lod="true" lodID="docksware01" lodDistance="150"></definition>
-    <definition id="dk_cargoshp41" zone="docks" dff="dk_cargoshp41" col="dk_cargoshp41" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp41" lodDistance="80"></definition>
-    <definition id="rustship_structure0" zone="docks" dff="rustship_structure0" col="rustship_structure0" txd="dock_ships" alphaTransparency="nil" lod="true" lodID="rustship_structure0" lodDistance="144"></definition>
-    <definition id="dkshipment01" zone="docks" dff="dkshipment01" col="dkshipment01" txd="crate" alphaTransparency="nil" lod="true" lodID="dkshipment01" lodDistance="50"></definition>
-    <definition id="docks37" zone="docks" dff="docks37" col="docks37" txd="docfactories" alphaTransparency="nil" lod="true" lodID="docks37" lodDistance="120"></definition>
-    <definition id="dk_cargoshp04" zone="docks" dff="dk_cargoshp04" col="dk_cargoshp04" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp04" lodDistance="80"></definition>
-    <definition id="dk_dockroads08" zone="docks" dff="dk_dockroads08" col="dk_dockroads08" txd="dockroads" alphaTransparency="nil" lod="true" lodID="dk_dockroads08" lodDistance="144"></definition>
-    <definition id="dk_rdsignsn" zone="docks" dff="dk_rdsignsn" col="dk_rdsignsn" txd="dockroads" alphaTransparency="nil" lod="nil" lodDistance="105"></definition>
-    <definition id="docksprops04" zone="docks" dff="docksprops04" col="docksprops04" txd="dk_midbuilds" alphaTransparency="nil" lod="true" lodID="docksprops04" lodDistance="150"></definition>
-    <definition id="dk_gatebar02" zone="docks" dff="dk_gatebar02" col="dk_gatebar02" txd="dk_midbuilds" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="docks62" zone="docks" dff="docks62" col="docks62" txd="dockgrnd" alphaTransparency="nil" lod="true" lodID="docks62" lodDistance="144"></definition>
-    <definition id="dk_dockroads06" zone="docks" dff="dk_dockroads06" col="dk_dockroads06" txd="dock_bridge" alphaTransparency="nil" lod="true" lodID="dk_dockroads06" lodDistance="180"></definition>
-    <definition id="dk_cargoshp24" zone="docks" dff="dk_cargoshp24" col="dk_cargoshp24" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp24" lodDistance="96"></definition>
-    <definition id="boatcranesm0" zone="docks" dff="boatcranesm0" col="boatcranesm0" txd="crate" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="doc_craneeggs04" zone="docks" dff="doc_craneeggs04" col="doc_craneeggs04" txd="doccrane" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="docks49" zone="docks" dff="docks49" col="docks49" txd="dk_midbuilds" alphaTransparency="nil" lod="true" lodID="docks49" lodDistance="80"></definition>
-    <definition id="b_hse_pierfence" zone="docks" dff="b_hse_pierfence" col="b_hse_pierfence" txd="dockfence" alphaTransparency="nil" lod="true" lodID="b_hse_pierfence" lodDistance="160"></definition>
-    <definition id="dk_dockbridge" zone="docks" dff="dk_dockbridge" col="dk_dockbridge" txd="dock_bridge" alphaTransparency="nil" lod="true" lodID="dk_dockbridge" lodDistance="180"></definition>
-    <definition id="portcabGAZ06" zone="docks" dff="portcabGAZ06" col="portcabGAZ06" txd="dk_midbuilds" alphaTransparency="nil" lod="nil" lodDistance="92"></definition>
-    <definition id="dk_cargoshp65" zone="docks" dff="dk_cargoshp65" col="dk_cargoshp65" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="dk_cargoshp32" zone="docks" dff="dk_cargoshp32" col="dk_cargoshp32" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp32" lodDistance="80"></definition>
-    <definition id="shipstairs" zone="docks" dff="shipstairs" col="shipstairs" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="docksprops13" zone="docks" dff="docksprops13" col="docksprops13" txd="dk_midbuilds" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="b_hse_interior" zone="docks" dff="b_hse_interior" col="b_hse_interior" txd="boathouse" alphaTransparency="nil" lod="nil" lodDistance="144"></definition>
-    <definition id="dk_cargoshp51" zone="docks" dff="dk_cargoshp51" col="dk_cargoshp51" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp51" lodDistance="80"></definition>
-    <definition id="dk_rail05" zone="docks" dff="dk_rail05" col="dk_rail05" txd="dock_bridge" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="dk_cargoshp40" zone="docks" dff="dk_cargoshp40" col="dk_cargoshp40" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp40" lodDistance="120"></definition>
-    <definition id="dkfirtpass2" zone="docks" dff="dkfirtpass2" col="dkfirtpass2" txd="dkglue" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="dk_cargoshp71" zone="docks" dff="dk_cargoshp71" col="dk_cargoshp71" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp71" lodDistance="80"></definition>
-    <definition id="docks51" zone="docks" dff="docks51" col="docks51" txd="dk_midbuilds" alphaTransparency="nil" lod="true" lodID="docks51" lodDistance="80"></definition>
-    <definition id="b_hse_interiorrays" zone="docks" dff="b_hse_interiorrays" col="b_hse_interiorrays" txd="boathouse" alphaTransparency="nil" lod="nil" lodDistance="144" timeIn="6" timeOut="21"></definition>
-    <definition id="dk_dockroads02" zone="docks" dff="dk_dockroads02" col="dk_dockroads02" txd="dockroads" alphaTransparency="nil" lod="true" lodID="dk_dockroads02" lodDistance="200"></definition>
-    <definition id="dkcargohull2" zone="docks" dff="dkcargohull2" col="dkcargohull2" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dkcargohull2" lodDistance="200"></definition>
-    <definition id="docks30" zone="docks" dff="docks30" col="docks30" txd="docfactories" alphaTransparency="nil" lod="true" lodID="docks30" lodDistance="144"></definition>
-    <definition id="dk_rail01" zone="docks" dff="dk_rail01" col="dk_rail01" txd="dock_bridge" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="dk_dockroads01" zone="docks" dff="dk_dockroads01" col="dk_dockroads01" txd="dockroads" alphaTransparency="nil" lod="true" lodID="dk_dockroads01" lodDistance="175"></definition>
-    <definition id="docks10rail" zone="docks" dff="docks10rail" col="docks10rail" txd="docks" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="docks31" zone="docks" dff="docks31" col="docks31" txd="docfactories" alphaTransparency="nil" lod="true" lodID="docks31" lodDistance="100"></definition>
-    <definition id="dockcranescale01" zone="docks" dff="dockcranescale01" col="dockcranescale01" txd="doccrane" alphaTransparency="nil" lod="true" lodID="dockcranescale01" lodDistance="110"></definition>
-    <definition id="docks60" zone="docks" dff="docks60" col="docks60" txd="dockgrnd" alphaTransparency="nil" lod="true" lodID="docks60" lodDistance="144"></definition>
-    <definition id="docks95" zone="docks" dff="docks95" col="docks95" txd="docks" alphaTransparency="nil" lod="true" lodID="docks95" lodDistance="112"></definition>
-    <definition id="dk_cargoshp03" zone="docks" dff="dk_cargoshp03" col="dk_cargoshp03" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp03" lodDistance="80"></definition>
-    <definition id="docks85" zone="docks" dff="docks85" col="docks85" txd="dockgrnd" alphaTransparency="nil" lod="true" lodID="docks85" lodDistance="144"></definition>
-    <definition id="b_hse_ext" zone="docks" dff="b_hse_ext" col="b_hse_ext" txd="boathouse" alphaTransparency="nil" lod="true" lodID="b_hse_ext" lodDistance="144"></definition>
-    <definition id="docks32" zone="docks" dff="docks32" col="docks32" txd="docfactories" alphaTransparency="nil" lod="true" lodID="docks32" lodDistance="100"></definition>
-    <definition id="doc_crane_cab0" zone="docks" dff="doc_crane_cab0" col="doc_crane_cab0" txd="crate" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="dk_dockroads05" zone="docks" dff="dk_dockroads05" col="dk_dockroads05" txd="dockroads" alphaTransparency="nil" lod="true" lodID="dk_dockroads05" lodDistance="144"></definition>
-    <definition id="docks43" zone="docks" dff="docks43" col="docks43" txd="dk_midbuilds" alphaTransparency="nil" lod="true" lodID="docks43" lodDistance="80"></definition>
-    <definition id="dkcargohull2c" zone="docks" dff="dkcargohull2c" col="dkcargohull2c" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dkcargohull2c" lodDistance="200"></definition>
-    <definition id="dk_cargoshp64" zone="docks" dff="dk_cargoshp64" col="dk_cargoshp64" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp64" lodDistance="112"></definition>
-    <definition id="dockfence" zone="docks" dff="dockfence" col="dockfence" txd="dockfence" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="docksprops14" zone="docks" dff="docksprops14" col="docksprops14" txd="dk_midbuilds" alphaTransparency="nil" lod="true" lodID="docksprops14" lodDistance="150"></definition>
-    <definition id="doc_crane_cab04" zone="docks" dff="doc_crane_cab04" col="doc_crane_cab04" txd="docfactories" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="dk_cargoshp12" zone="docks" dff="dk_cargoshp12" col="dk_cargoshp12" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="dk_bridgesupp03" zone="docks" dff="dk_bridgesupp03" col="dk_bridgesupp03" txd="dock_bridge" alphaTransparency="nil" lod="true" lodID="dk_bridgesupp03" lodDistance="160"></definition>
-    <definition id="dk_paynspraydoor" zone="docks" dff="dk_paynspraydoor" col="dk_paynspraydoor" txd="docks" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="dk_cargoshp31" zone="docks" dff="dk_cargoshp31" col="dk_cargoshp31" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="dk_cargoshp76" zone="docks" dff="dk_cargoshp76" col="dk_cargoshp76" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="dockfuel07" zone="docks" dff="dockfuel07" col="dockfuel07" txd="docfactories" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="dk_cargoshp50" zone="docks" dff="dk_cargoshp50" col="dk_cargoshp50" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp50" lodDistance="80"></definition>
-    <definition id="dock_camjones" zone="docks" dff="dock_camjones" col="dock_camjones" txd="dk_safecrack" alphaTransparency="nil" lod="true" lodID="dock_camjones" lodDistance="80"></definition>
-    <definition id="dock_props02" zone="docks" dff="dock_props02" col="dock_props02" txd="crate" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="dkglue3" zone="docks" dff="dkglue3" col="dkglue3" txd="dkglue" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="dk_gatebar01" zone="docks" dff="dk_gatebar01" col="dk_gatebar01" txd="dk_midbuilds" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="dockgate01" zone="docks" dff="dockgate01" col="dockgate01" txd="dk_midbuilds" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="docks50" zone="docks" dff="docks50" col="docks50" txd="dk_midbuilds" alphaTransparency="nil" lod="true" lodID="docks50" lodDistance="80"></definition>
-    <definition id="docks48" zone="docks" dff="docks48" col="docks48" txd="dk_midbuilds" alphaTransparency="nil" lod="true" lodID="docks48" lodDistance="80"></definition>
-    <definition id="cranebasea0" zone="docks" dff="cranebasea0" col="cranebasea0" txd="cranes" alphaTransparency="nil" lod="true" lodID="cranebasea0" lodDistance="135"></definition>
-    <definition id="docks92" zone="docks" dff="docks92" col="docks92" txd="docks" alphaTransparency="nil" lod="true" lodID="docks92" lodDistance="90"></definition>
-    <definition id="dk_paynspray" zone="docks" dff="dk_paynspray" col="dk_paynspray" txd="docks" alphaTransparency="nil" lod="true" lodID="dk_paynspray" lodDistance="112"></definition>
-    <definition id="dk_bridgesupp01" zone="docks" dff="dk_bridgesupp01" col="dk_bridgesupp01" txd="dock_bridge" alphaTransparency="nil" lod="true" lodID="dk_bridgesupp01" lodDistance="144"></definition>
-    <definition id="dk_bombdoor" zone="docks" dff="dk_bombdoor" col="dk_bombdoor" txd="docksb" alphaTransparency="nil" lod="nil" lodDistance="40"></definition>
-    <definition id="dockgrass" zone="docks" dff="dockgrass" col="dockgrass" txd="dockgrass" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="dk_cargoshp66" zone="docks" dff="dk_cargoshp66" col="dk_cargoshp66" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="docks21" zone="docks" dff="docks21" col="docks21" txd="dockgrnd" alphaTransparency="nil" lod="true" lodID="docks21" lodDistance="250"></definition>
-    <definition id="dk_cargoshp28" zone="docks" dff="dk_cargoshp28" col="dk_cargoshp28" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp28" lodDistance="80"></definition>
-    <definition id="dk_cargoshp10" zone="docks" dff="dk_cargoshp10" col="dk_cargoshp10" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="doc_crane_cab03" zone="docks" dff="doc_crane_cab03" col="doc_crane_cab03" txd="crate" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="b_hse_pier" zone="docks" dff="b_hse_pier" col="b_hse_pier" txd="boathouse" alphaTransparency="nil" lod="true" lodID="b_hse_pier" lodDistance="222"></definition>
-    <definition id="dk_cargoshp72" zone="docks" dff="dk_cargoshp72" col="dk_cargoshp72" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp72" lodDistance="80"></definition>
-    <definition id="docks42" zone="docks" dff="docks42" col="docks42" txd="dk_midbuilds" alphaTransparency="nil" lod="true" lodID="docks42" lodDistance="80"></definition>
-    <definition id="dkcargohull2b" zone="docks" dff="dkcargohull2b" col="dkcargohull2b" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dkcargohull2b" lodDistance="200"></definition>
-    <definition id="dkshipment05" zone="docks" dff="dkshipment05" col="dkshipment05" txd="crate" alphaTransparency="nil" lod="true" lodID="dkshipment05" lodDistance="50"></definition>
-    <definition id="docks47" zone="docks" dff="docks47" col="docks47" txd="dk_midbuilds" alphaTransparency="nil" lod="true" lodID="docks47" lodDistance="80"></definition>
-    <definition id="doc_dockwareold" zone="docks" dff="doc_dockwareold" col="doc_dockwareold" txd="docfactories" alphaTransparency="nil" lod="true" lodID="doc_dockwareold" lodDistance="80"></definition>
-    <definition id="dk_shipstair" zone="docks" dff="dk_shipstair" col="dk_shipstair" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="docks53" zone="docks" dff="docks53" col="docks53" txd="dk_midbuilds" alphaTransparency="nil" lod="true" lodID="docks53" lodDistance="80"></definition>
-    <definition id="boat_kb2" zone="docks" dff="boat_kb2" col="boat_kb2" txd="boathouse" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="doc_shedbig30" zone="docks" dff="doc_shedbig30" col="doc_shedbig30" txd="docksb" alphaTransparency="nil" lod="true" lodID="doc_shedbig30" lodDistance="100"></definition>
-    <definition id="dk_rail04" zone="docks" dff="dk_rail04" col="dk_rail04" txd="dock_bridge" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="docks29" zone="docks" dff="docks29" col="docks29" txd="dockgrnd" alphaTransparency="nil" lod="true" lodID="docks29" lodDistance="144"></definition>
-    <definition id="docks28" zone="docks" dff="docks28" col="docks28" txd="docks" alphaTransparency="nil" lod="true" lodID="docks28" lodDistance="112"></definition>
-    <definition id="doc_crane_cab01" zone="docks" dff="doc_crane_cab01" col="doc_crane_cab01" txd="crate" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="dk_cargoshp35" zone="docks" dff="dk_cargoshp35" col="dk_cargoshp35" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp35" lodDistance="80"></definition>
-    <definition id="dk_gatebox01" zone="docks" dff="dk_gatebox01" col="dk_gatebox01" txd="dk_midbuilds" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="dockgate02" zone="docks" dff="dockgate02" col="dockgate02" txd="dockfence" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="dk_rail06" zone="docks" dff="dk_rail06" col="dk_rail06" txd="dock_bridge" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="dk_waretank" zone="docks" dff="dk_waretank" col="dk_waretank" txd="crate" alphaTransparency="nil" lod="true" lodID="dk_waretank" lodDistance="75"></definition>
-    <definition id="boatcranelg0" zone="docks" dff="boatcranelg0" col="boatcranelg0" txd="crate" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="dk_cargoshp01" zone="docks" dff="dk_cargoshp01" col="dk_cargoshp01" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="dk_rail03" zone="docks" dff="dk_rail03" col="dk_rail03" txd="dock_bridge" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="docks10" zone="docks" dff="docks10" col="docks10" txd="docks" alphaTransparency="nil" lod="true" lodID="docks10" lodDistance="250"></definition>
-    <definition id="dk_cargoshp54" zone="docks" dff="dk_cargoshp54" col="dk_cargoshp54" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="docks46" zone="docks" dff="docks46" col="docks46" txd="dk_houses" alphaTransparency="nil" lod="true" lodID="docks46" lodDistance="120"></definition>
-    <definition id="docks61" zone="docks" dff="docks61" col="docks61" txd="dockgrnd" alphaTransparency="nil" lod="true" lodID="docks61" lodDistance="144"></definition>
-    <definition id="dk_dockroads04" zone="docks" dff="dk_dockroads04" col="dk_dockroads04" txd="dockroads" alphaTransparency="nil" lod="true" lodID="dk_dockroads04" lodDistance="144"></definition>
-    <definition id="dk_cargoshp100" zone="docks" dff="dk_cargoshp100" col="dk_cargoshp100" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="dk_waretankdoor1" zone="docks" dff="dk_waretankdoor1" col="dk_waretankdoor1" txd="crate" alphaTransparency="nil" lod="nil" lodDistance="75"></definition>
-    <definition id="dk_cargoshp73" zone="docks" dff="dk_cargoshp73" col="dk_cargoshp73" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp73" lodDistance="80"></definition>
-    <definition id="dock_grassarea" zone="docks" dff="dock_grassarea" col="dock_grassarea" txd="dockgrnd" alphaTransparency="nil" lod="true" lodID="dock_grassarea" lodDistance="180"></definition>
-    <definition id="dk_rail07" zone="docks" dff="dk_rail07" col="dk_rail07" txd="dock_bridge" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="dk_cargoshp70" zone="docks" dff="dk_cargoshp70" col="dk_cargoshp70" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp70" lodDistance="80"></definition>
-    <definition id="dk_cargoshp68" zone="docks" dff="dk_cargoshp68" col="dk_cargoshp68" txd="dkcargoshp" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="dk_rail02" zone="docks" dff="dk_rail02" col="dk_rail02" txd="dock_bridge" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="dockfuel02" zone="docks" dff="dockfuel02" col="dockfuel02" txd="crate" alphaTransparency="nil" lod="true" lodID="dockfuel02" lodDistance="50"></definition>
-    <definition id="dk_cargoshp47" zone="docks" dff="dk_cargoshp47" col="dk_cargoshp47" txd="dkcargoshp" alphaTransparency="nil" lod="true" lodID="dk_cargoshp47" lodDistance="80"></definition>
-    <definition id="crgoshp010" zone="docks" dff="crgoshp010" col="crgoshp010" txd="dock_ships" alphaTransparency="nil" lod="true" lodID="crgoshp010" lodDistance="244"></definition>
+    <definition id="dk_dockroads01" zone="docks" col="dk_dockroads01" txd="dockroads" flags="" lodDistance="175"></definition>
+    <definition id="dk_dockroads02" zone="docks" col="dk_dockroads02" txd="dockroads" flags="4" lodDistance="200"></definition>
+    <definition id="dk_dockroads03" zone="docks" col="dk_dockroads03" txd="dockroads" flags="" lodDistance="144"></definition>
+    <definition id="dk_dockroads04" zone="docks" col="dk_dockroads04" txd="dockroads" flags="" lodDistance="144"></definition>
+    <definition id="dk_dockroads05" zone="docks" col="dk_dockroads05" txd="dockroads" flags="" lodDistance="144"></definition>
+    <definition id="dk_dockroads06" zone="docks" col="dk_dockroads06" txd="dock_bridge" flags="" lodDistance="180"></definition>
+    <definition id="docks10" zone="docks" col="docks10" txd="docksVC" flags="7" lodDistance="250"></definition>
+    <definition id="docks21" zone="docks" col="docks21" txd="dockgrnd" flags="" lodDistance="250"></definition>
+    <definition id="docks29" zone="docks" col="docks29" txd="dockgrnd" flags="" lodDistance="144"></definition>
+    <definition id="docks30" zone="docks" col="docks30" txd="docfactoriesVC" flags="2" lodDistance="144"></definition>
+    <definition id="docks31" zone="docks" col="docks31" txd="docfactoriesVC" flags="" lodDistance="100"></definition>
+    <definition id="docks37" zone="docks" col="docks37" txd="docfactoriesVC" flags="7" lodDistance="120"></definition>
+    <definition id="docks40" zone="docks" col="docks40" txd="docfactoriesVC" flags="7" lodDistance="80"></definition>
+    <definition id="docks42" zone="docks" col="docks42" txd="dk_midbuilds" flags="7" lodDistance="80"></definition>
+    <definition id="docks43" zone="docks" col="docks43" txd="dk_midbuilds" flags="7" lodDistance="80"></definition>
+    <definition id="dk_dockroads08" zone="docks" col="dk_dockroads08" txd="dockroads" flags="" lodDistance="144"></definition>
+    <definition id="docks46" zone="docks" col="docks46" txd="dk_houses" flags="7" lodDistance="120"></definition>
+    <definition id="docks47" zone="docks" col="docks47" txd="dk_midbuilds" flags="7" lodDistance="80"></definition>
+    <definition id="docks48" zone="docks" col="docks48" txd="dk_midbuilds" flags="7" lodDistance="80"></definition>
+    <definition id="docks49" zone="docks" col="docks49" txd="dk_midbuilds" flags="7" lodDistance="80"></definition>
+    <definition id="docks50" zone="docks" col="docks50" txd="dk_midbuilds" flags="7" lodDistance="80"></definition>
+    <definition id="docks51" zone="docks" col="docks51" txd="dk_midbuilds" flags="7" lodDistance="80"></definition>
+    <definition id="docks52" zone="docks" col="docks52" txd="dk_midbuilds" flags="7" lodDistance="80"></definition>
+    <definition id="docks53" zone="docks" col="docks53" txd="dk_midbuilds" flags="7" lodDistance="80"></definition>
+    <definition id="docks85" zone="docks" col="docks85" txd="dockgrnd" flags="" lodDistance="144"></definition>
+    <definition id="docksprops04" zone="docks" col="docksprops04" txd="dk_midbuilds" flags="7" lodDistance="150"></definition>
+    <definition id="docksprops10" zone="docks" col="docksprops10" txd="crateVC" flags="2,7" lodDistance="50"></definition>
+    <definition id="doc_shedbig30" zone="docks" col="doc_shedbig30" txd="docksb" flags="7" lodDistance="100"></definition>
+    <definition id="boatcranelg0" zone="docks" col="boatcranelg0" txd="crateVC" flags="2,7" lodDistance="50"></definition>
+    <definition id="crgoshp010" zone="docks" col="crgoshp010" txd="dock_ships" flags="2,7" lodDistance="144"></definition>
+    <definition id="cranebasea0" zone="docks" col="cranebasea0" txd="cranes1" flags="2,7" lodDistance="135"></definition>
+    <definition id="doc_dockwareold" zone="docks" col="doc_dockwareold" txd="docfactoriesVC" flags="7" lodDistance="80"></definition>
+    <definition id="dk_waretank" zone="docks" col="dk_waretank" txd="crateVC" flags="7,21" lodDistance="75"></definition>
+    <definition id="doc_crane_cab0" zone="docks" col="doc_crane_cab0" txd="crateVC" flags="2,7" lodDistance="50"></definition>
+    <definition id="boatcranesm0" zone="docks" col="boatcranesm0" txd="crateVC" flags="2,6,7" lodDistance="50"></definition>
+    <definition id="LODoshp010" zone="docks" col="LODoshp010" txd="lod_docks" flags="7" lodDistance="1000"></definition>
+    <definition id="LODkcranescale0" zone="docks" col="LODkcranescale0" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODkcranescale01" zone="docks" col="LODkcranescale01" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="dockcranescale01" zone="docks" col="dockcranescale01" txd="VC_doccrane" flags="2,7" lodDistance="110"></definition>
+    <definition id="doc_crane_cab01" zone="docks" col="doc_crane_cab01" txd="crateVC" flags="2,7" lodDistance="50"></definition>
+    <definition id="doc_crane_cab02" zone="docks" col="doc_crane_cab02" txd="crateVC" flags="2,7" lodDistance="50"></definition>
+    <definition id="doc_crane_cab03" zone="docks" col="doc_crane_cab03" txd="crateVC" flags="2,7" lodDistance="50"></definition>
+    <definition id="doc_crane_cab04" zone="docks" col="doc_crane_cab04" txd="docfactoriesVC" flags="2,7" lodDistance="150"></definition>
+    <definition id="doc_craneeggs04" zone="docks" col="doc_craneeggs04" txd="VC_doccrane" flags="2,7" lodDistance="150"></definition>
+    <definition id="dkshipment01" zone="docks" col="dkshipment01" txd="crateVC" flags="7" lodDistance="50"></definition>
+    <definition id="dockfuel02" zone="docks" col="dockfuel02" txd="crateVC" flags="7" lodDistance="50"></definition>
+    <definition id="dockfuel07" zone="docks" col="dockfuel07" txd="docfactoriesVC" flags="2,7" lodDistance="140"></definition>
+    <definition id="portcabGAZ06" zone="docks" col="portcabGAZ06" txd="dk_midbuilds" flags="7" lodDistance="92"></definition>
+    <definition id="dk_cargoshp03" zone="docks" col="dk_cargoshp03" txd="dkcargoshp" flags="2,7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp04" zone="docks" col="dk_cargoshp04" txd="dkcargoshp" flags="2,7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp05" zone="docks" col="dk_cargoshp05" txd="dkcargoshp" flags="2,7" lodDistance="112"></definition>
+    <definition id="dk_cargoshp10" zone="docks" col="dk_cargoshp10" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp12" zone="docks" col="dk_cargoshp12" txd="dkcargoshp" flags="7" lodDistance="200"></definition>
+    <definition id="dk_cargoshp24" zone="docks" col="dk_cargoshp24" txd="dkcargoshp" flags="7" lodDistance="96"></definition>
+    <definition id="dk_cargoshp25" zone="docks" col="dk_cargoshp25" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp28" zone="docks" col="dk_cargoshp28" txd="dkcargoshp" flags="2,7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp31" zone="docks" col="dk_cargoshp31" txd="dkcargoshp" flags="7" lodDistance="200"></definition>
+    <definition id="dk_cargoshp32" zone="docks" col="dk_cargoshp32" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp35" zone="docks" col="dk_cargoshp35" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp40" zone="docks" col="dk_cargoshp40" txd="dkcargoshp" flags="7" lodDistance="120"></definition>
+    <definition id="dk_cargoshp41" zone="docks" col="dk_cargoshp41" txd="dkcargoshp" flags="2,7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp47" zone="docks" col="dk_cargoshp47" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp50" zone="docks" col="dk_cargoshp50" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp51" zone="docks" col="dk_cargoshp51" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp53" zone="docks" col="dk_cargoshp53" txd="dkcargoshp" flags="2,7" lodDistance="120"></definition>
+    <definition id="dk_cargoshp54" zone="docks" col="dk_cargoshp54" txd="dkcargoshp" flags="7" lodDistance="100"></definition>
+    <definition id="dk_cargoshp64" zone="docks" col="dk_cargoshp64" txd="dkcargoshp" flags="7" lodDistance="112"></definition>
+    <definition id="dk_cargoshp66" zone="docks" col="dk_cargoshp66" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp70" zone="docks" col="dk_cargoshp70" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp71" zone="docks" col="dk_cargoshp71" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp72" zone="docks" col="dk_cargoshp72" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp73" zone="docks" col="dk_cargoshp73" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp76" zone="docks" col="dk_cargoshp76" txd="dkcargoshp" flags="7" lodDistance="200"></definition>
+    <definition id="shipstairs" zone="docks" col="shipstairs" txd="dkcargoshp" flags="2,7" lodDistance="200"></definition>
+    <definition id="dk_cargoshp95" zone="docks" col="dk_cargoshp95" txd="dkcargoshp" flags="7" lodDistance="120"></definition>
+    <definition id="dk_cargoshp100" zone="docks" col="dk_cargoshp100" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dockfence" zone="docks" col="dockfence" txd="dockfence" flags="2,7" lodDistance="80"></definition>
+    <definition id="LODargohull2" zone="docks" col="LODargohull2" txd="lod_docks2" flags="8" lodDistance="750"></definition>
+    <definition id="dock_camjones" zone="docks" col="dock_camjones" txd="dk_safecrack" flags="7" lodDistance="80"></definition>
+    <definition id="LODks46" zone="docks" col="LODks46" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks42" zone="docks" col="LODks42" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="dock_grassarea" zone="docks" col="dock_grassarea" txd="dockgrnd" flags="" lodDistance="180"></definition>
+    <definition id="LODks47" zone="docks" col="LODks47" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks61" zone="docks" col="LODks61" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="docksware01" zone="docks" col="docksware01" txd="docksVC" flags="2,7" lodDistance="150"></definition>
+    <definition id="dk_gatebar01" zone="docks" col="dk_gatebar01" txd="dk_midbuilds" flags="7" lodDistance="80"></definition>
+    <definition id="dk_gatebox01" zone="docks" col="dk_gatebox01" txd="dk_midbuilds" flags="2,7" lodDistance="150"></definition>
+    <definition id="dockgate01" zone="docks" col="dockgate01" txd="dk_midbuilds" flags="2,7" lodDistance="150"></definition>
+    <definition id="dockgate02" zone="docks" col="dockgate02" txd="dockfence" flags="2,7" lodDistance="150"></definition>
+    <definition id="docks92" zone="docks" col="docks92" txd="docksVC" flags="7" lodDistance="90"></definition>
+    <definition id="docks93" zone="docks" col="docks93" txd="docksVC" flags="7" lodDistance="90"></definition>
+    <definition id="docksprops11" zone="docks" col="docksprops11" txd="dk_midbuilds" flags="7" lodDistance="150"></definition>
+    <definition id="docks95" zone="docks" col="docks95" txd="docksVC" flags="7" lodDistance="112"></definition>
+    <definition id="dk_gatebar02" zone="docks" col="dk_gatebar02" txd="dk_midbuilds" flags="7" lodDistance="80"></definition>
+    <definition id="docks96" zone="docks" col="docks96" txd="dk_midbuilds" flags="7" lodDistance="80"></definition>
+    <definition id="dk_bridgesupp01" zone="docks" col="dk_bridgesupp01" txd="dock_bridge" flags="7" lodDistance="144"></definition>
+    <definition id="dk_bridgesupp03" zone="docks" col="dk_bridgesupp03" txd="dock_bridge" flags="7" lodDistance="160"></definition>
+    <definition id="dk_dockbridge" zone="docks" col="dk_dockbridge" txd="dock_bridge" flags="" lodDistance="180"></definition>
+    <definition id="dk_rail01" zone="docks" col="dk_rail01" txd="dock_bridge" flags="" lodDistance="80"></definition>
+    <definition id="dkcargohull2" zone="docks" col="dkcargohull2" txd="dkcargoshp" flags="7" lodDistance="200"></definition>
+    <definition id="dk_bridgesupp04" zone="docks" col="dk_bridgesupp04" txd="dock_bridge" flags="7" lodDistance="144"></definition>
+    <definition id="LODks28" zone="docks" col="LODks28" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODksware01" zone="docks" col="LODksware01" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks29" zone="docks" col="LODks29" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks10" zone="docks" col="LODks10" txd="lod_docks" flags="7" lodDistance="1000"></definition>
+    <definition id="LODks21" zone="docks" col="LODks21" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LOD_shedbig30" zone="docks" col="LOD_shedbig30" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks30" zone="docks" col="LODks30" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODdockroads02" zone="docks" col="LODdockroads02" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODdockroads03" zone="docks" col="LODdockroads03" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODdockroads05" zone="docks" col="LODdockroads05" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODdockroads04" zone="docks" col="LODdockroads04" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks85" zone="docks" col="LODks85" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks96" zone="docks" col="LODks96" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="dkshipment03" zone="docks" col="dkshipment03" txd="crateVC" flags="7" lodDistance="50"></definition>
+    <definition id="dkshipment05" zone="docks" col="dkshipment05" txd="crateVC" flags="7" lodDistance="50"></definition>
+    <definition id="LODhipment03" zone="docks" col="LODhipment03" txd="lod_docks" flags="7" lodDistance="500"></definition>
+    <definition id="LODhipment01" zone="docks" col="LODhipment01" txd="lod_docks" flags="7" lodDistance="400"></definition>
+    <definition id="LODhipment05" zone="docks" col="LODhipment05" txd="lod_docks" flags="7" lodDistance="500"></definition>
+    <definition id="LODksprops10" zone="docks" col="LODksprops10" txd="lod_docks" flags="7" lodDistance="500"></definition>
+    <definition id="LODksprops04" zone="docks" col="LODksprops04" txd="lod_docks" flags="7" lodDistance="500"></definition>
+    <definition id="LOD_dockwareold" zone="docks" col="LOD_dockwareold" txd="lod_docks" flags="7" lodDistance="500"></definition>
+    <definition id="b_hse_ext" zone="docks" col="b_hse_ext" txd="boathouse" flags="7" lodDistance="144"></definition>
+    <definition id="b_hse_pier" zone="docks" col="b_hse_pier" txd="boathouse" flags="7" lodDistance="222"></definition>
+    <definition id="boat_kb1" zone="docks" col="boat_kb1" txd="boathouse" flags="7" lodDistance="80"></definition>
+    <definition id="boat_kb2" zone="docks" col="boat_kb2" txd="boathouse" flags="5,7" lodDistance="50"></definition>
+    <definition id="LODse_pier" zone="docks" col="LODse_pier" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="b_hse_interior" zone="docks" col="b_hse_interior" txd="boathouse" flags="7" lodDistance="144"></definition>
+    <definition id="docks28" zone="docks" col="docks28" txd="docksVC" flags="7" lodDistance="112"></definition>
+    <definition id="LODks40" zone="docks" col="LODks40" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODk_grassarea" zone="docks" col="LODk_grassarea" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODdockroads06" zone="docks" col="LODdockroads06" txd="lod_docks2" flags="8" lodDistance="1330"></definition>
+    <definition id="docks32" zone="docks" col="docks32" txd="docfactoriesVC" flags="" lodDistance="100"></definition>
+    <definition id="LODk_camjones" zone="docks" col="LODk_camjones" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODdockbridge" zone="docks" col="LODdockbridge" txd="lod_docks2" flags="8" lodDistance="1330"></definition>
+    <definition id="LODbridgesupp01" zone="docks" col="LODbridgesupp01" txd="lod_docks2" flags="8" lodDistance="1330"></definition>
+    <definition id="LODbridgesupp03" zone="docks" col="LODbridgesupp03" txd="lod_docks2" flags="8" lodDistance="1330"></definition>
+    <definition id="LODks49" zone="docks" col="LODks49" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks51" zone="docks" col="LODks51" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks53" zone="docks" col="LODks53" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks43" zone="docks" col="LODks43" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks48" zone="docks" col="LODks48" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks50" zone="docks" col="LODks50" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks52" zone="docks" col="LODks52" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODbridgesupp04" zone="docks" col="LODbridgesupp04" txd="lod_docks2" flags="8" lodDistance="1330"></definition>
+    <definition id="dk_rail02" zone="docks" col="dk_rail02" txd="dock_bridge" flags="" lodDistance="80"></definition>
+    <definition id="dk_rail03" zone="docks" col="dk_rail03" txd="dock_bridge" flags="" lodDistance="80"></definition>
+    <definition id="dk_cargoshp65" zone="docks" col="dk_cargoshp65" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp01" zone="docks" col="dk_cargoshp01" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="dk_cargoshp68" zone="docks" col="dk_cargoshp68" txd="dkcargoshp" flags="7" lodDistance="80"></definition>
+    <definition id="LODcargoshp05" zone="docks" col="LODcargoshp05" txd="lod_docks2" flags="8" lodDistance="750"></definition>
+    <definition id="LODcargoshp24" zone="docks" col="LODcargoshp24" txd="lod_docks2" flags="8" lodDistance="750"></definition>
+    <definition id="LODcargoshp25" zone="docks" col="LODcargoshp25" txd="lod_docks2" flags="8" lodDistance="500"></definition>
+    <definition id="LODcargoshp03" zone="docks" col="LODcargoshp03" txd="lod_docks2" flags="8" lodDistance="500"></definition>
+    <definition id="LODcargoshp04" zone="docks" col="LODcargoshp04" txd="lod_docks2" flags="8" lodDistance="500"></definition>
+    <definition id="LODcargoshp64" zone="docks" col="LODcargoshp64" txd="lod_docks2" flags="8" lodDistance="500"></definition>
+    <definition id="LODcargoshp28" zone="docks" col="LODcargoshp28" txd="lod_docks2" flags="8" lodDistance="500"></definition>
+    <definition id="LODcargoshp41" zone="docks" col="LODcargoshp41" txd="lod_docks2" flags="8" lodDistance="500"></definition>
+    <definition id="LODcargoshp70" zone="docks" col="LODcargoshp70" txd="lod_docks2" flags="8" lodDistance="600"></definition>
+    <definition id="LODcargoshp71" zone="docks" col="LODcargoshp71" txd="lod_docks2" flags="8" lodDistance="600"></definition>
+    <definition id="LODcargoshp47" zone="docks" col="LODcargoshp47" txd="lod_docks2" flags="8" lodDistance="500"></definition>
+    <definition id="LODcargoshp35" zone="docks" col="LODcargoshp35" txd="lod_docks2" flags="8" lodDistance="500"></definition>
+    <definition id="LODcargoshp51" zone="docks" col="LODcargoshp51" txd="lod_docks2" flags="8" lodDistance="500"></definition>
+    <definition id="LODcargoshp50" zone="docks" col="LODcargoshp50" txd="lod_docks2" flags="8" lodDistance="500"></definition>
+    <definition id="LODcargoshp32" zone="docks" col="LODcargoshp32" txd="lod_docks2" flags="8" lodDistance="500"></definition>
+    <definition id="LODcargoshp72" zone="docks" col="LODcargoshp72" txd="lod_docks2" flags="8" lodDistance="600"></definition>
+    <definition id="LODcargoshp73" zone="docks" col="LODcargoshp73" txd="lod_docks2" flags="8" lodDistance="600"></definition>
+    <definition id="dkglue3" zone="docks" col="dkglue3" txd="dkglue" flags="2" lodDistance="45"></definition>
+    <definition id="dkfirtpass2" zone="docks" col="dkfirtpass2" txd="dkglue" flags="2,5" lodDistance="50"></definition>
+    <definition id="rustship_structure0" zone="docks" col="rustship_structure0" txd="dock_ships" flags="2,7,21" lodDistance="144"></definition>
+    <definition id="dk_waretankdoor1" zone="docks" col="dk_waretankdoor1" txd="crateVC" flags="11" lodDistance="75"></definition>
+    <definition id="docksprops12" zone="docks" col="docksprops12" txd="dk_midbuilds" flags="7" lodDistance="150"></definition>
+    <definition id="docksprops13" zone="docks" col="docksprops13" txd="dk_midbuilds" flags="7" lodDistance="150"></definition>
+    <definition id="LODks95" zone="docks" col="LODks95" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="dk_shipstair" zone="docks" col="dk_shipstair" txd="dkcargoshp" flags="2,7" lodDistance="100"></definition>
+    <definition id="docksprops14" zone="docks" col="docksprops14" txd="dk_midbuilds" flags="7" lodDistance="150"></definition>
+    <definition id="LODksprops14" zone="docks" col="LODksprops14" txd="lod_docks" flags="7" lodDistance="400"></definition>
+    <definition id="dk_rail04" zone="docks" col="dk_rail04" txd="dock_bridge" flags="" lodDistance="80"></definition>
+    <definition id="dk_rail05" zone="docks" col="dk_rail05" txd="dock_bridge" flags="" lodDistance="80"></definition>
+    <definition id="dk_rail06" zone="docks" col="dk_rail06" txd="dock_bridge" flags="" lodDistance="80"></definition>
+    <definition id="dk_rail07" zone="docks" col="dk_rail07" txd="dock_bridge" flags="" lodDistance="80"></definition>
+    <definition id="LODks93" zone="docks" col="LODks93" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks92" zone="docks" col="LODks92" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="dk_camjonesdoor" zone="docks" col="dk_camjonesdoor" txd="dk_safecrack" flags="7" lodDistance="80"></definition>
+    <definition id="dk_paynspray" zone="docks" col="dk_paynspray" txd="docksVC" flags="7" lodDistance="112"></definition>
+    <definition id="dk_paynspraydoor" zone="docks" col="dk_paynspraydoor" txd="docksVC" flags="11" lodDistance="100"></definition>
+    <definition id="b_hse_pierfence" zone="docks" col="b_hse_pierfence" txd="dockfence" flags="2,7" lodDistance="160"></definition>
+    <definition id="LODks37" zone="docks" col="LODks37" txd="lod_docks" flags="7" lodDistance="600"></definition>
+    <definition id="LODse_ext" zone="docks" col="LODse_ext" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="docksprops15" zone="docks" col="docksprops15" txd="crateVC" flags="2,7" lodDistance="50"></definition>
+    <definition id="docks61" zone="docks" col="docks61" txd="dockgrnd" flags="" lodDistance="144"></definition>
+    <definition id="docks60" zone="docks" col="docks60" txd="dockgrnd" flags="" lodDistance="144"></definition>
+    <definition id="docks62" zone="docks" col="docks62" txd="dockgrnd" flags="" lodDistance="144"></definition>
+    <definition id="LODwaretank" zone="docks" col="LODwaretank" txd="lod_docks" flags="7" lodDistance="500"></definition>
+    <definition id="dk_bombdoor" zone="docks" col="dk_bombdoor" txd="docksb" flags="11,21" lodDistance="40"></definition>
+    <definition id="LODdockroads01" zone="docks" col="LODdockroads01" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODpaynspray" zone="docks" col="LODpaynspray" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODksprops15" zone="docks" col="LODksprops15" txd="lod_docks" flags="7" lodDistance="400"></definition>
+    <definition id="LODnebasea0" zone="docks" col="LODnebasea0" txd="lod_docks" flags="7" lodDistance="1000"></definition>
+    <definition id="LODnetopa0" zone="docks" col="LODnetopa0" txd="lod_docks" flags="2,7,21" lodDistance="1000"></definition>
+    <definition id="LODkfuel02" zone="docks" col="LODkfuel02" txd="lod_docks" flags="7" lodDistance="400"></definition>
+    <definition id="LODks62" zone="docks" col="LODks62" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODdockroads08" zone="docks" col="LODdockroads08" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks32" zone="docks" col="LODks32" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="LODks31" zone="docks" col="LODks31" txd="lod_docks" flags="7" lodDistance="600"></definition>
+    <definition id="LODks60" zone="docks" col="LODks60" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="dock_props02" zone="docks" col="dock_props02" txd="crateVC" flags="7" lodDistance="50"></definition>
+    <definition id="docks10rail" zone="docks" col="docks10rail" txd="docks" flags="2,7" lodDistance="150"></definition>
+    <definition id="LODksprops11" zone="docks" col="LODksprops11" txd="lod_docks" flags="7" lodDistance="500"></definition>
+    <definition id="dkcargohull2b" zone="docks" col="dkcargohull2b" txd="dkcargoshp" flags="7" lodDistance="200"></definition>
+    <definition id="dkcargohull2c" zone="docks" col="dkcargohull2c" txd="dkcargoshp" flags="7" lodDistance="200"></definition>
+    <definition id="dk_rdsignsn" zone="docks" col="dk_rdsignsn" txd="dockroads" flags="7" lodDistance="105"></definition>
+    <definition id="dk_rdsignsbr" zone="docks" col="dk_rdsignsbr" txd="dockroads" flags="7" lodDistance="105"></definition>
+    <definition id="LODcargoshp40" zone="docks" col="LODcargoshp40" txd="lod_docks2" flags="8" lodDistance="500"></definition>
+    <definition id="LODse_pierfence" zone="docks" col="LODse_pierfence" txd="lod_docks" flags="7" lodDistance="750"></definition>
+    <definition id="dockgrass" zone="docks" col="dockgrass" txd="dockgrass" flags="2" lodDistance="100"></definition>
+    <definition id="vc_repair_x2" zone="docks" col="vc_repair_x2" txd="lod_docks" flags="7" lodDistance="900"></definition>
+    <definition id="b_hse_interiorrays" zone="docks" col="b_hse_interiorrays" txd="boathouse" flags="2,7" lodDistance="144" timeIn="6" timeOut="21"></definition>
 </zoneDefinitions>

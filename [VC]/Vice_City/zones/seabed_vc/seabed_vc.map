@@ -1,0 +1,26 @@
+<map>
+    <building  id="seabedcars" posX="2012.531" posY="-2605.47" posZ="-6.97384" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="seacorpse" posX="1980.702" posY="-1593.864" posZ="-1.28364" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="seabedshit02" posX="2651.73" posY="604.13" posZ="-28.4709" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="seabedcars04" posX="1291.884" posY="-945.6311" posZ="-1.35463" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="seacorpse01" posX="1658.417" posY="-303.191" posZ="-1.28364" rotX="0" rotY="-0" rotZ="-0"></building>
+    <object  id="waterjump2" posX="1623.993" posY="-2719.37" posZ="0.86426" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="waterjump2" posX="2013.516" posY="-1112.901" posZ="0.86426" rotX="0" rotY="-0" rotZ="-89.999922020402"></object>
+    <building  id="rockpatch03" posX="1424.444" posY="-1728.402" posZ="-28.06436" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="rockpatch03" posX="1682.706" posY="-1732.018" posZ="-28.06436" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="1789.959" posY="-2602.659" posZ="-12.68804" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="1634.074" posY="-2811.214" posZ="-26.65918" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="1397.981" posY="-2192.959" posZ="-26.65918" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="1320.835" posY="-1584.435" posZ="-26.65918" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="1385.101" posY="-1008.616" posZ="-26.65918" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="1450.26" posY="-580.4039" posZ="-26.65918" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="1718.135" posY="-687.5121" posZ="-26.65918" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="1440.311" posY="-695.8827" posZ="-26.65918" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="1644.491" posY="-293.583" posZ="-26.65918" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="1929.337" posY="-249.421" posZ="-29.12532" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="1748.278" posY="25.3642" posZ="-26.65918" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="1851.793" posY="320.2416" posZ="-26.65918" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="2066.133" posY="401.3655" posZ="-26.65918" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="3203.358" posY="-585.161" posZ="-26.68198" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+    <building  id="rockpatch03" posX="3152.828" posY="-757.3084" posZ="-26.68198" rotX="0" rotY="-0" rotZ="64.500257048985"></building>
+</map>

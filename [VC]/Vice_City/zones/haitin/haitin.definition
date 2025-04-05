@@ -1,85 +1,116 @@
 <zoneDefinitions>
-    <definition id="crocneon" zone="haitin" dff="crocneon" col="crocneon" txd="lh_haibljki" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="hatsog" zone="haitin" dff="hatsog" col="hatsog" txd="lhaiths" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="havanahouse12b" zone="haitin" dff="havanahouse12b" col="havanahouse12b" txd="haitiblk1sj" alphaTransparency="nil" lod="nil" lodDistance="120"></definition>
-    <definition id="lh_haiblockc2" zone="haitin" dff="lh_haiblockc2" col="lh_haiblockc2" txd="lh_haibljki" alphaTransparency="nil" lod="true" lodID="lh_haiblockc2" lodDistance="188"></definition>
-    <definition id="ih-sjmphil" zone="haitin" dff="ih-sjmphil" col="ih-sjmphil" txd="philss" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
-    <definition id="sjmbigsign01" zone="haitin" dff="sjmbigsign01" col="sjmbigsign01" txd="sjmsprayn" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="hvoodext" zone="haitin" dff="hvoodext" col="hvoodext" txd="haitcontext" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="ihaitwarhus" zone="haitin" dff="ihaitwarhus" col="ihaitwarhus" txd="lhaitiblkplt2" alphaTransparency="nil" lod="true" lodID="ihaitwarhus" lodDistance="100"></definition>
-    <definition id="ih-sjmcrush" zone="haitin" dff="ih-sjmcrush" col="ih-sjmcrush" txd="crusherbn" alphaTransparency="nil" lod="true" lodID="ih-sjmcrush" lodDistance="100"></definition>
-    <definition id="haicoasta2" zone="haitin" dff="haicoasta2" col="haicoasta2" txd="sjmahaitiground" alphaTransparency="nil" lod="true" lodID="haicoasta2" lodDistance="199"></definition>
-    <definition id="miamiland027a" zone="haitin" dff="miamiland027a" col="miamiland027a" txd="lhaiths" alphaTransparency="nil" lod="true" lodID="miamiland027a" lodDistance="199"></definition>
-    <definition id="sjmuilding05new" zone="haitin" dff="sjmuilding05new" col="sjmuilding05new" txd="lhaitiblk2" alphaTransparency="nil" lod="true" lodID="sjmuilding05new" lodDistance="250"></definition>
-    <definition id="arcadesjm" zone="haitin" dff="arcadesjm" col="arcadesjm" txd="nbtshops" alphaTransparency="nil" lod="nil" lodDistance="199"></definition>
-    <definition id="litharoada4" zone="haitin" dff="litharoada4" col="litharoada4" txd="sjmroadhaitiN" alphaTransparency="nil" lod="true" lodID="litharoada4" lodDistance="299"></definition>
-    <definition id="lh_dockpostsN2" zone="haitin" dff="lh_dockpostsN2" col="lh_dockpostsN2" txd="lh_dockstuffN1" alphaTransparency="nil" lod="nil" lodDistance="164"></definition>
-    <definition id="haitroadb" zone="haitin" dff="haitroadb" col="haitroadb" txd="sjmroadhaitiN" alphaTransparency="nil" lod="true" lodID="haitroadb" lodDistance="299"></definition>
-    <definition id="haitroadc" zone="haitin" dff="haitroadc" col="haitroadc" txd="sjmroadhaitiN" alphaTransparency="nil" lod="true" lodID="haitroadc" lodDistance="299"></definition>
-    <definition id="sjmsection" zone="haitin" dff="sjmsection" col="sjmsection" txd="sjmroadhaitiN" alphaTransparency="nil" lod="true" lodID="sjmsection" lodDistance="299"></definition>
-    <definition id="billboard" zone="haitin" dff="billboard" col="billboard" txd="haitisig" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
-    <definition id="arcadesjm02" zone="haitin" dff="arcadesjm02" col="arcadesjm02" txd="nbtshops" alphaTransparency="nil" lod="nil" lodDistance="199"></definition>
-    <definition id="haigrnda1" zone="haitin" dff="haigrnda1" col="haigrnda1" txd="sjmahaitiground" alphaTransparency="nil" lod="true" lodID="haigrnda1" lodDistance="199"></definition>
-    <definition id="lh_philsint" zone="haitin" dff="lh_philsint" col="lh_philsint" txd="philinter" alphaTransparency="nil" lod="nil" lodDistance="20"></definition>
-    <definition id="lhaitcut" zone="haitin" dff="lhaitcut" col="lhaitcut" txd="ihaitcutmf" alphaTransparency="nil" lod="true" lodID="lhaitcut" lodDistance="199"></definition>
-    <definition id="haitihut3" zone="haitin" dff="haitihut3" col="haitihut3" txd="lhaithutn" alphaTransparency="nil" lod="true" lodID="haitihut3" lodDistance="100"></definition>
-    <definition id="hai_roadsigns" zone="haitin" dff="hai_roadsigns" col="hai_roadsigns" txd="lhaiths" alphaTransparency="nil" lod="nil" lodDistance="120"></definition>
-    <definition id="lh_dockpostsN1" zone="haitin" dff="lh_dockpostsN1" col="lh_dockpostsN1" txd="lh_dockstuffN1" alphaTransparency="nil" lod="nil" lodDistance="164"></definition>
-    <definition id="lh_taxifirm02" zone="haitin" dff="lh_taxifirm02" col="lh_taxifirm02" txd="lhcabbyext" alphaTransparency="nil" lod="true" lodID="lh_taxifirm02" lodDistance="155"></definition>
-    <definition id="haicoast3" zone="haitin" dff="haicoast3" col="haicoast3" txd="sjmahaitiground" alphaTransparency="nil" lod="true" lodID="haicoast3" lodDistance="199"></definition>
-    <definition id="haitaxidr" zone="haitin" dff="haitaxidr" col="haitaxidr" txd="lhcabbyext" alphaTransparency="nil" lod="nil" lodDistance="155"></definition>
-    <definition id="sjmmet2" zone="haitin" dff="sjmmet2" col="sjmmet2" txd="lh_haibljki" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="haicoast4" zone="haitin" dff="haicoast4" col="haicoast4" txd="sjmahaitiground" alphaTransparency="nil" lod="true" lodID="haicoast4" lodDistance="199"></definition>
-    <definition id="haitinwire23" zone="haitin" dff="haitinwire23" col="haitinwire23" txd="haitinwire" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="sjmbigsign" zone="haitin" dff="sjmbigsign" col="sjmbigsign" txd="sjmsprayn" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="lh_dockpostsN3" zone="haitin" dff="lh_dockpostsN3" col="lh_dockpostsN3" txd="lh_dockstuffN1" alphaTransparency="nil" lod="nil" lodDistance="164"></definition>
-    <definition id="newramp2" zone="haitin" dff="newramp2" col="newramp2" txd="newrampn" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="lh_philsext" zone="haitin" dff="lh_philsext" col="lh_philsext" txd="philss" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
-    <definition id="haitinwire11" zone="haitin" dff="haitinwire11" col="haitinwire11" txd="haitinwire" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="haitibuilds" zone="haitin" dff="haitibuilds" col="haitibuilds" txd="haitbuildsea1" alphaTransparency="nil" lod="true" lodID="haitibuilds" lodDistance="200"></definition>
-    <definition id="lh_phils" zone="haitin" dff="lh_phils" col="lh_phils" txd="philss" alphaTransparency="nil" lod="true" lodID="lh_phils" lodDistance="200"></definition>
-    <definition id="haitimall" zone="haitin" dff="haitimall" col="haitimall" txd="lhaitiblk1fg" alphaTransparency="nil" lod="true" lodID="haitimall" lodDistance="170"></definition>
-    <definition id="nhvood" zone="haitin" dff="nhvood" col="nhvood" txd="chairsnstufh" alphaTransparency="nil" lod="nil" lodDistance="20"></definition>
-    <definition id="hdrugfactoryint" zone="haitin" dff="hdrugfactoryint" col="hdrugfactoryint" txd="drugfactint" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="haitroada" zone="haitin" dff="haitroada" col="haitroada" txd="sjmroadhaitiN" alphaTransparency="nil" lod="true" lodID="haitroada" lodDistance="299"></definition>
-    <definition id="build1" zone="haitin" dff="build1" col="build1" txd="buildinghan" alphaTransparency="nil" lod="true" lodID="build1" lodDistance="100"></definition>
-    <definition id="havanahouse12" zone="haitin" dff="havanahouse12" col="havanahouse12" txd="haitiblk1sj" alphaTransparency="nil" lod="true" lodID="havanahouse12" lodDistance="120"></definition>
-    <definition id="sjmcoast06" zone="haitin" dff="sjmcoast06" col="sjmcoast06" txd="sjmroadhaitiN" alphaTransparency="nil" lod="true" lodID="sjmcoast06" lodDistance="299"></definition>
-    <definition id="sjmbigsign02" zone="haitin" dff="sjmbigsign02" col="sjmbigsign02" txd="sjmsprayn" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="nhaiticar13" zone="haitin" dff="nhaiticar13" col="nhaiticar13" txd="ncarwreck" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="nhaitiplnt14" zone="haitin" dff="nhaitiplnt14" col="nhaitiplnt14" txd="haitplntn" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
-    <definition id="sjmuilding01" zone="haitin" dff="sjmuilding01" col="sjmuilding01" txd="lhaitiblkhuty" alphaTransparency="nil" lod="true" lodID="sjmuilding01" lodDistance="199"></definition>
-    <definition id="sjmcoast08" zone="haitin" dff="sjmcoast08" col="sjmcoast08" txd="sjmroadhaitiN" alphaTransparency="nil" lod="true" lodID="sjmcoast08" lodDistance="299"></definition>
-    <definition id="litharoada3" zone="haitin" dff="litharoada3" col="litharoada3" txd="sjmroadhaitiN" alphaTransparency="nil" lod="true" lodID="litharoada3" lodDistance="299"></definition>
-    <definition id="haitinwire22" zone="haitin" dff="haitinwire22" col="haitinwire22" txd="haitinwire" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="npw_press1_02" zone="haitin" dff="npw_press1_02" col="npw_press1_02" txd="lh_PWbuild3" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="haitihut2" zone="haitin" dff="haitihut2" col="haitihut2" txd="lhaithutn" alphaTransparency="nil" lod="true" lodID="haitihut2" lodDistance="100"></definition>
-    <definition id="haitbuildws14" zone="haitin" dff="haitbuildws14" col="haitbuildws14" txd="haitbuild41" alphaTransparency="nil" lod="true" lodID="haitbuildws14" lodDistance="200"></definition>
-    <definition id="arcadesjm01" zone="haitin" dff="arcadesjm01" col="arcadesjm01" txd="lhcabby" alphaTransparency="nil" lod="nil" lodDistance="120"></definition>
-    <definition id="litharoada2" zone="haitin" dff="litharoada2" col="litharoada2" txd="sjmroadhaitiN" alphaTransparency="nil" lod="true" lodID="litharoada2" lodDistance="299"></definition>
-    <definition id="litlhaitibuilding06" zone="haitin" dff="litlhaitibuilding06" col="litlhaitibuilding06" txd="lhaitiblkplat" alphaTransparency="nil" lod="true" lodID="litlhaitibuilding06" lodDistance="250"></definition>
-    <definition id="lh_pizzaplace" zone="haitin" dff="lh_pizzaplace" col="lh_pizzaplace" txd="nbtshops" alphaTransparency="nil" lod="true" lodID="lh_pizzaplace" lodDistance="199"></definition>
-    <definition id="lhaitnewbt" zone="haitin" dff="lhaitnewbt" col="lhaitnewbt" txd="lhaitiblksick" alphaTransparency="nil" lod="true" lodID="lhaitnewbt" lodDistance="100"></definition>
-    <definition id="arcadesjm03" zone="haitin" dff="arcadesjm03" col="arcadesjm03" txd="lhcabby" alphaTransparency="nil" lod="nil" lodDistance="120"></definition>
-    <definition id="haitgangshop" zone="haitin" dff="haitgangshop" col="haitgangshop" txd="gangshop" alphaTransparency="nil" lod="nil" lodDistance="199"></definition>
-    <definition id="lh_haiblockc3" zone="haitin" dff="lh_haiblockc3" col="lh_haiblockc3" txd="funhiati" alphaTransparency="nil" lod="true" lodID="lh_haiblockc3" lodDistance="90"></definition>
-    <definition id="sjmmet" zone="haitin" dff="sjmmet" col="sjmmet" txd="lhaiths" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="hvood" zone="haitin" dff="hvood" col="hvood" txd="haitcont" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="lh_crushers12" zone="haitin" dff="lh_crushers12" col="lh_crushers12" txd="crusherbn" alphaTransparency="nil" lod="true" lodID="lh_crushers12" lodDistance="100"></definition>
-    <definition id="hvood01" zone="haitin" dff="hvood01" col="hvood01" txd="chairsnstufh" alphaTransparency="nil" lod="nil" lodDistance="20"></definition>
-    <definition id="hdrugfactoryintb" zone="haitin" dff="hdrugfactoryintb" col="hdrugfactoryintb" txd="drugfactint" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="haitihut1" zone="haitin" dff="haitihut1" col="haitihut1" txd="lhaithutn" alphaTransparency="nil" lod="true" lodID="haitihut1" lodDistance="100"></definition>
-    <definition id="lh_misc02" zone="haitin" dff="lh_misc02" col="lh_misc02" txd="philss" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
-    <definition id="sjmcoast" zone="haitin" dff="sjmcoast" col="sjmcoast" txd="sjmroadhaitiN" alphaTransparency="nil" lod="true" lodID="sjmcoast" lodDistance="299"></definition>
-    <definition id="hdrugfactorypol" zone="haitin" dff="hdrugfactorypol" col="hdrugfactorypol" txd="drugfactint" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="haicoast5" zone="haitin" dff="haicoast5" col="haicoast5" txd="sjmahaitiground" alphaTransparency="nil" lod="true" lodID="haicoast5" lodDistance="199"></definition>
-    <definition id="haitiskyg" zone="haitin" dff="haitiskyg" col="haitiskyg" txd="haitbuildsea2" alphaTransparency="nil" lod="true" lodID="haitiskyg" lodDistance="180"></definition>
-    <definition id="fffinhaiti" zone="haitin" dff="fffinhaiti" col="fffinhaiti" txd="fffinhaiti" alphaTransparency="nil" lod="true" lodID="fffinhaiti" lodDistance="90"></definition>
-    <definition id="nhaitiplnt15" zone="haitin" dff="nhaitiplnt15" col="nhaitiplnt15" txd="haitplntn" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="mall2" zone="haitin" dff="mall2" col="mall2" txd="lhaitiblk1fg" alphaTransparency="nil" lod="true" lodID="mall2" lodDistance="176"></definition>
-    <definition id="lh_taxifirm01" zone="haitin" dff="lh_taxifirm01" col="lh_taxifirm01" txd="lhcabby" alphaTransparency="nil" lod="nil" lodDistance="120"></definition>
-    <definition id="haitgangshopdoor" zone="haitin" dff="haitgangshopdoor" col="haitgangshopdoor" txd="gangshop" alphaTransparency="nil" lod="nil" lodDistance="199"></definition>
-    <definition id="lh_crushers11" zone="haitin" dff="lh_crushers11" col="lh_crushers11" txd="crusherbn" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="lh_crushers10" zone="haitin" dff="lh_crushers10" col="lh_crushers10" txd="lhmachine1mn" alphaTransparency="nil" lod="true" lodID="lh_crushers10" lodDistance="100"></definition>
-    <definition id="sjmcrushgate" zone="haitin" dff="sjmcrushgate" col="sjmcrushgate" txd="philss" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
+    <definition id="sjmcoast" zone="haitin" col="sjmcoast" txd="sjmroadhaitiN" flags="" lodDistance="299"></definition>
+    <definition id="sjmsection" zone="haitin" col="sjmsection" txd="sjmroadhaitiN" flags="" lodDistance="299"></definition>
+    <definition id="sjmcoast08" zone="haitin" col="sjmcoast08" txd="sjmroadhaitiN" flags="" lodDistance="299"></definition>
+    <definition id="sjmcoast06" zone="haitin" col="sjmcoast06" txd="sjmroadhaitiN" flags="" lodDistance="299"></definition>
+    <definition id="sjmuilding01" zone="haitin" col="sjmuilding01" txd="lhaitiblkhuty" flags="" lodDistance="199"></definition>
+    <definition id="lh_phils" zone="haitin" col="lh_phils" txd="philss" flags="" lodDistance="200"></definition>
+    <definition id="litharoada2" zone="haitin" col="litharoada2" txd="sjmroadhaitiN" flags="" lodDistance="299"></definition>
+    <definition id="litharoada3" zone="haitin" col="litharoada3" txd="sjmroadhaitiN" flags="" lodDistance="299"></definition>
+    <definition id="litharoada4" zone="haitin" col="litharoada4" txd="sjmroadhaitiN" flags="" lodDistance="299"></definition>
+    <definition id="lh_crushers10" zone="haitin" col="lh_crushers10" txd="lhmachine1mn" flags="7" lodDistance="100"></definition>
+    <definition id="lh_philsext" zone="haitin" col="lh_philsext" txd="philss" flags="7" lodDistance="70"></definition>
+    <definition id="lh_philsint" zone="haitin" col="lh_philsint" txd="philinter" flags="5,7" lodDistance="20"></definition>
+    <definition id="litlhaitibuilding06" zone="haitin" col="litlhaitibuilding06" txd="lhaitiblkplat" flags="7" lodDistance="250"></definition>
+    <definition id="lh_crushers11" zone="haitin" col="lh_crushers11" txd="crusherbn" flags="7" lodDistance="100"></definition>
+    <definition id="lh_taxifirm02" zone="haitin" col="lh_taxifirm02" txd="lhcabbyext" flags="7" lodDistance="155"></definition>
+    <definition id="lh_taxifirm01" zone="haitin" col="lh_taxifirm01" txd="lhcabby" flags="5,7" lodDistance="120"></definition>
+    <definition id="lh_haiblockc2" zone="haitin" col="lh_haiblockc2" txd="lh_haibljki" flags="7" lodDistance="188"></definition>
+    <definition id="haitgangshop" zone="haitin" col="haitgangshop" txd="gangshop" flags="2,7" lodDistance="199"></definition>
+    <definition id="haitihut3" zone="haitin" col="haitihut3" txd="lhaithutn" flags="7" lodDistance="100"></definition>
+    <definition id="haitimall" zone="haitin" col="haitimall" txd="lhaitiblk1fg" flags="7" lodDistance="170"></definition>
+    <definition id="mall2" zone="haitin" col="mall2" txd="lhaitiblk1fg" flags="7" lodDistance="176"></definition>
+    <definition id="billboard" zone="haitin" col="billboard" txd="haitisig" flags="7" lodDistance="70"></definition>
+    <definition id="hatsog" zone="haitin" col="hatsog" txd="lhaiths" flags="7" lodDistance="100"></definition>
+    <definition id="haitihut1" zone="haitin" col="haitihut1" txd="lhaithutn" flags="7" lodDistance="100"></definition>
+    <definition id="haitihut2" zone="haitin" col="haitihut2" txd="lhaithutn" flags="7" lodDistance="100"></definition>
+    <definition id="haitibuilds" zone="haitin" col="haitibuilds" txd="haitbuildsea1" flags="7" lodDistance="200"></definition>
+    <definition id="haitiskyg" zone="haitin" col="haitiskyg" txd="haitbuildsea2" flags="7" lodDistance="180"></definition>
+    <definition id="haicoasta2" zone="haitin" col="haicoasta2" txd="sjmahaitiground" flags="2,7" lodDistance="199"></definition>
+    <definition id="haitbuildws14" zone="haitin" col="haitbuildws14" txd="haitbuild41" flags="7" lodDistance="200"></definition>
+    <definition id="haicoast3" zone="haitin" col="haicoast3" txd="sjmahaitiground" flags="" lodDistance="199"></definition>
+    <definition id="haicoast4" zone="haitin" col="haicoast4" txd="sjmahaitiground" flags="" lodDistance="199"></definition>
+    <definition id="haicoast5" zone="haitin" col="haicoast5" txd="sjmahaitiground" flags="" lodDistance="199"></definition>
+    <definition id="haigrnda1" zone="haitin" col="haigrnda1" txd="sjmahaitiground" flags="2" lodDistance="199"></definition>
+    <definition id="LODharoada2" zone="haitin" col="LODharoada2" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODhaiblockc2" zone="haitin" col="LODhaiblockc2" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODhaiblockc3" zone="haitin" col="LODhaiblockc3" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODitcut" zone="haitin" col="LODitcut" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODsection" zone="haitin" col="LODsection" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODcoast06" zone="haitin" col="LODcoast06" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODmiland027a" zone="haitin" col="LODmiland027a" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODuilding01" zone="haitin" col="LODuilding01" txd="LODhaitin" flags="7" lodDistance="800"></definition>
+    <definition id="LODtiskyg" zone="haitin" col="LODtiskyg" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODcoast3" zone="haitin" col="LODcoast3" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODcoast4" zone="haitin" col="LODcoast4" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODharoada3" zone="haitin" col="LODharoada3" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODuilding05" zone="haitin" col="LODuilding05" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODitnewbt" zone="haitin" col="LODitnewbt" txd="LODhaitinbig" flags="7" lodDistance="1500"></definition>
+    <definition id="LODharoada4" zone="haitin" col="LODharoada4" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODlhaitibuilding06" zone="haitin" col="LODlhaitibuilding06" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODtimall" zone="haitin" col="LODtimall" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODl2" zone="haitin" col="LODl2" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="havanahouse12" zone="haitin" col="havanahouse12" txd="haitiblk1sj" flags="7" lodDistance="120"></definition>
+    <definition id="LODcoast5" zone="haitin" col="LODcoast5" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODitwarhus" zone="haitin" col="LODitwarhus" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODcoasta2" zone="haitin" col="LODcoasta2" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODtbuildws14" zone="haitin" col="LODtbuildws14" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODgrnda1" zone="haitin" col="LODgrnda1" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODcoast" zone="haitin" col="LODcoast" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODtibuilds" zone="haitin" col="LODtibuilds" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODcoast08" zone="haitin" col="LODcoast08" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODtihut1" zone="haitin" col="LODtihut1" txd="LODhaitin" flags="7" lodDistance="750"></definition>
+    <definition id="LODtihut2" zone="haitin" col="LODtihut2" txd="LODhaitin" flags="7" lodDistance="750"></definition>
+    <definition id="LODtihut3" zone="haitin" col="LODtihut3" txd="LODhaitin" flags="7" lodDistance="750"></definition>
+    <definition id="LODcrushers12" zone="haitin" col="LODcrushers12" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODsjmcrush" zone="haitin" col="LODsjmcrush" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODcrushers10" zone="haitin" col="LODcrushers10" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="ih-sjmcrush" zone="haitin" col="ih-sjmcrush" txd="crusherbn" flags="" lodDistance="100"></definition>
+    <definition id="ih-sjmphil" zone="haitin" col="ih-sjmphil" txd="philss" flags="7" lodDistance="70"></definition>
+    <definition id="sjmcrushgate" zone="haitin" col="sjmcrushgate" txd="philss" flags="7" lodDistance="70"></definition>
+    <definition id="LODphils" zone="haitin" col="LODphils" txd="LODhaitin" flags="7" lodDistance="1000"></definition>
+    <definition id="LODpizzaplace" zone="haitin" col="LODpizzaplace" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODtaxifirm02" zone="haitin" col="LODtaxifirm02" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="buildblown" zone="haitin" col="buildblown" txd="buildinghan" flags="7" lodDistance="100"></definition>
+    <definition id="LODldblown" zone="haitin" col="LODldblown" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="lh_haiblockc3" zone="haitin" col="lh_haiblockc3" txd="funhiati" flags="" lodDistance="90"></definition>
+    <definition id="nhaitiplnt14" zone="haitin" col="nhaitiplnt14" txd="haitplntn" flags="2,7" lodDistance="250"></definition>
+    <definition id="crocneon" zone="haitin" col="crocneon" txd="lh_haibljki" flags="2,7" lodDistance="100"></definition>
+    <definition id="hvood01" zone="haitin" col="hvood01" txd="chairsnstufh" flags="7" lodDistance="20"></definition>
+    <definition id="nhvood" zone="haitin" col="nhvood" txd="chairsnstufh" flags="7" lodDistance="20"></definition>
+    <definition id="fffinhaiti" zone="haitin" col="fffinhaiti" txd="fffinhaiti" flags="7" lodDistance="90"></definition>
+    <definition id="LODinhaiti" zone="haitin" col="LODinhaiti" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="sjmmet" zone="haitin" col="sjmmet" txd="lhaiths" flags="7" lodDistance="100"></definition>
+    <definition id="sjmmet2" zone="haitin" col="sjmmet2" txd="lh_haibljki" flags="7" lodDistance="100"></definition>
+    <definition id="miamiland027a" zone="haitin" col="miamiland027a" txd="lhaiths" flags="7" lodDistance="199"></definition>
+    <definition id="newramp2" zone="haitin" col="newramp2" txd="newrampn" flags="7" lodDistance="100"></definition>
+    <definition id="haitinwire11" zone="haitin" col="haitinwire11" txd="haitinwire" flags="2" lodDistance="100"></definition>
+    <definition id="haitinwire22" zone="haitin" col="haitinwire22" txd="haitinwire" flags="2" lodDistance="100"></definition>
+    <definition id="npw_press1_02" zone="haitin" col="npw_press1_02" txd="lh_PWbuild3" flags="7" lodDistance="100"></definition>
+    <definition id="haitroadb" zone="haitin" col="haitroadb" txd="sjmroadhaitiN" flags="" lodDistance="299"></definition>
+    <definition id="haitroada" zone="haitin" col="haitroada" txd="sjmroadhaitiN" flags="" lodDistance="299"></definition>
+    <definition id="haitroadc" zone="haitin" col="haitroadc" txd="sjmroadhaitiN" flags="" lodDistance="299"></definition>
+    <definition id="hdrugfactorypol" zone="haitin" col="hdrugfactorypol" txd="drugfactint" flags="5,7" lodDistance="50"></definition>
+    <definition id="lh_crushers12" zone="haitin" col="lh_crushers12" txd="crusherbn" flags="" lodDistance="100"></definition>
+    <definition id="LODtroadb" zone="haitin" col="LODtroadb" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="LODtroada" zone="haitin" col="LODtroada" txd="LODhaitinbig" flags="7" lodDistance="1000"></definition>
+    <definition id="nhaitiplnt15" zone="haitin" col="nhaitiplnt15" txd="haitplntn" flags="2,7" lodDistance="200"></definition>
+    <definition id="lh_pizzaplace" zone="haitin" col="lh_pizzaplace" txd="nbtshops" flags="7" lodDistance="199"></definition>
+    <definition id="sjmuilding05" zone="haitin" col="sjmuilding05" txd="lhaitiblk2" flags="7" lodDistance="220"></definition>
+    <definition id="lhaitnewbt" zone="haitin" col="lhaitnewbt" txd="lhaitiblksick" flags="" lodDistance="100"></definition>
+    <definition id="lhaitcut" zone="haitin" col="lhaitcut" txd="ihaitcutmf" flags="" lodDistance="199"></definition>
+    <definition id="ihaitwarhus" zone="haitin" col="ihaitwarhus" txd="lhaitiblkplt2" flags="7" lodDistance="100"></definition>
+    <definition id="haitinwire23" zone="haitin" col="haitinwire23" txd="haitinwire" flags="2" lodDistance="100"></definition>
+    <definition id="sjmbigsign" zone="haitin" col="sjmbigsign" txd="sjmsprayn" flags="7" lodDistance="100"></definition>
+    <definition id="hvoodext" zone="haitin" col="hvoodext" txd="haitcontext" flags="2,7" lodDistance="80"></definition>
+    <definition id="sjmbigsign01" zone="haitin" col="sjmbigsign01" txd="sjmsprayn" flags="7" lodDistance="100"></definition>
+    <definition id="hai_roadsigns" zone="haitin" col="hai_roadsigns" txd="lhaiths" flags="8" lodDistance="120"></definition>
+    <definition id="sjmbigsign02" zone="haitin" col="sjmbigsign02" txd="sjmsprayn" flags="7" lodDistance="100"></definition>
+    <definition id="nhaiticar13" zone="haitin" col="nhaiticar13" txd="ncarwreck" flags="7" lodDistance="50"></definition>
+    <definition id="lh_dockpostsN1" zone="haitin" col="lh_dockpostsN1" txd="lh_dockstuffN1" flags="2,7" lodDistance="164"></definition>
+    <definition id="lh_dockpostsN2" zone="haitin" col="lh_dockpostsN2" txd="lh_dockstuffN1" flags="2,7" lodDistance="164"></definition>
+    <definition id="lh_dockpostsN3" zone="haitin" col="lh_dockpostsN3" txd="lh_dockstuffN1" flags="2,7" lodDistance="164"></definition>
+    <definition id="havanahouse12b" zone="haitin" col="havanahouse12b" txd="haitiblk1sj" flags="2,7" lodDistance="120"></definition>
+    <definition id="hdrugfactoryintb" zone="haitin" col="hdrugfactoryintb" txd="drugfactint" flags="2,5,7" lodDistance="50"></definition>
+    <definition id="lh_pizzaplaceb" zone="haitin" col="lh_pizzaplaceb" txd="nbtshops" flags="2,7" lodDistance="199"></definition>
 </zoneDefinitions>

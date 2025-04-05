@@ -1,0 +1,137 @@
+<map>
+    <object  id="lodxrefhse1" posX="1996.56" posY="-2065.4" posZ="7.1061" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></object>
+    <object  id="lodxrefhse1" posX="1996.88" posY="-2087.33" posZ="7.1061" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></object>
+    <object  id="lodxrefhse1" posX="1976.46" posY="-2087.38" posZ="7.1061" rotX="0" rotY="-0" rotZ="-89.99987340327" uniqueID="3"></object>
+    <object  id="lodxrefhse1" posX="1976.45" posY="-2108.04" posZ="7.1061" rotX="0" rotY="-0" rotZ="-0" uniqueID="4"></object>
+    <object  id="lodxrefhse1" posX="1996.88" posY="-2108.04" posZ="7.1061" rotX="0" rotY="-0" rotZ="-0" uniqueID="5"></object>
+    <object  id="lodxrefhse1" posX="2019.88" posY="-2110" posZ="7.1061" rotX="0" rotY="-0" rotZ="-0" uniqueID="6"></object>
+    <object  id="lodxrefhse1" posX="2019.88" posY="-2087.63" posZ="7.1061" rotX="0" rotY="-0" rotZ="-0" uniqueID="7"></object>
+    <building  id="lodxrefhirise1" posX="2055.86" posY="-2057.43" posZ="9.83198" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="lodxrefhirise1" posX="2029.34" posY="-2056.92" posZ="9.8198" rotX="0" rotY="-0" rotZ="-89.99987340327" uniqueID="1"></building>
+    <object  id="lodxrefhse1" posX="1896.9" posY="-2243.8" posZ="6.996" rotX="0" rotY="-0" rotZ="-0" uniqueID="8"></object>
+    <building  id="lodxrefhirise1" posX="1930.78" posY="-2404.46" posZ="9.8198" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></building>
+    <object  id="lodxrefhse2" posX="1935.08" posY="-2294.51" posZ="7.625" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="lodxrefhse2" posX="1936.57" posY="-2253.85" posZ="7.625" rotX="0" rotY="-0" rotZ="-89.99987340327" uniqueID="1"></object>
+    <object  id="lodxrefhse2" posX="1999.93" posY="-2005.77" posZ="7.7478" rotX="0" rotY="-0" rotZ="-0" uniqueID="2"></object>
+    <building  id="lod_leslie_dy" posX="2475.01" posY="-1457.42" posZ="15.3882" rotX="0" rotY="-0" rotZ="-11.599968730626"></building>
+    <building  id="lod_starlite_dy" posX="2425.17" posY="-1576.01" posZ="14.889" rotX="0" rotY="-0" rotZ="-25.300023184422"></building>
+    <building  id="lod_leslie_dy" posX="2394.65" posY="-1654.1" posZ="15.3882" rotX="0" rotY="-0" rotZ="-25.899917585157" uniqueID="1"></building>
+    <building  id="lod_leslie_dy" posX="2361.49" posY="-1724.67" posZ="15.3882" rotX="0" rotY="-0" rotZ="-24.099979420258" uniqueID="2"></building>
+    <building  id="lod_starlite_dy" posX="2296.33" posY="-1857.32" posZ="14.8164" rotX="0" rotY="-0" rotZ="-21.299984758226" uniqueID="1"></building>
+    <building  id="lod_majestic_dy" posX="2284.24" posY="-1890.74" posZ="18.9909" rotX="0" rotY="-0" rotZ="-21.499987754544"></building>
+    <building  id="lod_leslie_dy" posX="2268.62" posY="-1965.16" posZ="15.3882" rotX="0" rotY="-0" rotZ="-3.4999999133273" uniqueID="3"></building>
+    <building  id="lod_beacon_dy" posX="2256.99" posY="-2046.68" posZ="12.4891" rotX="0" rotY="-0" rotZ="-9.3999954179184"></building>
+    <building  id="lod_macalpin_dy" posX="2254.06" posY="-2074.54" posZ="9.0652" rotX="0" rotY="-0" rotZ="-9.5000037864711"></building>
+    <building  id="lod_tides_dy" posX="2238.03" posY="-2119.16" posZ="26.0341" rotX="0" rotY="-0" rotZ="-10.499986979163"></building>
+    <building  id="lod_starlite_dy" posX="2235.57" posY="-2155.97" posZ="14.889" rotX="0" rotY="-0" rotZ="-9.9999980154254" uniqueID="2"></building>
+    <building  id="lod_beacon_dy" posX="2211.57" posY="-2283.29" posZ="12.5156" rotX="0" rotY="-0" rotZ="-11.999947276437" uniqueID="1"></building>
+    <building  id="lod_macalpin_dy" posX="2209.19" posY="-2311.71" posZ="8.9161" rotX="0" rotY="-0" rotZ="-10.299990441911" uniqueID="1"></building>
+    <building  id="lod_leslie_dy" posX="2475.01" posY="-1457.42" posZ="15.3882" rotX="0" rotY="-0" rotZ="-11.599968730626" uniqueID="4"></building>
+    <building  id="lod_starlite_dy" posX="2425.17" posY="-1576.01" posZ="14.889" rotX="0" rotY="-0" rotZ="-25.300023184422" uniqueID="3"></building>
+    <building  id="lod_leslie_dy" posX="2394.65" posY="-1654.1" posZ="15.3882" rotX="0" rotY="-0" rotZ="-25.899917585157" uniqueID="5"></building>
+    <building  id="lod_leslie_dy" posX="2361.49" posY="-1724.67" posZ="15.3882" rotX="0" rotY="-0" rotZ="-24.099979420258" uniqueID="6"></building>
+    <building  id="lod_starlite_dy" posX="2296.33" posY="-1857.32" posZ="14.8164" rotX="0" rotY="-0" rotZ="-21.299984758226" uniqueID="4"></building>
+    <building  id="lod_majestic_dy" posX="2284.24" posY="-1890.74" posZ="18.9909" rotX="0" rotY="-0" rotZ="-21.499987754544" uniqueID="1"></building>
+    <building  id="lod_leslie_dy" posX="2268.62" posY="-1965.16" posZ="15.3882" rotX="0" rotY="-0" rotZ="-3.4999999133273" uniqueID="7"></building>
+    <building  id="lod_beacon_dy" posX="2256.99" posY="-2046.68" posZ="12.4891" rotX="0" rotY="-0" rotZ="-9.3999954179184" uniqueID="2"></building>
+    <building  id="lod_macalpin_dy" posX="2254.06" posY="-2074.54" posZ="9.0652" rotX="0" rotY="-0" rotZ="-9.5000037864711" uniqueID="2"></building>
+    <building  id="lod_tides_dy" posX="2238.03" posY="-2119.16" posZ="26.0341" rotX="0" rotY="-0" rotZ="-10.499986979163" uniqueID="1"></building>
+    <building  id="lod_starlite_dy" posX="2235.57" posY="-2155.97" posZ="14.889" rotX="0" rotY="-0" rotZ="-9.9999980154254" uniqueID="5"></building>
+    <building  id="lod_beacon_dy" posX="2211.57" posY="-2283.29" posZ="12.5156" rotX="0" rotY="-0" rotZ="-11.999947276437" uniqueID="3"></building>
+    <building  id="lod_macalpin_dy" posX="2209.19" posY="-2311.71" posZ="8.9161" rotX="0" rotY="-0" rotZ="-10.299990441911" uniqueID="3"></building>
+    <building  id="lod_leslie_nt" posX="2475.01" posY="-1457.42" posZ="15.3882" rotX="0" rotY="-0" rotZ="-11.599968730626"></building>
+    <building  id="lod_starlite_nt" posX="2425.17" posY="-1576.01" posZ="14.889" rotX="0" rotY="-0" rotZ="-25.300023184422"></building>
+    <building  id="lod_leslie_nt" posX="2394.65" posY="-1654.1" posZ="15.3882" rotX="0" rotY="-0" rotZ="-25.899917585157" uniqueID="1"></building>
+    <building  id="lod_leslie_nt" posX="2361.49" posY="-1724.67" posZ="15.3882" rotX="0" rotY="-0" rotZ="-24.099979420258" uniqueID="2"></building>
+    <building  id="lod_starlite_nt" posX="2296.33" posY="-1857.32" posZ="14.8164" rotX="0" rotY="-0" rotZ="-21.299984758226" uniqueID="1"></building>
+    <building  id="lod_majestic_nt" posX="2284.24" posY="-1890.74" posZ="18.9909" rotX="0" rotY="-0" rotZ="-21.499987754544"></building>
+    <building  id="lod_leslie_nt" posX="2268.62" posY="-1965.16" posZ="15.3882" rotX="0" rotY="-0" rotZ="-3.4999999133273" uniqueID="3"></building>
+    <building  id="lod_beacon_nt" posX="2256.99" posY="-2046.68" posZ="12.4891" rotX="0" rotY="-0" rotZ="-9.3999954179184"></building>
+    <building  id="lod_macalpin_nt" posX="2254.06" posY="-2074.54" posZ="9.0652" rotX="0" rotY="-0" rotZ="-9.5000037864711"></building>
+    <building  id="lod_tides_nt" posX="2238.03" posY="-2119.16" posZ="26.0341" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="lod_starlite_nt" posX="2235.57" posY="-2155.97" posZ="14.889" rotX="0" rotY="-0" rotZ="-9.9999980154254" uniqueID="2"></building>
+    <building  id="lod_beacon_nt" posX="2211.57" posY="-2283.29" posZ="12.5156" rotX="0" rotY="-0" rotZ="-11.999947276437" uniqueID="1"></building>
+    <building  id="lod_macalpin_nt" posX="2209.19" posY="-2311.71" posZ="8.9161" rotX="0" rotY="-0" rotZ="-10.299990441911" uniqueID="1"></building>
+    <building  id="lod_leslie_nt" posX="2475.01" posY="-1457.42" posZ="15.3882" rotX="0" rotY="-0" rotZ="-11.599968730626" uniqueID="4"></building>
+    <building  id="lod_starlite_nt" posX="2425.17" posY="-1576.01" posZ="14.889" rotX="0" rotY="-0" rotZ="-25.300023184422" uniqueID="3"></building>
+    <building  id="lod_leslie_nt" posX="2394.65" posY="-1654.1" posZ="15.3882" rotX="0" rotY="-0" rotZ="-25.899917585157" uniqueID="5"></building>
+    <building  id="lod_leslie_nt" posX="2361.49" posY="-1724.67" posZ="15.3882" rotX="0" rotY="-0" rotZ="-24.099979420258" uniqueID="6"></building>
+    <building  id="lod_starlite_nt" posX="2296.33" posY="-1857.32" posZ="14.8164" rotX="0" rotY="-0" rotZ="-21.299984758226" uniqueID="4"></building>
+    <building  id="lod_majestic_nt" posX="2284.24" posY="-1890.74" posZ="18.9909" rotX="0" rotY="-0" rotZ="-21.499987754544" uniqueID="1"></building>
+    <building  id="lod_leslie_nt" posX="2268.62" posY="-1965.16" posZ="15.3882" rotX="0" rotY="-0" rotZ="-3.4999999133273" uniqueID="7"></building>
+    <building  id="lod_beacon_nt" posX="2256.99" posY="-2046.68" posZ="12.4891" rotX="0" rotY="-0" rotZ="-9.3999954179184" uniqueID="2"></building>
+    <building  id="lod_macalpin_nt" posX="2254.06" posY="-2074.54" posZ="9.0652" rotX="0" rotY="-0" rotZ="-9.5000037864711" uniqueID="2"></building>
+    <building  id="lod_tides_nt" posX="2238.03" posY="-2119.16" posZ="26.0341" rotX="0" rotY="-0" rotZ="-0" uniqueID="1"></building>
+    <building  id="lod_starlite_nt" posX="2235.57" posY="-2155.97" posZ="14.889" rotX="0" rotY="-0" rotZ="-9.9999980154254" uniqueID="5"></building>
+    <building  id="lod_beacon_nt" posX="2211.57" posY="-2283.29" posZ="12.5156" rotX="0" rotY="-0" rotZ="-11.999947276437" uniqueID="3"></building>
+    <building  id="lod_macalpin_nt" posX="2209.19" posY="-2311.71" posZ="8.9161" rotX="0" rotY="-0" rotZ="-10.299990441911" uniqueID="3"></building>
+    <object  id="lodxrefhse2" posX="1963.76" posY="-2007.1" posZ="7.7478" rotX="0" rotY="-0" rotZ="90.000197517502" uniqueID="3"></object>
+    <building  id="xod_leslie_dy" posX="2475.01" posY="-1457.42" posZ="15.3882" rotX="0" rotY="-0" rotZ="-11.599968730626" lodParent="lod_leslie_dy"></building>
+    <building  id="xod_starlite_dy" posX="2425.17" posY="-1576.01" posZ="14.889" rotX="0" rotY="-0" rotZ="-25.300023184422" lodParent="lod_starlite_dy"></building>
+    <building  id="xod_leslie_dy" posX="2394.65" posY="-1654.1" posZ="15.3882" rotX="0" rotY="-0" rotZ="-25.899917585157" lodParent="lod_leslie_dy" uniqueID="1"></building>
+    <building  id="xod_leslie_dy" posX="2361.49" posY="-1724.67" posZ="15.3882" rotX="0" rotY="-0" rotZ="-24.099979420258" lodParent="lod_leslie_dy" uniqueID="2"></building>
+    <building  id="xod_starlite_dy" posX="2296.33" posY="-1857.32" posZ="14.8164" rotX="0" rotY="-0" rotZ="-21.299984758226" lodParent="lod_starlite_dy" uniqueID="1"></building>
+    <building  id="xod_majestic_dy" posX="2284.24" posY="-1890.74" posZ="18.9909" rotX="0" rotY="-0" rotZ="-21.499987754544" lodParent="lod_majestic_dy"></building>
+    <building  id="xod_leslie_dy" posX="2268.62" posY="-1965.16" posZ="15.3882" rotX="0" rotY="-0" rotZ="-3.4999999133273" lodParent="lod_leslie_dy" uniqueID="3"></building>
+    <building  id="xod_beacon_dy" posX="2256.99" posY="-2046.68" posZ="12.4891" rotX="0" rotY="-0" rotZ="-9.3999954179184" lodParent="lod_beacon_dy"></building>
+    <building  id="xod_macalpin_dy" posX="2254.06" posY="-2074.54" posZ="9.0652" rotX="0" rotY="-0" rotZ="-9.5000037864711" lodParent="lod_macalpin_dy"></building>
+    <building  id="xod_tides_dy" posX="2238.03" posY="-2119.16" posZ="26.0341" rotX="0" rotY="-0" rotZ="-10.499986979163" lodParent="lod_tides_dy"></building>
+    <building  id="xod_starlite_dy" posX="2235.57" posY="-2155.97" posZ="14.889" rotX="0" rotY="-0" rotZ="-9.9999980154254" lodParent="lod_starlite_dy" uniqueID="2"></building>
+    <building  id="xod_beacon_dy" posX="2211.57" posY="-2283.29" posZ="12.5156" rotX="0" rotY="-0" rotZ="-11.999947276437" lodParent="lod_beacon_dy" uniqueID="1"></building>
+    <building  id="xod_macalpin_dy" posX="2209.19" posY="-2311.71" posZ="8.9161" rotX="0" rotY="-0" rotZ="-10.299990441911" lodParent="lod_macalpin_dy" uniqueID="1"></building>
+    <building  id="xod_leslie_dy" posX="2475.01" posY="-1457.42" posZ="15.3882" rotX="0" rotY="-0" rotZ="-11.599968730626" lodParent="lod_leslie_dy" uniqueID="4"></building>
+    <building  id="xod_starlite_dy" posX="2425.17" posY="-1576.01" posZ="14.889" rotX="0" rotY="-0" rotZ="-25.300023184422" lodParent="lod_starlite_dy" uniqueID="3"></building>
+    <building  id="xod_leslie_dy" posX="2394.65" posY="-1654.1" posZ="15.3882" rotX="0" rotY="-0" rotZ="-25.899917585157" lodParent="lod_leslie_dy" uniqueID="5"></building>
+    <building  id="xod_leslie_dy" posX="2361.49" posY="-1724.67" posZ="15.3882" rotX="0" rotY="-0" rotZ="-24.099979420258" lodParent="lod_leslie_dy" uniqueID="6"></building>
+    <building  id="xod_starlite_dy" posX="2296.33" posY="-1857.32" posZ="14.8164" rotX="0" rotY="-0" rotZ="-21.299984758226" lodParent="lod_starlite_dy" uniqueID="4"></building>
+    <building  id="xod_majestic_dy" posX="2284.24" posY="-1890.74" posZ="18.9909" rotX="0" rotY="-0" rotZ="-21.499987754544" lodParent="lod_majestic_dy" uniqueID="1"></building>
+    <building  id="xod_leslie_dy" posX="2268.62" posY="-1965.16" posZ="15.3882" rotX="0" rotY="-0" rotZ="-3.4999999133273" lodParent="lod_leslie_dy" uniqueID="7"></building>
+    <building  id="xod_beacon_dy" posX="2256.99" posY="-2046.68" posZ="12.4891" rotX="0" rotY="-0" rotZ="-9.3999954179184" lodParent="lod_beacon_dy" uniqueID="2"></building>
+    <building  id="xod_macalpin_dy" posX="2254.06" posY="-2074.54" posZ="9.0652" rotX="0" rotY="-0" rotZ="-9.5000037864711" lodParent="lod_macalpin_dy" uniqueID="2"></building>
+    <building  id="xod_tides_dy" posX="2238.03" posY="-2119.16" posZ="26.0341" rotX="0" rotY="-0" rotZ="-10.499986979163" lodParent="lod_tides_dy" uniqueID="1"></building>
+    <building  id="xod_starlite_dy" posX="2235.57" posY="-2155.97" posZ="14.889" rotX="0" rotY="-0" rotZ="-9.9999980154254" lodParent="lod_starlite_dy" uniqueID="5"></building>
+    <building  id="xod_beacon_dy" posX="2211.57" posY="-2283.29" posZ="12.5156" rotX="0" rotY="-0" rotZ="-11.999947276437" lodParent="lod_beacon_dy" uniqueID="3"></building>
+    <building  id="xod_macalpin_dy" posX="2209.19" posY="-2311.71" posZ="8.9161" rotX="0" rotY="-0" rotZ="-10.299990441911" lodParent="lod_macalpin_dy" uniqueID="3"></building>
+    <building  id="xod_leslie_nt" posX="2475.01" posY="-1457.42" posZ="15.3882" rotX="0" rotY="-0" rotZ="-11.599968730626" lodParent="lod_leslie_nt"></building>
+    <building  id="xod_starlite_nt" posX="2425.17" posY="-1576.01" posZ="14.889" rotX="0" rotY="-0" rotZ="-25.300023184422" lodParent="lod_starlite_nt"></building>
+    <building  id="xod_leslie_nt" posX="2394.65" posY="-1654.1" posZ="15.3882" rotX="0" rotY="-0" rotZ="-25.899917585157" lodParent="lod_leslie_nt" uniqueID="1"></building>
+    <building  id="xod_leslie_nt" posX="2361.49" posY="-1724.67" posZ="15.3882" rotX="0" rotY="-0" rotZ="-24.099979420258" lodParent="lod_leslie_nt" uniqueID="2"></building>
+    <building  id="xod_starlite_nt" posX="2296.33" posY="-1857.32" posZ="14.8164" rotX="0" rotY="-0" rotZ="-21.299984758226" lodParent="lod_starlite_nt" uniqueID="1"></building>
+    <building  id="xod_majestic_nt" posX="2284.24" posY="-1890.74" posZ="18.9909" rotX="0" rotY="-0" rotZ="-21.499987754544" lodParent="lod_majestic_nt"></building>
+    <building  id="xod_leslie_nt" posX="2268.62" posY="-1965.16" posZ="15.3882" rotX="0" rotY="-0" rotZ="-3.4999999133273" lodParent="lod_leslie_nt" uniqueID="3"></building>
+    <building  id="xod_beacon_nt" posX="2256.99" posY="-2046.68" posZ="12.4891" rotX="0" rotY="-0" rotZ="-9.3999954179184" lodParent="lod_beacon_nt"></building>
+    <building  id="xod_macalpin_nt" posX="2254.06" posY="-2074.54" posZ="9.0652" rotX="0" rotY="-0" rotZ="-9.5000037864711" lodParent="lod_macalpin_nt"></building>
+    <building  id="xod_tides_nt" posX="2238.03" posY="-2119.16" posZ="26.0341" rotX="0" rotY="-0" rotZ="-0" lodParent="lod_tides_nt"></building>
+    <building  id="xod_starlite_nt" posX="2235.57" posY="-2155.97" posZ="14.889" rotX="0" rotY="-0" rotZ="-9.9999980154254" lodParent="lod_starlite_nt" uniqueID="2"></building>
+    <building  id="xod_beacon_nt" posX="2211.57" posY="-2283.29" posZ="12.5156" rotX="0" rotY="-0" rotZ="-11.999947276437" lodParent="lod_beacon_nt" uniqueID="1"></building>
+    <building  id="xod_macalpin_nt" posX="2209.19" posY="-2311.71" posZ="8.9161" rotX="0" rotY="-0" rotZ="-10.299990441911" lodParent="lod_macalpin_nt" uniqueID="1"></building>
+    <building  id="xod_leslie_nt" posX="2475.01" posY="-1457.42" posZ="15.3882" rotX="0" rotY="-0" rotZ="-11.599968730626" lodParent="lod_leslie_nt" uniqueID="4"></building>
+    <building  id="xod_starlite_nt" posX="2425.17" posY="-1576.01" posZ="14.889" rotX="0" rotY="-0" rotZ="-25.300023184422" lodParent="lod_starlite_nt" uniqueID="3"></building>
+    <building  id="xod_leslie_nt" posX="2394.65" posY="-1654.1" posZ="15.3882" rotX="0" rotY="-0" rotZ="-25.899917585157" lodParent="lod_leslie_nt" uniqueID="5"></building>
+    <building  id="xod_leslie_nt" posX="2361.49" posY="-1724.67" posZ="15.3882" rotX="0" rotY="-0" rotZ="-24.099979420258" lodParent="lod_leslie_nt" uniqueID="6"></building>
+    <building  id="xod_starlite_nt" posX="2296.33" posY="-1857.32" posZ="14.8164" rotX="0" rotY="-0" rotZ="-21.299984758226" lodParent="lod_starlite_nt" uniqueID="4"></building>
+    <building  id="xod_majestic_nt" posX="2284.24" posY="-1890.74" posZ="18.9909" rotX="0" rotY="-0" rotZ="-21.499987754544" lodParent="lod_majestic_nt" uniqueID="1"></building>
+    <building  id="xod_leslie_nt" posX="2268.62" posY="-1965.16" posZ="15.3882" rotX="0" rotY="-0" rotZ="-3.4999999133273" lodParent="lod_leslie_nt" uniqueID="7"></building>
+    <building  id="xod_beacon_nt" posX="2256.99" posY="-2046.68" posZ="12.4891" rotX="0" rotY="-0" rotZ="-9.3999954179184" lodParent="lod_beacon_nt" uniqueID="2"></building>
+    <building  id="xod_macalpin_nt" posX="2254.06" posY="-2074.54" posZ="9.0652" rotX="0" rotY="-0" rotZ="-9.5000037864711" lodParent="lod_macalpin_nt" uniqueID="2"></building>
+    <building  id="xod_tides_nt" posX="2238.03" posY="-2119.16" posZ="26.0341" rotX="0" rotY="-0" rotZ="-0" lodParent="lod_tides_nt" uniqueID="1"></building>
+    <building  id="xod_starlite_nt" posX="2235.57" posY="-2155.97" posZ="14.889" rotX="0" rotY="-0" rotZ="-9.9999980154254" lodParent="lod_starlite_nt" uniqueID="5"></building>
+    <building  id="xod_beacon_nt" posX="2211.57" posY="-2283.29" posZ="12.5156" rotX="0" rotY="-0" rotZ="-11.999947276437" lodParent="lod_beacon_nt" uniqueID="3"></building>
+    <building  id="xod_macalpin_nt" posX="2209.19" posY="-2311.71" posZ="8.9161" rotX="0" rotY="-0" rotZ="-10.299990441911" lodParent="lod_macalpin_nt" uniqueID="3"></building>
+    <object  id="wshxrefhse1" posX="1996.56" posY="-2045.09" posZ="7.1061" rotX="0" rotY="-0" rotZ="-0" lodParent="lodxrefhse1"></object>
+    <object  id="wshxrefhse1" posX="1996.56" posY="-2065.4" posZ="7.1061" rotX="0" rotY="-0" rotZ="-0" lodParent="lodxrefhse1" uniqueID="1"></object>
+    <object  id="wshxrefhse1" posX="1996.88" posY="-2087.33" posZ="7.1061" rotX="0" rotY="-0" rotZ="-0" lodParent="lodxrefhse1" uniqueID="2"></object>
+    <object  id="wshxrefhse1" posX="1976.46" posY="-2087.38" posZ="7.1061" rotX="0" rotY="-0" rotZ="-89.99987340327" lodParent="lodxrefhse1" uniqueID="3"></object>
+    <object  id="wshxrefhse1" posX="1976.45" posY="-2108.04" posZ="7.1061" rotX="0" rotY="-0" rotZ="-0" lodParent="lodxrefhse1" uniqueID="4"></object>
+    <object  id="wshxrefhse1" posX="1996.88" posY="-2108.04" posZ="7.1061" rotX="0" rotY="-0" rotZ="-0" lodParent="lodxrefhse1" uniqueID="5"></object>
+    <object  id="wshxrefhse1" posX="2019.88" posY="-2110" posZ="7.1061" rotX="0" rotY="-0" rotZ="-0" lodParent="lodxrefhse1" uniqueID="6"></object>
+    <object  id="wshxrefhse1" posX="2019.88" posY="-2087.63" posZ="7.1061" rotX="0" rotY="-0" rotZ="-0" lodParent="lodxrefhse1" uniqueID="7"></object>
+    <building  id="wshxrefhirise1" posX="2055.86" posY="-2057.43" posZ="9.83198" rotX="0" rotY="-0" rotZ="-0" lodParent="lodxrefhirise1"></building>
+    <building  id="wshxrefhirise1" posX="2029.34" posY="-2056.92" posZ="9.8198" rotX="0" rotY="-0" rotZ="-89.99987340327" lodParent="lodxrefhirise1" uniqueID="1"></building>
+    <object  id="wshxrefhse1" posX="1896.9" posY="-2243.8" posZ="6.996" rotX="0" rotY="-0" rotZ="-0" lodParent="lodxrefhse1" uniqueID="8"></object>
+    <building  id="wshxrefhirise1" posX="1930.81" posY="-2404.46" posZ="9.8198" rotX="0" rotY="-0" rotZ="-0" lodParent="lodxrefhirise1" uniqueID="2"></building>
+    <object  id="wshxrefhse2" posX="1936.57" posY="-2253.85" posZ="7.625" rotX="0" rotY="-0" rotZ="-89.99987340327" lodParent="lodxrefhse2"></object>
+    <object  id="wshxrefhse2" posX="1935.08" posY="-2294.51" posZ="7.625" rotX="0" rotY="-0" rotZ="-0" lodParent="lodxrefhse2" uniqueID="1"></object>
+    <object  id="wshxrefhse2" posX="1999.93" posY="-2005.77" posZ="7.7478" rotX="0" rotY="-0" rotZ="-0" lodParent="lodxrefhse2" uniqueID="2"></object>
+    <object  id="wshxrefhse2" posX="1963.76" posY="-2007.1" posZ="7.7478" rotX="0" rotY="-0" rotZ="90.000197517502" lodParent="lodxrefhse2" uniqueID="3"></object>
+</map>

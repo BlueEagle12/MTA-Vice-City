@@ -1,0 +1,142 @@
+<zoneDefinitions>
+    <definition id="seabedcars" zone="islands" col="seabedcars" txd="fuckedcarlh" flags="7" lodDistance="50"></definition>
+    <definition id="seacorpse" zone="islands" col="seacorpse" txd="corpsedrown" flags="" lodDistance="80"></definition>
+    <definition id="seabedshit02" zone="islands" col="seabedshit02" txd="dock_shipsunder" flags="7" lodDistance="144"></definition>
+    <definition id="seabedcars04" zone="islands" col="seabedcars04" txd="fuckedcarlh" flags="7" lodDistance="50"></definition>
+    <definition id="seacorpse01" zone="islands" col="seacorpse01" txd="corpsedrown" flags="" lodDistance="80"></definition>
+    <definition id="rockpatch03" zone="islands" col="rockpatch03" txd="VC_rocky" flags="7" lodDistance="299"></definition>
+    <definition id="gf_tree1_01" zone="islands" col="gf_tree1_01" txd="gfpalms" flags="2,7" lodDistance="100"></definition>
+    <definition id="gf_tree2_02" zone="islands" col="gf_tree2_02" txd="gfpalms" flags="2,7" lodDistance="100"></definition>
+    <definition id="gf_smallisland1_01" zone="islands" col="gf_smallisland1_01" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_flagstees3" zone="islands" col="gf_flagstees3" txd="gfflag" flags="7" lodDistance="100"></definition>
+    <definition id="gf_flagstees4" zone="islands" col="gf_flagstees4" txd="gfflag" flags="7" lodDistance="150"></definition>
+    <definition id="gf_mainisl5_01" zone="islands" col="gf_mainisl5_01" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_tennisfence" zone="islands" col="gf_tennisfence" txd="gfflag" flags="2,7" lodDistance="100"></definition>
+    <definition id="gf_northisland1" zone="islands" col="gf_northisland1" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_northbridge1" zone="islands" col="gf_northbridge1" txd="gf_northbridge" flags="" lodDistance="100"></definition>
+    <definition id="gf_planters2" zone="islands" col="gf_planters2" txd="GenericVC" flags="7" lodDistance="100"></definition>
+    <definition id="gf_ivy_balcny_01" zone="islands" col="gf_ivy_balcny_01" txd="GenericVC" flags="7" lodDistance="100"></definition>
+    <definition id="gf_ivy_balcny_07" zone="islands" col="gf_ivy_balcny_07" txd="GenericVC" flags="7" lodDistance="100"></definition>
+    <definition id="gf_smallislebridge1" zone="islands" col="gf_smallislebridge1" txd="golf3" flags="" lodDistance="100"></definition>
+    <definition id="gf_flagstees2" zone="islands" col="gf_flagstees2" txd="gfflag" flags="7" lodDistance="100"></definition>
+    <definition id="gf_flagstees1" zone="islands" col="gf_flagstees1" txd="gfflag" flags="7" lodDistance="100"></definition>
+    <definition id="gf_drivingrange1" zone="islands" col="gf_drivingrange1" txd="gfnorthisland3" flags="7" lodDistance="100"></definition>
+    <definition id="gf_drdivide1_01" zone="islands" col="gf_drdivide1_01" txd="gfnorthisland3" flags="2,7" lodDistance="100"></definition>
+    <definition id="gf_hedge1_01" zone="islands" col="gf_hedge1_01" txd="gf_hedge1" flags="2" lodDistance="100"></definition>
+    <definition id="gf_hedge2_01" zone="islands" col="gf_hedge2_01" txd="gf_hedge1" flags="2" lodDistance="100"></definition>
+    <definition id="gf_hedge3_01" zone="islands" col="gf_hedge3_01" txd="gf_hedge1" flags="2" lodDistance="100"></definition>
+    <definition id="gf_hedge5_01" zone="islands" col="gf_hedge5_01" txd="gf_hedge1" flags="2" lodDistance="100"></definition>
+    <definition id="gf_northisland2" zone="islands" col="gf_northisland2" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_mainisland3a_01" zone="islands" col="gf_mainisland3a_01" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_mainisland2a_01" zone="islands" col="gf_mainisland2a_01" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_mainisland1a_01" zone="islands" col="gf_mainisland1a_01" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_mainisl2b_01" zone="islands" col="gf_mainisl2b_01" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_mainisland1b_01" zone="islands" col="gf_mainisland1b_01" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_northisland3" zone="islands" col="gf_northisland3" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_mainisland6b_01" zone="islands" col="gf_mainisland6b_01" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_clubhouse1" zone="islands" col="gf_clubhouse1" txd="golf_clubhouse1" flags="7" lodDistance="100"></definition>
+    <definition id="gf_picket1_01" zone="islands" col="gf_picket1_01" txd="golf_clubhouse2" flags="2,7" lodDistance="100"></definition>
+    <definition id="gf_clublight1_01" zone="islands" col="gf_clublight1_01" txd="golf_clubhouse1" flags="7" lodDistance="100"></definition>
+    <definition id="gf_stadlight1_02" zone="islands" col="gf_stadlight1_02" txd="golf_clubhouse2" flags="2,7" lodDistance="100"></definition>
+    <definition id="gf_planters4" zone="islands" col="gf_planters4" txd="GenericVC" flags="7" lodDistance="100"></definition>
+    <definition id="LODnorthisland2" zone="islands" col="LODnorthisland2" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="gf_treesfw1_01" zone="islands" col="gf_treesfw1_01" txd="GenericVC" flags="2,8" lodDistance="750"></definition>
+    <definition id="gf_treesfw2_01" zone="islands" col="gf_treesfw2_01" txd="GenericVC" flags="2,8" lodDistance="750"></definition>
+    <definition id="gf_treesfw3_01" zone="islands" col="gf_treesfw3_01" txd="GenericVC" flags="2,8" lodDistance="750"></definition>
+    <definition id="gf_treesfw4_01" zone="islands" col="gf_treesfw4_01" txd="GenericVC" flags="2,8" lodDistance="750"></definition>
+    <definition id="gf_treesfw5_01" zone="islands" col="gf_treesfw5_01" txd="GenericVC" flags="2,8" lodDistance="750"></definition>
+    <definition id="LODsmallisland1_01" zone="islands" col="LODsmallisland1_01" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODnorthisland3" zone="islands" col="LODnorthisland3" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="gf_mainisland6a_01" zone="islands" col="gf_mainisland6a_01" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="LODclubhouse1" zone="islands" col="LODclubhouse1" txd="gf_LOD" flags="7,8" lodDistance="700"></definition>
+    <definition id="LODdrivingrange1" zone="islands" col="LODdrivingrange1" txd="gf_LOD" flags="7,8" lodDistance="600"></definition>
+    <definition id="LODnorthbridge1" zone="islands" col="LODnorthbridge1" txd="gf_LOD" flags="7,8" lodDistance="700"></definition>
+    <definition id="LODwoodbridge1" zone="islands" col="LODwoodbridge1" txd="gf_LOD" flags="7,8" lodDistance="600"></definition>
+    <definition id="LODsmallislebridge1" zone="islands" col="LODsmallislebridge1" txd="gf_LOD" flags="7,8" lodDistance="700"></definition>
+    <definition id="gf_mainisl4_01" zone="islands" col="gf_mainisl4_01" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_water01" zone="islands" col="gf_water01" txd="gfwater" flags="2,7" lodDistance="200"></definition>
+    <definition id="gf_water02" zone="islands" col="gf_water02" txd="gfwater" flags="2,7" lodDistance="200"></definition>
+    <definition id="gf_water03" zone="islands" col="gf_water03" txd="gfwater" flags="2,7" lodDistance="200"></definition>
+    <definition id="nt_security1" zone="islands" col="nt_security1" txd="golf_clubhouse1" flags="7" lodDistance="100"></definition>
+    <definition id="gf_pedbridge3" zone="islands" col="gf_pedbridge3" txd="golf_bridge" flags="" lodDistance="200"></definition>
+    <definition id="LODpedbridge3" zone="islands" col="LODpedbridge3" txd="gf_LOD" flags="7,8" lodDistance="700"></definition>
+    <definition id="golfroad5" zone="islands" col="golfroad5" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="golfroad3" zone="islands" col="golfroad3" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="golfroad4" zone="islands" col="golfroad4" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="golfroad1" zone="islands" col="golfroad1" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="golfroad7" zone="islands" col="golfroad7" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="golfroad2" zone="islands" col="golfroad2" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="LODmainisl2b_01" zone="islands" col="LODmainisl2b_01" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODmainisland3a_01" zone="islands" col="LODmainisland3a_01" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODmainisland3b_01" zone="islands" col="LODmainisland3b_01" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODmainisland1a_01" zone="islands" col="LODmainisland1a_01" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODmainisl4_01" zone="islands" col="LODmainisl4_01" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODmainisland1b_01" zone="islands" col="LODmainisland1b_01" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODmainisland6a_01" zone="islands" col="LODmainisland6a_01" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODmainisland6b_01" zone="islands" col="LODmainisland6b_01" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODmainisl5_01" zone="islands" col="LODmainisl5_01" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODmainisland2a_01" zone="islands" col="LODmainisland2a_01" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODfroad2" zone="islands" col="LODfroad2" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODfroad1" zone="islands" col="LODfroad1" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODfroad4" zone="islands" col="LODfroad4" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODfroad3" zone="islands" col="LODfroad3" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LODfroad5" zone="islands" col="LODfroad5" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="nbt_road12_gf" zone="islands" col="nbt_road12_gf" txd="GenericVC" flags="" lodDistance="164"></definition>
+    <definition id="gf_rollerjump" zone="islands" col="gf_rollerjump" txd="golf_clubhouse1" flags="7" lodDistance="100"></definition>
+    <definition id="gf_mainisland3b_01" zone="islands" col="gf_mainisland3b_01" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_golfwall" zone="islands" col="gf_golfwall" txd="gf_hedge1" flags="2" lodDistance="100"></definition>
+    <definition id="golf_gatesopen" zone="islands" col="golf_gatesopen" txd="gf_hedge1" flags="2" lodDistance="100"></definition>
+    <definition id="LODcland13_gf" zone="islands" col="LODcland13_gf" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="LOD_road12_gf" zone="islands" col="LOD_road12_gf" txd="gf_LOD" flags="7,8" lodDistance="1000"></definition>
+    <definition id="gf_northisland1b" zone="islands" col="gf_northisland1b" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_northisland1c" zone="islands" col="gf_northisland1c" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_mainisland1m_01" zone="islands" col="gf_mainisland1m_01" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_mainisland6n_01" zone="islands" col="gf_mainisland6n_01" txd="golf3" flags="" lodDistance="200"></definition>
+    <definition id="gf_woodbridge1_01" zone="islands" col="gf_woodbridge1_01" txd="golf3" flags="" lodDistance="100"></definition>
+    <definition id="gf_hedge6_01" zone="islands" col="gf_hedge6_01" txd="gf_hedge1" flags="2" lodDistance="100"></definition>
+    <definition id="gf_hedge4_01" zone="islands" col="gf_hedge4_01" txd="gf_hedge1" flags="2" lodDistance="100"></definition>
+    <definition id="nbecland13_gf" zone="islands" col="nbecland13_gf" txd="gf_nbtecland" flags="8" lodDistance="164"></definition>
+    <definition id="gf_signPlane01" zone="islands" col="gf_signPlane01" txd="gf_roadblock" flags="7" lodDistance="100"></definition>
+    <definition id="LODgolfwall" zone="islands" col="LODgolfwall" txd="gf_LOD" flags="7,8" lodDistance="700"></definition>
+    <definition id="gf_flagstees42" zone="islands" col="gf_flagstees42" txd="gfflag" flags="7" lodDistance="150"></definition>
+    <definition id="gf_flagstees43" zone="islands" col="gf_flagstees43" txd="gfflag" flags="7" lodDistance="150"></definition>
+    <definition id="Roosbridge_dt" zone="islands" col="Roosbridge_dt" txd="bwidge" flags="" lodDistance="100" timeIn="5" timeOut="21"></definition>
+    <definition id="RoosbrgeStartf_dt" zone="islands" col="RoosbrgeStartf_dt" txd="bwidge" flags="" lodDistance="100" timeIn="5" timeOut="21"></definition>
+    <definition id="Roosbridge1_dt" zone="islands" col="Roosbridge1_dt" txd="bwidge" flags="" lodDistance="100" timeIn="5" timeOut="21"></definition>
+    <definition id="Roosbridge2_dt" zone="islands" col="Roosbridge2_dt" txd="bwidge" flags="" lodDistance="100" timeIn="5" timeOut="21"></definition>
+    <definition id="Roosbridge3_dt" zone="islands" col="Roosbridge3_dt" txd="bwidge" flags="" lodDistance="100" timeIn="5" timeOut="21"></definition>
+    <definition id="Roosbridge4_dt" zone="islands" col="Roosbridge4_dt" txd="bwidge" flags="" lodDistance="100" timeIn="5" timeOut="21"></definition>
+    <definition id="Roosbridge5_dt" zone="islands" col="Roosbridge5_dt" txd="bwidge" flags="" lodDistance="100" timeIn="5" timeOut="21"></definition>
+    <definition id="Roosbridge6_dt" zone="islands" col="Roosbridge6_dt" txd="bwidge" flags="" lodDistance="100" timeIn="5" timeOut="21"></definition>
+    <definition id="Roosbridge07_dt" zone="islands" col="Roosbridge07_dt" txd="bwidge" flags="" lodDistance="100" timeIn="5" timeOut="21"></definition>
+    <definition id="LODsbridge6_dt" zone="islands" col="LODsbridge6_dt" txd="LODbridge" flags="" lodDistance="3000" timeIn="5" timeOut="21"></definition>
+    <definition id="LODsbridge3_dt" zone="islands" col="LODsbridge3_dt" txd="LODbridge" flags="" lodDistance="3000" timeIn="5" timeOut="21"></definition>
+    <definition id="LODsbridge2_dt" zone="islands" col="LODsbridge2_dt" txd="LODbridge" flags="" lodDistance="3000" timeIn="5" timeOut="21"></definition>
+    <definition id="LODsbridge1_dt" zone="islands" col="LODsbridge1_dt" txd="LODbridge" flags="" lodDistance="3000" timeIn="5" timeOut="21"></definition>
+    <definition id="LODsbridge4_dt" zone="islands" col="LODsbridge4_dt" txd="LODbridge" flags="" lodDistance="3000" timeIn="5" timeOut="21"></definition>
+    <definition id="LODsbridge5_dt" zone="islands" col="LODsbridge5_dt" txd="LODbridge" flags="" lodDistance="3000" timeIn="5" timeOut="21"></definition>
+    <definition id="LODsbridge07_dt" zone="islands" col="LODsbridge07_dt" txd="LODbridge" flags="" lodDistance="3000" timeIn="5" timeOut="21"></definition>
+    <definition id="LODsbrgeStartf_dt" zone="islands" col="LODsbrgeStartf_dt" txd="LODbridge" flags="" lodDistance="3000" timeIn="5" timeOut="21"></definition>
+    <definition id="Roosbridge_nt" zone="islands" col="Roosbridge_nt" txd="bwidge" flags="" lodDistance="100" timeIn="21" timeOut="5"></definition>
+    <definition id="RoosbrgeStartf_nt" zone="islands" col="RoosbrgeStartf_nt" txd="bwidge" flags="" lodDistance="100" timeIn="21" timeOut="5"></definition>
+    <definition id="Roosbridge1_nt" zone="islands" col="Roosbridge1_nt" txd="bwidge" flags="" lodDistance="100" timeIn="21" timeOut="5"></definition>
+    <definition id="Roosbridge2_nt" zone="islands" col="Roosbridge2_nt" txd="bwidge" flags="" lodDistance="100" timeIn="21" timeOut="5"></definition>
+    <definition id="Roosbridge3_nt" zone="islands" col="Roosbridge3_nt" txd="bwidge" flags="" lodDistance="100" timeIn="21" timeOut="5"></definition>
+    <definition id="Roosbridge4_nt" zone="islands" col="Roosbridge4_nt" txd="bwidge" flags="" lodDistance="100" timeIn="21" timeOut="5"></definition>
+    <definition id="Roosbridge5_nt" zone="islands" col="Roosbridge5_nt" txd="bwidge" flags="" lodDistance="100" timeIn="21" timeOut="5"></definition>
+    <definition id="Roosbridge6_nt" zone="islands" col="Roosbridge6_nt" txd="bwidge" flags="" lodDistance="100" timeIn="21" timeOut="5"></definition>
+    <definition id="Roosbridge07_nt" zone="islands" col="Roosbridge07_nt" txd="bwidge" flags="" lodDistance="100" timeIn="21" timeOut="5"></definition>
+    <definition id="LODsbridge6_nt" zone="islands" col="LODsbridge6_nt" txd="LODbridge" flags="" lodDistance="3000" timeIn="21" timeOut="5"></definition>
+    <definition id="LODsbridge3_nt" zone="islands" col="LODsbridge3_nt" txd="LODbridge" flags="" lodDistance="3000" timeIn="21" timeOut="5"></definition>
+    <definition id="LODsbridge2_nt" zone="islands" col="LODsbridge2_nt" txd="LODbridge" flags="" lodDistance="3000" timeIn="21" timeOut="5"></definition>
+    <definition id="LODsbridge1_nt" zone="islands" col="LODsbridge1_nt" txd="LODbridge" flags="" lodDistance="3000" timeIn="21" timeOut="5"></definition>
+    <definition id="LODsbridge_nt" zone="islands" col="LODsbridge_nt" txd="LODbridge" flags="" lodDistance="3000" timeIn="21" timeOut="5"></definition>
+    <definition id="LODsbridge4_nt" zone="islands" col="LODsbridge4_nt" txd="LODbridge" flags="" lodDistance="3000" timeIn="21" timeOut="5"></definition>
+    <definition id="LODsbridge5_nt" zone="islands" col="LODsbridge5_nt" txd="LODbridge" flags="" lodDistance="3000" timeIn="21" timeOut="5"></definition>
+    <definition id="LODsbridge07_nt" zone="islands" col="LODsbridge07_nt" txd="LODbridge" flags="" lodDistance="3000" timeIn="21" timeOut="5"></definition>
+    <definition id="LODsbrgeStartf_nt" zone="islands" col="LODsbrgeStartf_nt" txd="LODbridge" flags="" lodDistance="3000" timeIn="21" timeOut="5"></definition>
+    <definition id="RoosbrgeStart_r_dt" zone="islands" col="RoosbrgeStart_r_dt" txd="bwidge" flags="" lodDistance="100" timeIn="5" timeOut="21"></definition>
+    <definition id="RoosbrgeStart_r_nt" zone="islands" col="RoosbrgeStart_r_nt" txd="bwidge" flags="" lodDistance="100" timeIn="21" timeOut="5"></definition>
+    <definition id="LODsbrgeStart_r_nt" zone="islands" col="LODsbrgeStart_r_nt" txd="LODbridge" flags="" lodDistance="3000" timeIn="21" timeOut="5"></definition>
+    <definition id="LODsbrgeStart_r_dt" zone="islands" col="LODsbrgeStart_r_dt" txd="LODbridge" flags="" lodDistance="3000" timeIn="5" timeOut="21"></definition>
+</zoneDefinitions>

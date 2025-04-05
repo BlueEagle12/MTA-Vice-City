@@ -1,83 +1,63 @@
 <zoneDefinitions>
-    <definition id="man_pool_shado1" zone="mansion" dff="man_pool_shado1" col="man_pool_shado1" txd="man_pool_shado" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
-    <definition id="man_safenewdr" zone="mansion" dff="man_safenewdr" col="man_safenewdr" txd="hi_cutsafe" alphaTransparency="nil" lod="nil" lodDistance="40"></definition>
-    <definition id="man_maze" zone="mansion" dff="man_maze" col="man_maze" txd="man_veg_ext" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="mans_merge09" zone="mansion" dff="mans_merge09" col="mans_merge09" txd="manf" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_hallway2" zone="mansion" dff="man_hallway2" col="man_hallway2" txd="man_hall_2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_wtrftr_1a" zone="mansion" dff="man_wtrftr_1a" col="man_wtrftr_1a" txd="man_wtr_ftr" alphaTransparency="nil" lod="true" lodID="man_wtrftr_1a" lodDistance="100"></definition>
-    <definition id="man_build04_fnce" zone="mansion" dff="man_build04_fnce" col="man_build04_fnce" txd="mansion_new" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_sdr_lamps" zone="mansion" dff="man_sdr_lamps" col="man_sdr_lamps" txd="hi_cutsdrm_2" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="mans_merge03" zone="mansion" dff="mans_merge03" col="mans_merge03" txd="star1b" alphaTransparency="nil" lod="nil" lodDistance="130"></definition>
-    <definition id="man_f_chandelier" zone="mansion" dff="man_f_chandelier" col="man_f_chandelier" txd="starmansionst" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_sdr_folge" zone="mansion" dff="man_sdr_folge" col="man_sdr_folge" txd="hi_cutsdrm_3" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_frntstepGD" zone="mansion" dff="man_frntstepGD" col="man_frntstepGD" txd="man_grnds_kb" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_build05" zone="mansion" dff="man_build05" col="man_build05" txd="mansion_new" alphaTransparency="nil" lod="true" lodID="man_build05" lodDistance="100"></definition>
-    <definition id="man_frntstep" zone="mansion" dff="man_frntstep" col="man_frntstep" txd="man_grnds_kb" alphaTransparency="nil" lod="true" lodID="man_frntstep" lodDistance="100"></definition>
-    <definition id="man_chandeliers" zone="mansion" dff="man_chandeliers" col="man_chandeliers" txd="starmansionst" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_grnd5" zone="mansion" dff="man_grnd5" col="man_grnd5" txd="man_grnds_kb" alphaTransparency="nil" lod="true" lodID="man_grnd5" lodDistance="100"></definition>
-    <definition id="man_build04" zone="mansion" dff="man_build04" col="man_build04" txd="mansion_new" alphaTransparency="nil" lod="true" lodID="man_build04" lodDistance="100"></definition>
-    <definition id="man_build02" zone="mansion" dff="man_build02" col="man_build02" txd="mansion_new" alphaTransparency="nil" lod="true" lodID="man_build02" lodDistance="100"></definition>
-    <definition id="man_hall_ref" zone="mansion" dff="man_hall_ref" col="man_hall_ref" txd="man_hall" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="man_xchandeliers" zone="mansion" dff="man_xchandeliers" col="man_xchandeliers" txd="starmansionst" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_scar_props206" zone="mansion" dff="man_scar_props206" col="man_scar_props206" txd="starmansionst" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_backside2" zone="mansion" dff="man_backside2" col="man_backside2" txd="man_grnds_kb" alphaTransparency="nil" lod="true" lodID="man_backside2" lodDistance="90"></definition>
-    <definition id="man_twr_stairsB" zone="mansion" dff="man_twr_stairsB" col="man_twr_stairsB" txd="man_twr" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_scrface_walls" zone="mansion" dff="man_scrface_walls" col="man_scrface_walls" txd="man_scarface" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_grnd6" zone="mansion" dff="man_grnd6" col="man_grnd6" txd="man_grnds_kb" alphaTransparency="nil" lod="true" lodID="man_grnd6" lodDistance="100"></definition>
-    <definition id="man_build02_al" zone="mansion" dff="man_build02_al" col="man_build02_al" txd="mansion_new" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_scrfashado" zone="mansion" dff="man_scrfashado" col="man_scrfashado" txd="hi_cutmanshad" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
-    <definition id="man_lights_pool" zone="mansion" dff="man_lights_pool" col="man_lights_pool" txd="man_props" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
-    <definition id="man_couch02" zone="mansion" dff="man_couch02" col="man_couch02" txd="starmansionst" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_scar_curtains" zone="mansion" dff="man_scar_curtains" col="man_scar_curtains" txd="starmansionst" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_hedge1" zone="mansion" dff="man_hedge1" col="man_hedge1" txd="man_veg_ext" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_dooropen" zone="mansion" dff="man_dooropen" col="man_dooropen" txd="mannewdoors" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_sdr_paintin" zone="mansion" dff="man_sdr_paintin" col="man_sdr_paintin" txd="hi_cutsdrm_2" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_wtrftr_wtr1" zone="mansion" dff="man_wtrftr_wtr1" col="man_wtrftr_wtr1" txd="man_wtr_ftr" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="man_twr_stairs" zone="mansion" dff="man_twr_stairs" col="man_twr_stairs" txd="man_twr" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="many_polys" zone="mansion" dff="many_polys" col="many_polys" txd="man_grnds_kb" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_hallway1" zone="mansion" dff="man_hallway1" col="man_hallway1" txd="man_hall_2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_sdr_tabls" zone="mansion" dff="man_sdr_tabls" col="man_sdr_tabls" txd="hi_cutsdrm_2" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_scrfce_chstrset" zone="mansion" dff="man_scrfce_chstrset" col="man_scrfce_chstrset" txd="starmansionst" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_monitor_base" zone="mansion" dff="man_monitor_base" col="man_monitor_base" txd="man_props" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_build03_al" zone="mansion" dff="man_build03_al" col="man_build03_al" txd="mansion_new" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_tablkb1" zone="mansion" dff="man_tablkb1" col="man_tablkb1" txd="starmansionst" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_cellar1" zone="mansion" dff="man_cellar1" col="man_cellar1" txd="man_cellar" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="man_build03" zone="mansion" dff="man_build03" col="man_build03" txd="mansion_new" alphaTransparency="nil" lod="true" lodID="man_build03" lodDistance="100"></definition>
-    <definition id="man_pool" zone="mansion" dff="man_pool" col="man_pool" txd="man_pool2" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="man_backside" zone="mansion" dff="man_backside" col="man_backside" txd="man_grnds_kb" alphaTransparency="nil" lod="true" lodID="man_backside" lodDistance="90"></definition>
-    <definition id="man_scar_propv" zone="mansion" dff="man_scar_propv" col="man_scar_propv" txd="starmansionst" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_sidrm_shad" zone="mansion" dff="man_sidrm_shad" col="man_sidrm_shad" txd="hi_cutrshad" alphaTransparency="true" lod="nil" lodDistance="50"></definition>
-    <definition id="man_build01_al" zone="mansion" dff="man_build01_al" col="man_build01_al" txd="mansion_new" alphaTransparency="nil" lod="nil" lodDistance="110"></definition>
-    <definition id="man_wtr_fill" zone="mansion" dff="man_wtr_fill" col="man_wtr_fill" txd="manbackside" alphaTransparency="nil" lod="nil" lodDistance="60"></definition>
-    <definition id="man_wtrftr_3a" zone="mansion" dff="man_wtrftr_3a" col="man_wtrftr_3a" txd="man_wtr_ftr" alphaTransparency="nil" lod="nil" lodDistance="170"></definition>
-    <definition id="man_build05_al" zone="mansion" dff="man_build05_al" col="man_build05_al" txd="mansion_new" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="drive_flowers06" zone="mansion" dff="drive_flowers06" col="drive_flowers06" txd="manf" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_grnd2" zone="mansion" dff="man_grnd2" col="man_grnd2" txd="man_grnds_kb" alphaTransparency="nil" lod="true" lodID="man_grnd2" lodDistance="150"></definition>
-    <definition id="man_hall_pillars" zone="mansion" dff="man_hall_pillars" col="man_hall_pillars" txd="man_hall" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="stargatedetail" zone="mansion" dff="stargatedetail" col="stargatedetail" txd="star1b" alphaTransparency="nil" lod="nil" lodDistance="130"></definition>
-    <definition id="man_safenewmny" zone="mansion" dff="man_safenewmny" col="man_safenewmny" txd="hi_cutsafe" alphaTransparency="nil" lod="nil" lodDistance="40"></definition>
-    <definition id="many_polys2" zone="mansion" dff="many_polys2" col="many_polys2" txd="man_grnds_kb" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_pool_water" zone="mansion" dff="man_pool_water" col="man_pool_water" txd="man_pool1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_cellar2" zone="mansion" dff="man_cellar2" col="man_cellar2" txd="man_cellar" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="mn_treesisl05" zone="mansion" dff="mn_treesisl05" col="mn_treesisl05" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="scar_winglass" zone="mansion" dff="scar_winglass" col="scar_winglass" txd="man_scarface" alphaTransparency="true" lod="nil" lodDistance="50"></definition>
-    <definition id="mans_merge07" zone="mansion" dff="mans_merge07" col="mans_merge07" txd="star1b" alphaTransparency="nil" lod="nil" lodDistance="130"></definition>
-    <definition id="man_hall_floor" zone="mansion" dff="man_hall_floor" col="man_hall_floor" txd="man_hall" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="man_grnd3" zone="mansion" dff="man_grnd3" col="man_grnd3" txd="man_grnds_kb" alphaTransparency="nil" lod="true" lodID="man_grnd3" lodDistance="160"></definition>
-    <definition id="Frame1" zone="mansion" dff="Frame1" col="Frame1" txd="mansion_details2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="man_sdr_props" zone="mansion" dff="man_sdr_props" col="man_sdr_props" txd="hi_cutsdrm_1" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_sdr_seating" zone="mansion" dff="man_sdr_seating" col="man_sdr_seating" txd="hi_cutsdrm_3" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="mansbushes2" zone="mansion" dff="mansbushes2" col="mansbushes2" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="man_sdr_tvstf" zone="mansion" dff="man_sdr_tvstf" col="man_sdr_tvstf" txd="hi_cutsdrm_2" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_wtrftr_2" zone="mansion" dff="man_wtrftr_2" col="man_wtrftr_2" txd="man_wtr_ftr" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="man_scrfce_floor1" zone="mansion" dff="man_scrfce_floor1" col="man_scrfce_floor1" txd="man_scarface" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="mna_table_scrfce" zone="mansion" dff="mna_table_scrfce" col="mna_table_scrfce" txd="starmansionst" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_sdr_strctur" zone="mansion" dff="man_sdr_strctur" col="man_sdr_strctur" txd="hi_cutsdrm_1" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="man_build01" zone="mansion" dff="man_build01" col="man_build01" txd="mansion_new" alphaTransparency="nil" lod="true" lodID="man_build01" lodDistance="110"></definition>
-    <definition id="mansbushes" zone="mansion" dff="mansbushes" col="mansbushes" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="man_hall_wall1" zone="mansion" dff="man_hall_wall1" col="man_hall_wall1" txd="man_hall" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="manmrgbuild1" zone="mansion" dff="manmrgbuild1" col="manmrgbuild1" txd="star1b" alphaTransparency="nil" lod="true" lodID="manmrgbuild1" lodDistance="100"></definition>
-    <definition id="manmrgbase1" zone="mansion" dff="manmrgbase1" col="manmrgbase1" txd="star1b" alphaTransparency="nil" lod="true" lodID="manmrgbase1" lodDistance="130"></definition>
-    <definition id="manmrgbuild2" zone="mansion" dff="manmrgbuild2" col="manmrgbuild2" txd="star1b" alphaTransparency="nil" lod="true" lodID="manmrgbuild2" lodDistance="130"></definition>
-    <definition id="man_grnd4" zone="mansion" dff="man_grnd4" col="man_grnd4" txd="man_grnds_kb" alphaTransparency="nil" lod="true" lodID="man_grnd4" lodDistance="125"></definition>
+    <definition id="man_cellar1" zone="mansion" col="man_cellar1" txd="man_cellar" flags="5" lodDistance="90"></definition>
+    <definition id="man_cellar2" zone="mansion" col="man_cellar2" txd="man_cellar" flags="5" lodDistance="90"></definition>
+    <definition id="man_lights_pool" zone="mansion" col="man_lights_pool" txd="man_props" flags="5" lodDistance="60"></definition>
+    <definition id="man_pool" zone="mansion" col="man_pool" txd="man_pool2" flags="5" lodDistance="90"></definition>
+    <definition id="man_pool_shado1" zone="mansion" col="man_pool_shado1" txd="man_pool_shado" flags="2,5,6" lodDistance="100"></definition>
+    <definition id="man_pool_water" zone="mansion" col="man_pool_water" txd="man_pool1" flags="2,5" lodDistance="100"></definition>
+    <definition id="man_wtrftr_wtr1" zone="mansion" col="man_wtrftr_wtr1" txd="man_wtr_ftr" flags="2,5" lodDistance="90"></definition>
+    <definition id="man_wtrftr_2" zone="mansion" col="man_wtrftr_2" txd="man_wtr_ftr" flags="2,5" lodDistance="90"></definition>
+    <definition id="man_wtrftr_3a" zone="mansion" col="man_wtrftr_3a" txd="man_wtr_ftr" flags="2,7" lodDistance="170"></definition>
+    <definition id="many_polys" zone="mansion" col="many_polys" txd="man_grnds_kb" flags="" lodDistance="100"></definition>
+    <definition id="man_wtr_fill" zone="mansion" col="man_wtr_fill" txd="manbackside" flags="" lodDistance="60"></definition>
+    <definition id="mn_treesisl05" zone="mansion" col="mn_treesisl05" txd="GenericVC" flags="2" lodDistance="299"></definition>
+    <definition id="mansbushes" zone="mansion" col="mansbushes" txd="GenericVC" flags="2" lodDistance="200"></definition>
+    <definition id="LOD_grnd5" zone="mansion" col="LOD_grnd5" txd="lod_man_grnds" flags="8" lodDistance="1000"></definition>
+    <definition id="LOD_grnd6" zone="mansion" col="LOD_grnd6" txd="lod_man_grnds" flags="8" lodDistance="1000"></definition>
+    <definition id="LOD_grnd4" zone="mansion" col="LOD_grnd4" txd="lod_man_grnds" flags="8" lodDistance="1000"></definition>
+    <definition id="LOD_grnd3" zone="mansion" col="LOD_grnd3" txd="lod_man_grnds" flags="8" lodDistance="1000"></definition>
+    <definition id="man_frntstep" zone="mansion" col="man_frntstep" txd="man_grnds_kb" flags="7" lodDistance="100"></definition>
+    <definition id="man_wtrftr_2a" zone="mansion" col="man_wtrftr_2a" txd="man_wtr_ftr" flags="2,7" lodDistance="170"></definition>
+    <definition id="man_hedge1" zone="mansion" col="man_hedge1" txd="man_veg_ext" flags="" lodDistance="100"></definition>
+    <definition id="man_grnd5" zone="mansion" col="man_grnd5" txd="man_grnds_kb" flags="" lodDistance="100"></definition>
+    <definition id="man_grnd4" zone="mansion" col="man_grnd4" txd="man_grnds_kb" flags="" lodDistance="125"></definition>
+    <definition id="man_wtrftr_1a" zone="mansion" col="man_wtrftr_1a" txd="man_wtr_ftr" flags="2,5" lodDistance="100"></definition>
+    <definition id="man_maze" zone="mansion" col="man_maze" txd="man_veg_ext" flags="" lodDistance="200"></definition>
+    <definition id="man_grnd6" zone="mansion" col="man_grnd6" txd="man_grnds_kb" flags="" lodDistance="100"></definition>
+    <definition id="man_grnd3" zone="mansion" col="man_grnd3" txd="man_grnds_kb" flags="" lodDistance="160"></definition>
+    <definition id="lod_backside" zone="mansion" col="lod_backside" txd="lod_man_grnds" flags="8" lodDistance="1000"></definition>
+    <definition id="lod_frntstep" zone="mansion" col="lod_frntstep" txd="lod_man_grnds" flags="8" lodDistance="700"></definition>
+    <definition id="lod_build02" zone="mansion" col="lod_build02" txd="lod_man_grnds" flags="8" lodDistance="1000"></definition>
+    <definition id="lod_build01" zone="mansion" col="lod_build01" txd="lod_man_grnds" flags="8" lodDistance="1000"></definition>
+    <definition id="lod_build05" zone="mansion" col="lod_build05" txd="lod_man_grnds" flags="8" lodDistance="1000"></definition>
+    <definition id="lod_build03" zone="mansion" col="lod_build03" txd="lod_man_grnds" flags="8" lodDistance="1000"></definition>
+    <definition id="lod_build04" zone="mansion" col="lod_build04" txd="lod_man_grnds" flags="8" lodDistance="1000"></definition>
+    <definition id="man_build04" zone="mansion" col="man_build04" txd="mansion_new" flags="21" lodDistance="130"></definition>
+    <definition id="man_build01" zone="mansion" col="man_build01" txd="mansion_new" flags="" lodDistance="140"></definition>
+    <definition id="man_build02" zone="mansion" col="man_build02" txd="mansion_new" flags="21" lodDistance="130"></definition>
+    <definition id="man_build03" zone="mansion" col="man_build03" txd="mansion_new" flags="7,21" lodDistance="130"></definition>
+    <definition id="man_build05" zone="mansion" col="man_build05" txd="mansion_new" flags="21" lodDistance="130"></definition>
+    <definition id="man_build04_fnce" zone="mansion" col="man_build04_fnce" txd="mansion_new" flags="2" lodDistance="100"></definition>
+    <definition id="mansbushes2" zone="mansion" col="mansbushes2" txd="GenericVC" flags="2" lodDistance="200"></definition>
+    <definition id="man_backside" zone="mansion" col="man_backside" txd="man_grnds_kb" flags="7" lodDistance="90"></definition>
+    <definition id="many_polys2" zone="mansion" col="many_polys2" txd="man_grnds_kb" flags="" lodDistance="100"></definition>
+    <definition id="man_backside2" zone="mansion" col="man_backside2" txd="man_grnds_kb" flags="7" lodDistance="90"></definition>
+    <definition id="man_frntstepGD" zone="mansion" col="man_frntstepGD" txd="man_grnds_kb" flags="11" lodDistance="100"></definition>
+    <definition id="manmrgbuild2" zone="mansion" col="manmrgbuild2" txd="star1b" flags="7" lodDistance="130"></definition>
+    <definition id="mans_merge03" zone="mansion" col="mans_merge03" txd="star1b" flags="2" lodDistance="130"></definition>
+    <definition id="manmrgbase1" zone="mansion" col="manmrgbase1" txd="star1b" flags="" lodDistance="130"></definition>
+    <definition id="LODmrgbase1" zone="mansion" col="LODmrgbase1" txd="lod_man_grnds" flags="8" lodDistance="1000"></definition>
+    <definition id="LODmrgbuild2" zone="mansion" col="LODmrgbuild2" txd="lod_man_grnds" flags="8" lodDistance="700"></definition>
+    <definition id="LODmrgbuild1" zone="mansion" col="LODmrgbuild1" txd="lod_man_grnds" flags="8" lodDistance="700"></definition>
+    <definition id="manmrgbuild1" zone="mansion" col="manmrgbuild1" txd="star1b" flags="7" lodDistance="100"></definition>
+    <definition id="LODmrgtrees4" zone="mansion" col="LODmrgtrees4" txd="GenericVC" flags="8" lodDistance="800"></definition>
+    <definition id="mans_merge07" zone="mansion" col="mans_merge07" txd="star1b" flags="" lodDistance="130"></definition>
+    <definition id="mans_merge09" zone="mansion" col="mans_merge09" txd="manf" flags="2" lodDistance="100"></definition>
+    <definition id="stargatedetail" zone="mansion" col="stargatedetail" txd="star1b" flags="" lodDistance="130"></definition>
+    <definition id="man_grnd2" zone="mansion" col="man_grnd2" txd="man_grnds_kb" flags="" lodDistance="150"></definition>
+    <definition id="lod_wtrftr_1a" zone="mansion" col="lod_wtrftr_1a" txd="lod_man_grnds" flags="8" lodDistance="1000"></definition>
+    <definition id="man_build03_al" zone="mansion" col="man_build03_al" txd="mansion_new" flags="2,7" lodDistance="100"></definition>
+    <definition id="man_build02_al" zone="mansion" col="man_build02_al" txd="mansion_new" flags="2" lodDistance="100"></definition>
+    <definition id="man_build01_al" zone="mansion" col="man_build01_al" txd="mansion_new" flags="2" lodDistance="110"></definition>
+    <definition id="man_build05_al" zone="mansion" col="man_build05_al" txd="mansion_new" flags="2" lodDistance="100"></definition>
 </zoneDefinitions>

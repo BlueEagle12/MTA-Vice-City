@@ -1,125 +1,146 @@
 <zoneDefinitions>
-    <definition id="ci_dirtcorn1" zone="cisland" dff="ci_dirtcorn1" col="ci_dirtcorn1" txd="ci_dirtcorn" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="props_group1" zone="cisland" dff="props_group1" col="props_group1" txd="ci_studio5" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_graf_mansion3" zone="cisland" dff="ci_graf_mansion3" col="ci_graf_mansion3" txd="ci_mansion1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_trees04" zone="cisland" dff="ci_trees04" col="ci_trees04" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_busht_04" zone="cisland" dff="ci_busht_04" col="ci_busht_04" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="ci_mansion1" zone="cisland" dff="ci_mansion1" col="ci_mansion1" txd="ci_mansion1" alphaTransparency="nil" lod="true" lodID="ci_mansion1" lodDistance="140"></definition>
-    <definition id="ci_mans1istfl" zone="cisland" dff="ci_mans1istfl" col="ci_mans1istfl" txd="ci_mansionint1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_backlot2" zone="cisland" dff="ci_backlot2" col="ci_backlot2" txd="ci_backlot" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="ci_backdrop" zone="cisland" dff="ci_backdrop" col="ci_backdrop" txd="ci_island1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_astudiogantry" zone="cisland" dff="ci_astudiogantry" col="ci_astudiogantry" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_boards1" zone="cisland" dff="ci_boards1" col="ci_boards1" txd="ci_mansion2" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_mans1stair2" zone="cisland" dff="ci_mans1stair2" col="ci_mans1stair2" txd="ci_mansionint1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_cstageint" zone="cisland" dff="ci_cstageint" col="ci_cstageint" txd="ci_setstuff1" alphaTransparency="nil" lod="true" lodID="ci_cstageint" lodDistance="100"></definition>
-    <definition id="ci_mansion3ballust" zone="cisland" dff="ci_mansion3ballust" col="ci_mansion3ballust" txd="ci_ballust" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_posters" zone="cisland" dff="ci_posters" col="ci_posters" txd="ci_posters" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="prop_group2" zone="cisland" dff="prop_group2" col="prop_group2" txd="ci_studio5" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_graf_mansion1" zone="cisland" dff="ci_graf_mansion1" col="ci_graf_mansion1" txd="ci_mansion1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="nt_ladder_02" zone="cisland" dff="nt_ladder_02" col="nt_ladder_02" txd="ci_setstuff4" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_gobo1" zone="cisland" dff="ci_gobo1" col="ci_gobo1" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_mans1grafint" zone="cisland" dff="ci_mans1grafint" col="ci_mans1grafint" txd="ci_mansionint1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_busht_08" zone="cisland" dff="ci_busht_08" col="ci_busht_08" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="ci_studiowall" zone="cisland" dff="ci_studiowall" col="ci_studiowall" txd="ci_studionew1" alphaTransparency="nil" lod="true" lodID="ci_studiowall" lodDistance="200"></definition>
-    <definition id="ci_alights1_01" zone="cisland" dff="ci_alights1_01" col="ci_alights1_01" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_offices" zone="cisland" dff="ci_offices" col="ci_offices" txd="ci_studio6" alphaTransparency="nil" lod="true" lodID="ci_offices" lodDistance="90"></definition>
-    <definition id="ci_poolhouse" zone="cisland" dff="ci_poolhouse" col="ci_poolhouse" txd="ci_island3" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_flatprop01" zone="cisland" dff="ci_flatprop01" col="ci_flatprop01" txd="ci_pornset" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_mans1roof" zone="cisland" dff="ci_mans1roof" col="ci_mans1roof" txd="ci_mansionint1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_cstage" zone="cisland" dff="ci_cstage" col="ci_cstage" txd="ci_studio2" alphaTransparency="nil" lod="true" lodID="ci_cstage" lodDistance="90"></definition>
-    <definition id="ci_planter1" zone="cisland" dff="ci_planter1" col="ci_planter1" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="55"></definition>
-    <definition id="ci_mans1stair1" zone="cisland" dff="ci_mans1stair1" col="ci_mans1stair1" txd="ci_mansionint1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_pornocarpet" zone="cisland" dff="ci_pornocarpet" col="ci_pornocarpet" txd="ci_pornset" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_stairsout01" zone="cisland" dff="ci_stairsout01" col="ci_stairsout01" txd="ci_studionew1" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="ci_dirtcorn3" zone="cisland" dff="ci_dirtcorn3" col="ci_dirtcorn3" txd="ci_dirtcorn" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_trees02" zone="cisland" dff="ci_trees02" col="ci_trees02" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="ci_officewindows" zone="cisland" dff="ci_officewindows" col="ci_officewindows" txd="ci_studio6" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_moonsurface" zone="cisland" dff="ci_moonsurface" col="ci_moonsurface" txd="ci_island1" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="ci_pornobed" zone="cisland" dff="ci_pornobed" col="ci_pornobed" txd="ci_pornset" alphaTransparency="nil" lod="nil" lodDistance="20"></definition>
-    <definition id="ci_clightdesk" zone="cisland" dff="ci_clightdesk" col="ci_clightdesk" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_fence2" zone="cisland" dff="ci_fence2" col="ci_fence2" txd="ci_island1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_astagelight1" zone="cisland" dff="ci_astagelight1" col="ci_astagelight1" txd="ci_shadnit" alphaTransparency="nil" lod="nil" lodDistance="90" timeIn="21" timeOut="5"></definition>
-    <definition id="ci_rdsigns" zone="cisland" dff="ci_rdsigns" col="ci_rdsigns" txd="ci_island1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_mans1grndfl" zone="cisland" dff="ci_mans1grndfl" col="ci_mans1grndfl" txd="ci_mansionint1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_backlotprops2" zone="cisland" dff="ci_backlotprops2" col="ci_backlotprops2" txd="ci_pornset" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="ci_graf_fountain" zone="cisland" dff="ci_graf_fountain" col="ci_graf_fountain" txd="ci_mansion1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="nt_ladder_01" zone="cisland" dff="nt_ladder_01" col="nt_ladder_01" txd="ci_setstuff4" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_table1_01" zone="cisland" dff="ci_table1_01" col="ci_table1_01" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_mans1rail1" zone="cisland" dff="ci_mans1rail1" col="ci_mans1rail1" txd="ci_mansionint1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_screening" zone="cisland" dff="ci_screening" col="ci_screening" txd="ci_studio6" alphaTransparency="nil" lod="true" lodID="ci_screening" lodDistance="90"></definition>
-    <definition id="ci_dstageext" zone="cisland" dff="ci_dstageext" col="ci_dstageext" txd="ci_studio3" alphaTransparency="nil" lod="true" lodID="ci_dstageext" lodDistance="90"></definition>
-    <definition id="ci_palettes" zone="cisland" dff="ci_palettes" col="ci_palettes" txd="ci_mansion1" alphaTransparency="nil" lod="nil" lodDistance="15"></definition>
-    <definition id="ci_screening2" zone="cisland" dff="ci_screening2" col="ci_screening2" txd="ci_studio6" alphaTransparency="nil" lod="true" lodID="ci_screening2" lodDistance="90"></definition>
-    <definition id="ci_backlotprops1" zone="cisland" dff="ci_backlotprops1" col="ci_backlotprops1" txd="ci_pornset" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="ci_mansion2" zone="cisland" dff="ci_mansion2" col="ci_mansion2" txd="ci_mansion1" alphaTransparency="nil" lod="true" lodID="ci_mansion2" lodDistance="140"></definition>
-    <definition id="ci_manscourt" zone="cisland" dff="ci_manscourt" col="ci_manscourt" txd="ci_island3" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_rdsigns01" zone="cisland" dff="ci_rdsigns01" col="ci_rdsigns01" txd="ci_island1" alphaTransparency="nil" lod="nil" lodDistance="75"></definition>
-    <definition id="ci_lights1_01" zone="cisland" dff="ci_lights1_01" col="ci_lights1_01" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_setshad1" zone="cisland" dff="ci_setshad1" col="ci_setshad1" txd="ci_setstuff2" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
-    <definition id="ci_astagelight2" zone="cisland" dff="ci_astagelight2" col="ci_astagelight2" txd="ci_shadnit" alphaTransparency="nil" lod="nil" lodDistance="90" timeIn="21" timeOut="5"></definition>
-    <definition id="ci_planter2" zone="cisland" dff="ci_planter2" col="ci_planter2" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="55"></definition>
-    <definition id="ci_bstudganwal" zone="cisland" dff="ci_bstudganwal" col="ci_bstudganwal" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_dstageshad" zone="cisland" dff="ci_dstageshad" col="ci_dstageshad" txd="ci_shadcay" alphaTransparency="true" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_busht_02" zone="cisland" dff="ci_busht_02" col="ci_busht_02" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="ci_screeningstairs" zone="cisland" dff="ci_screeningstairs" col="ci_screeningstairs" txd="ci_studio6" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_lander" zone="cisland" dff="ci_lander" col="ci_lander" txd="ci_island1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_Acyclorama" zone="cisland" dff="ci_Acyclorama" col="ci_Acyclorama" txd="ci_island1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_backlot1" zone="cisland" dff="ci_backlot1" col="ci_backlot1" txd="ci_backlot" alphaTransparency="nil" lod="true" lodID="ci_backlot1" lodDistance="150"></definition>
-    <definition id="ci_windmach" zone="cisland" dff="ci_windmach" col="ci_windmach" txd="ci_studio5" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_gateway" zone="cisland" dff="ci_gateway" col="ci_gateway" txd="ci_island1" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="ci_astagelights" zone="cisland" dff="ci_astagelights" col="ci_astagelights" txd="ci_setstuff4" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_backlot3" zone="cisland" dff="ci_backlot3" col="ci_backlot3" txd="ci_backlot" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="ci_trees03" zone="cisland" dff="ci_trees03" col="ci_trees03" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="ci_Asteps" zone="cisland" dff="ci_Asteps" col="ci_Asteps" txd="ci_setstuff4" alphaTransparency="nil" lod="true" lodID="ci_Asteps" lodDistance="35"></definition>
-    <definition id="ci_lights1_02" zone="cisland" dff="ci_lights1_02" col="ci_lights1_02" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_dstagelight" zone="cisland" dff="ci_dstagelight" col="ci_dstagelight" txd="ci_shadnit" alphaTransparency="nil" lod="nil" lodDistance="45" timeIn="21" timeOut="5"></definition>
-    <definition id="ci_mans2rail1" zone="cisland" dff="ci_mans2rail1" col="ci_mans2rail1" txd="ci_mansrails" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_windmach2" zone="cisland" dff="ci_windmach2" col="ci_windmach2" txd="ci_studio5" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_redhead1_01" zone="cisland" dff="ci_redhead1_01" col="ci_redhead1_01" txd="ci_redhead" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_spaceflag" zone="cisland" dff="ci_spaceflag" col="ci_spaceflag" txd="ci_island1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_astageint" zone="cisland" dff="ci_astageint" col="ci_astageint" txd="ci_studio2" alphaTransparency="nil" lod="true" lodID="ci_astageint" lodDistance="90"></definition>
-    <definition id="ci_pornset1" zone="cisland" dff="ci_pornset1" col="ci_pornset1" txd="ci_pornset" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_dstudiogantry" zone="cisland" dff="ci_dstudiogantry" col="ci_dstudiogantry" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_notice03" zone="cisland" dff="ci_notice03" col="ci_notice03" txd="ci_filmstuff1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_islandwest" zone="cisland" dff="ci_islandwest" col="ci_islandwest" txd="ci_studionew1" alphaTransparency="nil" lod="true" lodID="ci_islandwest" lodDistance="200"></definition>
-    <definition id="ci_dstudlights" zone="cisland" dff="ci_dstudlights" col="ci_dstudlights" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_bstudiogantry" zone="cisland" dff="ci_bstudiogantry" col="ci_bstudiogantry" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_kerb1" zone="cisland" dff="ci_kerb1" col="ci_kerb1" txd="ci_studionew1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_trees1" zone="cisland" dff="ci_trees1" col="ci_trees1" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="ci_blights1_01" zone="cisland" dff="ci_blights1_01" col="ci_blights1_01" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_busht_06" zone="cisland" dff="ci_busht_06" col="ci_busht_06" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="ci_islandnorth" zone="cisland" dff="ci_islandnorth" col="ci_islandnorth" txd="ci_studionew1" alphaTransparency="nil" lod="true" lodID="ci_islandnorth" lodDistance="200"></definition>
-    <definition id="ci_trees05" zone="cisland" dff="ci_trees05" col="ci_trees05" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="ci_jawsramp1" zone="cisland" dff="ci_jawsramp1" col="ci_jawsramp1" txd="ci_studio3" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_backlotprops3" zone="cisland" dff="ci_backlotprops3" col="ci_backlotprops3" txd="ci_pornset" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="ci_astudganwal" zone="cisland" dff="ci_astudganwal" col="ci_astudganwal" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_mans1int" zone="cisland" dff="ci_mans1int" col="ci_mans1int" txd="ci_mansionint1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_mans1rail" zone="cisland" dff="ci_mans1rail" col="ci_mans1rail" txd="ci_mansrails" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_dstage" zone="cisland" dff="ci_dstage" col="ci_dstage" txd="ci_studio3" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="ci_flatprop02" zone="cisland" dff="ci_flatprop02" col="ci_flatprop02" txd="ci_pornset" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_busht_11" zone="cisland" dff="ci_busht_11" col="ci_busht_11" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="80"></definition>
-    <definition id="ci_mansionwall1" zone="cisland" dff="ci_mansionwall1" col="ci_mansionwall1" txd="ci_island1" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="ci_fountain" zone="cisland" dff="ci_fountain" col="ci_fountain" txd="ci_mansion1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_dirtcorn4" zone="cisland" dff="ci_dirtcorn4" col="ci_dirtcorn4" txd="ci_dirtcorn" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_islandeast" zone="cisland" dff="ci_islandeast" col="ci_islandeast" txd="ci_studionew1" alphaTransparency="nil" lod="true" lodID="ci_islandeast" lodDistance="200"></definition>
-    <definition id="ci_bstudlights" zone="cisland" dff="ci_bstudlights" col="ci_bstudlights" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_bstageint" zone="cisland" dff="ci_bstageint" col="ci_bstageint" txd="ci_island1" alphaTransparency="nil" lod="true" lodID="ci_bstageint" lodDistance="100"></definition>
-    <definition id="ci_poolsteps" zone="cisland" dff="ci_poolsteps" col="ci_poolsteps" txd="ci_island3" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="prop_group3" zone="cisland" dff="prop_group3" col="prop_group3" txd="ci_studio5" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_mansion3" zone="cisland" dff="ci_mansion3" col="ci_mansion3" txd="ci_mansion1" alphaTransparency="nil" lod="true" lodID="ci_mansion3" lodDistance="140"></definition>
-    <definition id="ci_pornsetxtra" zone="cisland" dff="ci_pornsetxtra" col="ci_pornsetxtra" txd="ci_pornset" alphaTransparency="nil" lod="nil" lodDistance="20"></definition>
-    <definition id="ci_tankship" zone="cisland" dff="ci_tankship" col="ci_tankship" txd="ci_studio5" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_astudlights" zone="cisland" dff="ci_astudlights" col="ci_astudlights" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_dstudganwal" zone="cisland" dff="ci_dstudganwal" col="ci_dstudganwal" txd="ci_setstuff1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_poolwall1" zone="cisland" dff="ci_poolwall1" col="ci_poolwall1" txd="ci_island3" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_shipset" zone="cisland" dff="ci_shipset" col="ci_shipset" txd="ci_setstuff4" alphaTransparency="nil" lod="nil" lodDistance="70"></definition>
-    <definition id="ci_boards2" zone="cisland" dff="ci_boards2" col="ci_boards2" txd="ci_mansion2" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_dirtcorn2" zone="cisland" dff="ci_dirtcorn2" col="ci_dirtcorn2" txd="ci_dirtcorn" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_bcyclorama1" zone="cisland" dff="ci_bcyclorama1" col="ci_bcyclorama1" txd="ci_island1" alphaTransparency="nil" lod="nil" lodDistance="35"></definition>
-    <definition id="ci_industrial1" zone="cisland" dff="ci_industrial1" col="ci_industrial1" txd="ci_industrial" alphaTransparency="nil" lod="true" lodID="ci_industrial1" lodDistance="199"></definition>
-    <definition id="ci_extertank" zone="cisland" dff="ci_extertank" col="ci_extertank" txd="ci_island1" alphaTransparency="nil" lod="true" lodID="ci_extertank" lodDistance="90"></definition>
-    <definition id="ci_manintstuff" zone="cisland" dff="ci_manintstuff" col="ci_manintstuff" txd="ci_mansion1" alphaTransparency="nil" lod="nil" lodDistance="15"></definition>
-    <definition id="ci_camera1_01" zone="cisland" dff="ci_camera1_01" col="ci_camera1_01" txd="ci_filmstuff1" alphaTransparency="nil" lod="nil" lodDistance="45"></definition>
-    <definition id="ci_seajetty" zone="cisland" dff="ci_seajetty" col="ci_seajetty" txd="ci_studio2" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ci_studwallgraf" zone="cisland" dff="ci_studwallgraf" col="ci_studwallgraf" txd="ci_mansion1" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
+    <definition id="ci_islandwest" zone="cisland" col="ci_islandwest" txd="ci_studionew1" flags="" lodDistance="200"></definition>
+    <definition id="ci_studiowall" zone="cisland" col="ci_studiowall" txd="ci_studionew1" flags="" lodDistance="200"></definition>
+    <definition id="ci_mansionwall1" zone="cisland" col="ci_mansionwall1" txd="ci_island1" flags="7" lodDistance="200"></definition>
+    <definition id="ci_screening" zone="cisland" col="ci_screening" txd="ci_studio6" flags="7" lodDistance="90"></definition>
+    <definition id="ci_screeningstairs" zone="cisland" col="ci_screeningstairs" txd="ci_studio6" flags="7" lodDistance="90"></definition>
+    <definition id="ci_offices" zone="cisland" col="ci_offices" txd="ci_studio6" flags="7" lodDistance="90"></definition>
+    <definition id="ci_gateway" zone="cisland" col="ci_gateway" txd="ci_island1" flags="7" lodDistance="200"></definition>
+    <definition id="ci_backdrop" zone="cisland" col="ci_backdrop" txd="ci_island1" flags="7" lodDistance="90"></definition>
+    <definition id="ci_industrial1" zone="cisland" col="ci_industrial1" txd="ci_industrial" flags="" lodDistance="199"></definition>
+    <definition id="ci_screening2" zone="cisland" col="ci_screening2" txd="ci_studio6" flags="7" lodDistance="90"></definition>
+    <definition id="ci_kerb1" zone="cisland" col="ci_kerb1" txd="ci_studionew1" flags="7" lodDistance="90"></definition>
+    <definition id="ci_fence2" zone="cisland" col="ci_fence2" txd="ci_island1" flags="7" lodDistance="90"></definition>
+    <definition id="ci_trees1" zone="cisland" col="ci_trees1" txd="GenericVC" flags="2,7" lodDistance="200"></definition>
+    <definition id="ci_planter2" zone="cisland" col="ci_planter2" txd="GenericVC" flags="2,7" lodDistance="55"></definition>
+    <definition id="ci_planter1" zone="cisland" col="ci_planter1" txd="GenericVC" flags="2,7" lodDistance="55"></definition>
+    <definition id="ci_backgateopen" zone="cisland" col="ci_backgateopen" txd="ci_studio4" flags="7" lodDistance="90"></definition>
+    <definition id="ci_trees02" zone="cisland" col="ci_trees02" txd="GenericVC" flags="2,7" lodDistance="200"></definition>
+    <definition id="ci_islandeast" zone="cisland" col="ci_islandeast" txd="ci_studionew1" flags="" lodDistance="200"></definition>
+    <definition id="ci_busht_02" zone="cisland" col="ci_busht_02" txd="GenericVC" flags="2,7" lodDistance="80"></definition>
+    <definition id="ci_trees03" zone="cisland" col="ci_trees03" txd="GenericVC" flags="2,7" lodDistance="200"></definition>
+    <definition id="ci_busht_04" zone="cisland" col="ci_busht_04" txd="GenericVC" flags="2,7" lodDistance="80"></definition>
+    <definition id="ci_busht_06" zone="cisland" col="ci_busht_06" txd="GenericVC" flags="2,7" lodDistance="80"></definition>
+    <definition id="ci_islandnorth" zone="cisland" col="ci_islandnorth" txd="ci_studionew1" flags="" lodDistance="200"></definition>
+    <definition id="ci_graf_mansion3" zone="cisland" col="ci_graf_mansion3" txd="ci_mansion1" flags="2,7" lodDistance="45"></definition>
+    <definition id="ci_graf_mansion1" zone="cisland" col="ci_graf_mansion1" txd="ci_mansion1" flags="2,7" lodDistance="45"></definition>
+    <definition id="ci_posters" zone="cisland" col="ci_posters" txd="ci_posters" flags="2,7" lodDistance="90"></definition>
+    <definition id="ci_studwallgraf" zone="cisland" col="ci_studwallgraf" txd="ci_mansion1" flags="2,7" lodDistance="90"></definition>
+    <definition id="ci_busht_08" zone="cisland" col="ci_busht_08" txd="GenericVC" flags="2,7" lodDistance="150"></definition>
+    <definition id="ci_graf_fountain" zone="cisland" col="ci_graf_fountain" txd="ci_mansion1" flags="2,7" lodDistance="35"></definition>
+    <definition id="ci_boards1" zone="cisland" col="ci_boards1" txd="ci_mansion2" flags="7" lodDistance="45"></definition>
+    <definition id="ci_boards2" zone="cisland" col="ci_boards2" txd="ci_mansion2" flags="7" lodDistance="45"></definition>
+    <definition id="ci_trees04" zone="cisland" col="ci_trees04" txd="GenericVC" flags="2,7" lodDistance="90"></definition>
+    <definition id="ci_manscourt" zone="cisland" col="ci_manscourt" txd="ci_island3" flags="2,7" lodDistance="45"></definition>
+    <definition id="ci_poolhouse" zone="cisland" col="ci_poolhouse" txd="ci_island3" flags="2,7" lodDistance="45"></definition>
+    <definition id="ci_poolwall1" zone="cisland" col="ci_poolwall1" txd="ci_island3" flags="2,7" lodDistance="45"></definition>
+    <definition id="ci_poolsteps" zone="cisland" col="ci_poolsteps" txd="ci_island3" flags="2,7" lodDistance="45"></definition>
+    <definition id="ci_busht_11" zone="cisland" col="ci_busht_11" txd="GenericVC" flags="2,7" lodDistance="80"></definition>
+    <definition id="ci_trees05" zone="cisland" col="ci_trees05" txd="GenericVC" flags="2,7" lodDistance="200"></definition>
+    <definition id="ci_jawsramp1" zone="cisland" col="ci_jawsramp1" txd="ci_studio3" flags="7" lodDistance="45"></definition>
+    <definition id="ci_backlot3" zone="cisland" col="ci_backlot3" txd="ci_backlot" flags="7" lodDistance="150"></definition>
+    <definition id="ci_backlot2" zone="cisland" col="ci_backlot2" txd="ci_backlot" flags="7" lodDistance="150"></definition>
+    <definition id="ci_backlot1" zone="cisland" col="ci_backlot1" txd="ci_backlot" flags="7" lodDistance="150"></definition>
+    <definition id="ci_backlotprops3" zone="cisland" col="ci_backlotprops3" txd="ci_pornset" flags="7" lodDistance="150"></definition>
+    <definition id="ci_backlotprops2" zone="cisland" col="ci_backlotprops2" txd="ci_pornset" flags="7" lodDistance="150"></definition>
+    <definition id="ci_backlotprops1" zone="cisland" col="ci_backlotprops1" txd="ci_pornset" flags="7" lodDistance="150"></definition>
+    <definition id="ci_dstageext" zone="cisland" col="ci_dstageext" txd="ci_studio3" flags="7" lodDistance="90"></definition>
+    <definition id="ci_dirtcorn3" zone="cisland" col="ci_dirtcorn3" txd="ci_dirtcorn" flags="2,7" lodDistance="90"></definition>
+    <definition id="ci_dirtcorn4" zone="cisland" col="ci_dirtcorn4" txd="ci_dirtcorn" flags="2,7" lodDistance="90"></definition>
+    <definition id="ci_dirtcorn1" zone="cisland" col="ci_dirtcorn1" txd="ci_dirtcorn" flags="2,7" lodDistance="90"></definition>
+    <definition id="ci_mans1rail" zone="cisland" col="ci_mans1rail" txd="ci_mansrails" flags="2,7" lodDistance="45"></definition>
+    <definition id="LODislandeast" zone="cisland" col="LODislandeast" txd="ci_LOD" flags="7,8" lodDistance="900"></definition>
+    <definition id="LODscreening" zone="cisland" col="LODscreening" txd="ci_LOD" flags="7,8" lodDistance="680"></definition>
+    <definition id="LODislandnorth" zone="cisland" col="LODislandnorth" txd="ci_LOD" flags="7,8" lodDistance="900"></definition>
+    <definition id="LODcstage" zone="cisland" col="LODcstage" txd="ci_LOD" flags="7,8" lodDistance="680"></definition>
+    <definition id="LODdstageext" zone="cisland" col="LODdstageext" txd="ci_LOD" flags="7,8" lodDistance="680"></definition>
+    <definition id="LODstudiowall" zone="cisland" col="LODstudiowall" txd="ci_LOD" flags="7,8" lodDistance="900"></definition>
+    <definition id="LODbacklot1" zone="cisland" col="LODbacklot1" txd="ci_LOD" flags="7,8" lodDistance="720"></definition>
+    <definition id="LODbstage" zone="cisland" col="LODbstage" txd="ci_LOD" flags="7,8" lodDistance="680"></definition>
+    <definition id="LODmansion1" zone="cisland" col="LODmansion1" txd="ci_LOD" flags="7,8" lodDistance="680"></definition>
+    <definition id="LODmansion3" zone="cisland" col="LODmansion3" txd="ci_LOD" flags="7,8" lodDistance="680"></definition>
+    <definition id="LODoffices" zone="cisland" col="LODoffices" txd="ci_LOD" flags="7,8" lodDistance="680"></definition>
+    <definition id="LODscreening2" zone="cisland" col="LODscreening2" txd="ci_LOD" flags="7,8" lodDistance="680"></definition>
+    <definition id="ci_mans2rail1" zone="cisland" col="ci_mans2rail1" txd="ci_mansrails" flags="2,7" lodDistance="45"></definition>
+    <definition id="ci_mansion3ballust" zone="cisland" col="ci_mansion3ballust" txd="ci_ballust" flags="2,7" lodDistance="45"></definition>
+    <definition id="LODmansion2" zone="cisland" col="LODmansion2" txd="ci_LOD" flags="7,8" lodDistance="680"></definition>
+    <definition id="ci_dirtcorn2" zone="cisland" col="ci_dirtcorn2" txd="ci_dirtcorn" flags="2,7" lodDistance="90"></definition>
+    <definition id="ci_mans1grafint" zone="cisland" col="ci_mans1grafint" txd="ci_mansionint1" flags="2,5,7" lodDistance="45"></definition>
+    <definition id="ci_mans1int" zone="cisland" col="ci_mans1int" txd="ci_mansionint1" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_mans1stair1" zone="cisland" col="ci_mans1stair1" txd="ci_mansionint1" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_mans1grndfl" zone="cisland" col="ci_mans1grndfl" txd="ci_mansionint1" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_mans1istfl" zone="cisland" col="ci_mans1istfl" txd="ci_mansionint1" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_mans1stair2" zone="cisland" col="ci_mans1stair2" txd="ci_mansionint1" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_mans1rail1" zone="cisland" col="ci_mans1rail1" txd="ci_mansionint1" flags="2,5,7" lodDistance="45"></definition>
+    <definition id="ci_mans1roof" zone="cisland" col="ci_mans1roof" txd="ci_mansionint1" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_officewindows" zone="cisland" col="ci_officewindows" txd="ci_studio6" flags="2,7" lodDistance="90"></definition>
+    <definition id="ci_dstage" zone="cisland" col="ci_dstage" txd="ci_studio3" flags="5,7" lodDistance="100"></definition>
+    <definition id="ci_pornobed" zone="cisland" col="ci_pornobed" txd="ci_pornset" flags="5,7" lodDistance="20"></definition>
+    <definition id="ci_pornocarpet" zone="cisland" col="ci_pornocarpet" txd="ci_pornset" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_flatprop02" zone="cisland" col="ci_flatprop02" txd="ci_pornset" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_camera1_01" zone="cisland" col="ci_camera1_01" txd="ci_filmstuff1" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_dstageshad" zone="cisland" col="ci_dstageshad" txd="ci_shadcay" flags="2,5,7" lodDistance="45"></definition>
+    <definition id="ci_pornset1" zone="cisland" col="ci_pornset1" txd="ci_pornset" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_flatprop01" zone="cisland" col="ci_flatprop01" txd="ci_pornset" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_table1_01" zone="cisland" col="ci_table1_01" txd="ci_setstuff1" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_setshad1" zone="cisland" col="ci_setshad1" txd="ci_setstuff2" flags="2,5,7" lodDistance="100"></definition>
+    <definition id="ci_notice03" zone="cisland" col="ci_notice03" txd="ci_filmstuff1" flags="7" lodDistance="45"></definition>
+    <definition id="ci_lights1_01" zone="cisland" col="ci_lights1_01" txd="ci_setstuff1" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_dstudiogantry" zone="cisland" col="ci_dstudiogantry" txd="ci_setstuff1" flags="2,5,7" lodDistance="35"></definition>
+    <definition id="ci_dstudlights" zone="cisland" col="ci_dstudlights" txd="ci_setstuff1" flags="2,5,7" lodDistance="35"></definition>
+    <definition id="ci_lights1_02" zone="cisland" col="ci_lights1_02" txd="ci_setstuff1" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_dstudganwal" zone="cisland" col="ci_dstudganwal" txd="ci_setstuff1" flags="2,5,7" lodDistance="35"></definition>
+    <definition id="ci_cstage" zone="cisland" col="ci_cstage" txd="ci_studio2" flags="7" lodDistance="90"></definition>
+    <definition id="ci_cstageint" zone="cisland" col="ci_cstageint" txd="ci_setstuff1" flags="5,7" lodDistance="100"></definition>
+    <definition id="ci_Acyclorama" zone="cisland" col="ci_Acyclorama" txd="ci_island1" flags="5,7" lodDistance="35"></definition>
+    <definition id="ci_shipset" zone="cisland" col="ci_shipset" txd="ci_setstuff4" flags="5,7" lodDistance="70"></definition>
+    <definition id="ci_alights1_01" zone="cisland" col="ci_alights1_01" txd="ci_setstuff1" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_astudlights" zone="cisland" col="ci_astudlights" txd="ci_setstuff1" flags="5,7" lodDistance="35"></definition>
+    <definition id="ci_astudganwal" zone="cisland" col="ci_astudganwal" txd="ci_setstuff1" flags="2,5,7" lodDistance="35"></definition>
+    <definition id="ci_astagelights" zone="cisland" col="ci_astagelights" txd="ci_setstuff4" flags="2,5,7" lodDistance="35"></definition>
+    <definition id="nt_ladder_01" zone="cisland" col="nt_ladder_01" txd="ci_setstuff4" flags="5,7" lodDistance="35"></definition>
+    <definition id="nt_ladder_02" zone="cisland" col="nt_ladder_02" txd="ci_setstuff4" flags="5,7" lodDistance="35"></definition>
+    <definition id="ci_astageint" zone="cisland" col="ci_astageint" txd="ci_studio2" flags="5,7" lodDistance="90"></definition>
+    <definition id="ci_Asteps" zone="cisland" col="ci_Asteps" txd="ci_setstuff4" flags="5,7" lodDistance="35"></definition>
+    <definition id="ci_astudiogantry" zone="cisland" col="ci_astudiogantry" txd="ci_setstuff1" flags="5,7" lodDistance="35"></definition>
+    <definition id="ci_extertank" zone="cisland" col="ci_extertank" txd="ci_island1" flags="7" lodDistance="90"></definition>
+    <definition id="ci_bcyclorama1" zone="cisland" col="ci_bcyclorama1" txd="ci_island1" flags="5,7" lodDistance="35"></definition>
+    <definition id="ci_blights1_01" zone="cisland" col="ci_blights1_01" txd="ci_setstuff1" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_bstudiogantry" zone="cisland" col="ci_bstudiogantry" txd="ci_setstuff1" flags="2,5,7" lodDistance="35"></definition>
+    <definition id="ci_bstudlights" zone="cisland" col="ci_bstudlights" txd="ci_setstuff1" flags="2,5,7" lodDistance="35"></definition>
+    <definition id="ci_bstudganwal" zone="cisland" col="ci_bstudganwal" txd="ci_setstuff1" flags="2,5,7" lodDistance="35"></definition>
+    <definition id="ci_bstageint" zone="cisland" col="ci_bstageint" txd="ci_island1" flags="5,7" lodDistance="100"></definition>
+    <definition id="ci_moonsurface" zone="cisland" col="ci_moonsurface" txd="ci_island1" flags="7" lodDistance="100"></definition>
+    <definition id="ci_spaceflag" zone="cisland" col="ci_spaceflag" txd="ci_island1" flags="2,5,7" lodDistance="35"></definition>
+    <definition id="ci_lander" zone="cisland" col="ci_lander" txd="ci_island1" flags="5,7" lodDistance="35"></definition>
+    <definition id="ci_windmach" zone="cisland" col="ci_windmach" txd="ci_studio5" flags="7" lodDistance="90"></definition>
+    <definition id="LODextertank" zone="cisland" col="LODextertank" txd="ci_LOD" flags="7,8" lodDistance="900"></definition>
+    <definition id="ci_fountain" zone="cisland" col="ci_fountain" txd="ci_mansion1" flags="7" lodDistance="90"></definition>
+    <definition id="props_group1" zone="cisland" col="props_group1" txd="ci_studio5" flags="2,7" lodDistance="90"></definition>
+    <definition id="prop_group3" zone="cisland" col="prop_group3" txd="ci_studio5" flags="7" lodDistance="90"></definition>
+    <definition id="prop_group2" zone="cisland" col="prop_group2" txd="ci_studio5" flags="7" lodDistance="90"></definition>
+    <definition id="ci_manintstuff" zone="cisland" col="ci_manintstuff" txd="ci_mansion1" flags="2,7" lodDistance="15"></definition>
+    <definition id="ci_gatesopen" zone="cisland" col="ci_gatesopen" txd="ci_studio4" flags="2,7" lodDistance="90"></definition>
+    <definition id="LODindustrial1" zone="cisland" col="LODindustrial1" txd="ci_LOD" flags="7,8" lodDistance="720"></definition>
+    <definition id="ci_mansion1" zone="cisland" col="ci_mansion1" txd="ci_mansion1" flags="7" lodDistance="140"></definition>
+    <definition id="ci_mansion2" zone="cisland" col="ci_mansion2" txd="ci_mansion1" flags="7" lodDistance="140"></definition>
+    <definition id="ci_mansion3" zone="cisland" col="ci_mansion3" txd="ci_mansion1" flags="7" lodDistance="140"></definition>
+    <definition id="ci_seajetty" zone="cisland" col="ci_seajetty" txd="ci_studio2" flags="7" lodDistance="90"></definition>
+    <definition id="ci_jetygatesopen" zone="cisland" col="ci_jetygatesopen" txd="ci_studio4" flags="2,7" lodDistance="90"></definition>
+    <definition id="ci_palettes" zone="cisland" col="ci_palettes" txd="ci_mansion1" flags="2,7" lodDistance="15"></definition>
+    <definition id="ci_gobo1" zone="cisland" col="ci_gobo1" txd="ci_setstuff1" flags="2,5,7" lodDistance="45"></definition>
+    <definition id="ci_pornsetxtra" zone="cisland" col="ci_pornsetxtra" txd="ci_pornset" flags="5,7" lodDistance="20"></definition>
+    <definition id="ci_stairsout01" zone="cisland" col="ci_stairsout01" txd="ci_studionew1" flags="2" lodDistance="200"></definition>
+    <definition id="ci_rdsigns" zone="cisland" col="ci_rdsigns" txd="ci_island1" flags="7" lodDistance="90"></definition>
+    <definition id="ci_rdsigns01" zone="cisland" col="ci_rdsigns01" txd="ci_island1" flags="7" lodDistance="75"></definition>
+    <definition id="ci_tankship" zone="cisland" col="ci_tankship" txd="ci_studio5" flags="7" lodDistance="90"></definition>
+    <definition id="ci_redhead1_01" zone="cisland" col="ci_redhead1_01" txd="ci_redhead" flags="7" lodDistance="90"></definition>
+    <definition id="ci_clightdesk" zone="cisland" col="ci_clightdesk" txd="ci_setstuff1" flags="5,7" lodDistance="45"></definition>
+    <definition id="ci_windmach2" zone="cisland" col="ci_windmach2" txd="ci_studio5" flags="2,7" lodDistance="90"></definition>
+    <definition id="LODbstageint" zone="cisland" col="LODbstageint" txd="ci_LOD" flags="7,8" lodDistance="400"></definition>
+    <definition id="LODcstageint" zone="cisland" col="LODcstageint" txd="ci_LOD" flags="7,8" lodDistance="400"></definition>
+    <definition id="LODastageint" zone="cisland" col="LODastageint" txd="ci_LOD" flags="7,8" lodDistance="400"></definition>
+    <definition id="ci_dstagelight" zone="cisland" col="ci_dstagelight" txd="ci_shadnit" flags="2,7" lodDistance="45" timeIn="21" timeOut="5"></definition>
+    <definition id="ci_astagelight1" zone="cisland" col="ci_astagelight1" txd="ci_shadnit" flags="2,7" lodDistance="90" timeIn="21" timeOut="5"></definition>
+    <definition id="ci_astagelight2" zone="cisland" col="ci_astagelight2" txd="ci_shadnit" flags="2,7" lodDistance="90" timeIn="21" timeOut="5"></definition>
 </zoneDefinitions>

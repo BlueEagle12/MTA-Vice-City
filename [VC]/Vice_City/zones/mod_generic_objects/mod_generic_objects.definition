@@ -1,0 +1,6 @@
+<zoneDefinitions>
+    <definition id="tag_united" zone="mod_generic_objects" col="tag_united" txd="tag_united" flags="2,20" lodDistance="299"></definition>
+    <definition id="bskballhub_notrig" zone="mod_generic_objects" col="bskballhub_notrig" txd="bskball_standext" flags="2" lodDistance="80"></definition>
+    <definition id="billbrd_frfll" zone="mod_generic_objects" col="billbrd_frfll" txd="billbrd_ap_add" flags="" lodDistance="100"></definition>
+    <definition id="billbrd_jacar" zone="mod_generic_objects" col="billbrd_jacar" txd="billbrd_ap_add" flags="" lodDistance="100"></definition>
+</zoneDefinitions>

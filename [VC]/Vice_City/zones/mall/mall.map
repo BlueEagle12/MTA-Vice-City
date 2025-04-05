@@ -1,155 +1,39 @@
 <map>
-    <object id="mlmallroof01" model="8585" posX="413.82556152344" posY="1126.6500244141" posZ="38.229141235352" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlmiamiland056" model="8585" posX="303.73602294922" posY="1216.3474121094" posZ="21.506000518799" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlmiamiland060" model="8585" posX="391.04461669922" posY="1081.6596679688" posZ="20.002868652344" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlmiamiland058" model="8585" posX="432.81201171875" posY="1214.8974609375" posZ="21.237426757813" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="newmallcp_02" model="8585" posX="322.23812866211" posY="1192.943359375" posZ="23.756782531738" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="newmallcp_03" model="8585" posX="322.23825073242" posY="1192.9436035156" posZ="18.654773712158" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="newmallcp_01" model="8585" posX="322.23840332031" posY="1206.1428222656" posZ="27.552982330322" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="newmallcp_04" model="8585" posX="362.23818969727" posY="1192.9431152344" posZ="25.161033630371" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="newmallcp_05" model="8585" posX="362.23818969727" posY="1192.9438476563" posZ="21.355430603027" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="nbnorthmallext1" model="8585" posX="414.04443359375" posY="1124.4384765625" posZ="23.935691833496" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="nbnorthmallext1_window" model="8585" posX="414.04443359375" posY="1124.4384765625" posZ="23.935691833496" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="mlnorthmall" model="8585" posX="397.08590698242" posY="1125.0950927734" posZ="24.441139221191" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlmallflag02" model="8585" posX="303.96826171875" posY="1260.2319335938" posZ="26.00412940979" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlmallflag12" model="8585" posX="347.15390014648" posY="1132.0875244141" posZ="25.183931350708" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlmallflag14" model="8585" posX="347.17736816406" posY="1024.0334472656" posZ="25.183929443359" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_glasslft" model="8585" posX="403.13064575195" posY="1228.0318603516" posZ="25.892297744751" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_water" model="8585" posX="413.93661499023" posY="1184.1157226563" posZ="18.557149887085" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_vegbits04" model="8585" posX="451.85147094727" posY="1063.6868896484" posZ="24.729646682739" rotX="359.5" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_borderswin02" model="8585" posX="369.91821289063" posY="1222.736328125" posZ="19.443546295166" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_bordersdoor" model="8585" posX="369.71041870117" posY="1219.580078125" posZ="19.255863189697" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_gapdoors" model="8585" posX="413.92739868164" posY="1040.7982177734" posZ="23.422016143799" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_jewelcounter" model="8585" posX="466.9186706543" posY="1205.0089111328" posZ="19.347248077393" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_water2" model="8585" posX="414.2458190918" posY="1056.5146484375" posZ="17.96745300293" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mloven02" model="8585" posX="444.26916503906" posY="1123.4603271484" posZ="19.707336425781" rotX="0" rotY="0" rotZ="180" interior="0" dimension="-1"></object>
-    <object id="mlobjects_n02" model="8585" posX="448.56790161133" posY="1227.2940673828" posZ="18.369491577148" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlobjects_n03" model="8585" posX="385.72671508789" posY="1220.5266113281" posZ="21.057350158691" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlobjects_n04" model="8585" posX="430.31741333008" posY="1163.1450195313" posZ="17.82054901123" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlobjects_s02" model="8585" posX="413.97869873047" posY="1051.7528076172" posZ="18.466505050659" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_tartable" model="8585" posX="463.41036987305" posY="999.72253417969" posZ="18.685384750366" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_tartable" model="8585" posX="466.07940673828" posY="1002.0924072266" posZ="18.685384750366" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_tartable" model="8585" posX="468.3708190918" posY="1004.4215698242" posZ="18.685384750366" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_tartable" model="8585" posX="463.94732666016" posY="1006.5902099609" posZ="18.736797332764" rotX="0" rotY="0" rotZ="321.5" interior="0" dimension="-1"></object>
-    <object id="ml_tartable" model="8585" posX="462.3346862793" posY="1004.6067504883" posZ="18.685384750366" rotX="0" rotY="0" rotZ="321.5" interior="0" dimension="-1"></object>
-    <object id="ml_tartable" model="8585" posX="460.17083740234" posY="1002.8139038086" posZ="18.685384750366" rotX="0" rotY="0" rotZ="321.5" interior="0" dimension="-1"></object>
-    <object id="ml_planterbed" model="8585" posX="396.93655395508" posY="1080.0069580078" posZ="18.336511611938" rotX="0" rotY="0" rotZ="270" interior="0" dimension="-1"></object>
-    <object id="ml_planterbed" model="8585" posX="397.60443115234" posY="1170.2960205078" posZ="18.227180480957" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_planterbed" model="8585" posX="430.32229614258" posY="1169.6768798828" posZ="18.297605514526" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlrecords" model="8585" posX="363.01318359375" posY="1102.6296386719" posZ="24.928918838501" rotX="0" rotY="0" rotZ="314.5" interior="0" dimension="-1"></object>
-    <object id="mlrecords" model="8585" posX="360.2424621582" posY="1105.3109130859" posZ="24.93762588501" rotX="0" rotY="0" rotZ="314.5" interior="0" dimension="-1"></object>
-    <object id="mlrecords" model="8585" posX="357.44781494141" posY="1108.1314697266" posZ="24.923049926758" rotX="0" rotY="0" rotZ="314.5" interior="0" dimension="-1"></object>
-    <object id="mlrecords" model="8585" posX="352.57794189453" posY="1117.4079589844" posZ="24.923049926758" rotX="0" rotY="0" rotZ="269.5" interior="0" dimension="-1"></object>
-    <object id="mlrecords" model="8585" posX="352.74749755859" posY="1120.9787597656" posZ="24.923049926758" rotX="0" rotY="0" rotZ="269.5" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="373.82150268555" posY="1107.4213867188" posZ="22.57642364502" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="379.28723144531" posY="1107.6450195313" posZ="22.576421737671" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="386.44741821289" posY="1113.4073486328" posZ="22.576421737671" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="378.85772705078" posY="1114.6550292969" posZ="22.57642364502" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="373.02117919922" posY="1113.4074707031" posZ="22.57642364502" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="371.18319702148" posY="1134.4437255859" posZ="22.568740844727" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="373.02117919922" posY="1140.4298095703" posZ="22.568740844727" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="379.28723144531" posY="1141.6772460938" posZ="22.568738937378" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="379.28723144531" posY="1134.6672363281" posZ="22.568738937378" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="387.00436401367" posY="1134.7332763672" posZ="22.568738937378" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="447.36001586914" posY="1105.9936523438" posZ="21.78931427002" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="452.82574462891" posY="1106.2172851563" posZ="21.78931427002" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="459.98593139648" posY="1111.9797363281" posZ="21.78931427002" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="452.3962097168" posY="1113.2271728516" posZ="21.78931427002" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="446.55969238281" posY="1111.9797363281" posZ="21.78931427002" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="444.72171020508" posY="1132.3256835938" posZ="21.843946456909" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="445.10696411133" posY="1138.3117675781" posZ="21.843946456909" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="452.82574462891" posY="1141.6772460938" posZ="21.843944549561" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="452.82574462891" posY="1134.6672363281" posZ="21.843944549561" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_fans" model="8585" posX="460.54287719727" posY="1134.7332763672" posZ="21.843944549561" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlngrnd" model="8585" posX="414.46505737305" posY="1047.7731933594" posZ="24.323455810547" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlgrndmidtop" model="8585" posX="443.6796875" posY="1123.5367431641" posZ="23.826553344727" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlgrounds" model="8585" posX="422.67977905273" posY="1202.6179199219" posZ="24.323455810547" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="mallint1" model="8585" posX="448.33618164063" posY="1226.7872314453" posZ="24.587566375732" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="mallint2" model="8585" posX="458.29962158203" posY="1178.3212890625" posZ="24.429122924805" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="mallint3" model="8585" posX="372.35778808594" posY="1176.7521972656" posZ="24.681144714355" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="mallint5" model="8585" posX="443.92294311523" posY="1123.4868164063" posZ="23.890083312988" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="mallint7" model="8585" posX="372.36798095703" posY="1075.5093994141" posZ="27.286310195923" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="mallint8" model="8585" posX="455.14422607422" posY="1075.2998046875" posZ="24.418754577637" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="mallint9" model="8585" posX="445.64056396484" posY="1026.2652587891" posZ="24.639465332031" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="ml_planterbed" model="8585" posX="430.67541503906" posY="1080.0069580078" posZ="18.068706512451" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlmallroof" model="8585" posX="413.82598876953" posY="1126.6500244141" posZ="-7.5708498954773" rotX="180.00012207031" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_jewelwinframe01" model="8585" posX="467.68002319336" posY="1211.5666503906" posZ="19.278936386108" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_doorstopl" model="8585" posX="379.92266845703" posY="1250.5334472656" posZ="19.762521743774" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_doorstopr" model="8585" posX="448.41326904297" posY="1249.9963378906" posZ="19.608833312988" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_doorscarp" model="8585" posX="369.73303222656" posY="1210.009765625" posZ="25.99059677124" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_doorsbotr" model="8585" posX="379.64596557617" posY="1002.1423339844" posZ="19.781175613403" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_doorsmidl" model="8585" posX="471.64880371094" posY="1123.4996337891" posZ="18.911350250244" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_doorsmidr" model="8585" posX="356.44006347656" posY="1124.7609863281" posZ="19.628238677979" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="malllights" model="8585" posX="437.02462768555" posY="1129.7983398438" posZ="22.621677398682" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mloven" model="8585" posX="383.33892822266" posY="1124.7130126953" posZ="20.050617218018" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlobjects_n" model="8585" posX="413.92431640625" posY="1157.6661376953" posZ="19.399631500244" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlmallbush" model="8585" posX="414.47677612305" posY="1075.3704833984" posZ="23.189998626709" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlNpoint02" model="8585" posX="379.2073059082" posY="1259.2579345703" posZ="21.348461151123" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlNpoint04" model="8585" posX="480.70516967773" posY="1124.3978271484" posZ="27.147092819214" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlNpoint06" model="8585" posX="449.75994873047" posY="993.26214599609" posZ="27.863458633423" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlmallplan02" model="8585" posX="380.11801147461" posY="1238.974609375" posZ="18.280723571777" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlmallplan04" model="8585" posX="429.96725463867" posY="1124.5036621094" posZ="17.439456939697" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlmallplan05" model="8585" posX="447.47393798828" posY="1016.412902832" posZ="18.040493011475" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlnorthmallrt" model="8585" posX="393.03833007813" posY="1025.2709960938" posZ="24.642301559448" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="mlnorthmalllft" model="8585" posX="399.82629394531" posY="1227.4530029297" posZ="24.741250991821" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_gap" model="8585" posX="414.169921875" posY="1029.5291748047" posZ="23.52172088623" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_record" model="8585" posX="359.33462524414" posY="1110.4592285156" posZ="25.699174880981" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_borders" model="8585" posX="368.58520507813" posY="1217.6668701172" posZ="19.459199905396" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_jewellers" model="8585" posX="466.9186706543" posY="1205.0089111328" posZ="19.806455612183" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_tarbrush" model="8585" posX="468.88198852539" posY="1006.6699829102" posZ="20.680999755859" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_cofcounter1" model="8585" posX="471.04141235352" posY="1009.6313476563" posZ="18.759174346924" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_record3" model="8585" posX="357.10385131836" posY="1113.5227050781" posZ="25.682729721069" rotX="0" rotY="0" rotZ="314.5" interior="0" dimension="-1"></object>
-    <object id="ml_borderswin01" model="8585" posX="369.91955566406" posY="1214.5179443359" posZ="19.463235855103" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_coffee_dsk" model="8585" posX="472.43850708008" posY="1014.2858886719" posZ="18.861780166626" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_hardware" model="8585" posX="365.21279907227" posY="1082.0130615234" posZ="20.419673919678" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_hardwarebits" model="8585" posX="363.34078979492" posY="1082.3063964844" posZ="20.168836593628" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mall_ammu" model="8585" posX="362.05334472656" posY="1058.5317382813" posZ="21.060712814331" rotX="0" rotY="0" rotZ="90" interior="0" dimension="-1"></object>
-    <object id="mall_ammuwin" model="8585" posX="372.57250976563" posY="1058.1994628906" posZ="20.228620529175" rotX="0" rotY="0" rotZ="90" interior="0" dimension="-1"></object>
-    <object id="ml_jewelwinframe02" model="8585" posX="457.59603881836" posY="1197.8791503906" posZ="19.278942108154" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_coffwinframe01" model="8585" posX="462.05987548828" posY="1006.5997314453" posZ="19.451288223267" rotX="0" rotY="0" rotZ="315" interior="0" dimension="-1"></object>
-    <object id="ml_coffwinframe02" model="8585" posX="462.05987548828" posY="1012.58984375" posZ="19.451288223267" rotX="0" rotY="0" rotZ="315" interior="0" dimension="-1"></object>
-    <object id="ml_vegbits05" model="8585" posX="413.66000366211" posY="1124.1688232422" posZ="24.968879699707" rotX="0" rotY="0" rotZ="358.5" interior="0" dimension="-1"></object>
-    <object id="ml_vegbits01" model="8585" posX="453.04061889648" posY="1195.4365234375" posZ="25.346466064453" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_vegbits02" model="8585" posX="376.22369384766" posY="1195.5777587891" posZ="25.465301513672" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_vegbits03" model="8585" posX="369.2783203125" posY="1058.8442382813" posZ="24.973403930664" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlobjects_n02" model="8585" posX="456.37155151367" posY="1123.7680664063" posZ="24.003517150879" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlobjects_n02" model="8585" posX="373.2805480957" posY="1124.7371826172" posZ="24.891983032227" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlobjects_n02" model="8585" posX="379.38150024414" posY="1025.6560058594" posZ="18.651895523071" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlobjects_n02" model="8585" posX="449.08465576172" posY="1025.6560058594" posZ="18.569250106812" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlobjects_n" model="8585" posX="413.73098754883" posY="1090.9521484375" posZ="19.399631500244" rotX="0" rotY="0" rotZ="225" interior="0" dimension="-1"></object>
-    <object id="malltreereflect2" model="8585" posX="415.09124755859" posY="1051.7546386719" posZ="-10.030828475952" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="malltreereflect" model="8585" posX="423.19366455078" posY="1198.0234375" posZ="-7.0438890457153" rotX="180" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallbushdense" model="8585" posX="413.8095703125" posY="1124.4575195313" posZ="-5.0466632843018" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallbushs" model="8585" posX="423.83181762695" posY="1198.8630371094" posZ="20.287872314453" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallint5up" model="8585" posX="443.80252075195" posY="1122.8868408203" posZ="13.203417778015" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlnorthmalltop" model="8585" posX="397.08599853516" posY="1124.5" posZ="11.241100311279" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlmiamiland060b" model="8585" posX="391.04461669922" posY="1081.6596679688" posZ="20.002868652344" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="midmallflorre" model="8585" posX="440.68634033203" posY="1123.8891601563" posZ="19.53540802002" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="midmallfloorw" model="8585" posX="378.35879516602" posY="1124.4429931641" posZ="20.125270843506" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="maidmalltopa" model="8585" posX="385.71786499023" posY="1124.7541503906" posZ="24.19898223877" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="ml_jewelglass" model="8585" posX="466.9186706543" posY="1205.0089111328" posZ="19.347248077393" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallint5up_b" model="8585" posX="443.80252075195" posY="1123.4868164063" posZ="26.50341796875" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1237.8062744141" posZ="3.217579126358" rotX="180" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1204.3214111328" posZ="3.217579126358" rotX="180" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1175.619140625" posZ="3.217579126358" rotX="180" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1148.6636962891" posZ="3.217579126358" rotX="180" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1101.5031738281" posZ="3.217579126358" rotX="180" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1074.8795166016" posZ="3.217579126358" rotX="180" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1049.2218017578" posZ="3.217579126358" rotX="180" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1015.6494140625" posZ="3.217579126358" rotX="180" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1049.2218017578" posZ="32.778831481934" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1101.5031738281" posZ="32.778831481934" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1148.6636962891" posZ="32.778831481934" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1204.3214111328" posZ="32.778831481934" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1175.619140625" posZ="32.778831481934" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallstrut" model="8585" posX="413.02798461914" posY="1074.8795166016" posZ="32.778831481934" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlngrnd" model="8585" posX="414.46505737305" posY="1047.7731933594" posZ="24.323455810547" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="ml_doorsbotl" model="8585" posX="448.57974243164" posY="1003.0306396484" posZ="19.781181335449" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="nmalloutside" model="8585" posX="414.4619140625" posY="1047.7922363281" posZ="24.323457717896" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="nmalloutside_window" model="8585" posX="414.4619140625" posY="1047.7922363281" posZ="24.323457717896" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="mlnorthmalllftex" model="8585" posX="422.67977905273" posY="1202.6179199219" posZ="24.323457717896" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlnorthmalllftex_window" model="8585" posX="422.67977905273" posY="1202.6179199219" posZ="24.323457717896" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1" doublesided="true"></object>
-    <object id="mlnorthmalltop" model="8585" posX="397.08590698242" posY="1125.0950927734" posZ="24.441139221191" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mallint5up" model="8585" posX="443.80252075195" posY="1123.4868164063" posZ="26.50341796875" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
-    <object id="mlmallroof" model="8585" posX="413.82556152344" posY="1126.6500244141" posZ="38.229148864746" rotX="0" rotY="0" rotZ="0" interior="0" dimension="-1"></object>
+    <building  id="LODlloutside" posX="2414.46" posY="97.79" posZ="18.8235" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="LODorthmalllftex" posX="2422.68" posY="252.635" posZ="18.8" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="LODiamiland056" posX="2303.74" posY="266.35" posZ="16.006" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="LODiamiland058" posX="2432.81" posY="264.9" posZ="15.7374" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="LODiamiland060" posX="2391.04" posY="131.66" posZ="14.5029" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="LODmallcp_01" posX="2322.24" posY="256.14" posZ="22.053" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="LODmallcp_02" posX="2322.24" posY="242.94" posZ="18.2568" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="LODmallcp_03" posX="2322.24" posY="242.94" posZ="13.1548" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="LODmallcp_04" posX="2362.24" posY="242.94" posZ="19.661" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="LODmallcp_05" posX="2362.24" posY="242.94" posZ="15.8554" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="LODallroof01" posX="2413.83" posY="176.65" posZ="32.7291" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="nbnorthmallext1" posX="2414.04" posY="174.44" posZ="18.4357" rotX="0" rotY="-0" rotZ="-0" lodParent="LODorthmallext1"></building>
+    <building  id="nmalloutside" posX="2414.46" posY="97.79" posZ="18.8235" rotX="0" rotY="-0" rotZ="-0" lodParent="LODlloutside"></building>
+    <building  id="mlnorthmalllftex" posX="2422.68" posY="252.635" posZ="18.8" rotX="0" rotY="-0" rotZ="-0" lodParent="LODorthmalllftex"></building>
+    <building  id="mlmiamiland056" posX="2303.74" posY="266.35" posZ="16.006" rotX="0" rotY="-0" rotZ="-0" lodParent="LODiamiland056"></building>
+    <building  id="mlmiamiland058" posX="2432.81" posY="264.9" posZ="15.7374" rotX="0" rotY="-0" rotZ="-0" lodParent="LODiamiland058"></building>
+    <building  id="mlmiamiland060" posX="2391.04" posY="131.66" posZ="14.5029" rotX="0" rotY="-0" rotZ="-0" lodParent="LODiamiland060"></building>
+    <building  id="newmallcp_01" posX="2322.24" posY="256.14" posZ="22.053" rotX="0" rotY="-0" rotZ="-0" lodParent="LODmallcp_01"></building>
+    <building  id="newmallcp_02" posX="2322.24" posY="242.94" posZ="18.2568" rotX="0" rotY="-0" rotZ="-0" lodParent="LODmallcp_02"></building>
+    <building  id="newmallcp_03" posX="2322.24" posY="242.94" posZ="13.1548" rotX="0" rotY="-0" rotZ="-0" lodParent="LODmallcp_03"></building>
+    <building  id="newmallcp_04" posX="2362.24" posY="242.94" posZ="19.661" rotX="0" rotY="-0" rotZ="-0" lodParent="LODmallcp_04"></building>
+    <building  id="newmallcp_05" posX="2362.24" posY="242.94" posZ="15.8554" rotX="0" rotY="-0" rotZ="-0" lodParent="LODmallcp_05"></building>
+    <building  id="mlmallroof01" posX="2413.83" posY="176.65" posZ="32.7291" rotX="0" rotY="-0" rotZ="-0" lodParent="LODallroof01"></building>
+    <building  id="mlmallflag02" posX="2303.97" posY="310.23" posZ="20.5041" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="mlmallflag12" posX="2347.15" posY="182.09" posZ="19.6839" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="mlmallflag14" posX="2347.18" posY="74.03" posZ="19.6839" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="mlNpoint02" posX="2379.21" posY="309.26" posZ="15.8485" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="mlNpoint04" posX="2480.71" posY="174.4" posZ="21.6471" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="mlNpoint06" posX="2449.76" posY="43.262" posZ="22.3635" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building  id="mlmiamiland060b" posX="2391.04" posY="131.66" posZ="14.5029" rotX="0" rotY="-0" rotZ="-0"></building>
+    <object  id="sl_dtdoor1" posX="2350.342" posY="174.591" posZ="11.84" rotX="0" rotY="-0" rotZ="-89.999923980324"></object>
+    <object  id="sl_dtdoor1" posX="2378.41" posY="45.179" posZ="11.818" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="sl_dtdoor1" posX="2449.19" posY="46.352" posZ="11.818" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object  id="sl_dtdoor1" posX="2477.72" posY="173.65" posZ="11.092" rotX="0" rotY="-0" rotZ="90.0002280593"></object>
+    <object  id="sl_dtdoor1" posX="2450.18" posY="305.958" posZ="11.851" rotX="0" rotY="-0" rotZ="-179.9998479605"></object>
+    <object  id="sl_dtdoor1" posX="2379.49" posY="306.614" posZ="11.976" rotX="0" rotY="-0" rotZ="-179.9998479605"></object>
+    <object  id="sl_dtdoor1" posX="2365.548" posY="260.615" posZ="18.706" rotX="0" rotY="-0" rotZ="-89.999923980324"></object>
 </map>

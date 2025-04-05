@@ -1,7 +1,0 @@
-<zoneDefinitions>
-    <definition id="stripback" zone="stripclb" dff="stripback" col="stripback" txd="stripback" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="striplights" zone="stripclb" dff="striplights" col="striplights" txd="striplights" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="stripinterupside" zone="stripclb" dff="stripinterupside" col="stripinterupside" txd="stripinter" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="stripinter" zone="stripclb" dff="stripinter" col="stripinter" txd="wshstripint" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="stripinterfloor" zone="stripclb" dff="stripinterfloor" col="stripinterfloor" txd="wshstripint" alphaTransparency="true" lod="nil" lodDistance="200"></definition>
-</zoneDefinitions>

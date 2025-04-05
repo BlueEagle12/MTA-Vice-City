@@ -1,67 +1,95 @@
 <zoneDefinitions>
-    <definition id="comgate1" zone="starisl" dff="comgate1" col="comgate1" txd="starroad" alphaTransparency="nil" lod="true" lodID="comgate1" lodDistance="150"></definition>
-    <definition id="Stglue06" zone="starisl" dff="Stglue06" col="Stglue06" txd="star2" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="Mansion2_C_fence" zone="starisl" dff="Mansion2_C_fence" col="Mansion2_C_fence" txd="star4" alphaTransparency="nil" lod="nil" lodDistance="350"></definition>
-    <definition id="Mansion2c" zone="starisl" dff="Mansion2c" col="Mansion2c" txd="star4" alphaTransparency="nil" lod="true" lodID="Mansion2c" lodDistance="250"></definition>
-    <definition id="Mansion1_A" zone="starisl" dff="Mansion1_A" col="Mansion1_A" txd="star1" alphaTransparency="nil" lod="true" lodID="Mansion1_A" lodDistance="100"></definition>
-    <definition id="Man1_baseHedge" zone="starisl" dff="Man1_baseHedge" col="Man1_baseHedge" txd="star1" alphaTransparency="nil" lod="nil" lodDistance="190"></definition>
-    <definition id="Mansion2_A" zone="starisl" dff="Mansion2_A" col="Mansion2_A" txd="stmansion" alphaTransparency="nil" lod="true" lodID="Mansion2_A" lodDistance="290"></definition>
-    <definition id="mansion1b" zone="starisl" dff="mansion1b" col="mansion1b" txd="star1" alphaTransparency="nil" lod="true" lodID="mansion1b" lodDistance="230"></definition>
-    <definition id="gate5" zone="starisl" dff="gate5" col="gate5" txd="star4" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="starfbed03" zone="starisl" dff="starfbed03" col="starfbed03" txd="starf" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="starfbed05" zone="starisl" dff="starfbed05" col="starfbed05" txd="starf" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="stPOOLWATER5" zone="starisl" dff="stPOOLWATER5" col="stPOOLWATER5" txd="starpool" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="starisland_road3" zone="starisl" dff="starisland_road3" col="starisland_road3" txd="starroad" alphaTransparency="nil" lod="true" lodID="starisland_road3" lodDistance="250"></definition>
-    <definition id="starfbed06" zone="starisl" dff="starfbed06" col="starfbed06" txd="starf" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="starmainwall1" zone="starisl" dff="starmainwall1" col="starmainwall1" txd="mansionwall" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="Boat_houseA01" zone="starisl" dff="Boat_houseA01" col="Boat_houseA01" txd="star5" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
-    <definition id="starisland_road6" zone="starisl" dff="starisland_road6" col="starisland_road6" txd="starroad" alphaTransparency="nil" lod="true" lodID="starisland_road6" lodDistance="250"></definition>
-    <definition id="Starrockpool" zone="starisl" dff="Starrockpool" col="Starrockpool" txd="star1" alphaTransparency="nil" lod="nil" lodDistance="230"></definition>
-    <definition id="STGLUE" zone="starisl" dff="STGLUE" col="STGLUE" txd="star4" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="Mansion1_base" zone="starisl" dff="Mansion1_base" col="Mansion1_base" txd="star1" alphaTransparency="nil" lod="true" lodID="Mansion1_base" lodDistance="290"></definition>
-    <definition id="starbridge2b" zone="starisl" dff="starbridge2b" col="starbridge2b" txd="starbridge" alphaTransparency="nil" lod="true" lodID="starbridge2b" lodDistance="180"></definition>
-    <definition id="starwallmain5" zone="starisl" dff="starwallmain5" col="starwallmain5" txd="mansionwall" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="Stglue01" zone="starisl" dff="Stglue01" col="Stglue01" txd="star2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="pollstaeps1" zone="starisl" dff="pollstaeps1" col="pollstaeps1" txd="star2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="comgate2" zone="starisl" dff="comgate2" col="comgate2" txd="starroad" alphaTransparency="nil" lod="true" lodID="comgate2" lodDistance="150"></definition>
-    <definition id="mansion3gardens2" zone="starisl" dff="mansion3gardens2" col="mansion3gardens2" txd="star3" alphaTransparency="nil" lod="true" lodID="mansion3gardens2" lodDistance="200"></definition>
-    <definition id="starisland_road1" zone="starisl" dff="starisland_road1" col="starisland_road1" txd="starroad" alphaTransparency="nil" lod="true" lodID="starisland_road1" lodDistance="250"></definition>
-    <definition id="Mansion3_C" zone="starisl" dff="Mansion3_C" col="Mansion3_C" txd="star5" alphaTransparency="nil" lod="true" lodID="Mansion3_C" lodDistance="230"></definition>
-    <definition id="StarGate" zone="starisl" dff="StarGate" col="StarGate" txd="star2" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="sb" zone="starisl" dff="sb" col="sb" txd="star5" alphaTransparency="nil" lod="nil" lodDistance="130"></definition>
-    <definition id="Mansion4gate" zone="starisl" dff="Mansion4gate" col="Mansion4gate" txd="star1" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="Rose_Bush01" zone="starisl" dff="Rose_Bush01" col="Rose_Bush01" txd="star5" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="starisland_road2" zone="starisl" dff="starisland_road2" col="starisland_road2" txd="starroad" alphaTransparency="nil" lod="true" lodID="starisland_road2" lodDistance="250"></definition>
-    <definition id="Boat_houseA" zone="starisl" dff="Boat_houseA" col="Boat_houseA" txd="star3" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
-    <definition id="gate4" zone="starisl" dff="gate4" col="gate4" txd="star4" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="mansion3_B" zone="starisl" dff="mansion3_B" col="mansion3_B" txd="star5" alphaTransparency="nil" lod="true" lodID="mansion3_B" lodDistance="230"></definition>
-    <definition id="STARBLOCKER02" zone="starisl" dff="STARBLOCKER02" col="STARBLOCKER02" txd="star5" alphaTransparency="nil" lod="nil" lodDistance="230"></definition>
-    <definition id="starbridge2" zone="starisl" dff="starbridge2" col="starbridge2" txd="starbridge" alphaTransparency="nil" lod="true" lodID="starbridge2" lodDistance="180"></definition>
-    <definition id="starfbed04" zone="starisl" dff="starfbed04" col="starfbed04" txd="starf" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="Stglue07" zone="starisl" dff="Stglue07" col="Stglue07" txd="star4" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="st_garden1" zone="starisl" dff="st_garden1" col="st_garden1" txd="star2" alphaTransparency="nil" lod="true" lodID="st_garden1" lodDistance="230"></definition>
-    <definition id="comgate03" zone="starisl" dff="comgate03" col="comgate03" txd="starroad" alphaTransparency="nil" lod="true" lodID="comgate03" lodDistance="250"></definition>
-    <definition id="starisland_road4" zone="starisl" dff="starisland_road4" col="starisland_road4" txd="starroad" alphaTransparency="nil" lod="true" lodID="starisland_road4" lodDistance="250"></definition>
-    <definition id="Man3_base_hedge" zone="starisl" dff="Man3_base_hedge" col="Man3_base_hedge" txd="star5" alphaTransparency="nil" lod="nil" lodDistance="130"></definition>
-    <definition id="stPOOLw1" zone="starisl" dff="stPOOLw1" col="stPOOLw1" txd="transbits2" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="man1garden_hedge" zone="starisl" dff="man1garden_hedge" col="man1garden_hedge" txd="star4" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="Rose_Bush03" zone="starisl" dff="Rose_Bush03" col="Rose_Bush03" txd="star5" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="stpoolwater" zone="starisl" dff="stpoolwater" col="stpoolwater" txd="starpool" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="STARBLOCKER1" zone="starisl" dff="STARBLOCKER1" col="STARBLOCKER1" txd="star5" alphaTransparency="nil" lod="nil" lodDistance="230"></definition>
-    <definition id="stPOOLWATER02" zone="starisl" dff="stPOOLWATER02" col="stPOOLWATER02" txd="starpool" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="starbbnet02" zone="starisl" dff="starbbnet02" col="starbbnet02" txd="starf" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="Mansion2_B" zone="starisl" dff="Mansion2_B" col="Mansion2_B" txd="star3" alphaTransparency="nil" lod="true" lodID="Mansion2_B" lodDistance="200"></definition>
-    <definition id="starwallmain2" zone="starisl" dff="starwallmain2" col="starwallmain2" txd="mansionwall" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="man3ghedge" zone="starisl" dff="man3ghedge" col="man3ghedge" txd="star3" alphaTransparency="nil" lod="nil" lodDistance="130"></definition>
-    <definition id="stObject23" zone="starisl" dff="stObject23" col="stObject23" txd="starpool" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="starladder" zone="starisl" dff="starladder" col="starladder" txd="star5" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="mansion3gardens" zone="starisl" dff="mansion3gardens" col="mansion3gardens" txd="star3" alphaTransparency="nil" lod="true" lodID="mansion3gardens" lodDistance="250"></definition>
-    <definition id="boatpole" zone="starisl" dff="boatpole" col="boatpole" txd="star5" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="Man4garagedoors" zone="starisl" dff="Man4garagedoors" col="Man4garagedoors" txd="star1" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="mansion1gardens" zone="starisl" dff="mansion1gardens" col="mansion1gardens" txd="star4" alphaTransparency="nil" lod="true" lodID="mansion1gardens" lodDistance="300"></definition>
-    <definition id="man4ladderpool01" zone="starisl" dff="man4ladderpool01" col="man4ladderpool01" txd="star1" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="starwallmain4" zone="starisl" dff="starwallmain4" col="starwallmain4" txd="mansionwall" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="mansion3a" zone="starisl" dff="mansion3a" col="mansion3a" txd="star4" alphaTransparency="nil" lod="true" lodID="mansion3a" lodDistance="200"></definition>
-    <definition id="mansion3_base" zone="starisl" dff="mansion3_base" col="mansion3_base" txd="star5" alphaTransparency="nil" lod="true" lodID="mansion3_base" lodDistance="300"></definition>
-    <definition id="Starhouse" zone="starisl" dff="Starhouse" col="Starhouse" txd="star2" alphaTransparency="nil" lod="true" lodID="Starhouse" lodDistance="200"></definition>
+    <definition id="STGLUE" zone="starisl" col="STGLUE" txd="star4" flags="2,7" lodDistance="100"></definition>
+    <definition id="Rose_Bush01" zone="starisl" col="Rose_Bush01" txd="star5" flags="2" lodDistance="100"></definition>
+    <definition id="Mansion2_C_fence" zone="starisl" col="Mansion2_C_fence" txd="star4" flags="7" lodDistance="150"></definition>
+    <definition id="Mansion2_A" zone="starisl" col="Mansion2_A" txd="stmansion" flags="7" lodDistance="120"></definition>
+    <definition id="Boat_houseA" zone="starisl" col="Boat_houseA" txd="star3" flags="2,7" lodDistance="150"></definition>
+    <definition id="Boat_houseA01" zone="starisl" col="Boat_houseA01" txd="star5" flags="2" lodDistance="150"></definition>
+    <definition id="Mansion3_C" zone="starisl" col="Mansion3_C" txd="star5" flags="" lodDistance="130"></definition>
+    <definition id="st_garden1" zone="starisl" col="st_garden1" txd="star2" flags="" lodDistance="130"></definition>
+    <definition id="StarGate" zone="starisl" col="StarGate" txd="star2" flags="2" lodDistance="100"></definition>
+    <definition id="Stglue01" zone="starisl" col="Stglue01" txd="star2" flags="2" lodDistance="100"></definition>
+    <definition id="stpoolwater" zone="starisl" col="stpoolwater" txd="starpool" flags="2" lodDistance="100"></definition>
+    <definition id="Rose_Bush03" zone="starisl" col="Rose_Bush03" txd="star5" flags="2" lodDistance="100"></definition>
+    <definition id="stPOOLw1" zone="starisl" col="stPOOLw1" txd="transbits2" flags="2" lodDistance="150"></definition>
+    <definition id="mansion1gardens" zone="starisl" col="mansion1gardens" txd="star4" flags="" lodDistance="200"></definition>
+    <definition id="starisland_road6" zone="starisl" col="starisland_road6" txd="starroad" flags="" lodDistance="150"></definition>
+    <definition id="starisland_road2" zone="starisl" col="starisland_road2" txd="starroad" flags="" lodDistance="200"></definition>
+    <definition id="starisland_road4" zone="starisl" col="starisland_road4" txd="starroad" flags="" lodDistance="150"></definition>
+    <definition id="starisland_road1" zone="starisl" col="starisland_road1" txd="starroad" flags="" lodDistance="200"></definition>
+    <definition id="boatpole" zone="starisl" col="boatpole" txd="star5" flags="7" lodDistance="150"></definition>
+    <definition id="starisland_road3" zone="starisl" col="starisland_road3" txd="starroad" flags="" lodDistance="170"></definition>
+    <definition id="mansion3gardens" zone="starisl" col="mansion3gardens" txd="star3" flags="" lodDistance="170"></definition>
+    <definition id="Mansion2_B" zone="starisl" col="Mansion2_B" txd="star3" flags="7" lodDistance="100"></definition>
+    <definition id="mansion3a" zone="starisl" col="mansion3a" txd="star4" flags="7" lodDistance="100"></definition>
+    <definition id="mansion3_B" zone="starisl" col="mansion3_B" txd="star5" flags="7" lodDistance="130"></definition>
+    <definition id="mansion1b" zone="starisl" col="mansion1b" txd="star1" flags="7" lodDistance="130"></definition>
+    <definition id="Starhouse" zone="starisl" col="Starhouse" txd="star2" flags="7" lodDistance="100"></definition>
+    <definition id="LODrisland_road1" zone="starisl" col="LODrisland_road1" txd="lod_starsmall" flags="7,8" lodDistance="750"></definition>
+    <definition id="LODsion3_B" zone="starisl" col="LODsion3_B" txd="lod_starsmall" flags="7,8" lodDistance="700"></definition>
+    <definition id="LODrhouse" zone="starisl" col="LODrhouse" txd="lod_starsmall" flags="7,8" lodDistance="700"></definition>
+    <definition id="LODrisland_road2" zone="starisl" col="LODrisland_road2" txd="lod_starsmall" flags="7,8" lodDistance="750"></definition>
+    <definition id="LODrisland_road4" zone="starisl" col="LODrisland_road4" txd="lod_starsmall" flags="7,8" lodDistance="750"></definition>
+    <definition id="LODrisland_road6" zone="starisl" col="LODrisland_road6" txd="lod_starsmall" flags="7,8" lodDistance="750"></definition>
+    <definition id="LODsion1gardens" zone="starisl" col="LODsion1gardens" txd="lod_starbig" flags="7,8" lodDistance="1500"></definition>
+    <definition id="stObject23" zone="starisl" col="stObject23" txd="starpool" flags="2" lodDistance="100"></definition>
+    <definition id="stPOOLWATER5" zone="starisl" col="stPOOLWATER5" txd="starpool" flags="2" lodDistance="100"></definition>
+    <definition id="Stglue06" zone="starisl" col="Stglue06" txd="star2" flags="2" lodDistance="100"></definition>
+    <definition id="Stglue07" zone="starisl" col="Stglue07" txd="star4" flags="2,7" lodDistance="100"></definition>
+    <definition id="starladder" zone="starisl" col="starladder" txd="star5" flags="" lodDistance="100"></definition>
+    <definition id="Mansion4gate" zone="starisl" col="Mansion4gate" txd="star1" flags="2,7" lodDistance="100"></definition>
+    <definition id="Man4garagedoors" zone="starisl" col="Man4garagedoors" txd="star1" flags="" lodDistance="100"></definition>
+    <definition id="stPOOLWATER02" zone="starisl" col="stPOOLWATER02" txd="starpool" flags="2" lodDistance="100"></definition>
+    <definition id="Starrockpool" zone="starisl" col="Starrockpool" txd="star1" flags="7" lodDistance="130"></definition>
+    <definition id="man4ladderpool01" zone="starisl" col="man4ladderpool01" txd="star1" flags="" lodDistance="100"></definition>
+    <definition id="Mansion1_base" zone="starisl" col="Mansion1_base" txd="star1" flags="" lodDistance="190"></definition>
+    <definition id="LODsion1_base" zone="starisl" col="LODsion1_base" txd="lod_starsmall" flags="7,8" lodDistance="750"></definition>
+    <definition id="LODsion1b" zone="starisl" col="LODsion1b" txd="lod_starsmall" flags="7,8" lodDistance="700"></definition>
+    <definition id="LODsion1_A" zone="starisl" col="LODsion1_A" txd="lod_starsmall" flags="7,8" lodDistance="700"></definition>
+    <definition id="Mansion1_A" zone="starisl" col="Mansion1_A" txd="star1" flags="7" lodDistance="100"></definition>
+    <definition id="LODsion2_B" zone="starisl" col="LODsion2_B" txd="lod_starsmall" flags="7,8" lodDistance="700"></definition>
+    <definition id="LODrtrees3" zone="starisl" col="LODrtrees3" txd="GenericVC" flags="2,7,8" lodDistance="1000"></definition>
+    <definition id="LODrtrees5" zone="starisl" col="LODrtrees5" txd="GenericVC" flags="2,7,8" lodDistance="1000"></definition>
+    <definition id="LODrtrees4" zone="starisl" col="LODrtrees4" txd="GenericVC" flags="2,7,8" lodDistance="1000"></definition>
+    <definition id="LODrtrees2" zone="starisl" col="LODrtrees2" txd="GenericVC" flags="2,7,8" lodDistance="1000"></definition>
+    <definition id="LODrtrees1" zone="starisl" col="LODrtrees1" txd="GenericVC" flags="2,7,8" lodDistance="1000"></definition>
+    <definition id="LODgarden1" zone="starisl" col="LODgarden1" txd="lod_starbig" flags="7,8" lodDistance="1500"></definition>
+    <definition id="gate4" zone="starisl" col="gate4" txd="star4" flags="2" lodDistance="100"></definition>
+    <definition id="gate5" zone="starisl" col="gate5" txd="star4" flags="" lodDistance="150"></definition>
+    <definition id="starbbnet02" zone="starisl" col="starbbnet02" txd="starf" flags="2,7" lodDistance="200"></definition>
+    <definition id="Mansion2c" zone="starisl" col="Mansion2c" txd="star4" flags="7" lodDistance="150"></definition>
+    <definition id="starbridge2" zone="starisl" col="starbridge2" txd="starbridge" flags="2" lodDistance="180"></definition>
+    <definition id="starmainwall1" zone="starisl" col="starmainwall1" txd="mansionwall" flags="" lodDistance="200"></definition>
+    <definition id="starwallmain2" zone="starisl" col="starwallmain2" txd="mansionwall" flags="" lodDistance="200"></definition>
+    <definition id="starwallmain4" zone="starisl" col="starwallmain4" txd="mansionwall" flags="" lodDistance="200"></definition>
+    <definition id="sb" zone="starisl" col="sb" txd="star5" flags="7" lodDistance="130"></definition>
+    <definition id="starfbed02" zone="starisl" col="starfbed02" txd="starf" flags="2,7" lodDistance="100"></definition>
+    <definition id="starfbed03" zone="starisl" col="starfbed03" txd="starf" flags="2" lodDistance="100"></definition>
+    <definition id="starfbed04" zone="starisl" col="starfbed04" txd="starf" flags="2,7" lodDistance="100"></definition>
+    <definition id="starfbed05" zone="starisl" col="starfbed05" txd="starf" flags="2,7" lodDistance="150"></definition>
+    <definition id="starfbed06" zone="starisl" col="starfbed06" txd="starf" flags="2,7" lodDistance="100"></definition>
+    <definition id="pollstaeps1" zone="starisl" col="pollstaeps1" txd="star2" flags="" lodDistance="100"></definition>
+    <definition id="LODsion3gardens" zone="starisl" col="LODsion3gardens" txd="lod_starbig" flags="7,8" lodDistance="1500"></definition>
+    <definition id="LODsion2_A" zone="starisl" col="LODsion2_A" txd="lod_starsmall" flags="7,8" lodDistance="700"></definition>
+    <definition id="LODrbridge2" zone="starisl" col="LODrbridge2" txd="lod_starbig" flags="7,8" lodDistance="1500"></definition>
+    <definition id="LODsion2c" zone="starisl" col="LODsion2c" txd="lod_starsmall" flags="7,8" lodDistance="700"></definition>
+    <definition id="LODsion3a" zone="starisl" col="LODsion3a" txd="lod_starsmall" flags="7,8" lodDistance="700"></definition>
+    <definition id="starbridge2b" zone="starisl" col="starbridge2b" txd="starbridge" flags="" lodDistance="180"></definition>
+    <definition id="starwallmain5" zone="starisl" col="starwallmain5" txd="mansionwall" flags="7" lodDistance="200"></definition>
+    <definition id="comgate2" zone="starisl" col="comgate2" txd="starroad" flags="2,7" lodDistance="150"></definition>
+    <definition id="comgate1" zone="starisl" col="comgate1" txd="starroad" flags="2,7" lodDistance="150"></definition>
+    <definition id="LODgate2" zone="starisl" col="LODgate2" txd="lod_starsmall" flags="7,8" lodDistance="700"></definition>
+    <definition id="LODgate1" zone="starisl" col="LODgate1" txd="lod_starsmall" flags="7,8" lodDistance="700"></definition>
+    <definition id="comgate03" zone="starisl" col="comgate03" txd="starroad" flags="7" lodDistance="150"></definition>
+    <definition id="STARBLOCKER1" zone="starisl" col="STARBLOCKER1" txd="star5" flags="2,7" lodDistance="130"></definition>
+    <definition id="STARBLOCKER02" zone="starisl" col="STARBLOCKER02" txd="star5" flags="2,7" lodDistance="130"></definition>
+    <definition id="LODgate03" zone="starisl" col="LODgate03" txd="lod_starsmall" flags="7,8" lodDistance="700"></definition>
+    <definition id="LODsion3_C" zone="starisl" col="LODsion3_C" txd="lod_starsmall" flags="7,8" lodDistance="700"></definition>
+    <definition id="mansion3gardens2" zone="starisl" col="mansion3gardens2" txd="star3" flags="" lodDistance="170"></definition>
+    <definition id="man1garden_hedge" zone="starisl" col="man1garden_hedge" txd="star4" flags="7" lodDistance="200"></definition>
+    <definition id="Man3_base_hedge" zone="starisl" col="Man3_base_hedge" txd="star5" flags="7" lodDistance="130"></definition>
+    <definition id="man3ghedge" zone="starisl" col="man3ghedge" txd="star3" flags="7" lodDistance="130"></definition>
+    <definition id="Man1_baseHedge" zone="starisl" col="Man1_baseHedge" txd="star1" flags="7" lodDistance="190"></definition>
+    <definition id="LODsion3_base" zone="starisl" col="LODsion3_base" txd="lod_starbig" flags="7,8" lodDistance="1500"></definition>
+    <definition id="mansion3_base" zone="starisl" col="mansion3_base" txd="star5" flags="" lodDistance="130"></definition>
 </zoneDefinitions>

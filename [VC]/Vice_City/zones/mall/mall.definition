@@ -1,103 +1,32 @@
 <zoneDefinitions>
-    <definition id="midmallflorre" zone="mall" dff="midmallflorre" col="midmallflorre" txd="malltotal" alphaTransparency="true" lod="nil" lodDistance="250"></definition>
-    <definition id="mlgrounds" zone="mall" dff="mlgrounds" col="mlgrounds" txd="malltotal" alphaTransparency="true" lod="nil" lodDistance="250"></definition>
-    <definition id="ml_record3" zone="mall" dff="ml_record3" col="ml_record3" txd="ml_tuneless" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="mlmiamiland056" zone="mall" dff="mlmiamiland056" col="mlmiamiland056" txd="mall_ground" alphaTransparency="nil" lod="true" lodID="mlmiamiland056" lodDistance="140"></definition>
-    <definition id="mlnorthmalltop" zone="mall" dff="mlnorthmalltop" col="mlnorthmalltop" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
-    <definition id="mloven" zone="mall" dff="mloven" col="mloven" txd="foodcourt" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="nmalloutside" zone="mall" dff="nmalloutside" col="nmalloutside" txd="mallext" alphaTransparency="nil" lod="true" lodID="nmalloutside" lodDistance="140"></definition>
-	<definition id="nmalloutside_window" zone="mall" dff="nmalloutside_window" col="nmalloutside" txd="mallext" alphaTransparency="true" lod="true" lodID="nmalloutside_window" lodDistance="140"></definition>
-    <definition id="nbnorthmallext1" zone="mall" dff="nbnorthmallext1" col="nbnorthmallext1" txd="mallext" alphaTransparency="nil" lod="true" lodID="nbnorthmallext1" lodDistance="140"></definition>
-    <definition id="nbnorthmallext1_window" zone="mall" dff="nbnorthmallext1_window" col="nbnorthmallext1" txd="mallext" alphaTransparency="true" lod="true" lodID="nbnorthmallext1_window" lodDistance="140"></definition>
-    <definition id="mlnorthmalllftex" zone="mall" dff="mlnorthmalllftex" col="mlnorthmalllftex" txd="mallext" alphaTransparency="nil" lod="true" lodID="mlnorthmalllftex" lodDistance="140"></definition>
-    <definition id="mlnorthmalllftex_window" zone="mall" dff="mlnorthmalllftex_window" col="mlnorthmalllftex" txd="mallext" alphaTransparency="true" lod="true" lodID="mlnorthmalllftex_window" lodDistance="140"></definition>
-    <definition id="ml_planterbed" zone="mall" dff="ml_planterbed" col="ml_planterbed" txd="mall_props" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="mlmallflag12" zone="mall" dff="mlmallflag12" col="mlmallflag12" txd="mallitems" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="mallint2" zone="mall" dff="mallint2" col="mallint2" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
-    <definition id="ml_jewelcounter" zone="mall" dff="ml_jewelcounter" col="ml_jewelcounter" txd="ml_jewellers" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="mlmiamiland060" zone="mall" dff="mlmiamiland060" col="mlmiamiland060" txd="mall_ground" alphaTransparency="nil" lod="true" lodID="mlmiamiland060" lodDistance="180"></definition>
-    <definition id="mlmallplan04" zone="mall" dff="mlmallplan04" col="mlmallplan04" txd="mallitems" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="mallint1" zone="mall" dff="mallint1" col="mallint1" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
-    <definition id="ml_doorscarp" zone="mall" dff="ml_doorscarp" col="ml_doorscarp" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="mlnorthmallrt" zone="mall" dff="mlnorthmallrt" col="mlnorthmallrt" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
-    <definition id="mlobjects_n04" zone="mall" dff="mlobjects_n04" col="mlobjects_n04" txd="mall_props" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="ml_doorsbotl" zone="mall" dff="ml_doorsbotl" col="ml_doorsbotl" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="mall_hardwarebits" zone="mall" dff="mall_hardwarebits" col="mall_hardwarebits" txd="mall_ammu" alphaTransparency="nil" lod="nil" lodDistance="40"></definition>
-    <definition id="newmallcp_03" zone="mall" dff="newmallcp_03" col="newmallcp_03" txd="mallcarpark" alphaTransparency="nil" lod="true" lodID="newmallcp_03" lodDistance="150"></definition>
-    <definition id="mloven02" zone="mall" dff="mloven02" col="mloven02" txd="foodcourt" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="ml_jewelglass" zone="mall" dff="ml_jewelglass" col="ml_jewelglass" txd="ml_jewellers" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="mallint5" zone="mall" dff="mallint5" col="mallint5" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
-    <definition id="ml_doorsmidl" zone="mall" dff="ml_doorsmidl" col="ml_doorsmidl" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="mlmallbush" zone="mall" dff="mlmallbush" col="mlmallbush" txd="mallplants" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="mlnorthmalllft" zone="mall" dff="mlnorthmalllft" col="mlnorthmalllft" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="250"></definition>
-    <definition id="ml_vegbits05" zone="mall" dff="ml_vegbits05" col="ml_vegbits05" txd="mall_veg" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="newmallcp_01" zone="mall" dff="newmallcp_01" col="newmallcp_01" txd="mallcarpark" alphaTransparency="nil" lod="true" lodID="newmallcp_01" lodDistance="100"></definition>
-    <definition id="ml_coffwinframe01" zone="mall" dff="ml_coffwinframe01" col="ml_coffwinframe01" txd="ml_coffee" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="mall_hardware" zone="mall" dff="mall_hardware" col="mall_hardware" txd="mall_ammu" alphaTransparency="nil" lod="nil" lodDistance="125"></definition>
-    <definition id="ml_jewellers" zone="mall" dff="ml_jewellers" col="ml_jewellers" txd="ml_jewellers" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="ml_tarbrush" zone="mall" dff="ml_tarbrush" col="ml_tarbrush" txd="ml_coffee" alphaTransparency="nil" lod="nil" lodDistance="110"></definition>
-    <definition id="mallbushs" zone="mall" dff="mallbushs" col="mallbushs" txd="mallplants" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="ml_cofcounter1" zone="mall" dff="ml_cofcounter1" col="ml_cofcounter1" txd="ml_coffee" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="ml_doorsmidr" zone="mall" dff="ml_doorsmidr" col="ml_doorsmidr" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ml_glasslft" zone="mall" dff="ml_glasslft" col="ml_glasslft" txd="ml_coffee" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="mallint5up" zone="mall" dff="mallint5up" col="mallint5up" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
-    <definition id="ml_vegbits01" zone="mall" dff="ml_vegbits01" col="ml_vegbits01" txd="mall_veg" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="ml_record" zone="mall" dff="ml_record" col="ml_record" txd="ml_tuneless" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="malltreereflect2" zone="mall" dff="malltreereflect2" col="malltreereflect2" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="mlmallplan02" zone="mall" dff="mlmallplan02" col="mlmallplan02" txd="mallitems" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="ml_vegbits03" zone="mall" dff="ml_vegbits03" col="ml_vegbits03" txd="mall_veg" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="mlNpoint06" zone="mall" dff="mlNpoint06" col="mlNpoint06" txd="mallcarpark" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="malltreereflect" zone="mall" dff="malltreereflect" col="malltreereflect" txd="ageneric" alphaTransparency="nil" lod="nil" lodDistance="200"></definition>
-    <definition id="ml_borderswin01" zone="mall" dff="ml_borderswin01" col="ml_borderswin01" txd="ml_coffee" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="newmallcp_02" zone="mall" dff="newmallcp_02" col="newmallcp_02" txd="mallcarpark" alphaTransparency="nil" lod="true" lodID="newmallcp_02" lodDistance="90"></definition>
-    <definition id="malllights" zone="mall" dff="malllights" col="malllights" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
-    <definition id="ml_coffwinframe02" zone="mall" dff="ml_coffwinframe02" col="ml_coffwinframe02" txd="ml_coffee" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="mlmallflag02" zone="mall" dff="mlmallflag02" col="mlmallflag02" txd="mallitems" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="mallint7" zone="mall" dff="mallint7" col="mallint7" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
-    <definition id="ml_borderswin02" zone="mall" dff="ml_borderswin02" col="ml_borderswin02" txd="ml_coffee" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ml_jewelwinframe02" zone="mall" dff="ml_jewelwinframe02" col="ml_jewelwinframe02" txd="ml_jewellers" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="mlmallroof" zone="mall" dff="mlmallroof" col="mlmallroof" txd="mallroof" alphaTransparency="nil" lod="nil" lodDistance="220"></definition>
-    <definition id="mlmallplan05" zone="mall" dff="mlmallplan05" col="mlmallplan05" txd="mallitems" alphaTransparency="nil" lod="nil" lodDistance="150"></definition>
-    <definition id="mlobjects_n" zone="mall" dff="mlobjects_n" col="mlobjects_n" txd="mall_props" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="ml_doorsbotr" zone="mall" dff="ml_doorsbotr" col="ml_doorsbotr" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="ml_gap" zone="mall" dff="ml_gap" col="ml_gap" txd="ml_clothes" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="mallstrut" zone="mall" dff="mallstrut" col="mallstrut" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="mlobjects_n03" zone="mall" dff="mlobjects_n03" col="mlobjects_n03" txd="mall_props" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="ml_vegbits02" zone="mall" dff="ml_vegbits02" col="ml_vegbits02" txd="mall_veg" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="ml_gapdoors" zone="mall" dff="ml_gapdoors" col="ml_gapdoors" txd="ml_clothes" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="ml_bordersdoor" zone="mall" dff="ml_bordersdoor" col="ml_bordersdoor" txd="ml_books" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="mlmiamiland060b" zone="mall" dff="mlmiamiland060b" col="mlmiamiland060b" txd="mall_ground" alphaTransparency="nil" lod="true" lodID="mlmiamiland060b" lodDistance="180"></definition>
-    <definition id="mallint9" zone="mall" dff="mallint9" col="mallint9" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="260"></definition>
-    <definition id="ml_water" zone="mall" dff="ml_water" col="ml_water" txd="mall_props" alphaTransparency="true" lod="nil" lodDistance="100"></definition>
-    <definition id="ml_vegbits04" zone="mall" dff="ml_vegbits04" col="ml_vegbits04" txd="mall_veg" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="mlngrnd" zone="mall" dff="mlngrnd" col="mlngrnd" txd="malltotal" alphaTransparency="true" lod="true" lodID="mlngrnd" lodDistance="250"></definition>
-    <definition id="mlmiamiland058" zone="mall" dff="mlmiamiland058" col="mlmiamiland058" txd="mall_ground" alphaTransparency="nil" lod="true" lodID="mlmiamiland058" lodDistance="140"></definition>
-    <definition id="ml_escl" zone="mall" dff="ml_escl" col="ml_escl" txd="mall_props" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="mlnorthmall" zone="mall" dff="mlnorthmall" col="mlnorthmall" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
-    <definition id="mlmallflag14" zone="mall" dff="mlmallflag14" col="mlmallflag14" txd="mallitems" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="newmallcp_05" zone="mall" dff="newmallcp_05" col="newmallcp_05" txd="mallcarpark" alphaTransparency="nil" lod="true" lodID="newmallcp_05" lodDistance="80"></definition>
-    <definition id="newmallcp_04" zone="mall" dff="newmallcp_04" col="newmallcp_04" txd="mallcarpark" alphaTransparency="nil" lod="true" lodID="newmallcp_04" lodDistance="90"></definition>
-    <definition id="mall_ammu" zone="mall" dff="mall_ammu" col="mall_ammu" txd="mall_ammu" alphaTransparency="nil" lod="nil" lodDistance="125"></definition>
-    <definition id="midmallfloorw" zone="mall" dff="midmallfloorw" col="midmallfloorw" txd="malltotal" alphaTransparency="true" lod="nil" lodDistance="250"></definition>
-    <definition id="ml_tartable" zone="mall" dff="ml_tartable" col="ml_tartable" txd="ml_coffee" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="mlmallroof01" zone="mall" dff="mlmallroof01" col="mlmallroof01" txd="mallroof" alphaTransparency="nil" lod="true" lodID="mlmallroof01" lodDistance="200"></definition>
-    <definition id="ml_doorstopr" zone="mall" dff="ml_doorstopr" col="ml_doorstopr" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
-    <definition id="mallint8" zone="mall" dff="mallint8" col="mallint8" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
-    <definition id="mallbushdense" zone="mall" dff="mallbushdense" col="mallbushdense" txd="mallplants" alphaTransparency="nil" lod="nil" lodDistance="299"></definition>
-    <definition id="mlobjects_s02" zone="mall" dff="mlobjects_s02" col="mlobjects_s02" txd="mall_props" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="maidmalltopa" zone="mall" dff="maidmalltopa" col="maidmalltopa" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
-    <definition id="mallint5up_b" zone="mall" dff="mallint5up_b" col="mallint5up_b" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
-    <definition id="ml_coffee_dsk" zone="mall" dff="ml_coffee_dsk" col="ml_coffee_dsk" txd="ml_coffee" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="ml_doorstopl" zone="mall" dff="ml_doorstopl" col="ml_doorstopl" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
-    <definition id="mlNpoint04" zone="mall" dff="mlNpoint04" col="mlNpoint04" txd="mallcarpark" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="ml_borders" zone="mall" dff="ml_borders" col="ml_borders" txd="ml_books" alphaTransparency="nil" lod="nil" lodDistance="100"></definition>
-    <definition id="ml_jewelwinframe01" zone="mall" dff="ml_jewelwinframe01" col="ml_jewelwinframe01" txd="ml_jewellers" alphaTransparency="nil" lod="nil" lodDistance="90"></definition>
-    <definition id="mlgrndmidtop" zone="mall" dff="mlgrndmidtop" col="mlgrndmidtop" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
-    <definition id="mlobjects_n02" zone="mall" dff="mlobjects_n02" col="mlobjects_n02" txd="mall_props" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="mlrecords" zone="mall" dff="mlrecords" col="mlrecords" txd="ml_tuneless" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="mall_fans" zone="mall" dff="mall_fans" col="mall_fans" txd="mall_props" alphaTransparency="nil" lod="nil" lodDistance="40"></definition>
-    <definition id="ml_water2" zone="mall" dff="ml_water2" col="ml_water2" txd="mall_props" alphaTransparency="true" lod="nil" lodDistance="140"></definition>
-    <definition id="mlNpoint02" zone="mall" dff="mlNpoint02" col="mlNpoint02" txd="mallcarpark" alphaTransparency="nil" lod="nil" lodDistance="140"></definition>
-    <definition id="mall_ammuwin" zone="mall" dff="mall_ammuwin" col="mall_ammuwin" txd="mall_ammu" alphaTransparency="nil" lod="nil" lodDistance="50"></definition>
-    <definition id="mallint3" zone="mall" dff="mallint3" col="mallint3" txd="malltotal" alphaTransparency="nil" lod="nil" lodDistance="180"></definition>
+    <definition id="LODlloutside" zone="mall" col="LODlloutside" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODorthmalllftex" zone="mall" col="LODorthmalllftex" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODiamiland056" zone="mall" col="LODiamiland056" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODiamiland058" zone="mall" col="LODiamiland058" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODiamiland060" zone="mall" col="LODiamiland060" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODmallcp_01" zone="mall" col="LODmallcp_01" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODmallcp_02" zone="mall" col="LODmallcp_02" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODmallcp_03" zone="mall" col="LODmallcp_03" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODmallcp_04" zone="mall" col="LODmallcp_04" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODmallcp_05" zone="mall" col="LODmallcp_05" txd="lod_mall" flags="" lodDistance="1000"></definition>
+    <definition id="LODallroof01" zone="mall" col="LODallroof01" txd="mallroof" flags="7" lodDistance="1500"></definition>
+    <definition id="nbnorthmallext1" zone="mall" col="nbnorthmallext1" txd="mallext" flags="" lodDistance="200"></definition>
+    <definition id="nmalloutside" zone="mall" col="nmalloutside" txd="mallext" flags="" lodDistance="200"></definition>
+    <definition id="mlnorthmalllftex" zone="mall" col="mlnorthmalllftex" txd="mallext" flags="7" lodDistance="140"></definition>
+    <definition id="mlmiamiland056" zone="mall" col="mlmiamiland056" txd="mall_ground" flags="" lodDistance="140"></definition>
+    <definition id="mlmiamiland058" zone="mall" col="mlmiamiland058" txd="mall_ground" flags="" lodDistance="140"></definition>
+    <definition id="mlmiamiland060" zone="mall" col="mlmiamiland060" txd="mall_ground" flags="" lodDistance="180"></definition>
+    <definition id="newmallcp_01" zone="mall" col="newmallcp_01" txd="mallcarpark" flags="" lodDistance="90"></definition>
+    <definition id="newmallcp_02" zone="mall" col="newmallcp_02" txd="mallcarpark" flags="" lodDistance="90"></definition>
+    <definition id="newmallcp_03" zone="mall" col="newmallcp_03" txd="mallcarpark" flags="" lodDistance="90"></definition>
+    <definition id="newmallcp_04" zone="mall" col="newmallcp_04" txd="mallcarpark" flags="" lodDistance="90"></definition>
+    <definition id="newmallcp_05" zone="mall" col="newmallcp_05" txd="mallcarpark" flags="" lodDistance="90"></definition>
+    <definition id="mlmallroof01" zone="mall" col="mlmallroof01" txd="mallroof" flags="7" lodDistance="200"></definition>
+    <definition id="mlmallflag02" zone="mall" col="mlmallflag02" txd="mallitems" flags="7" lodDistance="140"></definition>
+    <definition id="mlmallflag12" zone="mall" col="mlmallflag12" txd="mallitems" flags="7" lodDistance="140"></definition>
+    <definition id="mlmallflag14" zone="mall" col="mlmallflag14" txd="mallitems" flags="7" lodDistance="140"></definition>
+    <definition id="mlNpoint02" zone="mall" col="mlNpoint02" txd="mallcarpark" flags="7" lodDistance="140"></definition>
+    <definition id="mlNpoint04" zone="mall" col="mlNpoint04" txd="mallcarpark" flags="7" lodDistance="140"></definition>
+    <definition id="mlNpoint06" zone="mall" col="mlNpoint06" txd="mallcarpark" flags="7" lodDistance="140"></definition>
+    <definition id="mlmiamiland060b" zone="mall" col="mlmiamiland060b" txd="mall_ground" flags="" lodDistance="180"></definition>
 </zoneDefinitions>
