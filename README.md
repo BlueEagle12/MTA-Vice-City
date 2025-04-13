@@ -1,15 +1,40 @@
 # MTA-Vice-City
 
-Full vice city conversion for MTA:SA
+A full **Grand Theft Auto: Vice City** map conversion for **Multi Theft Auto: San Andreas (MTA:SA)**.
 
-Feel free to post any bugs in Issues, or directly message me on discord.
-If you have a bug fix make a pull request and inform me and I'll review it.
+This project brings the iconic 1980s Miami-inspired world of **GTA: Vice City** into the MTA:SA engine—complete with buildings, roads, water systems, and environmental props.
 
-Requires eagleLoader
-[Link](https://github.com/BlueEagle12/MTA-SA---Eagle-Loader)
+Whether you're nostalgic for Vice City's neon-lit skyline or developing your own gamemodes in its familiar streets, this resource provides a perfect base for your server.
 
-Join us on discord for any map support or easier bug reports.
-[EagleInc Discord](https://discord.gg/dp5sp7tD3B)
+---
 
+##  Features
 
-REQUIRES NIGHTLY EAGLE LOADER
+- Full **Vice City** world map ported into MTA:SA
+- Water map conversion
+- Optimized for performance and EagleLoader integration
+- Assets are packed using **IMG containers** for faster loading and downloading
+  
+---
+
+## Requirements
+
+This resource **requires [EagleLoader](https://github.com/BlueEagle12/MTA-SA---Eagle-Loader)** for dynamic model and texture loading.
+
+---
+
+## Bug Reports & Contributions
+
+- Found a bug? Please open an issue or report it on [Discord](https://discord.gg/dp5sp7tD3B)
+- Have a fix? Submit a pull request and let me know so I can review it.
+
+---
+
+## Community & Support
+
+Join the **EagleInc Discord** for:
+- Support with integration or scripting
+- Easier bug reporting
+- Feedback & collaboration
+
+[Join the Black Bear Studios Discord](https://discord.gg/dp5sp7tD3B)
