@@ -159,7 +159,7 @@ addEventHandler('onClientRender', root,
 				local mapY = (((3000 - playerY) * Minimap.MapUnit) - (Bigmap.Height / 2) * Bigmap.CurrentZoom);
 				local mapWidth, mapHeight = Bigmap.Width * Bigmap.CurrentZoom, Bigmap.Height * Bigmap.CurrentZoom;
 
-				dxDrawImageSection(Bigmap.PosX, Bigmap.PosY, Bigmap.Width, Bigmap.Height, mapX, mapY, mapWidth, mapHeight, Minimap.MapTexture, 0, 0, 0, tocolor(255, 255, 255, Minimap.Alpha));
+				dxDrawImagesection(Bigmap.PosX, Bigmap.PosY, Bigmap.Width, Bigmap.Height, mapX, mapY, mapWidth, mapHeight, Minimap.MapTexture, 0, 0, 0, tocolor(255, 255, 255, Minimap.Alpha));
 				
 				--> Radar area
 				for _, area in ipairs(getElementsByType('radararea')) do
@@ -362,7 +362,7 @@ addEventHandler('onClientRender', root,
 						
 				if (blipX >= Bigmap.PosX and blipX <= Bigmap.PosX + Bigmap.Width) then
 					if (blipY >= Bigmap.PosY and blipY <= Bigmap.PosY + Bigmap.Height) then
-						dxDrawImage(blipX - 10, blipY - 10, 20, 20, 'images/arrow.png', 360 - playerRotation);
+						dxDrawImage(blipX - 10, blipY - 10, 20, 20, 'Images/arrow.png', 360 - playerRotation);
 					end
 				end
 				
@@ -411,7 +411,7 @@ addEventHandler('onClientRender', root,
 				--> Set world
 				dxSetRenderTarget(Minimap.MapTarget, true);
 				dxDrawRectangle(0, 0, Minimap.BiggerTargetSize, Minimap.BiggerTargetSize, tocolor(Minimap.WaterColor[1], Minimap.WaterColor[2], Minimap.WaterColor[3], Minimap.WaterColor[4]*Minimap.Alpha), false);
-				dxDrawImageSection(0, 0, Minimap.BiggerTargetSize, Minimap.BiggerTargetSize, mapX, mapY, mapWidth, mapHeight, Minimap.MapTexture, 0, 0, 0, tocolor(255, 255, 255, Minimap.Alpha), false);
+				dxDrawImagesection(0, 0, Minimap.BiggerTargetSize, Minimap.BiggerTargetSize, mapX, mapY, mapWidth, mapHeight, Minimap.MapTexture, 0, 0, 0, tocolor(255, 255, 255, Minimap.Alpha), false);
 				
 				--> Draw radar areas
 				for _, area in ipairs(getElementsByType('radararea')) do
@@ -529,10 +529,10 @@ addEventHandler('onClientRender', root,
 				
 				--> Draw fully minimap
 				dxSetRenderTarget();
-				dxDrawImageSection(Minimap.PosX, Minimap.PosY, Minimap.Width, Minimap.Height, Minimap.NormalTargetSize / 2 + (Minimap.BiggerTargetSize / 2) - (Minimap.Width / 2), Minimap.NormalTargetSize / 2 + (Minimap.BiggerTargetSize / 2) - (Minimap.Height / 2), Minimap.Width, Minimap.Height, Minimap.RenderTarget, 0, -90, 0, tocolor(255, 255, 255, 255));
+				dxDrawImagesection(Minimap.PosX, Minimap.PosY, Minimap.Width, Minimap.Height, Minimap.NormalTargetSize / 2 + (Minimap.BiggerTargetSize / 2) - (Minimap.Width / 2), Minimap.NormalTargetSize / 2 + (Minimap.BiggerTargetSize / 2) - (Minimap.Height / 2), Minimap.Width, Minimap.Height, Minimap.RenderTarget, 0, -90, 0, tocolor(255, 255, 255, 255));
 				
 				--> Local player
-				dxDrawImage((Minimap.PosX + (Minimap.Width / 2)) - 10, (Minimap.PosY + (Minimap.Height / 2)) - 10, 20, 20, 'images/arrow.png', math.deg(-pRotation) - playerRotation);
+				dxDrawImage((Minimap.PosX + (Minimap.Width / 2)) - 10, (Minimap.PosY + (Minimap.Height / 2)) - 10, 20, 20, 'Images/arrow.png', math.deg(-pRotation) - playerRotation);
 			
 				--> GPS
 				--dxDrawRectangle(Minimap.PosX, Minimap.PosY + Minimap.Height - 25, Minimap.Width, 25, tocolor(0, 0, 0, 150));
