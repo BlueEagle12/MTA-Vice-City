@@ -36,4 +36,4 @@ Join the **EagleInc Discord** for:
 - Easier bug reporting
 - Feedback & collaboration
 
-[Join the EagleInc Discord](https://discord.gg/dp5sp7tD3B)
+[Join the Black Bear Studios Discord](https://discord.gg/dp5sp7tD3B)
