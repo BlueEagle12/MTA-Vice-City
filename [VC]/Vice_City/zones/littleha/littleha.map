@@ -75,10 +75,6 @@
     <building  id="littlehacoast02" posX="1103.64" posY="-1522.08" posZ="13.0347" rotX="0" rotY="-0" rotZ="-0" lodParent="LODtlehacoast02"></building>
     <building  id="lh_buildingg1" posX="961.81" posY="-1484.06" posZ="12.5491" rotX="0" rotY="-0" rotZ="-0" lodParent="LODbuildingg1"></building>
     <building  id="miamiland170" posX="891.5" posY="-1490.07" posZ="13.0663" rotX="0" rotY="-0" rotZ="-0" lodParent="LODmiland170"></building>
-
-        <building id="miamiland170" model="8585" posX="-1108.5" posY="-540.07422" posZ="12.56631" rotX="0" rotY="-0" rotZ="0" interior="0" lodID="lodmiland170"></building>
-
-        
     <building  id="miamiland171" posX="868.54" posY="-1311.74" posZ="9.6099" rotX="0" rotY="-0" rotZ="-0" lodParent="lodmiland171"></building>
     <building  id="miamiland172" posX="782.79" posY="-1298.09" posZ="10.7139" rotX="0" rotY="-0" rotZ="-0" lodParent="lodmiland172"></building>
     <building  id="miamiland173" posX="895.89" posY="-1270.59" posZ="7.4852" rotX="0" rotY="-0" rotZ="-0" lodParent="LODmiland173"></building>

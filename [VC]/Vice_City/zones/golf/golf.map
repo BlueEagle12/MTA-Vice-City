@@ -184,5 +184,4 @@
     <building  id="gf_treesfw3_01" posX="2050.81" posY="-979.513" posZ="25.1046" rotX="0" rotY="-0" rotZ="-0"></building>
     <building  id="gf_treesfw5_01" posX="1819" posY="-426.781" posZ="20.4238" rotX="0" rotY="-0" rotZ="-0"></building>
     <building  id="gf_treesfw4_01" posX="2158.01" posY="-425.783" posZ="21.3566" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building  id="gf_treesfw4_01" posX="2158.01" posY="-425.783" posZ="21.3566" rotX="0" rotY="-0" rotZ="-0" lodParent="gf_treesfw4_01"></building>
 </map>

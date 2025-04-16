@@ -85,15 +85,7 @@
     <building  id="4x4signstop" posX="2702.17" posY="-228.874" posZ="8.7019" rotX="0" rotY="-0" rotZ="-0"></building>
     <building  id="4x4rockstop" posX="2783.556" posY="-182.849" posZ="4.6013" rotX="0" rotY="-0" rotZ="-0"></building>
     <building  id="shopfronts03" posX="2387.822" posY="-192.148" posZ="12.6443" rotX="0" rotY="-0" rotZ="-0" lodParent="LODpfronts03"></building>
-
-
-    <building id="shpfrnts03rail02" model="8585" posX="387.82227" posY="813.82324" posZ="18.52585" rotX="0" rotY="-0" rotZ="0" interior="0"></building> -- OLD
-
-
     <building  id="shpfrnts03rail02" posX="2387.822" posY="-136.177" posZ="19.0258" rotX="0" rotY="-0" rotZ="-0"></building>
-
-
-
     <building  id="shpfrnts03rail01" posX="2387.822" posY="-248.119" posZ="19.0259" rotX="0" rotY="-0" rotZ="-0"></building>
     <building  id="nbhotel02glss" posX="2558.601" posY="64.88" posZ="13.8981" rotX="0" rotY="-0" rotZ="-0"></building>
     <building  id="nb_road01" posX="2543.843" posY="-252.975" posZ="4.6124" rotX="0" rotY="-0" rotZ="-0" lodParent="LODroad01"></building>
