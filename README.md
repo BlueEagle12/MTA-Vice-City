@@ -25,7 +25,7 @@ This resource **requires [EagleLoader](https://github.com/BlueEagle12/MTA-SA---E
 
 ## Bug Reports & Contributions
 
-- Found a bug? Please open an issue or report it on [Discord](https://discord.gg/dp5sp7tD3B)
+- Found a bug? Please open an issue or report it on [Discord](https://discord.gg/q8ZTfGqRXj)
 - Have a fix? Submit a pull request and let me know so I can review it.
 
 ---
@@ -37,4 +37,4 @@ Join the **EagleInc Discord** for:
 - Easier bug reporting
 - Feedback & collaboration
 
-[Join the Black Bear Studios Discord](https://discord.gg/dp5sp7tD3B)
+[Join the Black Bear Studios Discord](https://discord.gg/q8ZTfGqRXj)
