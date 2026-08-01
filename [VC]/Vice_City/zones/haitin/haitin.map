@@ -72,7 +72,7 @@
     <building id="haicoast4" lodParent="LODcoast4" posX="900.51" posY="-768.981" posZ="-12.6733" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="haicoast5" lodParent="LODcoast5" posX="917.96" posY="-592.539" posZ="-12.9273" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="haigrnda1" lodParent="LODgrnda1" posX="1075.95" posY="-552.529" posZ="4.5653" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="havanahouse12" lodParent="LODanahouse12" posX="1052.04" posY="-733.524" posZ="7.5282" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="havanahouse12" lodParent="lod_havanahouse12" posX="1052.04" posY="-733.524" posZ="7.5282" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ih-sjmcrush" lodParent="LODsjmcrush" posX="699.17" posY="-807.147" posZ="11.6331" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ih-sjmphil" posX="888.29" posY="-613.13" posZ="11.3562" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="sjmcrushgate" posX="942.38" posY="-630.191" posZ="7.4569" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -249,4 +249,5 @@
     <object id="Gen_doorSHOP3" posX="940.831" posY="-865.5" posZ="4.8296" rotX="0" rotY="-0" rotZ="-89.999922020402"></object>
     <object id="Gen_doorSHOP02" posX="1036.457" posY="-803.493" posZ="2.855" rotX="0" rotY="-0" rotZ="-0"></object>
     <object id="Gen_doorSHOP01" posX="918.464" posY="-865.527" posZ="4.688" rotX="6.0517568109308e-10" rotY="1.2044160052858e-15" rotZ="89.999771940814"></object>
+    <building id="lod_havanahouse12" posX="1052.040039" posY="-733.523987" posZ="7.528200" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
 </map>

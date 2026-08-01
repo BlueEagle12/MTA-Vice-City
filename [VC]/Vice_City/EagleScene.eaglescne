@@ -1,0 +1,80 @@
+{
+  "format": "EagleScene",
+  "revision": 131,
+  "sections": {
+    "lights": {
+      "lights": [
+        {
+          "castsShadow": true,
+          "color": [
+            1.0,
+            0.9599999785423279,
+            0.8600000143051147
+          ],
+          "direction": [
+            0.44999998807907104,
+            0.3499999940395355,
+            -0.8199999928474426
+          ],
+          "intensity": 1.0,
+          "kind": "directional",
+          "name": "Sun",
+          "pointLobe": "omni",
+          "position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "profile": "day",
+          "radius": 0.0,
+          "temperature": 5600.0,
+          "useTemperature": false
+        },
+        {
+          "castsShadow": false,
+          "color": [
+            0.3199999928474426,
+            0.47999998927116394,
+            0.8199999928474426
+          ],
+          "direction": [
+            -0.3499999940395355,
+            -0.25,
+            -0.8999999761581421
+          ],
+          "intensity": 0.3499999940395355,
+          "kind": "directional",
+          "name": "Moon",
+          "pointLobe": "omni",
+          "position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "profile": "night",
+          "radius": 0.0,
+          "temperature": 9000.0,
+          "useTemperature": false
+        }
+      ],
+      "version": 1
+    },
+    "materialClasses": {
+      "materials": [],
+      "version": 2
+    },
+    "materialEmitters": {
+      "emitters": [],
+      "version": 2
+    },
+    "safeCollisions": {
+      "safeCollisions": [],
+      "version": 1
+    },
+    "shadowCasters": {
+      "overrides": [],
+      "version": 1
+    }
+  },
+  "version": 1
+}

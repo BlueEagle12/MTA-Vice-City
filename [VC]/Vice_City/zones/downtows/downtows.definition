@@ -1,113 +1,119 @@
 <zoneDefinitions>
+    <override id="Gen_doorEXT04" lodDistance="170" />
+    <override id="Gen_doorEXT15" lodDistance="170" />
     <definition col="LOD_buildnew1" flags="" id="LOD_buildnew1" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
     <definition col="LOD_buildnew2" flags="" id="LOD_buildnew2" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
     <definition col="LOD_pizzaplacedt" flags="" id="LOD_pizzaplacedt" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
-    <definition col="LODd_downtown05" flags="" id="LODd_downtown05" lodDistance="1500" txd="dts_LODsmall" zone="downtows"></definition>
-    <definition col="LODd_downtown06" flags="" id="LODd_downtown06" lodDistance="1000" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODd_downtown05" flags="" id="LODd_downtown05" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODd_downtown06" flags="" id="LODd_downtown06" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
     <definition col="LODd_downtown07" flags="" id="LODd_downtown07" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
-    <definition col="LODd_downtown08" flags="" id="LODd_downtown08" lodDistance="1000" txd="dts_LODsmall" zone="downtows"></definition>
-    <definition col="LODd_downtown09" flags="" id="LODd_downtown09" lodDistance="1000" txd="dts_LODsmall" zone="downtows"></definition>
-    <definition col="LODd_downtown10" flags="" id="LODd_downtown10" lodDistance="1000" txd="dts_LODsmall" zone="downtows"></definition>
-    <definition col="LODd_downtown_new1" flags="" id="LODd_downtown_new1" lodDistance="1000" txd="dts_LODsmall" zone="downtows"></definition>
-    <definition col="LODmiamilanda" flags="" id="LODmiamilanda" lodDistance="1000" txd="dts_LODsmall" zone="downtows"></definition>
-    <definition col="LODnbeach07" flags="" id="LODnbeach07" lodDistance="2000" txd="dts_LODsmall" zone="downtows"></definition>
-    <definition col="LODnbeach08" flags="" id="LODnbeach08" lodDistance="2000" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODd_downtown08" flags="" id="LODd_downtown08" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODd_downtown09" flags="" id="LODd_downtown09" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODd_downtown10" flags="" id="LODd_downtown10" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODd_downtown_new1" flags="" id="LODd_downtown_new1" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODmiamilanda" flags="" id="LODmiamilanda" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODnbeach07" flags="" id="LODnbeach07" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODnbeach08" flags="" id="LODnbeach08" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
     <definition col="LODntoon10" flags="" id="LODntoon10" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
-    <definition col="LODntoon13" flags="" id="LODntoon13" lodDistance="1000" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODntoon13" flags="" id="LODntoon13" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
     <definition col="LODntoon14" flags="" id="LODntoon14" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
     <definition col="LODntoon16" flags="" id="LODntoon16" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
-    <definition col="LODntoon23" flags="" id="LODntoon23" lodDistance="2000" txd="dts_LODbig" zone="downtows"></definition>
+    <definition col="LODntoon23" flags="" id="LODntoon23" lodDistance="700" txd="dts_lodbig" zone="downtows"></definition>
     <definition col="LODntoon40" flags="" id="LODntoon40" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
     <definition col="LODntoon41" flags="" id="LODntoon41" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
     <definition col="LODntoon44" flags="" id="LODntoon44" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
     <definition col="LODntoon45" flags="" id="LODntoon45" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
-    <definition col="LODntoon65" flags="" id="LODntoon65" lodDistance="1000" txd="dts_LODsmall" zone="downtows"></definition>
-    <definition col="LODntoon66" flags="" id="LODntoon66" lodDistance="1000" txd="dts_LODsmall" zone="downtows"></definition>
-    <definition col="LODntoon72" flags="" id="LODntoon72" lodDistance="1200" txd="dts_LODbig" zone="downtows"></definition>
-    <definition col="LODntoon72b" flags="" id="LODntoon72b" lodDistance="1200" txd="dts_LODbig" zone="downtows"></definition>
-    <definition col="LODntoon73" flags="" id="LODntoon73" lodDistance="1200" txd="dts_LODbig" zone="downtows"></definition>
-    <definition col="LODntoon73b" flags="" id="LODntoon73b" lodDistance="1200" txd="dts_LODbig" zone="downtows"></definition>
-    <definition col="LODntoon74" flags="" id="LODntoon74" lodDistance="2000" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODntoon65" flags="" id="LODntoon65" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODntoon66" flags="" id="LODntoon66" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODntoon72" flags="" id="LODntoon72" lodDistance="700" txd="dts_lodbig" zone="downtows"></definition>
+    <definition col="LODntoon72b" flags="" id="LODntoon72b" lodDistance="700" txd="dts_lodbig" zone="downtows"></definition>
+    <definition col="LODntoon73" flags="" id="LODntoon73" lodDistance="700" txd="dts_lodbig" zone="downtows"></definition>
+    <definition col="LODntoon73b" flags="" id="LODntoon73b" lodDistance="700" txd="dts_lodbig" zone="downtows"></definition>
+    <definition col="LODntoon74" flags="" id="LODntoon74" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
     <definition col="LODntoon77" flags="" id="LODntoon77" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
-    <definition col="LODntoon_shops" flags="" id="LODntoon_shops" lodDistance="2000" txd="dts_LODbig" zone="downtows"></definition>
+    <definition col="LODntoon_shops" flags="" id="LODntoon_shops" lodDistance="700" txd="dts_lodbig" zone="downtows"></definition>
     <definition col="LODntoon_top01" flags="" id="LODntoon_top01" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
     <definition col="LODntoon_top03" flags="" id="LODntoon_top03" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
     <definition col="LODntoon_top04" flags="" id="LODntoon_top04" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
-    <definition col="LODntoon_top05" flags="" id="LODntoon_top05" lodDistance="1000" txd="dts_LODsmall" zone="downtows"></definition>
-    <definition col="LODntoon_top07" flags="" id="LODntoon_top07" lodDistance="2000" txd="dts_LODbig" zone="downtows"></definition>
-    <definition col="LODntoon_top08" flags="" id="LODntoon_top08" lodDistance="2000" txd="dts_LODbig" zone="downtows"></definition>
+    <definition col="LODntoon_top05" flags="" id="LODntoon_top05" lodDistance="700" txd="dts_LODsmall" zone="downtows"></definition>
+    <definition col="LODntoon_top07" flags="" id="LODntoon_top07" lodDistance="700" txd="dts_lodbig" zone="downtows"></definition>
+    <definition col="LODntoon_top08" flags="" id="LODntoon_top08" lodDistance="700" txd="dts_lodbig" zone="downtows"></definition>
     <definition col="LODspotlite_01" flags="" id="LODspotlite_01" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
-    <definition col="bikeshop_glass" flags="2,10" id="bikeshop_glass" lodDistance="80" txd="dts_shops1" zone="downtows"></definition>
-    <definition col="bikeshop_glass2" flags="2,10" id="bikeshop_glass2" lodDistance="80" txd="dts_shops1" zone="downtows"></definition>
+    <definition col="bikeshop_glass" flags="2,10" id="bikeshop_glass" lodDistance="170" txd="dts_shops1" zone="downtows"></definition>
+    <definition col="bikeshop_glass2" flags="2,10" id="bikeshop_glass2" lodDistance="170" txd="dts_shops1" zone="downtows"></definition>
     <definition col="doontoon10" flags="" id="doontoon10" lodDistance="200" txd="dt_sheraton" zone="downtows"></definition>
-    <definition col="doontoon13" flags="" id="doontoon13" lodDistance="160" txd="dts_shops_new1" zone="downtows"></definition>
-    <definition col="doontoon14" flags="" id="doontoon14" lodDistance="140" txd="dt_firestation2" zone="downtows"></definition>
-    <definition col="doontoon16" flags="" id="doontoon16" lodDistance="150" txd="dt_shops" zone="downtows"></definition>
+    <definition col="doontoon13" flags="" id="doontoon13" lodDistance="200" txd="dts_shops_new1" zone="downtows"></definition>
+    <definition col="doontoon14" flags="" id="doontoon14" lodDistance="200" txd="dt_firestation2" zone="downtows"></definition>
+    <definition col="doontoon16" flags="" id="doontoon16" lodDistance="200" txd="dt_shops" zone="downtows"></definition>
     <definition col="doontoon23_01" flags="" id="doontoon23_01" lodDistance="200" txd="dt_tall_build01" zone="downtows"></definition>
-    <definition col="doontoon23_02" flags="" id="doontoon23_02" lodDistance="250" txd="dt_tall_build01" zone="downtows"></definition>
-    <definition col="doontoon40" flags="" id="doontoon40" lodDistance="120" txd="dts_copshop" zone="downtows"></definition>
-    <definition col="doontoon41" flags="7" id="doontoon41" lodDistance="100" txd="dt_firestation" zone="downtows"></definition>
-    <definition col="doontoon44" flags="7" id="doontoon44" lodDistance="190" txd="dt_firestation" zone="downtows"></definition>
-    <definition col="doontoon45" flags="" id="doontoon45" lodDistance="120" txd="dts_copshop" zone="downtows"></definition>
+    <definition col="doontoon23_02" flags="" id="doontoon23_02" lodDistance="300" txd="dt_tall_build01" zone="downtows"></definition>
+    <definition col="doontoon40" flags="" id="doontoon40" lodDistance="200" txd="dts_copshop" zone="downtows"></definition>
+    <definition col="doontoon41" flags="7" id="doontoon41" lodDistance="200" txd="dt_firestation" zone="downtows"></definition>
+    <definition col="doontoon44" flags="7" id="doontoon44" lodDistance="200" txd="dt_firestation" zone="downtows"></definition>
+    <definition col="doontoon45" flags="" id="doontoon45" lodDistance="200" txd="dts_copshop" zone="downtows"></definition>
     <definition col="doontoon65" flags="" id="doontoon65" lodDistance="200" txd="dts_ground" zone="downtows"></definition>
-    <definition col="doontoon66" flags="" id="doontoon66" lodDistance="250" txd="dts_ground" zone="downtows"></definition>
-    <definition col="doontoon66_bushes01" flags="2" id="doontoon66_bushes01" lodDistance="150" txd="genericvc" zone="downtows"></definition>
-    <definition col="doontoon72" flags="" id="doontoon72" lodDistance="250" txd="dts_grassbits" zone="downtows"></definition>
-    <definition col="doontoon72b" flags="" id="doontoon72b" lodDistance="250" txd="dts_grassbits" zone="downtows"></definition>
-    <definition col="doontoon73" flags="" id="doontoon73" lodDistance="250" txd="dts_grassbits" zone="downtows"></definition>
-    <definition col="doontoon73b" flags="" id="doontoon73b" lodDistance="250" txd="dts_grassbits" zone="downtows"></definition>
-    <definition col="doontoon74" flags="" id="doontoon74" lodDistance="250" txd="dt_CUNT2" zone="downtows"></definition>
-    <definition col="doontoon77" flags="7" id="doontoon77" lodDistance="90" txd="dt_firestation" zone="downtows"></definition>
+    <definition col="doontoon66" flags="" id="doontoon66" lodDistance="200" txd="dts_ground" zone="downtows"></definition>
+    <definition col="doontoon66_bushes01" flags="2" id="doontoon66_bushes01" lodDistance="170" txd="genericvc" zone="downtows"></definition>
+    <definition col="doontoon72" flags="" id="doontoon72" lodDistance="200" txd="dts_grassbits" zone="downtows"></definition>
+    <definition col="doontoon72b" flags="" id="doontoon72b" lodDistance="200" txd="dts_grassbits" zone="downtows"></definition>
+    <definition col="doontoon73" flags="" id="doontoon73" lodDistance="200" txd="dts_grassbits" zone="downtows"></definition>
+    <definition col="doontoon73b" flags="" id="doontoon73b" lodDistance="200" txd="dts_grassbits" zone="downtows"></definition>
+    <definition col="doontoon74" flags="" id="doontoon74" lodDistance="200" txd="dt_CUNT2" zone="downtows"></definition>
+    <definition col="doontoon77" flags="7" id="doontoon77" lodDistance="200" txd="dt_firestation" zone="downtows"></definition>
     <definition col="doontoon_shops" flags="" id="doontoon_shops" lodDistance="200" txd="dts_shops" zone="downtows"></definition>
-    <definition col="doontoon_top01" flags="" id="doontoon_top01" lodDistance="150" txd="dt_firestation" zone="downtows"></definition>
-    <definition col="doontoon_top02" flags="" id="doontoon_top02" lodDistance="150" txd="shipthisgamenow" zone="downtows"></definition>
+    <definition col="doontoon_top01" flags="" id="doontoon_top01" lodDistance="200" txd="dt_firestation" zone="downtows"></definition>
+    <definition col="doontoon_top02" flags="" id="doontoon_top02" lodDistance="200" txd="shipthisgamenow" zone="downtows"></definition>
     <definition col="doontoon_top03" flags="2" id="doontoon_top03" lodDistance="200" txd="dts_grassbits" zone="downtows"></definition>
-    <definition col="doontoon_top04" flags="" id="doontoon_top04" lodDistance="230" txd="dt_sheraton" zone="downtows"></definition>
+    <definition col="doontoon_top04" flags="" id="doontoon_top04" lodDistance="200" txd="dt_sheraton" zone="downtows"></definition>
     <definition col="doontoon_top05" flags="" id="doontoon_top05" lodDistance="200" txd="dt_sheraton" zone="downtows"></definition>
     <definition col="doontoon_top07" flags="" id="doontoon_top07" lodDistance="200" txd="dt_newtest2" zone="downtows"></definition>
-    <definition col="doontoon_top08" flags="" id="doontoon_top08" lodDistance="250" txd="dt_newtest1" zone="downtows"></definition>
-    <definition col="dow_pizzaplacedt" flags="" id="dow_pizzaplacedt" lodDistance="130" txd="dts_shops" zone="downtows"></definition>
-    <definition col="dowbikershop" flags="" id="dowbikershop" lodDistance="150" txd="dts_shops1" zone="downtows"></definition>
-    <definition col="dt_carpsaces03" flags="2" id="dt_carpsaces03" lodDistance="45" txd="dt_newtest1" zone="downtows"></definition>
-    <definition col="dt_carpsaces06" flags="2" id="dt_carpsaces06" lodDistance="60" txd="dt_firestation" zone="downtows"></definition>
-    <definition col="dt_carpsaces2" flags="2" id="dt_carpsaces2" lodDistance="25" txd="dt_sheraton" zone="downtows"></definition>
-    <definition col="dt_carspaces1" flags="2" id="dt_carspaces1" lodDistance="70" txd="dt_sheraton" zone="downtows"></definition>
-    <definition col="dt_nbeach07" flags="" id="dt_nbeach07" lodDistance="250" txd="dts_nbeach" zone="downtows"></definition>
-    <definition col="dt_nbeach08" flags="" id="dt_nbeach08" lodDistance="250" txd="dts_nbeach" zone="downtows"></definition>
-    <definition col="dt_scabby_fence01" flags="2" id="dt_scabby_fence01" lodDistance="80" txd="dt_firestation" zone="downtows"></definition>
-    <definition col="dt_scabby_fence03" flags="2" id="dt_scabby_fence03" lodDistance="80" txd="dt_firestation" zone="downtows"></definition>
-    <definition col="dt_scabby_fence04" flags="2" id="dt_scabby_fence04" lodDistance="120" txd="dt_firestation" zone="downtows"></definition>
-    <definition col="dt_scabby_fence07" flags="2" id="dt_scabby_fence07" lodDistance="120" txd="dt_firestation" zone="downtows"></definition>
-    <definition col="dt_sheraton_fence" flags="" id="dt_sheraton_fence" lodDistance="250" txd="dt_sheraton" zone="downtows"></definition>
-    <definition col="dt_spotlite_01" flags="" id="dt_spotlite_01" lodDistance="180" txd="dt_CUNT" zone="downtows"></definition>
-    <definition col="dtn_buildnew1" flags="" id="dtn_buildnew1" lodDistance="90" txd="dts_copshop" zone="downtows"></definition>
-    <definition col="dtn_buildnew2" flags="" id="dtn_buildnew2" lodDistance="90" txd="dts_copshop" zone="downtows"></definition>
-    <definition col="dts_cop_park" flags="2" id="dts_cop_park" lodDistance="90" txd="dts_copshop" zone="downtows"></definition>
-    <definition col="dts_glassplane_a" flags="2,10" id="dts_glassplane_a" lodDistance="100" txd="dts_office" zone="downtows"></definition>
-    <definition col="dts_nitelites1" flags="" id="dts_nitelites1" lodDistance="800" timeIn="19" timeOut="6" txd="dts_nitelites" zone="downtows"></definition>
-    <definition col="dts_offglassa" flags="2" id="dts_offglassa" lodDistance="100" txd="dts_office" zone="downtows"></definition>
-    <definition col="dts_offglassb" flags="2" id="dts_offglassb" lodDistance="20" txd="dts_office" zone="downtows"></definition>
-    <definition col="dts_office2" flags="" id="dts_office2" lodDistance="50" txd="dts_office" zone="downtows"></definition>
-    <definition col="dts_spot_a" flags="" id="dts_spot_a" lodDistance="250" txd="dt_CUNT" zone="downtows"></definition>
-    <definition col="dts_telwire1" flags="2" id="dts_telwire1" lodDistance="200" txd="dts_roads" zone="downtows"></definition>
-    <definition col="dts_telwire2" flags="2" id="dts_telwire2" lodDistance="200" txd="dts_roads" zone="downtows"></definition>
-    <definition col="dts_telwire4" flags="2" id="dts_telwire4" lodDistance="200" txd="dts_roads" zone="downtows"></definition>
-    <definition col="dts_telwire9" flags="2" id="dts_telwire9" lodDistance="200" txd="dts_roads" zone="downtows"></definition>
-    <definition col="dts_tit_stares" flags="2" id="dts_tit_stares" lodDistance="90" txd="dt_CUNT" zone="downtows"></definition>
+    <definition col="doontoon_top08" flags="" id="doontoon_top08" lodDistance="200" txd="dt_newtest1" zone="downtows"></definition>
+    <definition col="dow_pizzaplacedt" flags="" id="dow_pizzaplacedt" lodDistance="200" txd="dts_shops" zone="downtows"></definition>
+    <definition col="dowbikershop" flags="" id="dowbikershop" lodDistance="170" txd="dts_shops1" zone="downtows"></definition>
+    <definition col="dt_carpsaces03" flags="2" id="dt_carpsaces03" lodDistance="170" txd="dt_newtest1" zone="downtows"></definition>
+    <definition col="dt_carpsaces06" flags="2" id="dt_carpsaces06" lodDistance="170" txd="dt_firestation" zone="downtows"></definition>
+    <definition col="dt_carpsaces2" flags="2" id="dt_carpsaces2" lodDistance="170" txd="dt_sheraton" zone="downtows"></definition>
+    <definition col="dt_carspaces1" flags="2" id="dt_carspaces1" lodDistance="170" txd="dt_sheraton" zone="downtows"></definition>
+    <definition col="dt_nbeach07" flags="" id="dt_nbeach07" lodDistance="200" txd="dts_nbeach" zone="downtows"></definition>
+    <definition col="dt_nbeach08" flags="" id="dt_nbeach08" lodDistance="200" txd="dts_nbeach" zone="downtows"></definition>
+    <definition col="dt_scabby_fence01" flags="2" id="dt_scabby_fence01" lodDistance="170" txd="dt_firestation" zone="downtows"></definition>
+    <definition col="dt_scabby_fence03" flags="2" id="dt_scabby_fence03" lodDistance="170" txd="dt_firestation" zone="downtows"></definition>
+    <definition col="dt_scabby_fence04" flags="2" id="dt_scabby_fence04" lodDistance="170" txd="dt_firestation" zone="downtows"></definition>
+    <definition col="dt_scabby_fence07" flags="2" id="dt_scabby_fence07" lodDistance="300" txd="dt_firestation" zone="downtows"></definition>
+    <definition col="dt_sheraton_fence" flags="" id="dt_sheraton_fence" lodDistance="300" txd="dt_sheraton" zone="downtows"></definition>
+    <definition col="dt_spotlite_01" flags="" id="dt_spotlite_01" lodDistance="200" txd="dt_CUNT" zone="downtows"></definition>
+    <definition col="dtn_buildnew1" flags="" id="dtn_buildnew1" lodDistance="200" txd="dts_copshop" zone="downtows"></definition>
+    <definition col="dtn_buildnew2" flags="" id="dtn_buildnew2" lodDistance="200" txd="dts_copshop" zone="downtows"></definition>
+    <definition col="dts_cop_park" flags="2" id="dts_cop_park" lodDistance="170" txd="dts_copshop" zone="downtows"></definition>
+    <definition col="dts_glassplane_a" flags="2,10" id="dts_glassplane_a" lodDistance="170" txd="dts_office" zone="downtows"></definition>
+    <definition col="dts_nitelites1" flags="" id="dts_nitelites1" lodDistance="700" timeIn="19" timeOut="6" txd="dts_nitelites" zone="downtows"></definition>
+    <definition col="dts_offglassa" flags="2" id="dts_offglassa" lodDistance="170" txd="dts_office" zone="downtows"></definition>
+    <definition col="dts_offglassb" flags="2" id="dts_offglassb" lodDistance="170" txd="dts_office" zone="downtows"></definition>
+    <definition col="dts_office2" flags="" id="dts_office2" lodDistance="170" txd="dts_office" zone="downtows"></definition>
+    <definition col="dts_spot_a" flags="" id="dts_spot_a" lodDistance="170" txd="dt_CUNT" zone="downtows"></definition>
+    <definition col="dts_telwire1" flags="2" id="dts_telwire1" lodDistance="170" txd="dts_roads" zone="downtows"></definition>
+    <definition col="dts_telwire2" flags="2" id="dts_telwire2" lodDistance="300" txd="dts_roads" zone="downtows"></definition>
+    <definition col="dts_telwire4" flags="2" id="dts_telwire4" lodDistance="300" txd="dts_roads" zone="downtows"></definition>
+    <definition col="dts_telwire9" flags="2" id="dts_telwire9" lodDistance="300" txd="dts_roads" zone="downtows"></definition>
+    <definition col="dts_tit_stares" flags="2" id="dts_tit_stares" lodDistance="170" txd="dt_CUNT" zone="downtows"></definition>
     <definition col="dw_scuz_kb" flags="" id="dw_scuz_kb" lodDistance="170" txd="hi_cutsafehoos" zone="downtows"></definition>
-    <definition col="dwn_bikerbarfrnt" flags="2" id="dwn_bikerbarfrnt" lodDistance="200" txd="dts_grassbits" zone="downtows"></definition>
-    <definition col="dwnmiamilanda" flags="" id="dwnmiamilanda" lodDistance="140" txd="dts_bikebar_ext" zone="downtows"></definition>
-    <definition col="gluetest19" flags="2" id="gluetest19" lodDistance="150" txd="dt_firestation" zone="downtows"></definition>
+    <definition col="dwn_bikerbarfrnt" flags="2" id="dwn_bikerbarfrnt" lodDistance="170" txd="dts_grassbits" zone="downtows"></definition>
+    <definition col="dwnmiamilanda" flags="" id="dwnmiamilanda" lodDistance="200" txd="dts_bikebar_ext" zone="downtows"></definition>
+    <definition col="gluetest19" flags="2" id="gluetest19" lodDistance="300" txd="dt_firestation" zone="downtows"></definition>
+    <definition col="lod_doontoon_top02" dff="lod_doontoon_top02" flags="" id="lod_doontoon_top02_2" lodDistance="700" txd="lod_doontoon_top02" zone="downtows"></definition>
+    <definition col="lod_dts_nitelites1" flags="" id="lod_dts_nitelites1" lodDistance="700" timeIn="19" timeOut="6" txd="lod_dts_nitelites1" zone="downtows"></definition>
     <definition col="lodsho_recordshop1" flags="" id="lodsho_recordshop1" lodDistance="700" txd="dts_LODsmall2" zone="downtows"></definition>
-    <definition col="new_inside" flags="" id="new_inside" lodDistance="80" txd="dts_office" zone="downtows"></definition>
-    <definition col="new_insideb" flags="2" id="new_insideb" lodDistance="80" txd="dts_office" zone="downtows"></definition>
-    <definition col="recsho_recordshop1" flags="" id="recsho_recordshop1" lodDistance="100" txd="dt_newtest1" zone="downtows"></definition>
-    <definition col="road_downtown05" flags="" id="road_downtown05" lodDistance="250" txd="dts_roads" zone="downtows"></definition>
-    <definition col="road_downtown06" flags="" id="road_downtown06" lodDistance="250" txd="dts_roads" zone="downtows"></definition>
-    <definition col="road_downtown07" flags="" id="road_downtown07" lodDistance="250" txd="dts_roads" zone="downtows"></definition>
-    <definition col="road_downtown08" flags="" id="road_downtown08" lodDistance="250" txd="dts_roads" zone="downtows"></definition>
-    <definition col="road_downtown09" flags="" id="road_downtown09" lodDistance="250" txd="dts_roads" zone="downtows"></definition>
-    <definition col="road_downtown10" flags="" id="road_downtown10" lodDistance="250" txd="dts_roads" zone="downtows"></definition>
-    <definition col="road_downtown_new1" flags="" id="road_downtown_new1" lodDistance="250" txd="dts_roads" zone="downtows"></definition>
-    <definition col="shopwindows_dts" flags="2" id="shopwindows_dts" lodDistance="120" txd="dt_newtest1" zone="downtows"></definition>
+    <override id="mlamppost" lodDistance="170" />
+    <definition col="new_inside" flags="" id="new_inside" lodDistance="170" txd="dts_office" zone="downtows"></definition>
+    <definition col="new_insideb" flags="2" id="new_insideb" lodDistance="170" txd="dts_office" zone="downtows"></definition>
+    <override id="ramp" lodDistance="170" />
+    <definition col="recsho_recordshop1" flags="" id="recsho_recordshop1" lodDistance="200" txd="dt_newtest1" zone="downtows"></definition>
+    <definition col="road_downtown05" flags="" id="road_downtown05" lodDistance="200" txd="dts_roads" zone="downtows"></definition>
+    <definition col="road_downtown06" flags="" id="road_downtown06" lodDistance="200" txd="dts_roads" zone="downtows"></definition>
+    <definition col="road_downtown07" flags="" id="road_downtown07" lodDistance="200" txd="dts_roads" zone="downtows"></definition>
+    <definition col="road_downtown08" flags="" id="road_downtown08" lodDistance="200" txd="dts_roads" zone="downtows"></definition>
+    <definition col="road_downtown09" flags="" id="road_downtown09" lodDistance="200" txd="dts_roads" zone="downtows"></definition>
+    <definition col="road_downtown10" flags="" id="road_downtown10" lodDistance="200" txd="dts_roads" zone="downtows"></definition>
+    <definition col="road_downtown_new1" flags="" id="road_downtown_new1" lodDistance="200" txd="dts_roads" zone="downtows"></definition>
+    <definition col="shopwindows_dts" flags="2" id="shopwindows_dts" lodDistance="170" txd="dt_newtest1" zone="downtows"></definition>
 </zoneDefinitions>

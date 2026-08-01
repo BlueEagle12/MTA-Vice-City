@@ -29,7 +29,7 @@
     <building id="LODwall" posX="317.77" posY="-1145.338" posZ="8.1638" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ap_terminalB1" lodParent="LODterminalB1" posX="353.74" posY="-1450.03" posZ="25.73" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ap_termbbase1" posX="351.63" posY="-1496.906" posZ="4.24874" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="ap_carparkterm1" lodParent="LODcarparkterm1" posX="365.35" posY="-1589.812" posZ="7.595" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ap_carparkterm1" lodParent="lod_ap_carparkterm_2" posX="365.35" posY="-1589.812" posZ="7.595" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ap_smallradar1_02" lodParent="LODsmallradar1_02" posX="552.62" posY="-1553.294" posZ="13.1062" rotX="0" rotY="-0" rotZ="90.000197517502"></building>
     <building id="mc_shed1" posX="333.54" posY="-1090.848" posZ="11.0021" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="mc_tower_01" lodParent="LODtower_01" posX="302.63" posY="-1240.58" posZ="18.9371" rotX="-0.00015203892795494" rotY="0.0001520389412466" rotZ="-179.99999499105"></building>
@@ -88,7 +88,7 @@
     <building id="mc_ground2" lodParent="LODground2" posX="281.46" posY="-1110.154" posZ="-9.78964" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="mc_barrackshad" posX="333.54" posY="-1090.848" posZ="11.0021" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ap_roadsect3b" posX="636.67" posY="-1645.139" posZ="4.78" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="ap_3dbillb" posX="650.07" posY="-1693.036" posZ="18.8036" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ap_3dbillb" lodParent="lod_ap_3dbillb" posX="650.07" posY="-1693.036" posZ="18.8036" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="mb_ammobox1" posX="344.9" posY="-1168.986" posZ="8.7143" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="mb_ammobox2" posX="327.94" posY="-1221.13" posZ="8.7143" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="mb_ammobox3" posX="398" posY="-1094.417" posZ="8.7216" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -220,4 +220,6 @@
     <building id="mc_treesfw1_01" posX="272.24" posY="-1266.504" posZ="22.7896" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="mc_treesfw2_01" posX="515.95" posY="-1269.725" posZ="16.2702" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="mc_treesfw3_01" posX="465.93" posY="-1168.996" posZ="24.1695" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="lod_ap_carparkterm_2" posX="365.350006" posY="-1589.812012" posZ="7.595000" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="lod_ap_3dbillb" posX="650.070007" posY="-1693.036011" posZ="18.803600" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
 </map>

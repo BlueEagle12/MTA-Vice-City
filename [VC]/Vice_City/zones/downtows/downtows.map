@@ -99,7 +99,7 @@
     <building id="doontoon65" lodParent="LODntoon65" posX="1224.68" posY="-79.333" posZ="6.815" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="doontoon66" lodParent="LODntoon66" posX="1428.18" posY="-87.108" posZ="0.54057" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="dt_nbeach07" lodParent="LODnbeach07" posX="882.75" posY="-177.583" posZ="-25.3748" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="doontoon_top02" lodParent="LODntoon_top02" posX="1161.01" posY="-412.906" posZ="-5.5" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="doontoon_top02" lodParent="lod_doontoon_top02_2" posX="1161.01" posY="-412.906" posZ="-5.5" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="shopwindows_dts" posX="1105.84" posY="-152.24" posZ="6.7489" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="doontoon_shops" lodParent="LODntoon_shops" posX="1050.68" posY="-109.945" posZ="42.9944" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="doontoon_top08" lodParent="LODntoon_top08" posX="1097.32" posY="-229.459" posZ="26.5212" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -245,7 +245,7 @@
     <object id="ramp" posX="1126.92" posY="-322.481" posZ="4.23048" rotX="0" rotY="-0" rotZ="90.000197517502"></object>
     <object id="ramp" posX="1103.71" posY="-517.081" posZ="4.13862" rotX="0" rotY="-0" rotZ="-0"></object>
     <object id="ramp" posX="1375.03" posY="-360.703" posZ="4.19893" rotX="0" rotY="-0" rotZ="-0"></object>
-    <building id="dts_nitelites1" posX="1473.56" posY="-144.243" posZ="96.485" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="dts_nitelites1" lodParent="lod_dts_nitelites1" posX="1473.56" posY="-144.243" posZ="96.485" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="doontoon23_01" lodParent="LODntoon23" posX="1473.56" posY="-144.251" posZ="96.485" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="doontoon23_02" posX="1473.56" posY="-144.25" posZ="96.485" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="dts_offglassb" posX="1424.04" posY="-137.985" posZ="18.2506" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -254,4 +254,6 @@
     <object id="Gen_doorEXT05" posX="1080.61" posY="-63.886" posZ="4.5234" rotX="-2.0172529825452e-10" rotY="0.00030407899143701" rotZ="-90.000076019791"></object>
     <object id="Gen_doorEXT15" posX="1140.59" posY="-90.4963" posZ="4.82311" rotX="0" rotY="-0" rotZ="-92.000033407293"></object>
     <object id="Gen_doorEXT04" posX="1170.65" posY="-204.09" posZ="4.748" rotX="0" rotY="-0" rotZ="174.9999838359"></object>
+    <building id="lod_doontoon_top02_2" posX="1161.010010" posY="-412.906006" posZ="-5.500000" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="lod_dts_nitelites1" posX="1473.560059" posY="-144.242996" posZ="96.485001" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
 </map>

@@ -45,7 +45,7 @@
     <building id="LODrbits55" posX="2245.045" posY="-1130.037" posZ="8.2415" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODrbits57" posX="2228.149" posY="-1165.082" posZ="8.2415" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODrbits59" posX="2211.387" posY="-1199.859" posZ="8.2415" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODhotel10" posX="2335.565" posY="-1109.035" posZ="12.3512" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LODhotel10" posX="2335.565" posY="-1109.035" posZ="12.3512" rotX="0" rotY="-0" rotZ="-0" uniqueID="10"></building>
     <building id="LOD_hotel08" posX="2103.858" posY="-1465.92" posZ="23.9265" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LOD_hotel15" posX="2038.085" posY="-1498.944" posZ="23.9265" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LOD_htlpoolbase03" posX="2111.561" posY="-1494.207" posZ="5.5313" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -115,7 +115,7 @@
     <building id="starbits58" lodParent="LODrbits58" posX="2219.967" posY="-1182.888" posZ="8.2318" rotX="0" rotY="-0" rotZ="-24.999924720271"></building>
     <building id="starbits59" lodParent="LODrbits59" posX="2211.387" posY="-1199.859" posZ="8.2415" rotX="0" rotY="-0" rotZ="-25.99999181718"></building>
     <building id="nbthotel08fence02" posX="2335.565" posY="-1109.035" posZ="12.3512" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="nbthotel10" lodParent="LODhotel10" posX="2335.565" posY="-1109.035" posZ="12.3512" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="nbthotel10" lodParent="LODhotel10" posX="2335.565" posY="-1109.035" posZ="12.3512" rotX="0" rotY="-0" rotZ="-0" uniqueID="10"></building>
     <building id="nbt_hotel08" lodParent="LOD_hotel08" posX="2103.858" posY="-1465.92" posZ="23.9265" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="stardepot" lodParent="LODrdepot" posX="2299.425" posY="-1257.961" posZ="11.4628" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="nbt_hotel13" lodParent="LOD_hotel13" posX="2126.332" posY="-1537.081" posZ="23.9265" rotX="0" rotY="-0" rotZ="-0"></building>

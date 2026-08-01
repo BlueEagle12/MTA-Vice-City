@@ -42,7 +42,7 @@
     <building id="LODhbuild050" posX="2029.28" posY="-2402.82" posZ="10.23" rotX="-5.2000580948441e-05" rotY="0.0002949107893885" rotZ="-109.99997508688"></building>
     <building id="LODhbuild058" posX="2084.96" posY="-2397.71" posZ="12.9422" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODhbuild018" posX="2004.53" posY="-2361.87" posZ="7.9034" rotX="-2.3465028133347e-07" rotY="-1.0584386859323e-06" rotZ="-2.1933053581669e-21"></building>
-    <building id="LODbuildws13" posX="1973.82" posY="-2457.47" posZ="8.4229" rotX="-2.4949480935015e-06" rotY="-2.1827957833989e-07" rotZ="-5.0000003486085"></building>
+    <building id="LODbuildws13" posX="1973.82" posY="-2457.47" posZ="8.4229" rotX="-2.4949480935015e-06" rotY="-2.1827957833989e-07" rotZ="-5.0000003486085" uniqueID="9"></building>
     <building id="LODhbuild015" posX="1934.84" posY="-2427.61" posZ="7.0402" rotX="-2.2861932758192e-06" rotY="-0" rotZ="-0"></building>
     <building id="LODhbuild030" posX="1902.94" posY="-2545.07" posZ="9.2617" rotX="0" rotY="-0" rotZ="-2.999993485161"></building>
     <building id="LODhbuild121" posX="2021.66" posY="-2185.83" posZ="5.3173" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -190,7 +190,7 @@
     <building id="wshtelwter1" posX="1840.77" posY="-2195.73" posZ="3.81834" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="washundermall1" lodParent="LODhundermall1" posX="2111.1" posY="-2273.74" posZ="3.33553" rotX="0" rotY="-0" rotZ="-9.9999980154254"></building>
     <building id="washdirtbuild1" posX="1938.63" posY="-2344.71" posZ="11.077" rotX="-1.3250509366192e-05" rotY="5.7850019941298e-07" rotZ="94.999770798879"></building>
-    <building id="wshbuildws13" lodParent="LODbuildws13" posX="1973.82" posY="-2457.47" posZ="8.4229" rotX="-2.4949480935015e-06" rotY="-2.1827957833989e-07" rotZ="-5.0000003486085"></building>
+    <building id="wshbuildws13" lodParent="LODbuildws13" posX="1973.82" posY="-2457.47" posZ="8.4229" rotX="-2.4949480935015e-06" rotY="-2.1827957833989e-07" rotZ="-5.0000003486085" uniqueID="9"></building>
     <building id="scarinterior2" posX="2026.98" posY="-2278.08" posZ="7.92" rotX="0" rotY="-0" rotZ="-5.0000003486085"></building>
     <building id="wshcrprtstuf1" posX="2129.74" posY="-2143.05" posZ="19.5002" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="washcrprkdirt1" posX="2132.1" posY="-2140.44" posZ="13.7427" rotX="0" rotY="-0" rotZ="-0"></building>

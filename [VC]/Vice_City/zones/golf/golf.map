@@ -34,7 +34,7 @@
     <building id="gf_flagstees4" posX="2066.09" posY="-949.08" posZ="13.1023" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_mainisl5_01" lodParent="LODmainisl5_01" posX="1998.75" posY="-1008.45" posZ="5.8272" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_tennisfence" posX="2129.67" posY="-606.974" posZ="14.3844" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="gf_northisland1" lodParent="LODnorthisland1" posX="2152.06" posY="-415.808" posZ="3.0996" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="gf_northisland1" lodParent="lod_gf_northisland_2" posX="2152.06" posY="-415.808" posZ="3.0996" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_northbridge1" lodParent="LODnorthbridge1" posX="2090.92" posY="-545.187" posZ="2.00343" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_smallislebridge1" lodParent="LODsmallislebridge1" posX="2042.85" posY="-1103.09" posZ="3.83955" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_flagstees2" posX="2154.23" posY="-437.479" posZ="7.6303" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -65,22 +65,22 @@
     <building id="golfroad3" lodParent="LODfroad3" posX="2163.76" posY="-758.8" posZ="3.29943" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="golfroad4" lodParent="LODfroad4" posX="2082.38" posY="-656.361" posZ="4.9585" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="golfroad1" lodParent="LODfroad1" posX="2154.17" posY="-643.215" posZ="3.80733" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="golfroad7" posX="2152.06" posY="-415.808" posZ="3.0996" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="golfroad7" lodParent="lod_golfroad7_2" posX="2152.06" posY="-415.808" posZ="3.0996" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="golfroad2" lodParent="LODfroad2" posX="2082.38" posY="-656.361" posZ="4.9585" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="nbt_road12_gf" lodParent="LOD_road12_gf" posX="2212.29" posY="-710.436" posZ="8.5449" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_rollerjump" posX="2079.67" posY="-708.254" posZ="15.9836" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_mainisland3b_01" lodParent="LODmainisland3b_01" posX="2154.17" posY="-643.215" posZ="3.80733" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_golfwall" lodParent="LODgolfwall" posX="2107.77" posY="-722.271" posZ="15.3564" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="golf_gatesopen" posX="2107.77" posY="-722.271" posZ="15.3564" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="gf_northisland1b" posX="2152.06" posY="-415.808" posZ="3.0996" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="gf_northisland1c" posX="2152.06" posY="-415.808" posZ="3.0996" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="gf_northisland1b" lodParent="lod_gf_northisland_3" posX="2152.06" posY="-415.808" posZ="3.0996" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="gf_northisland1c" lodParent="lod_gf_northisland_4" posX="2152.06" posY="-415.808" posZ="3.0996" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_mainisland1m_01" posX="2149.11" posY="-761.012" posZ="3.29943" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_mainisland6n_01" posX="2133.63" posY="-1058.41" posZ="0.78047" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_woodbridge1_01" lodParent="LODwoodbridge1" posX="1991.14" posY="-820.477" posZ="20.643" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_hedge6_01" posX="2115.95" posY="-743.471" posZ="13.7044" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_hedge4_01" posX="1972.34" posY="-859.085" posZ="15.182" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="nbecland13_gf" lodParent="LODcland13_gf" posX="2218.57" posY="-704.323" posZ="-4.37722" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="gf_signPlane01" posX="1934.719971" posY="-859.681030" posZ="18.942699" rotX="85.960" rotY="-1.369" rotZ="97.965"></building>
+    <building id="gf_signPlane01" posX="1934.719971" posY="-859.681030" posZ="18.942699" rotX="85.565" rotY="-1.645" rotZ="97.800"></building>
     <building id="gf_flagstees42" posX="2066.19" posY="-1078.33" posZ="7.8335" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_flagstees43" posX="2061.66" posY="-797.728" posZ="14.5677" rotX="0" rotY="-0" rotZ="-0"></building>
     <object id="veg_palmbig14" posX="2160.93" posY="-667.39" posZ="7.1757" rotX="0" rotY="-0" rotZ="-0"></object>
@@ -184,8 +184,9 @@
     <building id="gf_treesfw2_01" posX="2055.47" posY="-824.174" posZ="30.0559" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_treesfw3_01" posX="2050.81" posY="-979.513" posZ="25.1046" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="gf_treesfw5_01" posX="1819" posY="-426.781" posZ="20.4238" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="gf_treesfw4_01" posX="2158.01" posY="-425.783" posZ="21.3566" rotX="0" rotY="-0" rotZ="-0"></building>
-    <object id="veg_palmbig14" posX="2242.550049" posY="-471.567993" posZ="0.920787" rotX="0.000" rotY="-0.000" rotZ="-17.950"></object>
-    <object id="new_bushtest" posX="2271.403564" posY="-456.230988" posZ="7.624897" rotX="0.000" rotY="-0.000" rotZ="-33.000"></object>
-    <object id="new_bushtest" posX="2144.801270" posY="-499.529114" posZ="10.732303" rotX="0.000" rotY="-0.000" rotZ="-33.000"></object>
+    <building id="gf_treesfw4_01" posX="2158.010010" posY="-425.782990" posZ="21.356600" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="lod_gf_northisland_2" posX="2152.060059" posY="-415.808014" posZ="3.099600" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="lod_gf_northisland_3" posX="2152.060059" posY="-415.808014" posZ="3.099600" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="lod_gf_northisland_4" posX="2152.060059" posY="-415.808014" posZ="3.099600" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="lod_golfroad7_2" posX="2152.060059" posY="-415.808014" posZ="3.099600" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
 </map>

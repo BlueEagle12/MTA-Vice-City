@@ -49,7 +49,7 @@
     <building id="LODoadnew1" posX="2480.34" posY="-36.269" posZ="7.6335" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODecopromnd2" lodParent="LODecopromnd" posX="2417.636" posY="31.683" posZ="8.5086" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODnbbridge1" posX="2218.145" posY="24.23" posZ="-1.54862" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="nbmiamiland048" lodParent="LODiamiland048" posX="2245.858" posY="348.02" posZ="10.9864" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="nbmiamiland048" lodParent="lod_nbmiamiland048_2" posX="2245.858" posY="348.02" posZ="10.9864" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="nbmiamiland049" lodParent="LODiamiland049" posX="2200.312" posY="277.69" posZ="9.8874" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="nbmiamiland050" lodParent="LODiamiland050" posX="2237.395" posY="216.71" posZ="9.6744" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="nbmiamiland051" lodParent="LODiamiland051" posX="2364.767" posY="367.11" posZ="9.9338" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -411,4 +411,5 @@
     <object id="sl_dtdoor1" posX="2446.279" posY="-175.594" posZ="6.414" rotX="0" rotY="-0" rotZ="-44.999961990075"></object>
     <object id="sl_dtdoor1" posX="2531.54" posY="-180.813" posZ="4.718" rotX="0" rotY="-0" rotZ="78.950237392777"></object>
     <object id="Gen_doorEXT11" posX="2379.449" posY="-189.887" posZ="5.205" rotX="0" rotY="-0" rotZ="-89.999923980324"></object>
+    <building id="lod_nbmiamiland048_2" posX="2245.857910" posY="348.019989" posZ="10.986400" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
 </map>

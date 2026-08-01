@@ -1,307 +1,321 @@
 <zoneDefinitions>
-    <definition col="FIX_mlobjects" flags="5,7" id="FIX_mlobjects" lodDistance="50" txd="mall_props" zone="int_VC"></definition>
-    <definition col="Frame1Damaged" flags="2,7" id="Frame1Damaged" lodDistance="100" txd="mansion_details2" zone="int_VC"></definition>
-    <definition col="MALLUNDER" flags="1,2,5,7" id="MALLUNDER" lodDistance="250" txd="malltotal" zone="int_VC"></definition>
-    <definition col="ammunation_dt" flags="5" id="ammunation_dt" lodDistance="100" txd="dt_ammu" zone="int_VC"></definition>
-    <definition col="bank_officedesks1" flags="5" id="bank_officedesks1" lodDistance="80" txd="bye_cutbnkcoch" zone="int_VC"></definition>
-    <definition col="bank_other_strctr" flags="5" id="bank_other_strctr" lodDistance="80" txd="hi_cutbnkmainnw" zone="int_VC"></definition>
-    <definition col="bank_palms02" flags="2,5" id="bank_palms02" lodDistance="80" txd="vegetation" zone="int_VC"></definition>
-    <definition col="bank_palms09" flags="2,5" id="bank_palms09" lodDistance="80" txd="vegetation" zone="int_VC"></definition>
-    <definition col="bank_palms21" flags="2,5" id="bank_palms21" lodDistance="80" txd="vegetation" zone="int_VC"></definition>
-    <definition col="bank_palms23" flags="2,5" id="bank_palms23" lodDistance="80" txd="vegetation" zone="int_VC"></definition>
-    <definition col="bank_palms28" flags="2,5" id="bank_palms28" lodDistance="80" txd="vegetation" zone="int_VC"></definition>
-    <definition col="bank_palms32" flags="2,5" id="bank_palms32" lodDistance="80" txd="vegetation" zone="int_VC"></definition>
-    <definition col="bank_props2" flags="5" id="bank_props2" lodDistance="100" txd="bnk_propy" zone="int_VC"></definition>
-    <definition col="bank_table05" flags="2,5" id="bank_table05" lodDistance="80" txd="bye_cutbnkcoch" zone="int_VC"></definition>
-    <definition col="bank_table1" flags="5" id="bank_table1" lodDistance="80" txd="bye_cutbnkcoch" zone="int_VC"></definition>
-    <definition col="bank_table10" flags="2,5" id="bank_table10" lodDistance="80" txd="bye_cutbnkcoch" zone="int_VC"></definition>
-    <definition col="bank_table4" flags="2,5" id="bank_table4" lodDistance="80" txd="bye_cutbnkcoch" zone="int_VC"></definition>
-    <definition col="bank_vault" flags="5" id="bank_vault" lodDistance="80" txd="hi_cutbnkvault" zone="int_VC"></definition>
-    <definition col="bankrecept" flags="5" id="bankrecept" lodDistance="80" txd="hi_cutbnkrecpt" zone="int_VC"></definition>
-    <definition col="bankrecept01" flags="5" id="bankrecept01" lodDistance="80" txd="hi_cutbnkrecpt" zone="int_VC"></definition>
-    <definition col="bankstructure4" flags="5" id="bankstructure4" lodDistance="80" txd="hi_cutbnkmain3" zone="int_VC"></definition>
-    <definition col="bb_fence1" flags="2,5" id="bb_fence1" lodDistance="20" txd="bb_barroomtrans" zone="int_VC"></definition>
-    <definition col="bb_pooltable1_01" flags="5" id="bb_pooltable1_01" lodDistance="20" txd="bb_barroom" zone="int_VC"></definition>
-    <definition col="bb_roof1_01" flags="5" id="bb_roof1_01" lodDistance="60" txd="bb_barroom" zone="int_VC"></definition>
-    <definition col="bb_walljunk1_01" flags="2,5" id="bb_walljunk1_01" lodDistance="20" txd="bb_barroomtrans" zone="int_VC"></definition>
-    <definition col="bnk_dsk_acses" flags="2,5" id="bnk_dsk_acses" lodDistance="30" txd="hi_cutpropy" zone="int_VC"></definition>
-    <definition col="bnk_dsk_acsesno2" flags="2,5" id="bnk_dsk_acsesno2" lodDistance="30" txd="hi_cutpropy" zone="int_VC"></definition>
-    <definition col="bnk_grill01" flags="5" id="bnk_grill01" lodDistance="80" txd="hi_cutbnkmainnw" zone="int_VC"></definition>
-    <definition col="bnk_lamp_shield" flags="5,21" id="bnk_lamp_shield" lodDistance="80" txd="hi_cutbnkmainnw" zone="int_VC"></definition>
-    <definition col="bnk_main_glass" flags="2,5" id="bnk_main_glass" lodDistance="100" txd="hi_cutbnk_alp" zone="int_VC"></definition>
-    <definition col="bnk_main_rework" flags="5" id="bnk_main_rework" lodDistance="80" txd="hi_cutbnkmainnw" zone="int_VC"></definition>
-    <definition col="bnk_main_rooflights" flags="2,5" id="bnk_main_rooflights" lodDistance="100" txd="hi_cutbnk_alp" zone="int_VC"></definition>
-    <definition col="bnk_mainnewref" flags="5" id="bnk_mainnewref" lodDistance="80" txd="hi_cutbnkmainnw" zone="int_VC"></definition>
-    <definition col="bnk_man_ofc" flags="5" id="bnk_man_ofc" lodDistance="80" txd="hi_cutmngof" zone="int_VC"></definition>
-    <definition col="bnk_man_ofc01" flags="5" id="bnk_man_ofc01" lodDistance="80" txd="hi_cutmngof" zone="int_VC"></definition>
-    <definition col="bnk_mngr_chr" flags="5" id="bnk_mngr_chr" lodDistance="10" txd="hi_cutbnkchr" zone="int_VC"></definition>
-    <definition col="bnk_mngr_rf_lights" flags="2,5" id="bnk_mngr_rf_lights" lodDistance="100" txd="hi_cutbnk_alp" zone="int_VC"></definition>
-    <definition col="bnk_recp_lites" flags="2,5" id="bnk_recp_lites" lodDistance="100" txd="hi_cutbnk_alp" zone="int_VC"></definition>
-    <definition col="bnk_scrty_tbl" flags="2,5" id="bnk_scrty_tbl" lodDistance="80" txd="bye_cutbnkcoch" zone="int_VC"></definition>
-    <definition col="bnk_valt_door" flags="5" id="bnk_valt_door" lodDistance="80" txd="hi_cutbnkvault" zone="int_VC"></definition>
-    <definition col="bugsuckfuck" flags="2,5,7,21" id="bugsuckfuck" lodDistance="200" txd="malltotal" zone="int_VC"></definition>
-    <definition col="cb_CLUBSTAIRS" flags="5,7" id="cb_CLUBSTAIRS" lodDistance="100" txd="hi_cutclubbar" zone="int_VC"></definition>
-    <definition col="chairthings" flags="5" id="chairthings" lodDistance="80" txd="bye_cutbnkcoch" zone="int_VC"></definition>
-    <definition col="chairthings2" flags="2,5" id="chairthings2" lodDistance="80" txd="bye_cutbnkcoch" zone="int_VC"></definition>
-    <definition col="cl_bar_temp1" flags="5,7" id="cl_bar_temp1" lodDistance="100" txd="hi_cutclubbar" zone="int_VC"></definition>
-    <definition col="cl_bckrm_couchs" flags="5,7" id="cl_bckrm_couchs" lodDistance="100" txd="hi_cutcluboffice" zone="int_VC"></definition>
-    <definition col="cl_bckrm_tablewee" flags="5,7" id="cl_bckrm_tablewee" lodDistance="100" txd="hi_cutcluboffice" zone="int_VC"></definition>
-    <definition col="cl_bckrm_tble" flags="5,7" id="cl_bckrm_tble" lodDistance="100" txd="hi_cutcluboffice" zone="int_VC"></definition>
-    <definition col="cl_coolers" flags="2,5,7" id="cl_coolers" lodDistance="100" txd="hi_cutclubbar" zone="int_VC"></definition>
-    <definition col="cl_curtains" flags="2,5,7,21" id="cl_curtains" lodDistance="100" txd="hi_cutmaincl" zone="int_VC"></definition>
-    <definition col="cl_dancefloor" flags="5,7" id="cl_dancefloor" lodDistance="100" txd="hi_cutmaincl" zone="int_VC"></definition>
-    <definition col="cl_light_st" flags="5,7" id="cl_light_st" lodDistance="100" txd="hi_cutmaincl" zone="int_VC"></definition>
-    <definition col="cl_lightsuprts" flags="2,5,7" id="cl_lightsuprts" lodDistance="100" txd="mainclub2" zone="int_VC"></definition>
-    <definition col="cl_main_room" flags="5,7" id="cl_main_room" lodDistance="100" txd="hi_cutmaincl" zone="int_VC"></definition>
-    <definition col="cl_main_room12" flags="5,7" id="cl_main_room12" lodDistance="100" txd="hi_cutmaincl" zone="int_VC"></definition>
-    <definition col="cl_main_roomb" flags="5,7" id="cl_main_roomb" lodDistance="100" txd="hi_cutmaincl" zone="int_VC"></definition>
-    <definition col="cl_main_roomb2" flags="5,7" id="cl_main_roomb2" lodDistance="100" txd="hi_cutmaincl" zone="int_VC"></definition>
-    <definition col="cl_mainwalls" flags="5,7" id="cl_mainwalls" lodDistance="100" txd="hi_cutclwaltst" zone="int_VC"></definition>
-    <definition col="cl_mainwallsb" flags="5,7" id="cl_mainwallsb" lodDistance="100" txd="hi_cutclwaltst" zone="int_VC"></definition>
-    <definition col="cl_of_opac" flags="2,5,7" id="cl_of_opac" lodDistance="100" txd="hi_cutclof_opa" zone="int_VC"></definition>
-    <definition col="cl_ofs_props" flags="2,5,7" id="cl_ofs_props" lodDistance="7" txd="hi_cuttblprop" zone="int_VC"></definition>
-    <definition col="cl_railing" flags="5,7" id="cl_railing" lodDistance="100" txd="mainclub2" zone="int_VC"></definition>
-    <definition col="cl_railingb" flags="5,7" id="cl_railingb" lodDistance="100" txd="mainclub2" zone="int_VC"></definition>
-    <definition col="cl_recessed_flr" flags="2,5,7" id="cl_recessed_flr" lodDistance="100" txd="mainclub2" zone="int_VC"></definition>
-    <definition col="cl_recessedlights1" flags="2,5,7" id="cl_recessedlights1" lodDistance="100" txd="mainclub2" zone="int_VC"></definition>
-    <definition col="cl_spots" flags="5,7" id="cl_spots" lodDistance="100" txd="mainclub2" zone="int_VC"></definition>
-    <definition col="cl_stage" flags="5,7" id="cl_stage" lodDistance="100" txd="hi_cutmaincl" zone="int_VC"></definition>
-    <definition col="cl_stage_roof" flags="5,7" id="cl_stage_roof" lodDistance="100" txd="hi_cutmaincl" zone="int_VC"></definition>
-    <definition col="cl_tablesetlrg" flags="2,5,7" id="cl_tablesetlrg" lodDistance="7" txd="hi_cuttblprop" zone="int_VC"></definition>
-    <definition col="cl_tbl_chait_tmp" flags="5,7" id="cl_tbl_chait_tmp" lodDistance="100" txd="mainclub2" zone="int_VC"></definition>
-    <definition col="cl_tbl_chait_tmpb" flags="5,7" id="cl_tbl_chait_tmpb" lodDistance="100" txd="mainclub2" zone="int_VC"></definition>
-    <definition col="cl_tblesetsml" flags="2,5,7" id="cl_tblesetsml" lodDistance="7" txd="hi_cuttblprop" zone="int_VC"></definition>
-    <definition col="cl_yachtmdl" flags="5,7" id="cl_yachtmdl" lodDistance="6" txd="cl_yacht" zone="int_VC"></definition>
-    <definition col="clubbackroom" flags="5,7" id="clubbackroom" lodDistance="100" txd="hi_cutcluboffice" zone="int_VC"></definition>
-    <definition col="clubceilingdome" flags="5,7" id="clubceilingdome" lodDistance="100" txd="mainclub2" zone="int_VC"></definition>
-    <definition col="cof_bardetail" flags="5,7,21" id="cof_bardetail" lodDistance="15" txd="cofshopintdet" zone="int_VC"></definition>
-    <definition col="cof_extwindw" flags="2,5,7" id="cof_extwindw" lodDistance="50" txd="cofshopwind" zone="int_VC"></definition>
-    <definition col="cof_intfloor" flags="5,7" id="cof_intfloor" lodDistance="80" txd="cofshopint" zone="int_VC"></definition>
-    <definition col="cof_seat" flags="5,7" id="cof_seat" lodDistance="15" txd="cofshopintdet" zone="int_VC"></definition>
-    <definition col="cof_shad1" flags="2,5,7" id="cof_shad1" lodDistance="10" txd="cofshad" zone="int_VC"></definition>
-    <definition col="cof_shad2" flags="2,5,6,7" id="cof_shad2" lodDistance="10" txd="cofshad" zone="int_VC"></definition>
-    <definition col="cof_shad4" flags="2,5,7" id="cof_shad4" lodDistance="10" txd="cofshad" zone="int_VC"></definition>
-    <definition col="cof_shpdetail1" flags="5,7" id="cof_shpdetail1" lodDistance="15" txd="cofshopintdet" zone="int_VC"></definition>
-    <definition col="cof_xtremedet" flags="5,7" id="cof_xtremedet" lodDistance="150" txd="cofshopintdet" zone="int_VC"></definition>
-    <definition col="cofbarbothint" flags="" id="cofbarbothint" lodDistance="20" txd="cofintout" zone="int_VC"></definition>
-    <definition col="concerth02" flags="2,5" id="concerth02" lodDistance="200" txd="bakstgstuff" zone="int_VC"></definition>
-    <definition col="concerth03" flags="2,5" id="concerth03" lodDistance="200" txd="bakstgstuff" zone="int_VC"></definition>
-    <definition col="concerth04" flags="2,5" id="concerth04" lodDistance="200" txd="bakstgstuff" zone="int_VC"></definition>
-    <definition col="concerth05" flags="5" id="concerth05" lodDistance="200" txd="stagestuff" zone="int_VC"></definition>
-    <definition col="concerth06" flags="5,21" id="concerth06" lodDistance="200" txd="stagestuff" zone="int_VC"></definition>
-    <definition col="concerth07" flags="2,5" id="concerth07" lodDistance="200" txd="stagestuff" zone="int_VC"></definition>
-    <definition col="concerth08" flags="2,5,21" id="concerth08" lodDistance="200" txd="stagestuff" zone="int_VC"></definition>
-    <definition col="concerth09" flags="" id="concerth09" lodDistance="200" txd="stagestuff" zone="int_VC"></definition>
-    <definition col="concerth10" flags="2,5,21" id="concerth10" lodDistance="200" txd="stagestuff" zone="int_VC"></definition>
-    <definition col="concerth11" flags="" id="concerth11" lodDistance="200" txd="stagestuff" zone="int_VC"></definition>
-    <definition col="concerth12" flags="2,5,21" id="concerth12" lodDistance="200" txd="bakstgstuff" zone="int_VC"></definition>
-    <definition col="concerth27" flags="5" id="concerth27" lodDistance="200" txd="bakstgstuff" zone="int_VC"></definition>
-    <definition col="concerth27_fence" flags="2,5,21" id="concerth27_fence" lodDistance="200" txd="bakstgstuff" zone="int_VC"></definition>
-    <definition col="concerth29" flags="2,5,21" id="concerth29" lodDistance="200" txd="stagestuff" zone="int_VC"></definition>
-    <definition col="concerth48" flags="2,5" id="concerth48" lodDistance="200" txd="bakstgstuff" zone="int_VC"></definition>
-    <definition col="concerth52" flags="2,5" id="concerth52" lodDistance="200" txd="bakstgstuff" zone="int_VC"></definition>
-    <definition col="concerth56" flags="5,21" id="concerth56" lodDistance="200" txd="stagestuff" zone="int_VC"></definition>
-    <definition col="cop_cells" flags="5" id="cop_cells" lodDistance="20" txd="od_cop_interior" zone="int_VC"></definition>
-    <definition col="cop_entrance" flags="5" id="cop_entrance" lodDistance="30" txd="od_cop_interior" zone="int_VC"></definition>
-    <definition col="cop_hallway" flags="5" id="cop_hallway" lodDistance="30" txd="od_cop_interior" zone="int_VC"></definition>
-    <definition col="cop_mainroom" flags="5" id="cop_mainroom" lodDistance="30" txd="od_cop_interior" zone="int_VC"></definition>
-    <definition col="cop_pillar_fake" flags="2,5,7" id="cop_pillar_fake" lodDistance="30" txd="copdoorstuff" zone="int_VC"></definition>
-    <definition col="cop_pillar_shad" flags="2,5,7" id="cop_pillar_shad" lodDistance="30" txd="od_cop_interior" zone="int_VC"></definition>
-    <definition col="cop_processing" flags="5" id="cop_processing" lodDistance="30" txd="od_cop_interior" zone="int_VC"></definition>
-    <definition col="cop_waterref" flags="2,5" id="cop_waterref" lodDistance="30" txd="od_cop_interior" zone="int_VC"></definition>
-    <definition col="drive_flowers06" flags="2" id="drive_flowers06" lodDistance="100" txd="manf" zone="int_VC"></definition>
-    <definition col="elevator" flags="5" id="elevator" lodDistance="80" txd="hi_cutbnkrecpt" zone="int_VC"></definition>
-    <definition col="fixedbects06" flags="5" id="fixedbects06" lodDistance="7" txd="hi_cutlaw_atp" zone="int_VC"></definition>
-    <definition col="gash_int" disable_backface_culling="true" flags="2,7,disable_backface_culling" id="gash_int" lodDistance="80" txd="ml_clothes" zone="int_VC"></definition>
-    <definition col="hot_bar1_01" flags="5" id="hot_bar1_01" lodDistance="30" txd="hotelroomint" zone="int_VC"></definition>
-    <definition col="hot_drawers1_01" flags="5" id="hot_drawers1_01" lodDistance="30" txd="hotelroomint" zone="int_VC"></definition>
-    <definition col="hot_mags1" flags="5" id="hot_mags1" lodDistance="30" txd="hotelroomint" zone="int_VC"></definition>
-    <definition col="hot_room317" flags="5" id="hot_room317" lodDistance="30" txd="hotelroomint" zone="int_VC"></definition>
-    <definition col="hot_trans1" flags="2,5,7" id="hot_trans1" lodDistance="30" txd="hot_roomtrans" zone="int_VC"></definition>
-    <definition col="hotroomfan" flags="2,5,6" id="hotroomfan" lodDistance="30" txd="hi_cuthoomintshad" zone="int_VC"></definition>
-    <definition col="hotshad1" flags="2,5,6" id="hotshad1" lodDistance="30" txd="hi_cuthoomintshad" zone="int_VC"></definition>
-    <definition col="ht_fans_dy" flags="5" id="ht_fans_dy" lodDistance="30" timeIn="6" timeOut="20" txd="hi_cutintprops" zone="int_VC"></definition>
-    <definition col="ht_fans_nt" flags="5" id="ht_fans_nt" lodDistance="30" timeIn="20" timeOut="6" txd="hi_cutintprops" zone="int_VC"></definition>
-    <definition col="ht_kb_couch1_dy" flags="5" id="ht_kb_couch1_dy" lodDistance="30" timeIn="6" timeOut="20" txd="hi_cutcouch" zone="int_VC"></definition>
-    <definition col="ht_kb_couch1_nt" flags="5" id="ht_kb_couch1_nt" lodDistance="30" timeIn="20" timeOut="6" txd="hi_cutcouch" zone="int_VC"></definition>
-    <definition col="ht_mainfloor2_dy" flags="5" id="ht_mainfloor2_dy" lodDistance="30" timeIn="6" timeOut="20" txd="hi_cuthtl2" zone="int_VC"></definition>
-    <definition col="ht_mainfloor2_nt" flags="5" id="ht_mainfloor2_nt" lodDistance="30" timeIn="20" timeOut="6" txd="hi_cuthtl2" zone="int_VC"></definition>
-    <definition col="ht_mainfloor_nt" flags="5,7,21" id="ht_mainfloor_nt" lodDistance="30" timeIn="20" timeOut="6" txd="hi_cuthtl2" zone="int_VC"></definition>
-    <definition col="ht_upstairs" flags="5" id="ht_upstairs" lodDistance="30" txd="hi_cutint1" zone="int_VC"></definition>
-    <definition col="ht_veg01_dy" flags="2,5" id="ht_veg01_dy" lodDistance="30" timeIn="6" timeOut="20" txd="genericvc" zone="int_VC"></definition>
-    <definition col="ht_veg01_nt" flags="2,5" id="ht_veg01_nt" lodDistance="30" timeIn="20" timeOut="6" txd="genericvc" zone="int_VC"></definition>
-    <definition col="ht_veg02_dy" flags="2,5" id="ht_veg02_dy" lodDistance="30" timeIn="6" timeOut="20" txd="genericvc" zone="int_VC"></definition>
-    <definition col="ht_veg02_nt" flags="2,5" id="ht_veg02_nt" lodDistance="30" timeIn="20" timeOut="6" txd="genericvc" zone="int_VC"></definition>
-    <definition col="ht_veg04_dy" flags="2,5" id="ht_veg04_dy" lodDistance="30" timeIn="6" timeOut="20" txd="genericvc" zone="int_VC"></definition>
-    <definition col="ht_veg04_nt" flags="2,5" id="ht_veg04_nt" lodDistance="30" timeIn="20" timeOut="6" txd="genericvc" zone="int_VC"></definition>
-    <definition col="htl_dco_chair03_dy" flags="5" id="htl_dco_chair03_dy" lodDistance="20" timeIn="6" timeOut="20" txd="hi_cuthotel1" zone="int_VC"></definition>
-    <definition col="htl_dco_chair03_nt" flags="5" id="htl_dco_chair03_nt" lodDistance="20" timeIn="20" timeOut="6" txd="hi_cuthotel1" zone="int_VC"></definition>
-    <definition col="htl_gls_1_dy" flags="2,5,10" id="htl_gls_1_dy" lodDistance="30" timeIn="6" timeOut="20" txd="hi_cuthtlalp" zone="int_VC"></definition>
-    <definition col="htl_gls_1_nt" flags="2,5,10" id="htl_gls_1_nt" lodDistance="30" timeIn="20" timeOut="6" txd="hi_cuthtlalp" zone="int_VC"></definition>
-    <definition col="htl_gls_2_dy" flags="2,5,10" id="htl_gls_2_dy" lodDistance="30" timeIn="6" timeOut="20" txd="hi_cuthtlalp" zone="int_VC"></definition>
-    <definition col="htl_gls_2_nt" flags="2,5,10" id="htl_gls_2_nt" lodDistance="30" timeIn="20" timeOut="6" txd="hi_cuthtlalp" zone="int_VC"></definition>
-    <definition col="htl_gls_3_dy" flags="2,5,10" id="htl_gls_3_dy" lodDistance="30" timeIn="6" timeOut="20" txd="hi_cuthtlalp" zone="int_VC"></definition>
-    <definition col="htl_gls_3_nt" flags="2,5,10" id="htl_gls_3_nt" lodDistance="30" timeIn="20" timeOut="6" txd="hi_cuthtlalp" zone="int_VC"></definition>
-    <definition col="htl_gls_lobby" flags="2,5,10" id="htl_gls_lobby" lodDistance="30" txd="hi_cuthtlalp" zone="int_VC"></definition>
-    <definition col="htl_lftdoor1_dy" flags="5" id="htl_lftdoor1_dy" lodDistance="30" timeIn="6" timeOut="20" txd="hi_cuthtl4" zone="int_VC"></definition>
-    <definition col="htl_lftdoor1_nt" flags="5" id="htl_lftdoor1_nt" lodDistance="30" timeIn="20" timeOut="6" txd="hi_cuthtl4" zone="int_VC"></definition>
-    <definition col="htl_maintiles_dy" flags="2,5" id="htl_maintiles_dy" lodDistance="30" timeIn="6" timeOut="20" txd="hi_cuthtlalp" zone="int_VC"></definition>
-    <definition col="htl_maintiles_nt" flags="2,5" id="htl_maintiles_nt" lodDistance="30" timeIn="20" timeOut="6" txd="hi_cuthtlalp" zone="int_VC"></definition>
-    <definition col="hvood" flags="2,5,7" id="hvood" lodDistance="80" txd="haitcont" zone="int_VC"></definition>
-    <definition col="hvood_plant" flags="2,5,7,21" id="hvood_plant" lodDistance="80" txd="haitcont" zone="int_VC"></definition>
-    <definition col="instruments" flags="2,5" id="instruments" lodDistance="100" txd="recstudio2" zone="int_VC"></definition>
-    <definition col="kb1_couch06" flags="2,5" id="kb1_couch06" lodDistance="80" txd="bye_cutbnkcoch" zone="int_VC"></definition>
-    <definition col="kb1_couch09" flags="2,5" id="kb1_couch09" lodDistance="80" txd="bye_cutbnkcoch" zone="int_VC"></definition>
-    <definition col="kb1_couch15" flags="2,5" id="kb1_couch15" lodDistance="80" txd="bye_cutbnkcoch" zone="int_VC"></definition>
-    <definition col="littleha_hardwa_int" flags="7" id="littleha_hardwa_int" lodDistance="40" txd="wa_tool2" zone="int_VC"></definition>
-    <definition col="lw_floor_opac" flags="2,5" id="lw_floor_opac" lodDistance="100" txd="hi_cutlaw_atp" zone="int_VC"></definition>
-    <definition col="lw_lights" flags="2,5" id="lw_lights" lodDistance="100" txd="hi_cutlaw_atp" zone="int_VC"></definition>
-    <definition col="lw_officedesk01" flags="5" id="lw_officedesk01" lodDistance="100" txd="hi_cutlaw_atp" zone="int_VC"></definition>
-    <definition col="lw_room_main" flags="5" id="lw_room_main" lodDistance="100" txd="hi_cutlaw_atp" zone="int_VC"></definition>
-    <definition col="lw_roombitsb" flags="2,5" id="lw_roombitsb" lodDistance="100" txd="hi_cutlaw_atp" zone="int_VC"></definition>
-    <definition col="lw_roombitsbb" flags="2,5" id="lw_roombitsbb" lodDistance="100" txd="hi_cutlaw_atp" zone="int_VC"></definition>
-    <definition col="lw_roombitsc" flags="2,5" id="lw_roombitsc" lodDistance="100" txd="hi_cutlaw_atp" zone="int_VC"></definition>
-    <definition col="lw_rug" flags="5" id="lw_rug" lodDistance="100" txd="hi_cutlaw_atp" zone="int_VC"></definition>
-    <definition col="lw_shado" flags="2,5" id="lw_shado" lodDistance="100" txd="hi_cutlaw_atp" zone="int_VC"></definition>
-    <definition col="maidmalltopa" flags="2,5,7" id="maidmalltopa" lodDistance="200" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mall_ammu" flags="2,5,7" id="mall_ammu" lodDistance="125" txd="mall_ammu" zone="int_VC"></definition>
-    <definition col="mall_ammuwin" flags="2,5,7" id="mall_ammuwin" lodDistance="50" txd="mall_ammu" zone="int_VC"></definition>
-    <definition col="mall_fans" flags="5,7" id="mall_fans" lodDistance="40" txd="mall_props" zone="int_VC"></definition>
-    <definition col="mall_hardware" flags="5,7" id="mall_hardware" lodDistance="125" txd="mall_ammu" zone="int_VC"></definition>
-    <definition col="mall_hardware_int" flags="5,7" id="mall_hardware_int" lodDistance="40" txd="mall_ammu" zone="int_VC"></definition>
-    <definition col="mallbushdense" flags="2,7" id="mallbushdense" lodDistance="299" txd="mallplants" zone="int_VC"></definition>
-    <definition col="mallbushs" flags="2,7" id="mallbushs" lodDistance="299" txd="mallplants" zone="int_VC"></definition>
-    <definition col="mallint1" flags="1,5,7" id="mallint1" lodDistance="250" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mallint2" flags="5,7" id="mallint2" lodDistance="180" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mallint3" flags="5,7" id="mallint3" lodDistance="180" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mallint5" flags="5,7" id="mallint5" lodDistance="180" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mallint5up" flags="5,7" id="mallint5up" lodDistance="180" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mallint5up_b" flags="2,5,7" id="mallint5up_b" lodDistance="180" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mallint7" flags="5,7" id="mallint7" lodDistance="180" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mallint8" flags="5,7" id="mallint8" lodDistance="180" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mallint9" flags="1,5,7" id="mallint9" lodDistance="260" txd="malltotal" zone="int_VC"></definition>
-    <definition col="malllights" flags="1,2,5,7" id="malllights" lodDistance="180" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mallstrut" flags="5,7" id="mallstrut" lodDistance="100" txd="malltotal" zone="int_VC"></definition>
-    <definition col="man_chandeliers" flags="2,5" id="man_chandeliers" lodDistance="50" txd="starmansionst" zone="int_VC"></definition>
-    <definition col="man_couch02" flags="5" id="man_couch02" lodDistance="50" txd="starmansionst" zone="int_VC"></definition>
-    <definition col="man_f_chandelier" flags="5" id="man_f_chandelier" lodDistance="50" txd="starmansionst" zone="int_VC"></definition>
-    <definition col="man_hall_floor" flags="5" id="man_hall_floor" lodDistance="200" txd="man_hall" zone="int_VC"></definition>
-    <definition col="man_hall_pillars" flags="5" id="man_hall_pillars" lodDistance="200" txd="man_hall" zone="int_VC"></definition>
-    <definition col="man_hall_ref" flags="2,5" id="man_hall_ref" lodDistance="200" txd="man_hall" zone="int_VC"></definition>
-    <definition col="man_hall_wall1" flags="5" id="man_hall_wall1" lodDistance="200" txd="man_hall" zone="int_VC"></definition>
-    <definition col="man_hallway1" flags="5" id="man_hallway1" lodDistance="100" txd="man_hall_2" zone="int_VC"></definition>
-    <definition col="man_hallway2" flags="5" id="man_hallway2" lodDistance="100" txd="man_hall_2" zone="int_VC"></definition>
-    <definition col="man_monitor_base" flags="5" id="man_monitor_base" lodDistance="100" txd="man_props" zone="int_VC"></definition>
-    <definition col="man_monitors02" flags="2,5" id="man_monitors02" lodDistance="80" txd="bye_cutbnkcoch" zone="int_VC"></definition>
-    <definition col="man_safenewmny" flags="2,5" id="man_safenewmny" lodDistance="40" txd="hi_cutsafe" zone="int_VC"></definition>
-    <definition col="man_scar_curtains" flags="5" id="man_scar_curtains" lodDistance="50" txd="starmansionst" zone="int_VC"></definition>
-    <definition col="man_scar_props206" flags="5" id="man_scar_props206" lodDistance="50" txd="starmansionst" zone="int_VC"></definition>
-    <definition col="man_scar_propv" flags="5" id="man_scar_propv" lodDistance="50" txd="starmansionst" zone="int_VC"></definition>
-    <definition col="man_scrface_walls" flags="5" id="man_scrface_walls" lodDistance="100" txd="man_scarface" zone="int_VC"></definition>
-    <definition col="man_scrfashado" flags="0,2,5" id="man_scrfashado" lodDistance="100" txd="hi_cutmanshad" zone="int_VC"></definition>
-    <definition col="man_scrfce_chstrset" flags="5" id="man_scrfce_chstrset" lodDistance="50" txd="starmansionst" zone="int_VC"></definition>
-    <definition col="man_scrfce_floor1" flags="5" id="man_scrfce_floor1" lodDistance="100" txd="man_scarface" zone="int_VC"></definition>
-    <definition col="man_sdr_folge" flags="2,5" id="man_sdr_folge" lodDistance="50" txd="hi_cutsdrm_3" zone="int_VC"></definition>
-    <definition col="man_sdr_lamps" flags="2,5" id="man_sdr_lamps" lodDistance="50" txd="hi_cutsdrm_2" zone="int_VC"></definition>
-    <definition col="man_sdr_props" flags="5" id="man_sdr_props" lodDistance="50" txd="hi_cutsdrm_1" zone="int_VC"></definition>
-    <definition col="man_sdr_seating" flags="5" id="man_sdr_seating" lodDistance="50" txd="hi_cutsdrm_3" zone="int_VC"></definition>
-    <definition col="man_sdr_strctur" flags="5" id="man_sdr_strctur" lodDistance="50" txd="hi_cutsdrm_1" zone="int_VC"></definition>
-    <definition col="man_sdr_tabls" flags="5" id="man_sdr_tabls" lodDistance="50" txd="hi_cutsdrm_2" zone="int_VC"></definition>
-    <definition col="man_sdr_tvstf" flags="5" id="man_sdr_tvstf" lodDistance="50" txd="hi_cutsdrm_2" zone="int_VC"></definition>
-    <definition col="man_sidrm_shad" flags="2,5" id="man_sidrm_shad" lodDistance="50" txd="hi_cutrshad" zone="int_VC"></definition>
-    <definition col="man_tablkb1" flags="5" id="man_tablkb1" lodDistance="50" txd="starmansionst" zone="int_VC"></definition>
-    <definition col="man_twr_stairs" flags="5" id="man_twr_stairs" lodDistance="100" txd="man_twr" zone="int_VC"></definition>
-    <definition col="man_twr_stairsB" flags="2,5" id="man_twr_stairsB" lodDistance="100" txd="man_twr" zone="int_VC"></definition>
-    <definition col="man_xchandeliers" flags="5" id="man_xchandeliers" lodDistance="50" txd="starmansionst" zone="int_VC"></definition>
-    <definition col="midmallfloorw" flags="2,5,7" id="midmallfloorw" lodDistance="250" txd="malltotal" zone="int_VC"></definition>
-    <definition col="midmallflorre" flags="1,2,5,7" id="midmallflorre" lodDistance="250" txd="malltotal" zone="int_VC"></definition>
-    <definition col="ml_borders" flags="5,7" id="ml_borders" lodDistance="100" txd="ml_books" zone="int_VC"></definition>
-    <definition col="ml_cofcounter1" flags="5,7" id="ml_cofcounter1" lodDistance="50" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_coffee_dsk" flags="5,7" id="ml_coffee_dsk" lodDistance="50" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_coffwin01" flags="2,7,10" id="ml_coffwin01" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_coffwin02" flags="2,7,10" id="ml_coffwin02" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_coffwinframe01" flags="2,5,7" id="ml_coffwinframe01" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_coffwinframe02" flags="2,5,7" id="ml_coffwinframe02" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_doorsmidr" flags="2,5,7" id="ml_doorsmidr" lodDistance="90" txd="malltotal" zone="int_VC"></definition>
-    <definition col="ml_escl" flags="5,7" id="ml_escl" lodDistance="100" txd="mall_props" zone="int_VC"></definition>
-    <definition col="ml_gap" flags="7" id="ml_gap" lodDistance="90" txd="ml_clothes" zone="int_VC"></definition>
-    <definition col="ml_gapwindows01" flags="2,7,10" id="ml_gapwindows01" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_gapwindows02" flags="2,7,10" id="ml_gapwindows02" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_gapwindows03" flags="2,7,10" id="ml_gapwindows03" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_gapwindows04" flags="2,7,10" id="ml_gapwindows04" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_gapwindows05" flags="2,7,10" id="ml_gapwindows05" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_gapwindows06" flags="2,7,10" id="ml_gapwindows06" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_gapwindows07" flags="2,7,10" id="ml_gapwindows07" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_gapwindows08" flags="2,7,10" id="ml_gapwindows08" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_gapwindows09" flags="2,7,10" id="ml_gapwindows09" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_gapwindows10" flags="2,7,10" id="ml_gapwindows10" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_gapwindows11" flags="2,7,10" id="ml_gapwindows11" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_gapwindows12" flags="2,7,10" id="ml_gapwindows12" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_glasslft" flags="2,5,7" id="ml_glasslft" lodDistance="140" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_jewelcounter" flags="5,7" id="ml_jewelcounter" lodDistance="100" txd="ml_jewellers" zone="int_VC"></definition>
-    <definition col="ml_jewelglass" flags="2,5,7" id="ml_jewelglass" lodDistance="50" txd="ml_jewellers" zone="int_VC"></definition>
-    <definition col="ml_jewellers" flags="5,7" id="ml_jewellers" lodDistance="100" txd="ml_jewellers" zone="int_VC"></definition>
-    <definition col="ml_jewelwin01" flags="2,7,10" id="ml_jewelwin01" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_jewelwin02" flags="2,7,10" id="ml_jewelwin02" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_jewelwin03" flags="2,7,10" id="ml_jewelwin03" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_jewelwinframe01" flags="5,7" id="ml_jewelwinframe01" lodDistance="90" txd="ml_jewellers" zone="int_VC"></definition>
-    <definition col="ml_jewelwinframe02" flags="5,7" id="ml_jewelwinframe02" lodDistance="90" txd="ml_jewellers" zone="int_VC"></definition>
-    <definition col="ml_planterbed" flags="5,7" id="ml_planterbed" lodDistance="90" txd="mall_props" zone="int_VC"></definition>
-    <definition col="ml_record" flags="5,7" id="ml_record" lodDistance="100" txd="ml_tuneless" zone="int_VC"></definition>
-    <definition col="ml_record3" flags="5,7" id="ml_record3" lodDistance="50" txd="ml_tuneless" zone="int_VC"></definition>
-    <definition col="ml_recordwin01" flags="2,7,10" id="ml_recordwin01" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_recordwin02" flags="2,7,10" id="ml_recordwin02" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_recordwin03" flags="2,7,10" id="ml_recordwin03" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_recordwin04" flags="2,7,10" id="ml_recordwin04" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_recordwin05" flags="2,7,10" id="ml_recordwin05" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_tarbrush" flags="5,7" id="ml_tarbrush" lodDistance="110" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="ml_vegbits01" flags="7" id="ml_vegbits01" lodDistance="140" txd="mall_veg" zone="int_VC"></definition>
-    <definition col="ml_vegbits02" flags="7" id="ml_vegbits02" lodDistance="140" txd="mall_veg" zone="int_VC"></definition>
-    <definition col="ml_vegbits03" flags="7" id="ml_vegbits03" lodDistance="140" txd="mall_veg" zone="int_VC"></definition>
-    <definition col="ml_vegbits04" flags="7" id="ml_vegbits04" lodDistance="140" txd="mall_veg" zone="int_VC"></definition>
-    <definition col="ml_vegbits05" flags="7" id="ml_vegbits05" lodDistance="135" txd="mall_veg" zone="int_VC"></definition>
-    <definition col="ml_water" flags="2,5,7" id="ml_water" lodDistance="100" txd="mall_props" zone="int_VC"></definition>
-    <definition col="ml_water2" flags="2,5,7" id="ml_water2" lodDistance="140" txd="mall_props" zone="int_VC"></definition>
-    <definition col="mlgrndmidtop" flags="2,5,7" id="mlgrndmidtop" lodDistance="180" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mlgrounds" flags="1,2,5,7" id="mlgrounds" lodDistance="250" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mlmallbush" flags="2,7" id="mlmallbush" lodDistance="299" txd="mallplants" zone="int_VC"></definition>
-    <definition col="mlmallplan02" flags="7" id="mlmallplan02" lodDistance="150" txd="mallitems" zone="int_VC"></definition>
-    <definition col="mlmallplan04" flags="7" id="mlmallplan04" lodDistance="150" txd="mallitems" zone="int_VC"></definition>
-    <definition col="mlmallplan05" flags="7" id="mlmallplan05" lodDistance="150" txd="mallitems" zone="int_VC"></definition>
-    <definition col="mlmallroof" flags="5,7" id="mlmallroof" lodDistance="220" txd="mallroof" zone="int_VC"></definition>
-    <definition col="mlngrnd" flags="1,2,5,7" id="mlngrnd" lodDistance="250" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mlnorthmalllft" flags="1,5,7" id="mlnorthmalllft" lodDistance="250" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mlnorthmallrt" flags="1,5,7" id="mlnorthmallrt" lodDistance="250" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mlnorthmalltop" flags="5,7" id="mlnorthmalltop" lodDistance="180" txd="malltotal" zone="int_VC"></definition>
-    <definition col="mlobjects_n" flags="5,7" id="mlobjects_n" lodDistance="140" txd="mall_props" zone="int_VC"></definition>
-    <definition col="mlobjects_n02" flags="5,7" id="mlobjects_n02" lodDistance="140" txd="mall_props" zone="int_VC"></definition>
-    <definition col="mlobjects_n03" flags="5,7" id="mlobjects_n03" lodDistance="140" txd="mall_props" zone="int_VC"></definition>
-    <definition col="mlobjects_n04" flags="5,7" id="mlobjects_n04" lodDistance="140" txd="mall_props" zone="int_VC"></definition>
-    <definition col="mlobjects_s02" flags="5,7" id="mlobjects_s02" lodDistance="140" txd="mall_props" zone="int_VC"></definition>
-    <definition col="mloven" flags="5,7" id="mloven" lodDistance="150" txd="foodcourt" zone="int_VC"></definition>
-    <definition col="mloven02" flags="5,7" id="mloven02" lodDistance="150" txd="foodcourt" zone="int_VC"></definition>
-    <definition col="mlrecords" flags="5,7" id="mlrecords" lodDistance="50" txd="ml_tuneless" zone="int_VC"></definition>
-    <definition col="mna_table_scrfce" flags="5" id="mna_table_scrfce" lodDistance="50" txd="starmansionst" zone="int_VC"></definition>
-    <definition col="nt_bed1_01" flags="5" id="nt_bed1_01" lodDistance="30" txd="hotelroomint" zone="int_VC"></definition>
-    <definition col="nt_couch_1" flags="5" id="nt_couch_1" lodDistance="30" txd="hotelroomint" zone="int_VC"></definition>
-    <definition col="nt_wassily1_02" flags="5" id="nt_wassily1_02" lodDistance="30" txd="hotelroomint" zone="int_VC"></definition>
-    <definition col="od_celldoor03" flags="5" id="od_celldoor03" lodDistance="10" txd="od_cop_interior" zone="int_VC"></definition>
-    <definition col="od_celldoor1" flags="5" id="od_celldoor1" lodDistance="10" txd="od_cop_interior" zone="int_VC"></definition>
-    <definition col="od_clubdoors_int" flags="" id="od_clubdoors_int" lodDistance="100" txd="od_clubout" zone="int_VC"></definition>
-    <definition col="plnt_ref_bnk01" flags="5" id="plnt_ref_bnk01" lodDistance="80" txd="vegetation" zone="int_VC"></definition>
-    <definition col="plnt_ref_bnk02" flags="5" id="plnt_ref_bnk02" lodDistance="80" txd="vegetation" zone="int_VC"></definition>
-    <definition col="pw_press1_03" flags="5" id="pw_press1_03" lodDistance="30" txd="LH_PWInterior" zone="int_VC"></definition>
-    <definition col="pw_priint" flags="5" id="pw_priint" lodDistance="60" txd="LH_PWInterior" zone="int_VC"></definition>
-    <definition col="recordingstudio" flags="2,5" id="recordingstudio" lodDistance="30" txd="recstudio" zone="int_VC"></definition>
-    <definition col="scar_winglass" flags="2,5" id="scar_winglass" lodDistance="50" txd="man_scarface" zone="int_VC"></definition>
-    <definition col="scarinteriordoor" flags="5,7" id="scarinteriordoor" lodDistance="100" txd="scarinterior" zone="int_VC"></definition>
-    <definition col="stripback" flags="5" id="stripback" lodDistance="200" txd="stripback" zone="int_VC"></definition>
-    <definition col="stripinter" flags="5" id="stripinter" lodDistance="200" txd="wshstripint" zone="int_VC"></definition>
-    <definition col="stripinterfloor" flags="2,5" id="stripinterfloor" lodDistance="200" txd="wshstripint" zone="int_VC"></definition>
-    <definition col="stripinterupside" flags="5,21" id="stripinterupside" lodDistance="200" txd="stripinter" zone="int_VC"></definition>
-    <definition col="striplights" flags="5" id="striplights" lodDistance="200" txd="striplights" zone="int_VC"></definition>
-    <definition col="tarbrush_int" flags="5,7" id="tarbrush_int" lodDistance="90" txd="ml_coffee" zone="int_VC"></definition>
-    <definition col="unrocketed_win1" flags="2,5" id="unrocketed_win1" lodDistance="100" txd="hi_cutpropy" zone="int_VC"></definition>
-    <definition col="vc_gen_ammunation" flags="5,21" id="vc_gen_ammunation" lodDistance="40" txd="wash_ammu" zone="int_VC"></definition>
-    <definition col="wash_hardwares_int" flags="5,7,21" id="wash_hardwares_int" lodDistance="50" txd="nbwtoolshp5" zone="int_VC"></definition>
+    <override id="DYN_BOX_PILE_3" lodDistance="170" />
+    <definition col="fix_mlobjects" flags="5,7" id="FIX_mlobjects" lodDistance="170" txd="mall_props" zone="int_VC"></definition>
+    <definition col="Frame1Damaged" flags="2,7" id="Frame1Damaged" lodDistance="170" txd="mansion_details2" zone="int_VC"></definition>
+    <override id="Gen_doorEXT03" lodDistance="170" />
+    <override id="Gen_doorSHOP02" lodDistance="170" />
+    <override id="Gen_wardrobe" lodDistance="170" />
+    <definition col="MALLUNDER" flags="1,2,5,7" id="MALLUNDER" lodDistance="300" txd="malltotal" zone="int_VC"></definition>
+    <definition col="ammunation_dt" flags="5" id="ammunation_dt" lodDistance="170" txd="dt_ammu" zone="int_VC"></definition>
+    <definition col="bank_officedesks1" flags="5" id="bank_officedesks1" lodDistance="170" txd="bye_cutbnkcoch" zone="int_VC"></definition>
+    <definition col="bank_other_strctr" flags="5" id="bank_other_strctr" lodDistance="170" txd="hi_cutbnkmainnw" zone="int_VC"></definition>
+    <definition col="bank_palms02" flags="2,5" id="bank_palms02" lodDistance="170" txd="vegetation" zone="int_VC"></definition>
+    <definition col="bank_palms09" flags="2,5" id="bank_palms09" lodDistance="170" txd="vegetation" zone="int_VC"></definition>
+    <definition col="bank_palms21" flags="2,5" id="bank_palms21" lodDistance="170" txd="vegetation" zone="int_VC"></definition>
+    <definition col="bank_palms23" flags="2,5" id="bank_palms23" lodDistance="170" txd="vegetation" zone="int_VC"></definition>
+    <definition col="bank_palms28" flags="2,5" id="bank_palms28" lodDistance="170" txd="vegetation" zone="int_VC"></definition>
+    <definition col="bank_palms32" flags="2,5" id="bank_palms32" lodDistance="170" txd="vegetation" zone="int_VC"></definition>
+    <definition col="bank_props2" flags="5" id="bank_props2" lodDistance="170" txd="bnk_propy" zone="int_VC"></definition>
+    <definition col="bank_table05" flags="2,5" id="bank_table05" lodDistance="170" txd="bye_cutbnkcoch" zone="int_VC"></definition>
+    <definition col="bank_table1" flags="5" id="bank_table1" lodDistance="170" txd="bye_cutbnkcoch" zone="int_VC"></definition>
+    <definition col="bank_table10" flags="2,5" id="bank_table10" lodDistance="170" txd="bye_cutbnkcoch" zone="int_VC"></definition>
+    <definition col="bank_table4" flags="2,5" id="bank_table4" lodDistance="170" txd="bye_cutbnkcoch" zone="int_VC"></definition>
+    <definition col="bank_vault" flags="5" id="bank_vault" lodDistance="170" txd="hi_cutbnkvault" zone="int_VC"></definition>
+    <definition col="bankrecept" flags="5" id="bankrecept" lodDistance="170" txd="hi_cutbnkrecpt" zone="int_VC"></definition>
+    <definition col="bankrecept01" flags="5" id="bankrecept01" lodDistance="170" txd="hi_cutbnkrecpt" zone="int_VC"></definition>
+    <definition col="bankstructure4" flags="5" id="bankstructure4" lodDistance="170" txd="hi_cutbnkmain3" zone="int_VC"></definition>
+    <definition col="bb_fence1" flags="2,5" id="bb_fence1" lodDistance="170" txd="bb_barroomtrans" zone="int_VC"></definition>
+    <definition col="bb_pooltable1_01" flags="5" id="bb_pooltable1_01" lodDistance="170" txd="bb_barroom" zone="int_VC"></definition>
+    <definition col="bb_roof1_01" flags="5" id="bb_roof1_01" lodDistance="170" txd="bb_barroom" zone="int_VC"></definition>
+    <definition col="bb_walljunk1_01" flags="2,5" id="bb_walljunk1_01" lodDistance="170" txd="bb_barroomtrans" zone="int_VC"></definition>
+    <definition col="bnk_dsk_acses" flags="2,5" id="bnk_dsk_acses" lodDistance="170" txd="hi_cutpropy" zone="int_VC"></definition>
+    <definition col="bnk_dsk_acsesno2" flags="2,5" id="bnk_dsk_acsesno2" lodDistance="170" txd="hi_cutpropy" zone="int_VC"></definition>
+    <definition col="bnk_grill01" flags="5" id="bnk_grill01" lodDistance="170" txd="hi_cutbnkmainnw" zone="int_VC"></definition>
+    <definition col="bnk_lamp_shield" flags="5,21" id="bnk_lamp_shield" lodDistance="170" txd="hi_cutbnkmainnw" zone="int_VC"></definition>
+    <definition col="bnk_main_glass" flags="2,5" id="bnk_main_glass" lodDistance="170" txd="hi_cutbnk_alp" zone="int_VC"></definition>
+    <definition col="bnk_main_rework" flags="5" id="bnk_main_rework" lodDistance="170" txd="hi_cutbnkmainnw" zone="int_VC"></definition>
+    <definition col="bnk_main_rooflights" flags="2,5" id="bnk_main_rooflights" lodDistance="170" txd="hi_cutbnk_alp" zone="int_VC"></definition>
+    <definition col="bnk_mainnewref" flags="5" id="bnk_mainnewref" lodDistance="170" txd="hi_cutbnkmainnw" zone="int_VC"></definition>
+    <definition col="bnk_man_ofc" flags="5" id="bnk_man_ofc" lodDistance="170" txd="hi_cutmngof" zone="int_VC"></definition>
+    <definition col="bnk_man_ofc01" flags="5" id="bnk_man_ofc01" lodDistance="170" txd="hi_cutmngof" zone="int_VC"></definition>
+    <definition col="bnk_mngr_chr" flags="5" id="bnk_mngr_chr" lodDistance="170" txd="hi_cutbnkchr" zone="int_VC"></definition>
+    <definition col="bnk_mngr_rf_lights" flags="2,5" id="bnk_mngr_rf_lights" lodDistance="170" txd="hi_cutbnk_alp" zone="int_VC"></definition>
+    <definition col="bnk_recp_lites" flags="2,5" id="bnk_recp_lites" lodDistance="170" txd="hi_cutbnk_alp" zone="int_VC"></definition>
+    <definition col="bnk_scrty_tbl" flags="2,5" id="bnk_scrty_tbl" lodDistance="170" txd="bye_cutbnkcoch" zone="int_VC"></definition>
+    <definition col="bnk_valt_door" flags="5" id="bnk_valt_door" lodDistance="170" txd="hi_cutbnkvault" zone="int_VC"></definition>
+    <definition col="bugsuckfuck" flags="2,5,7,21" id="bugsuckfuck" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="cb_CLUBSTAIRS" flags="5,7" id="cb_CLUBSTAIRS" lodDistance="170" txd="hi_cutclubbar" zone="int_VC"></definition>
+    <override id="chairsntableml" lodDistance="170" />
+    <definition col="chairthings" flags="5" id="chairthings" lodDistance="170" txd="bye_cutbnkcoch" zone="int_VC"></definition>
+    <definition col="chairthings2" flags="2,5" id="chairthings2" lodDistance="170" txd="bye_cutbnkcoch" zone="int_VC"></definition>
+    <definition col="cl_bar_temp1" flags="5,7" id="cl_bar_temp1" lodDistance="170" txd="hi_cutclubbar" zone="int_VC"></definition>
+    <definition col="cl_bckrm_couchs" flags="5,7" id="cl_bckrm_couchs" lodDistance="170" txd="hi_cutcluboffice" zone="int_VC"></definition>
+    <definition col="cl_bckrm_tablewee" flags="5,7" id="cl_bckrm_tablewee" lodDistance="170" txd="hi_cutcluboffice" zone="int_VC"></definition>
+    <definition col="cl_bckrm_tble" flags="5,7" id="cl_bckrm_tble" lodDistance="170" txd="hi_cutcluboffice" zone="int_VC"></definition>
+    <definition col="cl_coolers" flags="2,5,7" id="cl_coolers" lodDistance="170" txd="hi_cutclubbar" zone="int_VC"></definition>
+    <definition col="cl_curtains" flags="2,5,7,21" id="cl_curtains" lodDistance="170" txd="hi_cutmaincl" zone="int_VC"></definition>
+    <definition col="cl_dancefloor" flags="5,7" id="cl_dancefloor" lodDistance="170" txd="hi_cutmaincl" zone="int_VC"></definition>
+    <definition col="cl_light_st" flags="5,7" id="cl_light_st" lodDistance="170" txd="hi_cutmaincl" zone="int_VC"></definition>
+    <definition col="cl_lightsuprts" flags="2,5,7" id="cl_lightsuprts" lodDistance="170" txd="mainclub2" zone="int_VC"></definition>
+    <definition col="cl_main_room" flags="5,7" id="cl_main_room" lodDistance="170" txd="hi_cutmaincl" zone="int_VC"></definition>
+    <definition col="cl_main_room12" flags="5,7" id="cl_main_room12" lodDistance="170" txd="hi_cutmaincl" zone="int_VC"></definition>
+    <definition col="cl_main_roomb" flags="5,7" id="cl_main_roomb" lodDistance="170" txd="hi_cutmaincl" zone="int_VC"></definition>
+    <definition col="cl_main_roomb2" flags="5,7" id="cl_main_roomb2" lodDistance="170" txd="hi_cutmaincl" zone="int_VC"></definition>
+    <definition col="cl_mainwalls" flags="5,7" id="cl_mainwalls" lodDistance="170" txd="hi_cutclwaltst" zone="int_VC"></definition>
+    <definition col="cl_mainwallsb" flags="5,7" id="cl_mainwallsb" lodDistance="170" txd="hi_cutclwaltst" zone="int_VC"></definition>
+    <definition col="cl_of_opac" flags="2,5,7" id="cl_of_opac" lodDistance="170" txd="hi_cutclof_opa" zone="int_VC"></definition>
+    <definition col="cl_ofs_props" flags="2,5,7" id="cl_ofs_props" lodDistance="170" txd="hi_cuttblprop" zone="int_VC"></definition>
+    <definition col="cl_railing" flags="5,7" id="cl_railing" lodDistance="170" txd="mainclub2" zone="int_VC"></definition>
+    <definition col="cl_railingb" flags="5,7" id="cl_railingb" lodDistance="170" txd="mainclub2" zone="int_VC"></definition>
+    <definition col="cl_recessed_flr" flags="2,5,7" id="cl_recessed_flr" lodDistance="170" txd="mainclub2" zone="int_VC"></definition>
+    <definition col="cl_recessedlights1" flags="2,5,7" id="cl_recessedlights1" lodDistance="170" txd="mainclub2" zone="int_VC"></definition>
+    <definition col="cl_spots" flags="5,7" id="cl_spots" lodDistance="170" txd="mainclub2" zone="int_VC"></definition>
+    <definition col="cl_stage" flags="5,7" id="cl_stage" lodDistance="170" txd="hi_cutmaincl" zone="int_VC"></definition>
+    <definition col="cl_stage_roof" flags="5,7" id="cl_stage_roof" lodDistance="170" txd="hi_cutmaincl" zone="int_VC"></definition>
+    <definition col="cl_tablesetlrg" flags="2,5,7" id="cl_tablesetlrg" lodDistance="170" txd="hi_cuttblprop" zone="int_VC"></definition>
+    <definition col="cl_tbl_chait_tmp" flags="5,7" id="cl_tbl_chait_tmp" lodDistance="170" txd="mainclub2" zone="int_VC"></definition>
+    <definition col="cl_tbl_chait_tmpb" flags="5,7" id="cl_tbl_chait_tmpb" lodDistance="170" txd="mainclub2" zone="int_VC"></definition>
+    <definition col="cl_tblesetsml" flags="2,5,7" id="cl_tblesetsml" lodDistance="170" txd="hi_cuttblprop" zone="int_VC"></definition>
+    <definition col="cl_yachtmdl" flags="5,7" id="cl_yachtmdl" lodDistance="170" txd="cl_yacht" zone="int_VC"></definition>
+    <definition col="clubbackroom" flags="5,7" id="clubbackroom" lodDistance="170" txd="hi_cutcluboffice" zone="int_VC"></definition>
+    <definition col="clubceilingdome" flags="5,7" id="clubceilingdome" lodDistance="170" txd="mainclub2" zone="int_VC"></definition>
+    <definition col="cof_bardetail" flags="5,7,21" id="cof_bardetail" lodDistance="170" txd="cofshopintdet" zone="int_VC"></definition>
+    <definition col="cof_extwindw" flags="2,5,7" id="cof_extwindw" lodDistance="170" txd="cofshopwind" zone="int_VC"></definition>
+    <definition col="cof_intfloor" flags="5,7" id="cof_intfloor" lodDistance="170" txd="cofshopint" zone="int_VC"></definition>
+    <definition col="cof_seat" flags="5,7" id="cof_seat" lodDistance="170" txd="cofshopintdet" zone="int_VC"></definition>
+    <definition col="cof_shad1" flags="2,5,7" id="cof_shad1" lodDistance="170" txd="cofshad" zone="int_VC"></definition>
+    <definition col="cof_shad2" flags="2,5,6,7" id="cof_shad2" lodDistance="170" txd="cofshad" zone="int_VC"></definition>
+    <definition col="cof_shad4" flags="2,5,7" id="cof_shad4" lodDistance="170" txd="cofshad" zone="int_VC"></definition>
+    <definition col="cof_shpdetail1" flags="5,7" id="cof_shpdetail1" lodDistance="170" txd="cofshopintdet" zone="int_VC"></definition>
+    <definition col="cof_xtremedet" flags="5,7" id="cof_xtremedet" lodDistance="170" txd="cofshopintdet" zone="int_VC"></definition>
+    <definition col="cofbarbothint" flags="" id="cofbarbothint" lodDistance="170" txd="cofintout" zone="int_VC"></definition>
+    <definition col="concerth02" flags="2,5" id="concerth02" lodDistance="170" txd="bakstgstuff" zone="int_VC"></definition>
+    <definition col="concerth03" flags="2,5" id="concerth03" lodDistance="170" txd="bakstgstuff" zone="int_VC"></definition>
+    <definition col="concerth04" flags="2,5" id="concerth04" lodDistance="170" txd="bakstgstuff" zone="int_VC"></definition>
+    <definition col="concerth05" flags="5" id="concerth05" lodDistance="170" txd="stagestuff" zone="int_VC"></definition>
+    <definition col="concerth06" flags="5,21" id="concerth06" lodDistance="170" txd="stagestuff" zone="int_VC"></definition>
+    <definition col="concerth07" flags="2,5" id="concerth07" lodDistance="170" txd="stagestuff" zone="int_VC"></definition>
+    <definition col="concerth08" flags="2,5,21" id="concerth08" lodDistance="170" txd="stagestuff" zone="int_VC"></definition>
+    <definition col="concerth09" flags="" id="concerth09" lodDistance="170" txd="stagestuff" zone="int_VC"></definition>
+    <definition col="concerth10" flags="2,5,21" id="concerth10" lodDistance="170" txd="stagestuff" zone="int_VC"></definition>
+    <definition col="concerth11" flags="" id="concerth11" lodDistance="170" txd="stagestuff" zone="int_VC"></definition>
+    <definition col="concerth12" flags="2,5,21" id="concerth12" lodDistance="170" txd="bakstgstuff" zone="int_VC"></definition>
+    <definition col="concerth27" flags="5" id="concerth27" lodDistance="170" txd="bakstgstuff" zone="int_VC"></definition>
+    <definition col="concerth27_fence" flags="2,5,21" id="concerth27_fence" lodDistance="170" txd="bakstgstuff" zone="int_VC"></definition>
+    <definition col="concerth29" flags="2,5,21" id="concerth29" lodDistance="170" txd="stagestuff" zone="int_VC"></definition>
+    <definition col="concerth48" flags="2,5" id="concerth48" lodDistance="170" txd="bakstgstuff" zone="int_VC"></definition>
+    <definition col="concerth52" flags="2,5" id="concerth52" lodDistance="170" txd="bakstgstuff" zone="int_VC"></definition>
+    <definition col="concerth56" flags="5,21" id="concerth56" lodDistance="170" txd="stagestuff" zone="int_VC"></definition>
+    <definition col="cop_cells" flags="5" id="cop_cells" lodDistance="170" txd="od_cop_interior" zone="int_VC"></definition>
+    <definition col="cop_entrance" flags="5" id="cop_entrance" lodDistance="170" txd="od_cop_interior" zone="int_VC"></definition>
+    <definition col="cop_hallway" flags="5" id="cop_hallway" lodDistance="170" txd="od_cop_interior" zone="int_VC"></definition>
+    <definition col="cop_mainroom" flags="5" id="cop_mainroom" lodDistance="170" txd="od_cop_interior" zone="int_VC"></definition>
+    <definition col="cop_pillar_fake" flags="2,5,7" id="cop_pillar_fake" lodDistance="170" txd="copdoorstuff" zone="int_VC"></definition>
+    <definition col="cop_pillar_shad" flags="2,5,7" id="cop_pillar_shad" lodDistance="170" txd="od_cop_interior" zone="int_VC"></definition>
+    <definition col="cop_processing" flags="5" id="cop_processing" lodDistance="170" txd="od_cop_interior" zone="int_VC"></definition>
+    <definition col="cop_waterref" flags="2,5" id="cop_waterref" lodDistance="170" txd="od_cop_interior" zone="int_VC"></definition>
+    <override id="dead_tied_cop" lodDistance="170" />
+    <definition col="drive_flowers06" flags="2" id="drive_flowers06" lodDistance="170" txd="manf" zone="int_VC"></definition>
+    <definition col="elevator" flags="5" id="elevator" lodDistance="170" txd="hi_cutbnkrecpt" zone="int_VC"></definition>
+    <definition col="fixedbects06" flags="5" id="fixedbects06" lodDistance="170" txd="hi_cutlaw_atp" zone="int_VC"></definition>
+    <definition col="gash_int" flags="2,7" id="gash_int" lodDistance="170" txd="ml_clothes" zone="int_VC"></definition>
+    <definition col="hot_bar1_01" flags="5" id="hot_bar1_01" lodDistance="170" txd="hotelroomint" zone="int_VC"></definition>
+    <definition col="hot_drawers1_01" flags="5" id="hot_drawers1_01" lodDistance="170" txd="hotelroomint" zone="int_VC"></definition>
+    <definition col="hot_mags1" flags="5" id="hot_mags1" lodDistance="170" txd="hotelroomint" zone="int_VC"></definition>
+    <definition col="hot_room317" flags="5" id="hot_room317" lodDistance="170" txd="hotelroomint" zone="int_VC"></definition>
+    <definition col="hot_trans1" flags="2,5,7" id="hot_trans1" lodDistance="170" txd="hot_roomtrans" zone="int_VC"></definition>
+    <definition col="hotroomfan" flags="2,5,6" id="hotroomfan" lodDistance="170" txd="hi_cuthoomintshad" zone="int_VC"></definition>
+    <definition col="hotshad1" flags="2,5,6" id="hotshad1" lodDistance="170" txd="hi_cuthoomintshad" zone="int_VC"></definition>
+    <definition col="ht_fans_dy" flags="5" id="ht_fans_dy" lodDistance="170" timeIn="6" timeOut="20" txd="hi_cutintprops" zone="int_VC"></definition>
+    <definition col="ht_fans_nt" flags="5" id="ht_fans_nt" lodDistance="170" timeIn="20" timeOut="6" txd="hi_cutintprops" zone="int_VC"></definition>
+    <definition col="ht_kb_couch1_dy" flags="5" id="ht_kb_couch1_dy" lodDistance="170" timeIn="6" timeOut="20" txd="hi_cutcouch" zone="int_VC"></definition>
+    <definition col="ht_kb_couch1_nt" flags="5" id="ht_kb_couch1_nt" lodDistance="170" timeIn="20" timeOut="6" txd="hi_cutcouch" zone="int_VC"></definition>
+    <definition col="ht_mainfloor2_dy" flags="5" id="ht_mainfloor2_dy" lodDistance="170" timeIn="6" timeOut="20" txd="hi_cuthtl2" zone="int_VC"></definition>
+    <definition col="ht_mainfloor2_nt" flags="5" id="ht_mainfloor2_nt" lodDistance="170" timeIn="20" timeOut="6" txd="hi_cuthtl2" zone="int_VC"></definition>
+    <definition col="ht_mainfloor_nt" flags="5,7,21" id="ht_mainfloor_nt" lodDistance="170" timeIn="20" timeOut="6" txd="hi_cuthtl2" zone="int_VC"></definition>
+    <definition col="ht_upstairs" flags="5" id="ht_upstairs" lodDistance="170" txd="hi_cutint1" zone="int_VC"></definition>
+    <definition col="ht_veg01_dy" flags="2,5" id="ht_veg01_dy" lodDistance="170" timeIn="6" timeOut="20" txd="genericvc" zone="int_VC"></definition>
+    <definition col="ht_veg01_nt" flags="2,5" id="ht_veg01_nt" lodDistance="170" timeIn="20" timeOut="6" txd="genericvc" zone="int_VC"></definition>
+    <definition col="ht_veg02_dy" flags="2,5" id="ht_veg02_dy" lodDistance="170" timeIn="6" timeOut="20" txd="genericvc" zone="int_VC"></definition>
+    <definition col="ht_veg02_nt" flags="2,5" id="ht_veg02_nt" lodDistance="170" timeIn="20" timeOut="6" txd="genericvc" zone="int_VC"></definition>
+    <definition col="ht_veg04_dy" flags="2,5" id="ht_veg04_dy" lodDistance="170" timeIn="6" timeOut="20" txd="genericvc" zone="int_VC"></definition>
+    <definition col="ht_veg04_nt" flags="2,5" id="ht_veg04_nt" lodDistance="170" timeIn="20" timeOut="6" txd="genericvc" zone="int_VC"></definition>
+    <definition col="htl_dco_chair03_dy" flags="5" id="htl_dco_chair03_dy" lodDistance="170" timeIn="6" timeOut="20" txd="hi_cuthotel1" zone="int_VC"></definition>
+    <definition col="htl_dco_chair03_nt" flags="5" id="htl_dco_chair03_nt" lodDistance="170" timeIn="20" timeOut="6" txd="hi_cuthotel1" zone="int_VC"></definition>
+    <definition col="htl_gls_1_dy" flags="2,5,10" id="htl_gls_1_dy" lodDistance="170" timeIn="6" timeOut="20" txd="hi_cuthtlalp" zone="int_VC"></definition>
+    <definition col="htl_gls_1_nt" flags="2,5,10" id="htl_gls_1_nt" lodDistance="170" timeIn="20" timeOut="6" txd="hi_cuthtlalp" zone="int_VC"></definition>
+    <definition col="htl_gls_2_dy" flags="2,5,10" id="htl_gls_2_dy" lodDistance="170" timeIn="6" timeOut="20" txd="hi_cuthtlalp" zone="int_VC"></definition>
+    <definition col="htl_gls_2_nt" flags="2,5,10" id="htl_gls_2_nt" lodDistance="170" timeIn="20" timeOut="6" txd="hi_cuthtlalp" zone="int_VC"></definition>
+    <definition col="htl_gls_3_dy" flags="2,5,10" id="htl_gls_3_dy" lodDistance="170" timeIn="6" timeOut="20" txd="hi_cuthtlalp" zone="int_VC"></definition>
+    <definition col="htl_gls_3_nt" flags="2,5,10" id="htl_gls_3_nt" lodDistance="170" timeIn="20" timeOut="6" txd="hi_cuthtlalp" zone="int_VC"></definition>
+    <definition col="htl_gls_lobby" flags="2,5,10" id="htl_gls_lobby" lodDistance="170" txd="hi_cuthtlalp" zone="int_VC"></definition>
+    <definition col="htl_lftdoor1_dy" flags="5" id="htl_lftdoor1_dy" lodDistance="170" timeIn="6" timeOut="20" txd="hi_cuthtl4" zone="int_VC"></definition>
+    <definition col="htl_lftdoor1_nt" flags="5" id="htl_lftdoor1_nt" lodDistance="170" timeIn="20" timeOut="6" txd="hi_cuthtl4" zone="int_VC"></definition>
+    <definition col="htl_maintiles_dy" flags="2,5" id="htl_maintiles_dy" lodDistance="170" timeIn="6" timeOut="20" txd="hi_cuthtlalp" zone="int_VC"></definition>
+    <definition col="htl_maintiles_nt" flags="2,5" id="htl_maintiles_nt" lodDistance="170" timeIn="20" timeOut="6" txd="hi_cuthtlalp" zone="int_VC"></definition>
+    <definition col="hvood" flags="2,5,7" id="hvood" lodDistance="170" txd="haitcont" zone="int_VC"></definition>
+    <definition col="hvood_plant" flags="2,5,7,21" id="hvood_plant" lodDistance="170" txd="haitcont" zone="int_VC"></definition>
+    <definition col="instruments" flags="2,5" id="instruments" lodDistance="170" txd="recstudio2" zone="int_VC"></definition>
+    <override id="k_pooltablesm" lodDistance="170" />
+    <definition col="kb1_couch06" flags="2,5" id="kb1_couch06" lodDistance="170" txd="bye_cutbnkcoch" zone="int_VC"></definition>
+    <definition col="kb1_couch09" flags="2,5" id="kb1_couch09" lodDistance="170" txd="bye_cutbnkcoch" zone="int_VC"></definition>
+    <definition col="kb1_couch15" flags="2,5" id="kb1_couch15" lodDistance="170" txd="bye_cutbnkcoch" zone="int_VC"></definition>
+    <definition col="littleha_hardwa_int" flags="7" id="littleha_hardwa_int" lodDistance="170" txd="nbwtoolshp5" zone="int_VC"></definition>
+    <definition col="lw_floor_opac" flags="2,5" id="lw_floor_opac" lodDistance="170" txd="hi_cutlaw_atp" zone="int_VC"></definition>
+    <definition col="lw_lights" flags="2,5" id="lw_lights" lodDistance="170" txd="hi_cutlaw_atp" zone="int_VC"></definition>
+    <definition col="lw_officedesk01" flags="5" id="lw_officedesk01" lodDistance="170" txd="hi_cutlaw_atp" zone="int_VC"></definition>
+    <definition col="lw_room_main" flags="5" id="lw_room_main" lodDistance="170" txd="hi_cutlaw_atp" zone="int_VC"></definition>
+    <definition col="lw_roombitsb" flags="2,5" id="lw_roombitsb" lodDistance="170" txd="hi_cutlaw_atp" zone="int_VC"></definition>
+    <definition col="lw_roombitsbb" flags="2,5" id="lw_roombitsbb" lodDistance="170" txd="hi_cutlaw_atp" zone="int_VC"></definition>
+    <definition col="lw_roombitsc" flags="2,5" id="lw_roombitsc" lodDistance="170" txd="hi_cutlaw_atp" zone="int_VC"></definition>
+    <definition col="lw_rug" flags="5" id="lw_rug" lodDistance="170" txd="hi_cutlaw_atp" zone="int_VC"></definition>
+    <definition col="lw_shado" flags="2,5" id="lw_shado" lodDistance="170" txd="hi_cutlaw_atp" zone="int_VC"></definition>
+    <definition col="maidmalltopa" flags="2,5,7" id="maidmalltopa" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mall_ammu" flags="2,5,7" id="mall_ammu" lodDistance="170" txd="mall_ammu" zone="int_VC"></definition>
+    <definition col="mall_ammuwin" flags="2,5,7" id="mall_ammuwin" lodDistance="170" txd="mall_ammu" zone="int_VC"></definition>
+    <definition col="mall_fans" flags="5,7" id="mall_fans" lodDistance="170" txd="mall_props" zone="int_VC"></definition>
+    <definition col="mall_hardware" flags="5,7" id="mall_hardware" lodDistance="170" txd="mall_ammu" zone="int_VC"></definition>
+    <definition col="mall_hardware_int" flags="5,7" id="mall_hardware_int" lodDistance="170" txd="mall_ammu" zone="int_VC"></definition>
+    <definition col="mallbushdense" flags="2,7" id="mallbushdense" lodDistance="170" txd="mall_veg" zone="int_VC"></definition>
+    <definition col="mallbushs" flags="2,7" id="mallbushs" lodDistance="170" txd="mall_veg" zone="int_VC"></definition>
+    <definition col="mallint1" flags="1,5,7" id="mallint1" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mallint2" flags="5,7" id="mallint2" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mallint3" flags="5,7" id="mallint3" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mallint5" flags="5,7" id="mallint5" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mallint5up" flags="5,7" id="mallint5up" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mallint5up_b" flags="2,5,7" id="mallint5up_b" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mallint7" flags="5,7" id="mallint7" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mallint8" flags="5,7" id="mallint8" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mallint9" flags="1,5,7" id="mallint9" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="malllights" flags="1,2,5,7" id="malllights" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mallstrut" flags="5,7" id="mallstrut" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="man_chandeliers" flags="2,5" id="man_chandeliers" lodDistance="170" txd="starmansionst" zone="int_VC"></definition>
+    <definition col="man_couch02" flags="5" id="man_couch02" lodDistance="170" txd="starmansionst" zone="int_VC"></definition>
+    <definition col="man_f_chandelier" flags="5" id="man_f_chandelier" lodDistance="170" txd="starmansionst" zone="int_VC"></definition>
+    <definition col="man_hall_floor" flags="5" id="man_hall_floor" lodDistance="170" txd="man_hall" zone="int_VC"></definition>
+    <definition col="man_hall_pillars" flags="5" id="man_hall_pillars" lodDistance="170" txd="man_hall" zone="int_VC"></definition>
+    <definition col="man_hall_ref" flags="2,5" id="man_hall_ref" lodDistance="170" txd="man_hall" zone="int_VC"></definition>
+    <definition col="man_hall_wall1" flags="5" id="man_hall_wall1" lodDistance="170" txd="man_hall" zone="int_VC"></definition>
+    <definition col="man_hallway1" flags="5" id="man_hallway1" lodDistance="170" txd="man_hall_2" zone="int_VC"></definition>
+    <definition col="man_hallway2" flags="5" id="man_hallway2" lodDistance="170" txd="man_hall_2" zone="int_VC"></definition>
+    <definition col="man_monitor_base" flags="5" id="man_monitor_base" lodDistance="170" txd="man_props" zone="int_VC"></definition>
+    <definition col="man_monitors02" flags="2,5" id="man_monitors02" lodDistance="170" txd="bye_cutbnkcoch" zone="int_VC"></definition>
+    <override id="man_safenew" lodDistance="170" />
+    <definition col="man_safenewmny" flags="2,5" id="man_safenewmny" lodDistance="170" txd="hi_cutsafe" zone="int_VC"></definition>
+    <definition col="man_scar_curtains" flags="5" id="man_scar_curtains" lodDistance="170" txd="starmansionst" zone="int_VC"></definition>
+    <definition col="man_scar_props206" flags="5" id="man_scar_props206" lodDistance="170" txd="starmansionst" zone="int_VC"></definition>
+    <definition col="man_scar_propv" flags="5" id="man_scar_propv" lodDistance="170" txd="starmansionst" zone="int_VC"></definition>
+    <definition col="man_scrface_walls" flags="5" id="man_scrface_walls" lodDistance="170" txd="man_scarface" zone="int_VC"></definition>
+    <definition col="man_scrfashado" flags="0,2,5" id="man_scrfashado" lodDistance="170" txd="hi_cutmanshad" zone="int_VC"></definition>
+    <definition col="man_scrfce_chstrset" flags="5" id="man_scrfce_chstrset" lodDistance="170" txd="starmansionst" zone="int_VC"></definition>
+    <definition col="man_scrfce_floor1" flags="5" id="man_scrfce_floor1" lodDistance="170" txd="man_scarface" zone="int_VC"></definition>
+    <definition col="man_sdr_folge" flags="2,5" id="man_sdr_folge" lodDistance="170" txd="hi_cutsdrm_3" zone="int_VC"></definition>
+    <definition col="man_sdr_lamps" flags="2,5" id="man_sdr_lamps" lodDistance="170" txd="hi_cutsdrm_2" zone="int_VC"></definition>
+    <definition col="man_sdr_props" flags="5" id="man_sdr_props" lodDistance="170" txd="hi_cutsdrm_1" zone="int_VC"></definition>
+    <override id="man_sdr_rug" lodDistance="170" />
+    <definition col="man_sdr_seating" flags="5" id="man_sdr_seating" lodDistance="170" txd="hi_cutsdrm_3" zone="int_VC"></definition>
+    <definition col="man_sdr_strctur" flags="5" id="man_sdr_strctur" lodDistance="170" txd="hi_cutsdrm_1" zone="int_VC"></definition>
+    <override id="man_sdr_tables" lodDistance="170" />
+    <definition col="man_sdr_tabls" flags="5" id="man_sdr_tabls" lodDistance="170" txd="hi_cutsdrm_2" zone="int_VC"></definition>
+    <definition col="man_sdr_tvstf" flags="5" id="man_sdr_tvstf" lodDistance="170" txd="hi_cutsdrm_2" zone="int_VC"></definition>
+    <definition col="man_sidrm_shad" flags="2,5" id="man_sidrm_shad" lodDistance="170" txd="hi_cutrshad" zone="int_VC"></definition>
+    <definition col="man_tablkb1" flags="5" id="man_tablkb1" lodDistance="170" txd="starmansionst" zone="int_VC"></definition>
+    <definition col="man_twr_stairs" flags="5" id="man_twr_stairs" lodDistance="170" txd="man_twr" zone="int_VC"></definition>
+    <definition col="man_twr_stairsB" flags="2,5" id="man_twr_stairsB" lodDistance="170" txd="man_twr" zone="int_VC"></definition>
+    <definition col="man_xchandeliers" flags="5" id="man_xchandeliers" lodDistance="170" txd="starmansionst" zone="int_VC"></definition>
+    <definition col="midmallfloorw" flags="2,5,7" id="midmallfloorw" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="midmallflorre" flags="1,2,5,7" id="midmallflorre" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="ml_borders" flags="5,7" id="ml_borders" lodDistance="170" txd="ml_books" zone="int_VC"></definition>
+    <definition col="ml_cofcounter1" flags="5,7" id="ml_cofcounter1" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_coffee_dsk" flags="5,7" id="ml_coffee_dsk" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_coffwin01" flags="2,7,10" id="ml_coffwin01" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_coffwin02" flags="2,7,10" id="ml_coffwin02" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_coffwinframe01" flags="2,5,7" id="ml_coffwinframe01" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_coffwinframe02" flags="2,5,7" id="ml_coffwinframe02" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_doorsmidr" flags="2,5,7" id="ml_doorsmidr" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="ml_escl" flags="5,7" id="ml_escl" lodDistance="170" txd="mall_props" zone="int_VC"></definition>
+    <definition col="ml_gap" flags="7" id="ml_gap" lodDistance="170" txd="ml_clothes" zone="int_VC"></definition>
+    <definition col="ml_gapwindows01" flags="2,7,10" id="ml_gapwindows01" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_gapwindows02" flags="2,7,10" id="ml_gapwindows02" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_gapwindows03" flags="2,7,10" id="ml_gapwindows03" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_gapwindows04" flags="2,7,10" id="ml_gapwindows04" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_gapwindows05" flags="2,7,10" id="ml_gapwindows05" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_gapwindows06" flags="2,7,10" id="ml_gapwindows06" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_gapwindows07" flags="2,7,10" id="ml_gapwindows07" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_gapwindows08" flags="2,7,10" id="ml_gapwindows08" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_gapwindows09" flags="2,7,10" id="ml_gapwindows09" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_gapwindows10" flags="2,7,10" id="ml_gapwindows10" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_gapwindows11" flags="2,7,10" id="ml_gapwindows11" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_gapwindows12" flags="2,7,10" id="ml_gapwindows12" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_glasslft" flags="2,5,7" id="ml_glasslft" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_jewelcounter" flags="5,7" id="ml_jewelcounter" lodDistance="170" txd="ml_jewellers" zone="int_VC"></definition>
+    <definition col="ml_jewelglass" flags="2,5,7" id="ml_jewelglass" lodDistance="170" txd="ml_jewellers" zone="int_VC"></definition>
+    <definition col="ml_jewellers" flags="5,7" id="ml_jewellers" lodDistance="170" txd="ml_jewellers" zone="int_VC"></definition>
+    <definition col="ml_jewelwin01" flags="2,7,10" id="ml_jewelwin01" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_jewelwin02" flags="2,7,10" id="ml_jewelwin02" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_jewelwin03" flags="2,7,10" id="ml_jewelwin03" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_jewelwinframe01" flags="5,7" id="ml_jewelwinframe01" lodDistance="170" txd="ml_jewellers" zone="int_VC"></definition>
+    <definition col="ml_jewelwinframe02" flags="5,7" id="ml_jewelwinframe02" lodDistance="170" txd="ml_jewellers" zone="int_VC"></definition>
+    <definition col="ml_planterbed" flags="5,7" id="ml_planterbed" lodDistance="170" txd="mall_props" zone="int_VC"></definition>
+    <definition col="ml_record" flags="5,7" id="ml_record" lodDistance="170" txd="ml_tuneless" zone="int_VC"></definition>
+    <definition col="ml_record3" flags="5,7" id="ml_record3" lodDistance="170" txd="ml_tuneless" zone="int_VC"></definition>
+    <definition col="ml_recordwin01" flags="2,7,10" id="ml_recordwin01" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_recordwin02" flags="2,7,10" id="ml_recordwin02" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_recordwin03" flags="2,7,10" id="ml_recordwin03" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_recordwin04" flags="2,7,10" id="ml_recordwin04" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_recordwin05" flags="2,7,10" id="ml_recordwin05" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_tarbrush" flags="5,7" id="ml_tarbrush" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="ml_vegbits01" flags="7" id="ml_vegbits01" lodDistance="170" txd="mall_veg" zone="int_VC"></definition>
+    <definition col="ml_vegbits02" flags="7" id="ml_vegbits02" lodDistance="170" txd="mall_veg" zone="int_VC"></definition>
+    <definition col="ml_vegbits03" flags="7" id="ml_vegbits03" lodDistance="170" txd="mall_veg" zone="int_VC"></definition>
+    <definition col="ml_vegbits04" flags="7" id="ml_vegbits04" lodDistance="170" txd="mall_veg" zone="int_VC"></definition>
+    <definition col="ml_vegbits05" flags="7" id="ml_vegbits05" lodDistance="170" txd="mall_veg" zone="int_VC"></definition>
+    <definition col="ml_water" flags="2,5,7" id="ml_water" lodDistance="170" txd="mall_props" zone="int_VC"></definition>
+    <definition col="ml_water2" flags="2,5,7" id="ml_water2" lodDistance="170" txd="mall_props" zone="int_VC"></definition>
+    <definition col="mlgrndmidtop" flags="2,5,7" id="mlgrndmidtop" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mlgrounds" flags="1,2,5,7" id="mlgrounds" lodDistance="300" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mlmallbush" flags="2,7" id="mlmallbush" lodDistance="300" txd="mall_veg" zone="int_VC"></definition>
+    <definition col="mlmallplan02" flags="7" id="mlmallplan02" lodDistance="170" txd="mallitems" zone="int_VC"></definition>
+    <definition col="mlmallplan04" flags="7" id="mlmallplan04" lodDistance="170" txd="mallitems" zone="int_VC"></definition>
+    <definition col="mlmallplan05" flags="7" id="mlmallplan05" lodDistance="170" txd="mallitems" zone="int_VC"></definition>
+    <definition col="mlmallroof" flags="5,7" id="mlmallroof" lodDistance="300" txd="mallroof" zone="int_VC"></definition>
+    <definition col="mlngrnd" flags="1,2,5,7" id="mlngrnd" lodDistance="300" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mlnorthmalllft" flags="1,5,7" id="mlnorthmalllft" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mlnorthmallrt" flags="1,5,7" id="mlnorthmallrt" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mlnorthmalltop" flags="5,7" id="mlnorthmalltop" lodDistance="170" txd="malltotal" zone="int_VC"></definition>
+    <definition col="mlobjects_n" flags="5,7" id="mlobjects_n" lodDistance="170" txd="mall_props" zone="int_VC"></definition>
+    <definition col="mlobjects_n02" flags="5,7" id="mlobjects_n02" lodDistance="170" txd="mall_props" zone="int_VC"></definition>
+    <definition col="mlobjects_n03" flags="5,7" id="mlobjects_n03" lodDistance="170" txd="mall_props" zone="int_VC"></definition>
+    <definition col="mlobjects_n04" flags="5,7" id="mlobjects_n04" lodDistance="170" txd="mall_props" zone="int_VC"></definition>
+    <definition col="mlobjects_s02" flags="5,7" id="mlobjects_s02" lodDistance="170" txd="mall_props" zone="int_VC"></definition>
+    <definition col="mloven" flags="5,7" id="mloven" lodDistance="170" txd="foodcourt" zone="int_VC"></definition>
+    <definition col="mloven02" flags="5,7" id="mloven02" lodDistance="170" txd="foodcourt" zone="int_VC"></definition>
+    <definition col="mlrecords" flags="5,7" id="mlrecords" lodDistance="170" txd="ml_tuneless" zone="int_VC"></definition>
+    <definition col="mna_table_scrfce" flags="5" id="mna_table_scrfce" lodDistance="170" txd="starmansionst" zone="int_VC"></definition>
+    <definition col="nt_bed1_01" flags="5" id="nt_bed1_01" lodDistance="170" txd="hotelroomint" zone="int_VC"></definition>
+    <definition col="nt_couch_1" flags="5" id="nt_couch_1" lodDistance="170" txd="hotelroomint" zone="int_VC"></definition>
+    <definition col="nt_wassily1_02" flags="5" id="nt_wassily1_02" lodDistance="170" txd="hotelroomint" zone="int_VC"></definition>
+    <definition col="od_celldoor03" flags="5" id="od_celldoor03" lodDistance="170" txd="od_cop_interior" zone="int_VC"></definition>
+    <definition col="od_celldoor1" flags="5" id="od_celldoor1" lodDistance="170" txd="od_cop_interior" zone="int_VC"></definition>
+    <definition col="od_clubdoors_int" flags="" id="od_clubdoors_int" lodDistance="170" txd="od_clubout" zone="int_VC"></definition>
+    <definition col="plnt_ref_bnk01" flags="5" id="plnt_ref_bnk01" lodDistance="170" txd="vegetation" zone="int_VC"></definition>
+    <definition col="plnt_ref_bnk02" flags="5" id="plnt_ref_bnk02" lodDistance="170" txd="vegetation" zone="int_VC"></definition>
+    <override id="propashtray1" lodDistance="170" />
+    <override id="propbeerglass1" lodDistance="170" />
+    <override id="propcollecttable" lodDistance="170" />
+    <definition col="pw_press1_03" flags="5" id="pw_press1_03" lodDistance="170" txd="lh_pwinterior" zone="int_VC"></definition>
+    <definition col="pw_priint" flags="5" id="pw_priint" lodDistance="170" txd="lh_pwinterior" zone="int_VC"></definition>
+    <definition col="recordingstudio" flags="2,5" id="recordingstudio" lodDistance="170" txd="recstudio" zone="int_VC"></definition>
+    <definition col="scar_winglass" flags="2,5" id="scar_winglass" lodDistance="170" txd="man_scarface" zone="int_VC"></definition>
+    <definition col="scarinteriordoor" flags="5,7" id="scarinteriordoor" lodDistance="170" txd="scarinterior" zone="int_VC"></definition>
+    <definition col="stripback" flags="5" id="stripback" lodDistance="170" txd="stripback" zone="int_VC"></definition>
+    <definition col="stripinter" flags="5" id="stripinter" lodDistance="170" txd="stripinter" zone="int_VC"></definition>
+    <definition col="stripinterfloor" flags="2,5" id="stripinterfloor" lodDistance="170" txd="stripinter" zone="int_VC"></definition>
+    <definition col="stripinterupside" flags="5,21" id="stripinterupside" lodDistance="170" txd="stripinter" zone="int_VC"></definition>
+    <definition col="striplights" flags="5" id="striplights" lodDistance="170" txd="striplights" zone="int_VC"></definition>
+    <definition col="tarbrush_int" flags="5,7" id="tarbrush_int" lodDistance="170" txd="ml_coffee" zone="int_VC"></definition>
+    <definition col="unrocketed_win1" flags="2,5" id="unrocketed_win1" lodDistance="170" txd="hi_cutpropy" zone="int_VC"></definition>
+    <definition col="vc_gen_ammunation" flags="5,21" id="vc_gen_ammunation" lodDistance="170" txd="wash_ammu" zone="int_VC"></definition>
+    <override id="veg_palmkb13" lodDistance="170" />
+    <definition col="wash_hardwares_int" flags="5,7,21" id="wash_hardwares_int" lodDistance="170" txd="nbwtoolshp5" zone="int_VC"></definition>
 </zoneDefinitions>

@@ -19,8 +19,6 @@
     <building id="LODhaiblockc1" posX="842.84" posY="-963.642" posZ="11.0942" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODtiroadbuild" posX="1114.13" posY="-1163.7" posZ="7.82" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="lodcrushbn" posX="694.18" posY="-922.429" posZ="11.2908" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODworksramps" posX="915.12" posY="-1173.23" posZ="17.3489" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODtistation" posX="973.3" posY="-1006.73" posZ="6.1405" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODhitbuild1aa" posX="841.17" posY="-1199.46" posZ="11.0413" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODlhaitibuilding09" posX="931.22" posY="-1073.5" posZ="7.2382" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODfsthus" posX="987.04" posY="-1033.94" posZ="6.5575" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -33,7 +31,6 @@
     <building id="lodcrushju" posX="737.28" posY="-922.739" posZ="10.9094" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODcrushers14" posX="737.31" posY="-870.961" posZ="10.6057" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="lodcrushmnf" posX="692.87" posY="-871.568" posZ="9.5674" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODtistation01" posX="981" posY="-1014.1" posZ="6.1405" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
     <building id="LODharoada8" posX="1030.86" posY="-1009.45" posZ="4.33803" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODcoastfirst" posX="774.72" posY="-1269.34" posZ="-9.70803" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODgroundplane" posX="932.52" posY="-1172.14" posZ="4.40436" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -52,7 +49,7 @@
     <building id="litharoada9" lodParent="LODharoada9" posX="1017.89" posY="-1165.29" posZ="4.33803" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="litharoada8" lodParent="LODharoada8" posX="1030.86" posY="-1009.45" posZ="4.33803" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="lh_haiblockc1" lodParent="LODhaiblockc1" posX="842.84" posY="-963.642" posZ="11.0942" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="litlhaitibuilding02" lodParent="LODlhaitibuilding02" posX="791.42" posY="-1122.64" posZ="13.2269" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="litlhaitibuilding02" lodParent="lod_litlhaitibuildi" posX="791.42" posY="-1122.64" posZ="13.2269" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="lh_crushers15" posX="733.12" posY="-929.239" posZ="14.5479" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="lh_hitbuild1a" lodParent="LODhitbuild1a" posX="858.99" posY="-1083.88" posZ="10.3366" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="pw_printworks" lodParent="LODprintworks" posX="910.06" posY="-1179.66" posZ="11.9335" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -339,4 +336,5 @@
     <building id="fuckedcars01" posX="994.455" posY="-1003.32" posZ="5.8183" rotX="0" rotY="-0" rotZ="-0"></building>
     <object id="Gen_doorSHOP01" posX="936.38" posY="-1233.26" posZ="5.5035" rotX="6.4328387913206e-17" rotY="-0.00030407899143714" rotZ="89.999923980241"></object>
     <object id="Gen_doorEXT7_11L" posX="1147.98" posY="-1034.79" posZ="5.016" rotX="0" rotY="-0" rotZ="-155.255139353"></object>
+    <building id="lod_litlhaitibuildi" posX="791.419983" posY="-1122.640015" posZ="13.226900" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
 </map>

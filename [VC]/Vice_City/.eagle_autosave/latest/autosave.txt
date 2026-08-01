@@ -1,2 +1,0 @@
-root=/home/codyl/Github/MTA-Vice-City/[VC]/Vice_City
-unix_seconds=1782687915

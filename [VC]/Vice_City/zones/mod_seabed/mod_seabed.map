@@ -82,7 +82,7 @@
     <building id="LODd80" posX="425" posY="794.59" posZ="-37.8856" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODd81" posX="111.673" posY="793.75" posZ="-13.4706" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODd82" posX="-250" posY="632.765" posZ="-6.38681" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODd83" posX="-647.052002" posY="800.000000" posZ="-8.940140" rotX="0.000" rotY="0.000" rotZ="-0.000"></building>
+    <building id="LODd83" posX="-647.052" posY="800" posZ="-8.94014" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODd84" posX="-878.867" posY="800" posZ="-3.49165" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODd85" posX="-1577.56" posY="789.507" posZ="-15.5499" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODd86" posX="-1931.25" posY="800" posZ="-14.8131" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -96,7 +96,7 @@
     <building id="LODd94" posX="800.297" posY="400" posZ="-55.0036" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODd95" posX="400" posY="393.75" posZ="-56.0594" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODd96" posX="0" posY="393.75" posZ="-19.1662" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODd97" posX="-387.500000" posY="400.000000" posZ="-18.243401" rotX="0.000" rotY="0.000" rotZ="-0.000"></building>
+    <building id="LODd97" posX="-387.5" posY="400" posZ="-18.2434" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODd98" posX="-695" posY="400" posZ="-13.9412" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODd99" posX="-890.829" posY="399.999" posZ="-2.78496" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODd100" posX="-1615.56" posY="400" posZ="-13.8002" rotX="0" rotY="-0" rotZ="-0"></building>

@@ -185,6 +185,13 @@
     <object id="ap_radar1_01" posX="424.69" posY="-2200" posZ="24.4165" rotX="0" rotY="-0" rotZ="-0"></object>
     <object id="ap_radar1_01" posX="315.35" posY="-1872.14" posZ="98.034" rotX="0" rotY="-0" rotZ="-0"></object>
     <object id="ap_jumbo_01" posX="224.57" posY="-2008.92" posZ="14.3266" rotX="0" rotY="-0" rotZ="1.5002980309766"></object>
+    <object id="ap_jumbo_01" posX="439.23" posY="-2005.42" posZ="14.3266" rotX="0" rotY="-0" rotZ="-12.5000104742"></object>
+    <object id="ap_jumbo_01" posX="443.52" posY="-1920.87" posZ="14.3266" rotX="0" rotY="-0" rotZ="-12.5000104742"></object>
+    <object id="ap_jumbo_01" posX="519.46" posY="-1959.58" posZ="14.4183" rotX="-0.00014615006307194" rotY="0.00019394764789678" rotZ="-164.00000776618"></object>
+    <object id="ap_jumbo_01" posX="518.99" posY="-2043.93" posZ="14.4136" rotX="-0.00014615006307194" rotY="0.00019394764789678" rotZ="-164.00000776618"></object>
+    <object id="ap_jumbo_01" posX="606.25" posY="-1958.78" posZ="14.3266" rotX="0" rotY="-0" rotZ="-7.5000087318738"></object>
+    <object id="ap_jumbo_01" posX="608.51" posY="-1999.83" posZ="14.3266" rotX="0" rotY="-0" rotZ="-14.99997942033"></object>
+    <object id="ap_jumbo_01" posX="686.23" posY="-1921.78" posZ="14.3816" rotX="0" rotY="-0" rotZ="-0"></object>
     <object id="sub_floodlite" posX="414.73" posY="-1814.33" posZ="22.2017" rotX="0" rotY="-0" rotZ="-0"></object>
     <object id="sub_floodlite" posX="378.28" posY="-1732.74" posZ="22.2017" rotX="0" rotY="-0" rotZ="-0"></object>
     <object id="sub_floodlite" posX="414.73" posY="-1878.75" posZ="22.2017" rotX="0" rotY="-0" rotZ="-0"></object>

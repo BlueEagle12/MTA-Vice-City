@@ -1,7 +1,6 @@
 <map>
     <info name="MTA:SA Eagle Edit" author="MTA:SA Eagle Edit" version="1.0"></info>
     <building id="LODoshp010" posX="1247.03" posY="-2549.14" posZ="21.0907" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODkcranescale0" posX="1140.51" posY="-2467.69" posZ="28.5159" rotX="0" rotY="-0" rotZ="-23.500041524258"></building>
     <building id="LODkcranescale01" posX="1025.77" posY="-2409.91" posZ="38.4774" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODargohull2" posX="1359.06" posY="-2305.11" posZ="3.994" rotX="0" rotY="-0" rotZ="25.000269313293"></building>
     <building id="LODks46" posX="1145.43" posY="-1941.5" posZ="12.5034" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -71,7 +70,6 @@
     <building id="LODpaynspray" posX="1096.31" posY="-2216.18" posZ="9.587" rotX="-4.8938701322057e-14" rotY="-7.7820020984122e-13" rotZ="67.000289494838"></building>
     <building id="LODksprops15" posX="1155.68" posY="-2446.67" posZ="7.2424" rotX="0" rotY="-0" rotZ="-24.000046341676"></building>
     <building id="LODnebasea0" posX="1123.04" posY="-2428.08" posZ="71.6107" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODnetopa0" posX="1122.16" posY="-2428.92" posZ="107.705" rotX="0" rotY="-0" rotZ="-60.000017080309"></building>
     <building id="LODkfuel02" posX="963.68" posY="-2416.53" posZ="13.0902" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODks62" posX="1314.68" posY="-2303.83" posZ="1.537" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODdockroads08" posX="1189.5" posY="-1926.35" posZ="26.645" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -114,7 +112,7 @@
     <building id="cranebasea0" lodParent="LODnebasea0" posX="1123.04" posY="-2428.08" posZ="71.6107" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="doc_dockwareold" lodParent="LOD_dockwareold" posX="1313.07" posY="-2476.9" posZ="10.5796" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="dk_waretank" lodParent="LODwaretank" posX="1161.95" posY="-2448.14" posZ="8.8379" rotX="-1.4482883371717e-13" rotY="-6.898941349789e-07" rotZ="-21.999996838916"></building>
-    <object id="dockcranescale0" lodParent="LODkcranescale0" posX="1140.51" posY="-2467.69" posZ="28.5159" rotX="0" rotY="-0" rotZ="-23.500041524258"></object>
+    <object id="dockcranescale0" lodParent="lod_dockcranescale_2" posX="1140.51" posY="-2467.69" posZ="28.5159" rotX="0" rotY="-0" rotZ="-23.500041524258"></object>
     <building id="doc_crane_cab0" posX="978.41" posY="-2422.46" posZ="16.8812" rotX="-6.1839985304029e-05" rotY="0.00029093465733658" rotZ="-113.99991605949"></building>
     <building id="boatcranesm0" posX="1289.68" posY="-2586.34" posZ="29.5281" rotX="0" rotY="-0" rotZ="69.500326090771"></building>
     <building id="dockcranescale01" lodParent="LODkcranescale01" posX="1025.77" posY="-2409.91" posZ="38.4774" rotX="0" rotY="-0" rotZ="-23.000014161547"></building>
@@ -192,7 +190,7 @@
     <object id="dock_props01" posX="1309.47" posY="-2528.02" posZ="9.2225" rotX="0" rotY="-0" rotZ="-0"></object>
     <building id="dkglue3" posX="1158.85" posY="-1900.07" posZ="5.6286" rotX="-1.3250509366192e-05" rotY="5.7850019941298e-07" rotZ="94.999770798879"></building>
     <building id="dkfirtpass2" posX="1159.97" posY="-1866.71" posZ="11.8731" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="rustship_structure0" lodParent="LODtship_structure0" posX="1001.24" posY="-2474.68" posZ="15.11" rotX="0" rotY="-0" rotZ="-21.999996838916"></building>
+    <building id="rustship_structure0" lodParent="lod_rustship_struct" posX="1001.24" posY="-2474.68" posZ="15.11" rotX="0" rotY="-0" rotZ="-21.999996838916"></building>
     <building id="docksprops12" posX="1250.75" posY="-2325.47" posZ="7.4219" rotX="-5.9406513207489e-05" rotY="0.00029199221260983" rotZ="-113.00002635655"></building>
     <building id="docksprops13" posX="1261.54" posY="-2383.96" posZ="7.3631" rotX="-0.00013889450107551" rotY="9.019867295792e-05" rotZ="155.99972184696"></building>
     <building id="dk_shipstair" posX="1308.34" posY="-2233.33" posZ="7.5248" rotX="0" rotY="-0" rotZ="25.000269313293"></building>
@@ -271,4 +269,6 @@
     <building id="dk_paynspraydoor" posX="1090" posY="-2214.71" posZ="6.99232" rotX="0" rotY="-0" rotZ="90.000197517502"></building>
     <building id="dk_waretankdoor1" posX="1167.02" posY="-2434.41" posZ="7.4336" rotX="0" rotY="-0" rotZ="-111.99987385588"></building>
     <building id="vc_repair_x2" posX="1372.05" posY="-2438.72" posZ="8.316" rotX="0" rotY="-0" rotZ="-21.499987754544"></building>
+    <object id="lod_dockcranescale_2" posX="1140.510010" posY="-2467.689941" posZ="28.515900" rotX="0.000" rotY="-0.000" rotZ="-23.500"></object>
+    <building id="lod_rustship_struct" posX="1001.239990" posY="-2474.679932" posZ="15.110000" rotX="0.000" rotY="-0.000" rotZ="-22.000"></building>
 </map>

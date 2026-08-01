@@ -210,184 +210,197 @@
     <building id="bnk_grill01" interior="6" posX="1084.599" posY="-1295.5" posZ="1004.69" rotX="0" rotY="-0" rotZ="-0"></building>
     <object id="Gen_doorEXT15" interior="6" posX="1102.5" posY="-1289.56" posZ="993.008" rotX="0" rotY="-0" rotZ="-89.999923980324"></object>
     <object id="Gen_doorEXT15" interior="6" posX="1102.54" posY="-1292.58" posZ="993.008" rotX="0" rotY="-0" rotZ="90.0002280593"></object>
-    <building editorGroup="Mall" id="bugsuckfuck" interior="5" posX="2397.090088" posY="175.100006" posZ="18.957327" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlnorthmalltop" interior="5" posX="2397.090088" posY="175.100006" posZ="18.957327" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlnorthmallrt" interior="5" posX="2393.040039" posY="75.269997" posZ="19.158621" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlnorthmalllft" interior="5" posX="2399.830078" posY="277.450012" posZ="19.257620" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlobjects_s02" interior="5" posX="2413.979980" posY="101.750000" posZ="12.982839" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mloven" interior="5" posX="2383.340088" posY="174.710007" posZ="14.566946" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlobjects_n" interior="5" posX="2413.919922" posY="207.669998" posZ="13.915945" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlmallbush" interior="5" posX="2414.479980" posY="125.370003" posZ="17.706228" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlmallplan02" interior="5" posX="2380.120117" posY="288.970001" posZ="12.796926" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlmallplan04" interior="5" posX="2429.969971" posY="174.500000" posZ="11.955739" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlmallplan05" interior="5" posX="2447.469971" posY="66.410004" posZ="12.556813" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_gap" interior="5" posX="2414.169922" posY="79.529175" posZ="18.038015" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_record" interior="5" posX="2359.330078" posY="160.460007" posZ="20.215506" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_borders" interior="5" posX="2368.580078" posY="267.670013" posZ="13.975515" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_jewellers" interior="5" posX="2466.919922" posY="255.009995" posZ="14.322805" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_record3" interior="5" posX="2357.100098" posY="163.520004" posZ="20.199026" rotX="0.000" rotY="-0.000" rotZ="-45.000"></building>
-    <building editorGroup="Mall" id="mall_hardware" interior="5" posX="2365.209961" posY="132.009995" posZ="14.935965" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mall_ammu" interior="5" posX="2362.050049" posY="108.529999" posZ="15.576956" rotX="0.000" rotY="-0.000" rotZ="90.000"></building>
-    <building editorGroup="Mall" id="mall_ammuwin" interior="5" posX="2372.570068" posY="108.199997" posZ="14.744925" rotX="0.000" rotY="-0.000" rotZ="90.000"></building>
-    <building editorGroup="Mall" id="ml_coffwinframe01" interior="5" posX="2462.060059" posY="56.599998" posZ="13.967581" rotX="0.000" rotY="-0.000" rotZ="-45.000"></building>
-    <building editorGroup="Mall" id="ml_coffwinframe02" interior="5" posX="2462.060059" posY="62.590000" posZ="13.967581" rotX="0.000" rotY="-0.000" rotZ="-45.000"></building>
-    <building editorGroup="Mall" id="ml_vegbits05" interior="5" posX="2413.659912" posY="174.169998" posZ="19.485159" rotX="0.000" rotY="-0.000" rotZ="-1.500"></building>
-    <building editorGroup="Mall" id="ml_vegbits01" interior="5" posX="2453.040039" posY="245.440002" posZ="19.862844" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_vegbits02" interior="5" posX="2376.219971" posY="245.580002" posZ="19.981619" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_vegbits03" interior="5" posX="2369.280029" posY="108.000000" posZ="19.489676" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_glasslft" interior="5" posX="2403.129883" posY="278.029999" posZ="20.408621" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_water" interior="5" posX="2413.939941" posY="234.119995" posZ="13.073415" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_vegbits04" interior="5" posX="2451.850098" posY="113.690002" posZ="19.245901" rotX="-0.500" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_jewelcounter" interior="5" posX="2466.919922" posY="255.009995" posZ="13.863455" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_water2" interior="5" posX="2414.250000" posY="106.510002" posZ="12.483815" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mloven02" interior="5" posX="2444.270020" posY="173.460007" posZ="14.223562" rotX="-0.000" rotY="0.000" rotZ="-180.000"></building>
-    <building editorGroup="Mall" id="mlobjects_n02" interior="5" posX="2456.370117" posY="173.770004" posZ="18.519827" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlobjects_n03" interior="5" posX="2385.729980" posY="270.529999" posZ="15.573660" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlobjects_n04" interior="5" posX="2430.320068" posY="213.149994" posZ="12.336843" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_escl" interior="5" posX="2413.689941" posY="189.479996" posZ="15.217703" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlrecords" interior="5" posX="2352.580078" posY="167.410004" posZ="19.439260" rotX="0.000" rotY="-0.000" rotZ="-90.000"></building>
-    <building editorGroup="Mall" id="mall_fans" interior="5" posX="2444.719971" posY="182.330002" posZ="16.360159" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlngrnd" interior="5" posX="2414.469971" posY="97.769997" posZ="18.839773" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlgrndmidtop" interior="5" posX="2443.679932" posY="173.539993" posZ="18.342947" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlgrounds" interior="5" posX="2422.679932" posY="252.619995" posZ="18.839773" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mallint1" interior="5" posX="2448.340088" posY="276.790009" posZ="19.103933" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mallint2" interior="5" posX="2458.300049" posY="228.320007" posZ="18.945364" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mallint3" interior="5" posX="2372.360107" posY="226.750000" posZ="19.197439" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mallint5" interior="5" posX="2443.919922" posY="173.490005" posZ="18.406424" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mallint7" interior="5" posX="2372.370117" posY="125.510002" posZ="21.802542" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mallint8" interior="5" posX="2455.139893" posY="125.300003" posZ="18.935110" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mallint9" interior="5" posX="2445.639893" posY="76.269997" posZ="19.155813" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_planterbed" interior="5" posX="2397.600098" posY="220.300003" posZ="12.743459" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_jewelwinframe01" interior="5" posX="2467.679932" posY="261.570007" posZ="13.795218" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="malllights" interior="5" posX="2437.020020" posY="179.800003" posZ="17.137991" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mallbushdense" interior="5" posX="2413.810059" posY="174.460007" posZ="-10.530467" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mallbushs" interior="5" posX="2423.830078" posY="248.860001" posZ="14.804129" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mallint5up" interior="5" posX="2443.800049" posY="173.490005" posZ="21.019705" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="midmallflorre" interior="5" posX="2440.689941" posY="173.889999" posZ="14.051687" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="midmallfloorw" interior="5" posX="2378.360107" posY="174.440002" posZ="14.641531" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="maidmalltopa" interior="5" posX="2385.719971" posY="174.750000" posZ="18.715261" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_jewelglass" interior="5" posX="2466.919922" posY="255.009995" posZ="13.863455" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mallint5up_b" interior="5" posX="2443.800049" posY="173.490005" posZ="21.019705" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_planterbed" interior="5" posX="2430.320068" posY="219.679993" posZ="12.813893" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_planterbed" interior="5" posX="2396.939941" posY="130.009995" posZ="12.852834" rotX="0.000" rotY="-0.000" rotZ="-90.000"></building>
-    <building editorGroup="Mall" id="ml_planterbed" interior="5" posX="2430.679932" posY="130.009995" posZ="12.585011" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlobjects_n" interior="5" posX="2413.729980" posY="140.949997" posZ="13.915945" rotX="-0.000" rotY="0.000" rotZ="-135.000"></building>
-    <building editorGroup="Mall" id="mlobjects_n02" interior="5" posX="2373.280029" posY="174.740005" posZ="19.408255" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlmallroof" interior="5" posX="2413.830078" posY="176.649994" posZ="32.766289" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlobjects_n02" interior="5" posX="2448.949951" posY="277.174011" posZ="12.966237" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <object editorGroup="Mall" id="veg_palmbig14" interior="5" posX="2448.929932" posY="277.786987" posZ="11.466237" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="veg_palmbig14" interior="5" posX="2449.070068" posY="277.786987" posZ="11.666310" rotX="0.000" rotY="-180.000" rotZ="-0.000"></object>
-    <building editorGroup="Mall" id="mlobjects_n02" interior="5" posX="2379.169922" posY="75.849998" posZ="13.015309" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="mlobjects_n02" interior="5" posX="2449.310059" posY="75.750000" posZ="13.015309" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <object editorGroup="Mall" id="veg_palmbig14" interior="5" posX="2449.300049" posY="76.072899" posZ="11.466237" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="veg_palmbig14" interior="5" posX="2379.560059" posY="76.222504" posZ="11.466237" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="veg_palmbig14" interior="5" posX="2449.300049" posY="76.290001" posZ="11.466237" rotX="-0.000" rotY="-180.000" rotZ="-180.000"></object>
-    <object editorGroup="Mall" id="veg_palmbig14" interior="5" posX="2379.550049" posY="76.430000" posZ="11.466237" rotX="-0.000" rotY="-180.000" rotZ="-180.000"></object>
-    <building editorGroup="Mall" id="ml_escl" interior="5" posX="2420.750000" posY="102.199997" posZ="15.916311" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_escl" interior="5" posX="2407.169922" posY="102.199997" posZ="15.966238" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <object editorGroup="Mall" id="veg_palmkb13" interior="5" posX="2415.040039" posY="99.233299" posZ="10.616261" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="veg_palmkb13" interior="5" posX="2412.330078" posY="100.973000" posZ="10.616261" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="veg_palmkb13" interior="5" posX="2414.100098" posY="101.291000" posZ="10.616261" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="veg_palmbig14" interior="5" posX="2396.899902" posY="129.751999" posZ="11.466237" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="veg_palmbig14" interior="5" posX="2430.659912" posY="129.830002" posZ="11.466237" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <building editorGroup="Mall" id="ml_escl" interior="5" posX="2413.689941" posY="158.779999" posZ="15.206228" rotX="1.000" rotY="0.000" rotZ="-180.000"></building>
-    <object editorGroup="Mall" id="veg_palmbig14" interior="5" posX="2397.560059" posY="220.326004" posZ="11.466237" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="veg_palmbig14" interior="5" posX="2430.219971" posY="219.589996" posZ="11.466237" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <building editorGroup="Mall" id="ml_escl" interior="5" posX="2420.750000" posY="249.509995" posZ="15.716238" rotX="1.000" rotY="0.000" rotZ="-180.000"></building>
-    <building editorGroup="Mall" id="ml_escl" interior="5" posX="2407.169922" posY="249.509995" posZ="15.756277" rotX="1.000" rotY="0.000" rotZ="-180.000"></building>
-    <object editorGroup="Mall" id="veg_palmkb13" interior="5" posX="2412.310059" posY="253.436996" posZ="10.616261" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="veg_palmkb13" interior="5" posX="2415.770020" posY="252.251999" posZ="10.616261" rotX="-0.000" rotY="2.000" rotZ="-40.000"></object>
-    <object editorGroup="Mall" id="veg_palmkb13" interior="5" posX="2413.830078" posY="250.875000" posZ="10.616261" rotX="1.259" rotY="1.555" rotZ="-51.017"></object>
-    <object editorGroup="Mall" id="veg_palmkb13" interior="5" posX="2456.199951" posY="171.141998" posZ="15.616262" rotX="0.000" rotY="-0.000" rotZ="-51.000"></object>
-    <object editorGroup="Mall" id="veg_palmkb13" interior="5" posX="2456.270020" posY="176.399994" posZ="15.616262" rotX="0.000" rotY="-0.000" rotZ="-51.000"></object>
-    <object editorGroup="Mall" id="veg_palmkb13" interior="5" posX="2373.330078" posY="171.783005" posZ="15.616262" rotX="0.000" rotY="-0.000" rotZ="-51.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2460.550049" posY="159.733994" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2458.570068" posY="153.639008" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2459.189941" posY="163.589996" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2455.610107" posY="158.987000" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2453.229980" posY="153.901001" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2452.550049" posY="162.391006" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2441.800049" posY="163.757004" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2447.449951" posY="164.160995" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2449.770020" posY="159.339996" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2445.290039" posY="160.158005" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2462.629883" posY="185.520004" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2457.010010" posY="189.580994" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2456.590088" posY="185.496002" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2451.030029" posY="184.016998" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2451.659912" posY="187.559006" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2455.479980" posY="194.274002" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2461.419922" posY="189.785995" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2447.300049" posY="184.197006" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-139.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2448.100098" posY="188.645996" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2443.040039" posY="184.151993" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2438.340088" posY="184.098007" posZ="13.096242" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2362.129883" posY="163.539001" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2365.120117" posY="160.393005" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2366.639893" posY="164.878006" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2369.060059" posY="157.882004" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2370.330078" posY="161.856003" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2371.889893" posY="164.792007" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2371.000000" posY="154.225006" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2373.370117" posY="158.287994" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2375.629883" posY="164.539001" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2380.030029" posY="164.820999" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2383.889893" posY="164.934006" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2389.699951" posY="165.281006" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2376.489990" posY="161.362000" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2381.899902" posY="160.619003" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2362.429932" posY="186.330994" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2366.879883" posY="189.048004" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2367.209961" posY="185.266006" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2370.409912" posY="192.934998" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2372.340088" posY="189.151993" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2372.550049" posY="184.699997" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2377.850098" posY="184.054001" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2377.129883" posY="188.082993" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="chairsntableml" interior="5" posX="2375.530029" posY="191.908005" posZ="13.531301" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <building editorGroup="Mall" id="ml_gapwindows01" interior="5" posX="2403.177246" posY="73.124146" posZ="20.181448" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_gapwindows02" interior="5" posX="2403.168213" posY="73.341309" posZ="14.065115" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_gapwindows03" interior="5" posX="2403.166260" posY="85.055054" posZ="20.181448" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_gapwindows04" interior="5" posX="2403.168213" posY="85.082153" posZ="14.065115" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_gapwindows05" interior="5" posX="2406.553955" posY="91.074219" posZ="20.181448" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_gapwindows06" interior="5" posX="2406.534180" posY="91.109741" posZ="14.065115" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_gapwindows07" interior="5" posX="2421.814453" posY="91.069702" posZ="20.181448" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_gapwindows08" interior="5" posX="2421.807129" posY="91.069702" posZ="14.065115" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_gapwindows09" interior="5" posX="2425.173340" posY="85.259033" posZ="20.181448" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_gapwindows10" interior="5" posX="2425.165527" posY="85.264404" posZ="14.065115" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_gapwindows11" interior="5" posX="2425.164307" posY="73.510681" posZ="20.181448" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_gapwindows12" interior="5" posX="2425.156006" posY="73.488770" posZ="14.065115" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_coffwin02" interior="5" posX="2467.370117" posY="62.202801" posZ="13.966726" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_coffwin01" interior="5" posX="2460.959961" posY="55.797901" posZ="13.966726" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_recordwin01" interior="5" posX="2368.820068" posY="152.483994" posZ="20.165892" rotX="0.000" rotY="-0.000" rotZ="-46.000"></building>
-    <building editorGroup="Mall" id="ml_recordwin02" interior="5" posX="2366.260010" posY="155.112000" posZ="20.186522" rotX="0.000" rotY="-0.000" rotZ="-46.000"></building>
-    <building editorGroup="Mall" id="ml_recordwin03" interior="5" posX="2363.719971" posY="157.733002" posZ="20.212156" rotX="0.000" rotY="-0.000" rotZ="-46.000"></building>
-    <building editorGroup="Mall" id="ml_recordwin04" interior="5" posX="2361.129883" posY="160.380997" posZ="20.230955" rotX="0.000" rotY="-0.000" rotZ="-46.500"></building>
-    <building editorGroup="Mall" id="ml_recordwin05" interior="5" posX="2356.600098" posY="167.076996" posZ="20.225462" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <object editorGroup="Mall" id="Gen_doorEXT11" interior="5" posX="2367.959961" posY="105.825996" posZ="12.732839" rotX="0.000" rotY="-0.000" rotZ="90.000"></object>
-    <object editorGroup="Mall" id="DYN_BOX_PILE_3" interior="5" posX="2384.919922" posY="258.747986" posZ="13.416311" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <building editorGroup="Mall" id="ml_jewelwinframe02" interior="5" posX="2457.595947" posY="247.880005" posZ="13.795218" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="FIX_mlobjects" interior="5" posX="2413.979980" posY="101.750000" posZ="12.982839" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_jewelwin01" interior="5" posX="2464.031006" posY="258.053314" posZ="13.683767" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_jewelwin02" interior="5" posX="2468.189941" posY="263.157288" posZ="13.683767" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_jewelwin03" interior="5" posX="2457.582031" posY="248.128693" posZ="13.642752" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_doorsmidr" interior="5" posX="2379.919922" posY="300.532990" posZ="14.276297" rotX="0.000" rotY="-0.000" rotZ="-90.000"></building>
-    <building editorGroup="Mall" id="ml_doorsmidr" interior="5" posX="2448.409912" posY="299.996002" posZ="14.126272" rotX="0.000" rotY="-0.000" rotZ="-90.000"></building>
-    <building editorGroup="Mall" id="ml_doorsmidr" interior="5" posX="2369.732910" posY="260.009766" posZ="20.506887" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_doorsmidr" interior="5" posX="2379.649902" posY="52.142300" posZ="14.296316" rotX="-0.000" rotY="-0.000" rotZ="90.000"></building>
-    <building editorGroup="Mall" id="ml_doorsmidr" interior="5" posX="2448.580078" posY="53.030602" posZ="14.296316" rotX="0.000" rotY="-0.000" rotZ="90.000"></building>
-    <building editorGroup="Mall" id="ml_doorsmidr" interior="5" posX="2471.649902" posY="173.500000" posZ="13.426321" rotX="0.000" rotY="-0.000" rotZ="-180.000"></building>
-    <building editorGroup="Mall" id="ml_doorsmidr" interior="5" posX="2356.439941" posY="174.761002" posZ="14.146292" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <object editorGroup="Mall" id="sl_dtdoor1" interior="5" posX="2379.030029" posY="300.420013" posZ="12.606252" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="sl_dtdoor1" interior="5" posX="2447.520020" posY="299.890015" posZ="12.456227" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="sl_dtdoor1" interior="5" posX="2369.850098" posY="259.127991" posZ="18.836233" rotX="0.000" rotY="-0.000" rotZ="90.000"></object>
-    <object editorGroup="Mall" id="sl_dtdoor1" interior="5" posX="2380.499023" posY="52.250000" posZ="12.626271" rotX="-0.000" rotY="0.000" rotZ="-180.000"></object>
-    <object editorGroup="Mall" id="sl_dtdoor1" interior="5" posX="2449.429932" posY="53.148602" posZ="12.626271" rotX="-0.000" rotY="0.000" rotZ="-180.000"></object>
-    <object editorGroup="Mall" id="sl_dtdoor1" interior="5" posX="2471.520020" posY="174.350006" posZ="11.756276" rotX="-0.000" rotY="-0.000" rotZ="-90.000"></object>
-    <object editorGroup="Mall" id="sl_dtdoor1" interior="5" posX="2356.550049" posY="173.878998" posZ="12.476247" rotX="0.000" rotY="-0.000" rotZ="90.000"></object>
-    <object editorGroup="Mall" id="sl_dtdoor1" interior="5" posX="2415.415039" posY="91.066002" posZ="18.775320" rotX="0.000" rotY="-0.000" rotZ="-180.000"></object>
-    <object editorGroup="Mall" id="sl_dtdoor1" interior="5" posX="2412.412109" posY="91.082001" posZ="18.775320" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
-    <object editorGroup="Mall" id="sl_dtdoor1" interior="5" posX="2412.412109" posY="91.082001" posZ="12.611257" rotX="0.000" rotY="-0.000" rotZ="-0.000"></object>
+    <building id="bugsuckfuck" interior="5" posX="2397.09" posY="175.1" posZ="1218.9411" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlnorthmalltop" interior="5" posX="2397.09" posY="175.1" posZ="1218.9411" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlnorthmallrt" interior="5" posX="2393.04" posY="75.27" posZ="1219.1423" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlnorthmalllft" interior="5" posX="2399.83" posY="277.45" posZ="1219.2413" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlobjects_s02" interior="5" posX="2413.98" posY="101.75" posZ="1212.9665" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mloven" interior="5" posX="2383.34" posY="174.71" posZ="1214.5506" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlobjects_n" interior="5" posX="2413.92" posY="207.67" posZ="1213.8996" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlmallbush" interior="5" posX="2414.48" posY="125.37" posZ="1217.69" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlmallplan02" interior="5" posX="2380.12" posY="288.97" posZ="1212.7807" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlmallplan04" interior="5" posX="2429.97" posY="174.5" posZ="1211.9395" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlmallplan05" interior="5" posX="2447.47" posY="66.41" posZ="1212.5405" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_gap" interior="5" posX="2414.1699219" posY="79.529175" posZ="1218.0217" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_record" interior="5" posX="2359.33" posY="160.46" posZ="1220.1992" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_borders" interior="5" posX="2368.58" posY="267.67" posZ="1213.9592" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_jewellers" interior="5" posX="2466.92" posY="255.01" posZ="1214.3065" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_tarbrush" interior="5" posX="2468.88" posY="56.67" posZ="1215.181" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_record3" interior="5" posX="2357.1" posY="163.52" posZ="1220.1827" rotX="0" rotY="-0" rotZ="-44.999955315156"></building>
+    <building id="mall_hardware" interior="5" posX="2365.21" posY="132.01" posZ="1214.9197" rotX="0" rotY="-0" rotZ="-0"></building>
+    <object id="Gen_doorEXT11" interior="5" posX="2368.09" posY="127.456" posZ="1212.52" rotX="0" rotY="-0" rotZ="89.999923980324"></object>
+    <building id="mall_ammu" interior="5" posX="2362.05" posY="108.53" posZ="1215.5607" rotX="0" rotY="-0" rotZ="90.000197517502"></building>
+    <building id="mall_ammuwin" interior="5" posX="2372.57" posY="108.2" posZ="1214.7286" rotX="0" rotY="-0" rotZ="90.000197517502"></building>
+    <building id="ml_coffwinframe01" interior="5" posX="2462.06" posY="56.6" posZ="1213.9513" rotX="0" rotY="-0" rotZ="-44.999955315156"></building>
+    <building id="ml_coffwinframe02" interior="5" posX="2462.06" posY="62.59" posZ="1213.9513" rotX="0" rotY="-0" rotZ="-44.999955315156"></building>
+    <building id="ml_vegbits05" interior="5" posX="2413.66" posY="174.17" posZ="1219.4689" rotX="0" rotY="-0" rotZ="-1.4999885543414"></building>
+    <building id="ml_vegbits01" interior="5" posX="2453.04" posY="245.44" posZ="1219.8465" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_vegbits02" interior="5" posX="2376.22" posY="245.58" posZ="1219.9653" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_vegbits03" interior="5" posX="2369.28" posY="108" posZ="1219.4734" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_glasslft" interior="5" posX="2403.13" posY="278.03" posZ="1220.3923" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_water" interior="5" posX="2413.94" posY="234.12" posZ="1213.0571" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_vegbits04" interior="5" posX="2451.85" posY="113.69" posZ="1219.2296" rotX="-0.49999690376635" rotY="-0" rotZ="-0"></building>
+    <building id="ml_jewelcounter" interior="5" posX="2466.92" posY="255.01" posZ="1213.8472" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_water2" interior="5" posX="2414.25" posY="106.51" posZ="1212.4675" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mloven02" interior="5" posX="2444.27" posY="173.46" posZ="1214.2073" rotX="-0.00016392437110274" rotY="0.00015203893460113" rotZ="-179.99999999978"></building>
+    <building id="mlobjects_n02" interior="5" posX="2456.37" posY="173.77" posZ="1218.5035" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlobjects_n03" interior="5" posX="2385.73" posY="270.53" posZ="1215.5574" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlobjects_n04" interior="5" posX="2430.32" posY="213.15" posZ="1212.3205" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_escl" interior="5" posX="2413.69" posY="189.48" posZ="1215.2014" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlrecords" interior="5" posX="2352.58" posY="167.41" posZ="1219.423" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
+    <building id="mall_fans" interior="5" posX="2444.72" posY="182.33" posZ="1216.3439" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlngrnd" interior="5" posX="2414.47" posY="97.77" posZ="1218.8235" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlgrndmidtop" interior="5" posX="2443.68" posY="173.54" posZ="1218.3266" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlgrounds" interior="5" posX="2422.68" posY="252.62" posZ="1218.8235" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallint1" interior="5" posX="2448.34" posY="276.79" posZ="1219.0876" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallint2" interior="5" posX="2458.3" posY="228.32" posZ="1218.9291" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallint3" interior="5" posX="2372.36" posY="226.75" posZ="1219.1811" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallint5" interior="5" posX="2443.92" posY="173.49" posZ="1218.3901" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallint7" interior="5" posX="2372.37" posY="125.51" posZ="1221.7863" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallint8" interior="5" posX="2455.14" posY="125.3" posZ="1218.9188" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallint9" interior="5" posX="2445.64" posY="76.27" posZ="1219.1395" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_planterbed" interior="5" posX="2397.6" posY="220.3" posZ="1212.7272" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_jewelwinframe01" interior="5" posX="2467.68" posY="261.57" posZ="1213.7789" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="malllights" interior="5" posX="2437.02" posY="179.8" posZ="1217.1217" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallbushdense" interior="5" posX="2413.81" posY="174.46" posZ="1189.4533" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallbushs" interior="5" posX="2423.83" posY="248.86" posZ="1214.7879" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallint5up" interior="5" posX="2443.8" posY="173.49" posZ="1221.0034" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="midmallflorre" interior="5" posX="2440.69" posY="173.89" posZ="1214.0354" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="midmallfloorw" interior="5" posX="2378.36" posY="174.44" posZ="1214.6253" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="maidmalltopa" interior="5" posX="2385.72" posY="174.75" posZ="1218.699" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_jewelglass" interior="5" posX="2466.92" posY="255.01" posZ="1213.8472" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallint5up_b" interior="5" posX="2443.8" posY="173.49" posZ="1221.0034" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_planterbed" interior="5" posX="2430.32" posY="219.68" posZ="1212.7976" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_planterbed" interior="5" posX="2396.94" posY="130.01" posZ="1212.8365" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
+    <building id="ml_planterbed" interior="5" posX="2430.68" posY="130.01" posZ="1212.5687" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlobjects_n" interior="5" posX="2413.73" posY="140.95" posZ="1213.8996" rotX="-0.00010928329761056" rotY="0.00025954722362829" rotZ="-135.00008786395"></building>
+    <building id="mlobjects_n02" interior="5" posX="2373.28" posY="174.74" posZ="1219.392" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlmallroof" interior="5" posX="2413.83" posY="176.65" posZ="1232.75" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlobjects_n02" interior="5" posX="2448.95" posY="277.174" posZ="1212.95" rotX="0" rotY="-0" rotZ="-0"></building>
+    <object id="veg_palmbig14" interior="5" posX="2448.93" posY="277.787" posZ="1211.45" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="veg_palmbig14" interior="5" posX="2449.07" posY="277.787" posZ="1211.65" rotX="0" rotY="-179.99984796107" rotZ="-0"></object>
+    <building id="mlobjects_n02" interior="5" posX="2379.17" posY="75.85" posZ="1212.999" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mlobjects_n02" interior="5" posX="2449.31" posY="75.75" posZ="1212.999" rotX="0" rotY="-0" rotZ="-0"></building>
+    <object id="veg_palmbig14" interior="5" posX="2449.3" posY="76.0729" posZ="1211.45" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="veg_palmbig14" interior="5" posX="2379.56" posY="76.2225" posZ="1211.45" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="veg_palmbig14" interior="5" posX="2449.3" posY="76.29" posZ="1211.45" rotX="-0.0001520389346005" rotY="-180" rotZ="-180"></object>
+    <object id="veg_palmbig14" interior="5" posX="2379.55" posY="76.43" posZ="1211.45" rotX="-0.0001520389346005" rotY="-180" rotZ="-180"></object>
+    <building id="ml_escl" interior="5" posX="2420.75" posY="102.2" posZ="1215.9" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_escl" interior="5" posX="2407.17" posY="102.2" posZ="1215.95" rotX="0" rotY="-0" rotZ="-0"></building>
+    <object id="veg_palmkb13" interior="5" posX="2415.04" posY="99.2333" posZ="1210.6" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="veg_palmkb13" interior="5" posX="2412.33" posY="100.973" posZ="1210.6" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="veg_palmkb13" interior="5" posX="2414.1" posY="101.291" posZ="1210.6" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="veg_palmbig14" interior="5" posX="2396.9" posY="129.752" posZ="1211.45" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="veg_palmbig14" interior="5" posX="2430.66" posY="129.83" posZ="1211.45" rotX="0" rotY="-0" rotZ="-0"></object>
+    <building id="ml_escl" interior="5" posX="2413.69" posY="158.78" posZ="1215.19" rotX="0.9998470228156" rotY="0.00014938630089072" rotZ="-179.99984793749"></building>
+    <object id="veg_palmbig14" interior="5" posX="2397.56" posY="220.326" posZ="1211.45" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="veg_palmbig14" interior="5" posX="2430.22" posY="219.59" posZ="1211.45" rotX="0" rotY="-0" rotZ="-0"></object>
+    <building id="ml_escl" interior="5" posX="2420.75" posY="249.51" posZ="1215.7" rotX="0.9998470228156" rotY="0.00014938630089072" rotZ="-179.99984793749"></building>
+    <building id="ml_escl" interior="5" posX="2407.17" posY="249.51" posZ="1215.74" rotX="0.9998470228156" rotY="0.00014938630089072" rotZ="-179.99984793749"></building>
+    <object id="veg_palmkb13" interior="5" posX="2412.31" posY="253.437" posZ="1210.6" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="veg_palmkb13" interior="5" posX="2415.77" posY="252.252" posZ="1210.6" rotX="-1.2157820638568e-06" rotY="2.0003056023921" rotZ="-40.00001145736"></object>
+    <object id="veg_palmkb13" interior="5" posX="2413.83" posY="250.875" posZ="1210.6" rotX="1.2586814283781" rotY="1.5547769028121" rotZ="-51.017014510046"></object>
+    <object id="veg_palmkb13" interior="5" posX="2456.2" posY="171.142" posZ="1215.6" rotX="0" rotY="-0" rotZ="-50.999977447734"></object>
+    <object id="veg_palmkb13" interior="5" posX="2456.27" posY="176.4" posZ="1215.6" rotX="0" rotY="-0" rotZ="-50.999977447734"></object>
+    <object id="veg_palmkb13" interior="5" posX="2373.33" posY="171.783" posZ="1215.6" rotX="0" rotY="-0" rotZ="-50.999977447734"></object>
+    <object id="chairsntableml" interior="5" posX="2460.55" posY="159.734" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2458.57" posY="153.639" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2459.19" posY="163.59" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2455.61" posY="158.987" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2453.23" posY="153.901" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2452.55" posY="162.391" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2441.8" posY="163.757" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2447.45" posY="164.161" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2449.77" posY="159.34" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2445.29" posY="160.158" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2462.63" posY="185.52" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2457.01" posY="189.581" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2456.59" posY="185.496" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2451.03" posY="184.017" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2451.66" posY="187.559" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2455.48" posY="194.274" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2461.42" posY="189.786" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2447.3" posY="184.197" posZ="1213.08" rotX="0" rotY="-0" rotZ="-138.99992895682"></object>
+    <object id="chairsntableml" interior="5" posX="2448.1" posY="188.646" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2443.04" posY="184.152" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2438.34" posY="184.098" posZ="1213.08" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2362.13" posY="163.539" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2365.12" posY="160.393" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2366.64" posY="164.878" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2369.06" posY="157.882" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2370.33" posY="161.856" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2371.89" posY="164.792" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2371" posY="154.225" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2373.37" posY="158.288" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2375.63" posY="164.539" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2380.03" posY="164.821" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2383.89" posY="164.934" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2389.7" posY="165.281" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2376.49" posY="161.362" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2381.9" posY="160.619" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2362.43" posY="186.331" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2366.88" posY="189.048" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2367.21" posY="185.266" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2370.41" posY="192.935" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2372.34" posY="189.152" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2372.55" posY="184.7" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2377.85" posY="184.054" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2377.13" posY="188.083" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="chairsntableml" interior="5" posX="2375.53" posY="191.908" posZ="1213.515" rotX="0" rotY="-0" rotZ="-0"></object>
+    <building id="ml_gapwindows01" interior="5" posX="2403.1772156" posY="73.124146" posZ="1220.1652" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_gapwindows02" interior="5" posX="2403.1683044" posY="73.341309" posZ="1214.0488" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_gapwindows03" interior="5" posX="2403.1661377" posY="85.055054" posZ="1220.1652" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_gapwindows04" interior="5" posX="2403.1683044" posY="85.082153" posZ="1214.0488" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_gapwindows05" interior="5" posX="2406.553894" posY="91.074219" posZ="1220.1652" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_gapwindows06" interior="5" posX="2406.5342102" posY="91.109741" posZ="1214.0488" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_gapwindows07" interior="5" posX="2421.8143311" posY="91.069702" posZ="1220.1652" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_gapwindows08" interior="5" posX="2421.8071594" posY="91.069702" posZ="1214.0488" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_gapwindows09" interior="5" posX="2425.1733398" posY="85.259033" posZ="1220.1652" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_gapwindows10" interior="5" posX="2425.1654358" posY="85.264404" posZ="1214.0488" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_gapwindows11" interior="5" posX="2425.1644287" posY="73.510681" posZ="1220.1652" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_gapwindows12" interior="5" posX="2425.1559143" posY="73.48877" posZ="1214.0488" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_coffwin02" interior="5" posX="2467.37" posY="62.2028" posZ="1213.9504" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_coffwin01" interior="5" posX="2460.96" posY="55.7979" posZ="1213.9504" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_recordwin01" interior="5" posX="2368.82" posY="152.484" posZ="1225.6498" rotX="0" rotY="-0" rotZ="-45.999986866357"></building>
+    <building id="ml_recordwin02" interior="5" posX="2366.26" posY="155.112" posZ="1225.6704" rotX="0" rotY="-0" rotZ="-45.999986866357"></building>
+    <building id="ml_recordwin03" interior="5" posX="2363.72" posY="157.733" posZ="1225.696" rotX="0" rotY="-0" rotZ="-45.999986866357"></building>
+    <building id="ml_recordwin04" interior="5" posX="2361.13" posY="160.381" posZ="1225.7148" rotX="0" rotY="-0" rotZ="-46.50001328952"></building>
+    <building id="ml_recordwin05" interior="5" posX="2356.6" posY="167.077" posZ="1225.7094" rotX="0" rotY="-0" rotZ="-0"></building>
+    <object id="Gen_doorEXT11" interior="5" posX="2367.96" posY="105.826" posZ="1212.7166" rotX="0" rotY="-0" rotZ="90.000035460221"></object>
+    <object id="DYN_BOX_PILE_3" interior="5" posX="2384.92" posY="258.748" posZ="1213.4" rotX="0" rotY="-0" rotZ="-0"></object>
+    <building id="ml_jewelwinframe02" interior="5" posX="2457.596" posY="247.88" posZ="1213.7789" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="FIX_mlobjects" interior="5" posX="2413.98" posY="101.75" posZ="1212.9665" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_jewelwin01" interior="5" posX="2464.031" posY="258.0533" posZ="1213.66744" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_jewelwin02" interior="5" posX="2468.19" posY="263.1573" posZ="1213.66745" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_jewelwin03" interior="5" posX="2457.582" posY="248.1287" posZ="1213.62647" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="MALLUNDER" interior="5" posX="2423.3007813" posY="184.156982" posZ="1194.4234170914" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallstrut" interior="5" posX="2413.0279846" posY="99.221802" posZ="1227.27883148" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallstrut" interior="5" posX="2413.0279846" posY="151.503174" posZ="1227.27883148" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallstrut" interior="5" posX="2413.0279846" posY="198.663696" posZ="1227.27883148" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallstrut" interior="5" posX="2413.0279846" posY="254.321411" posZ="1227.27883148" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallstrut" interior="5" posX="2413.0279846" posY="287.806274" posZ="1227.27883148" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallstrut" interior="5" posX="2413.0279846" posY="225.619141" posZ="1227.27883148" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallstrut" interior="5" posX="2413.0279846" posY="124.879517" posZ="1227.27883148" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="mallstrut" interior="5" posX="2413.0279846" posY="65.649414" posZ="1227.27883148" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_doorsmidr" interior="5" posX="2379.92" posY="300.533" posZ="1214.26" rotX="0" rotY="-0" rotZ="-89.999923980324"></building>
+    <building id="ml_doorsmidr" interior="5" posX="2448.41" posY="299.996" posZ="1214.11" rotX="0" rotY="-0" rotZ="-89.999923980324"></building>
+    <building id="ml_doorsmidr" interior="5" posX="2369.7330322" posY="260.009766" posZ="1220.49059677" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_doorsmidr" interior="5" posX="2379.65" posY="52.1423" posZ="1214.28" rotX="-2.9412462840286e-16" rotY="-0.0003040787431558" rotZ="90.000228059218"></building>
+    <building id="ml_doorsmidr" interior="5" posX="2448.58" posY="53.0306" posZ="1214.28" rotX="0" rotY="-0" rotZ="90.0002280593"></building>
+    <building id="ml_doorsmidr" interior="5" posX="2471.65" posY="173.5" posZ="1213.41" rotX="0" rotY="-0" rotZ="-179.9998479605"></building>
+    <building id="ml_doorsmidr" interior="5" posX="2356.44" posY="174.761" posZ="1214.13" rotX="0" rotY="-0" rotZ="-0"></building>
+    <object id="sl_dtdoor1" interior="5" posX="2379.03" posY="300.42" posZ="1212.59" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="sl_dtdoor1" interior="5" posX="2447.52" posY="299.89" posZ="1212.44" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="sl_dtdoor1" interior="5" posX="2369.85" posY="259.128" posZ="1218.82" rotX="0" rotY="-0" rotZ="90.0002280593"></object>
+    <object id="sl_dtdoor1" interior="5" posX="2380.499" posY="52.25" posZ="1212.61" rotX="-0.00015203949571721" rotY="0.00015203989916919" rotZ="-179.99984796013"></object>
+    <object id="sl_dtdoor1" interior="5" posX="2449.43" posY="53.1486" posZ="1212.61" rotX="-0.00015203949571721" rotY="0.00015203989916919" rotZ="-179.99984796013"></object>
+    <object id="sl_dtdoor1" interior="5" posX="2471.52" posY="174.35" posZ="1211.74" rotX="-5.6301292205289e-16" rotY="-0.00030407974315445" rotZ="-89.999923980241"></object>
+    <object id="sl_dtdoor1" interior="5" posX="2356.55" posY="173.879" posZ="1212.46" rotX="0" rotY="-0" rotZ="90.0002280593"></object>
+    <object id="sl_dtdoor1" interior="5" posX="2415.415" posY="91.066" posZ="1218.759" rotX="0" rotY="-0" rotZ="-179.9998479605"></object>
+    <object id="sl_dtdoor1" interior="5" posX="2412.412" posY="91.082" posZ="1218.759" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="sl_dtdoor1" interior="5" posX="2415.415" posY="91.066" posZ="1212.595" rotX="-0.00015203949571721" rotY="0.00015203989916919" rotZ="-179.99984796013"></object>
+    <object id="sl_dtdoor1" interior="5" posX="2412.412" posY="91.082" posZ="1212.595" rotX="0" rotY="-0" rotZ="-0"></object>
+    <object id="Gen_doorSHOP01" interior="5" posX="2464.69" posY="59.88" posZ="1212.59" rotX="-0.0001075082297515" rotY="0.00025954758282901" rotZ="-135.00003800984"></object>
     <building id="striplights" interior="10" posX="2082.40838623" posY="-2393.888589" posZ="1000.98983574" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="stripinter" interior="10" posX="2084.65229797" posY="-2397.71" posZ="999" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="stripinterupside" interior="10" posX="2083.60986328" posY="-2394.450356" posZ="994.402466776" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -400,8 +413,8 @@
     <object id="propashtray1" interior="10" posX="2091.0608" posY="-2391.799199" posZ="998.15456321" rotX="-0.0001075082297515" rotY="0.00025954758282901" rotZ="-135.00003800984"></object>
     <object id="propbeerglass1" interior="10" posX="2088.48246765" posY="-2387.397378" posZ="998.22227192" rotX="0" rotY="-0" rotZ="-0"></object>
     <object id="Gen_doorEXT19" interior="10" posX="2095.69229797" posY="-2405.568" posZ="997.027" rotX="0" rotY="-0" rotZ="30.000278739066"></object>
-    <building editorGroup="Mall" id="mall_hardware_int" interior="11" posX="2365.209961" posY="132.009995" posZ="14.910696" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <object editorGroup="Mall" id="Gen_doorEXT11" interior="11" posX="2368.090088" posY="127.456001" posZ="12.510549" rotX="0.000" rotY="-0.000" rotZ="90.000"></object>
+    <building id="mall_hardware_int" interior="11" posX="2365.209961" posY="132.009995" posZ="1124.043701" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <object id="Gen_doorEXT11" interior="11" posX="2368.090088" posY="127.456001" posZ="1121.643677" rotX="0.000" rotY="-0.000" rotZ="90.000"></object>
     <building id="littleha_hardwa_int" interior="7" posX="1029.63" posY="-1643.09" posZ="999" rotX="0" rotY="-0" rotZ="-82.499930315164"></building>
     <object id="Gen_doorEXT11" interior="7" posX="1033.75" posY="-1644.29" posZ="993.545" rotX="0" rotY="-0" rotZ="-82.499930315164"></object>
     <building id="lw_room_main" interior="12" posX="2125.4263" posY="-1780.7848" posZ="999" rotX="0" rotY="-0" rotZ="-20.000001458623"></building>
@@ -443,14 +456,17 @@
     <building id="pw_priint" interior="18" posX="928.432251" posY="-1232.0640564" posZ="999" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="pw_press1_03" interior="18" posX="928.193359" posY="-1231.6962891" posZ="997.8364029" rotX="0" rotY="-0" rotZ="-0"></building>
     <object id="Gen_doorSHOP01" interior="18" posX="935.936" posY="-1231.83" posZ="997.058" rotX="0" rotY="-0" rotZ="-89.999923980324"></object>
-    <building editorGroup="Mall" id="gash_int" interior="19" posX="2414.152832" posY="79.543266" posZ="18.070608" rotX="0.000" rotY="-0.000" rotZ="360.000"></building>
-    <building editorGroup="Mall" id="ml_escl" interior="19" posX="2407.170654" posY="78.981255" posZ="15.697561" rotX="0.000" rotY="-1.000" rotZ="180.000"></building>
-    <object editorGroup="Mall" id="sl_dtdoor1" interior="19" posX="2415.395752" posY="91.083305" posZ="12.657521" rotX="-0.000" rotY="0.000" rotZ="180.000"></object>
-    <building editorGroup="Mall" id="ml_coffee_dsk" interior="20" posX="2472.439941" posY="64.290001" posZ="13.391775" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="ml_cofcounter1" interior="20" posX="2471.040039" posY="59.630001" posZ="13.289236" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building editorGroup="Mall" id="tarbrush_int" interior="20" posX="2468.879883" posY="56.669998" posZ="15.210989" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <object editorGroup="Mall" id="dead_tied_cop" interior="20" posX="2478.699951" posY="64.849998" posZ="13.360037" rotX="-0.000" rotY="-80.000" rotZ="90.000"></object>
-    <object editorGroup="Mall" id="Gen_doorSHOP01" interior="20" posX="2464.689941" posY="59.880001" posZ="12.620046" rotX="-0.000" rotY="0.000" rotZ="-135.000"></object>
+    <building id="gash_int" interior="19" posX="2418.76" posY="83.095" posZ="999" rotX="0" rotY="-0" rotZ="90.0002280593"></building>
+    <building id="ml_escl" interior="19" posX="2419.322" posY="76.113" posZ="996.627" rotX="1.3265244664474e-06" rotY="-0.9996950763442" rotZ="-90.000076008168"></building>
+    <object id="sl_dtdoor1" interior="19" posX="2407.22" posY="84.338" posZ="999.735" rotX="-2.0172529825452e-10" rotY="0.00030407899143701" rotZ="-90.000076019791"></object>
+    <object id="sl_dtdoor1" interior="19" posX="2407.21" posY="81.337" posZ="999.735" rotX="0" rotY="-0" rotZ="90.0002280593"></object>
+    <object id="sl_dtdoor1" interior="19" posX="2407.22" posY="84.338" posZ="993.587" rotX="-2.0172529825452e-10" rotY="0.00030407899143701" rotZ="-90.000076019791"></object>
+    <object id="sl_dtdoor1" interior="19" posX="2407.21" posY="81.337" posZ="993.587" rotX="0" rotY="-0" rotZ="90.0002280593"></object>
+    <building id="ml_coffee_dsk" interior="20" posX="2472.44" posY="64.29" posZ="997.1808" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ml_cofcounter1" interior="20" posX="2471.04" posY="59.63" posZ="997.0782" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="tarbrush_int" interior="20" posX="2468.88" posY="56.67" posZ="999" rotX="0" rotY="-0" rotZ="-0"></building>
+    <object id="dead_tied_cop" interior="20" posX="2478.7" posY="64.85" posZ="997.149" rotX="-3.210924238691e-05" rotY="-79.999896755691" rotZ="90.000275332534"></object>
+    <object id="Gen_doorSHOP01" interior="20" posX="2464.69" posY="59.88" posZ="996.409" rotX="-0.0001075082297515" rotY="0.00025954758282901" rotZ="-135.00003800984"></object>
     <building id="concerth29" interior="21" posX="1075.95" posY="107.341" posZ="1001.792" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="concerth02" interior="21" posX="1063.4" posY="104.924" posZ="999.431" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="concerth03" interior="21" posX="1077.88" posY="105.462" posZ="999.431" rotX="0" rotY="-0" rotZ="-0"></building>

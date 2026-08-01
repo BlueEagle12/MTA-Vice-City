@@ -82,7 +82,7 @@
     <building id="nbt_hotel02" lodParent="LOD_hotel02" posX="2537.26" posY="-744.169" posZ="59.8048" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="nbt_hotel05" lodParent="LOD_hotel05" posX="2330.32" posY="-236.19" posZ="7.211" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="nbt_hotel01" lodParent="LOD_hotel01" posX="2539.32" posY="-869.712" posZ="29.7543" rotX="-1.0605460409748e-05" rotY="0.00030370889251343" rotZ="-93.999882769536"></building>
-    <building id="nbt_hotel03" lodParent="LOD_hotel03" posX="2561.139893" posY="-587.312012" posZ="60.038319" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="nbt_hotel03" lodParent="LOD_hotel03" posX="2561.14" posY="-587.312" posZ="59.921" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="nbt_hotel06" lodParent="LOD_hotel06" posX="2295.86" posY="-565.746" posZ="13.3575" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="newbuilding01" lodParent="LODbuilding01" posX="2296.24" posY="-663.375" posZ="6.8286" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="nbtshopfronts02" lodParent="LODshopfronts02" posX="2347.37" posY="-744.443" posZ="8.5396" rotX="0" rotY="-0" rotZ="-0"></building>

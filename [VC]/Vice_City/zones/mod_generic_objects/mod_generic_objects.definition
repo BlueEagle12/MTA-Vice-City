@@ -1,6 +1,6 @@
 <zoneDefinitions>
-    <definition col="billbrd_frfll" flags="" id="billbrd_frfll" lodDistance="100" txd="billbrd_ap_add" zone="mod_generic_objects"></definition>
-    <definition col="billbrd_jacar" flags="" id="billbrd_jacar" lodDistance="100" txd="billbrd_ap_add" zone="mod_generic_objects"></definition>
-    <definition col="bskballhub_notrig" flags="2" id="bskballhub_notrig" lodDistance="80" txd="bskball_standext" zone="mod_generic_objects"></definition>
-    <definition col="tag_united" flags="2,20" id="tag_united" lodDistance="299" txd="tag_united" zone="mod_generic_objects"></definition>
+    <definition col="billbrd_frfll" flags="" id="billbrd_frfll" lodDistance="170" txd="billbrd_ap_add" zone="mod_generic_objects"></definition>
+    <definition col="billbrd_jacar" flags="" id="billbrd_jacar" lodDistance="170" txd="billbrd_ap_add" zone="mod_generic_objects"></definition>
+    <definition col="bskballhub_notrig" flags="2" id="bskballhub_notrig" lodDistance="170" txd="bskball_standext" zone="mod_generic_objects"></definition>
+    <definition col="tag_united" flags="2,20" id="tag_united" lodDistance="170" txd="tag_united" zone="mod_generic_objects"></definition>
 </zoneDefinitions>

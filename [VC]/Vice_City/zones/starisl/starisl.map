@@ -41,7 +41,7 @@
     <building id="starisland_road4" lodParent="LODrisland_road4" posX="1666.054" posY="-1350.656" posZ="4.8966" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="starisland_road1" lodParent="LODrisland_road1" posX="1411.467" posY="-1437.79" posZ="4.7206" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="boatpole" posX="1831.891" posY="-1348.913" posZ="12.3428" rotX="0" rotY="-0" rotZ="-4.4999980274348"></building>
-    <building id="starisland_road3" lodParent="LODrisland_road3" posX="1555.604" posY="-1369.381" posZ="4.6258" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="starisland_road3" lodParent="lod_starisland_roa_2" posX="1555.604" posY="-1369.381" posZ="4.6258" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="mansion3gardens" lodParent="LODsion3gardens" posX="1356.75" posY="-1311.786" posZ="3.64186" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="Mansion2_B" lodParent="LODsion2_B" posX="1375.188" posY="-1265.273" posZ="13.3994" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="mansion3a" lodParent="LODsion3a" posX="1647.704" posY="-1232.244" posZ="12.0521" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -372,9 +372,5 @@
     <object id="phonebooth1" posX="1341.176" posY="-1407.254" posZ="5.6118" rotX="0" rotY="-0" rotZ="90.000197517502"></object>
     <object id="phonebooth1" posX="1809.398" posY="-1409.398" posZ="5.6118" rotX="0" rotY="-0" rotZ="10.500300237738"></object>
     <object id="phonebooth1" posX="1810.233" posY="-1409.233" posZ="5.6118" rotX="0" rotY="-0" rotZ="10.500300237738"></object>
-    <building id="LODrtrees1" posX="1654.866" posY="-1370.816" posZ="17.7621" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODrtrees2" posX="1752.046" posY="-1313.91" posZ="18.3499" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODrtrees3" posX="1542.316" posY="-1238.823" posZ="17.8622" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODrtrees4" posX="1458.225" posY="-1371.413" posZ="12.5098" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODrtrees5" posX="1334.198" posY="-1353.124" posZ="17.9496" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="lod_starisland_roa_2" posX="1555.604004" posY="-1369.380981" posZ="4.625800" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
 </map>

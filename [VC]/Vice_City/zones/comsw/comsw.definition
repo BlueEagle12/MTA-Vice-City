@@ -1,4 +1,4 @@
 <zoneDefinitions>
-    <definition col="Stuhl_MB" flags="" id="Stuhl_MB" lodDistance="60" txd="MoBaTex" zone="comsw"></definition>
-    <definition col="Tisch_MB" flags="2,7,21" id="Tisch_MB" lodDistance="90" txd="MoBaTex" zone="comsw"></definition>
+    <definition col="stuhl_mb" flags="" id="Stuhl_MB" lodDistance="170" txd="mobatex" zone="comsw"></definition>
+    <definition col="tisch_mb" flags="2,7,21" id="Tisch_MB" lodDistance="170" txd="mobatex" zone="comsw"></definition>
 </zoneDefinitions>

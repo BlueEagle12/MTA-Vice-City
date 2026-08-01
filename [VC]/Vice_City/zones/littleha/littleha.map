@@ -218,14 +218,14 @@
     <building id="signagelh" posX="1180.02" posY="-1475.11" posZ="13.0044" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="lhroofst19" posX="1144.98" posY="-1583.29" posZ="15.9719" rotX="0" rotY="-0" rotZ="55.000320764563"></building>
     <building id="littleha_hardwareb" lodParent="lodtleha_hardware" posX="1029.63" posY="-1643.09" posZ="10.2417" rotX="0" rotY="-0" rotZ="7.5002970431366"></building>
-    <object id="wglasssmash" posX="977.13" posY="-1822.76" posZ="13.5119" rotX="-6.2196222820056e-06" rotY="-6.5541191810365e-06" rotZ="-46.500013289521"></object>
-    <object id="wglasssmash" posX="974.07" posY="-1819.54" posZ="13.5119" rotX="-6.2196222820056e-06" rotY="-6.5541191810365e-06" rotZ="-46.500013289521"></object>
-    <object id="wglasssmash" posX="974.07" posY="-1819.54" posZ="8.2119" rotX="-6.2196222820056e-06" rotY="-6.5541191810365e-06" rotZ="-46.500013289521"></object>
-    <object id="wglasssmash" posX="977.13" posY="-1822.76" posZ="8.2119" rotX="-6.2196222820056e-06" rotY="-6.5541191810365e-06" rotZ="-46.500013289521"></object>
-    <object id="wglasssmash" posX="988.8" posY="-1820.29" posZ="8.2119" rotX="-6.2196007054692e-06" rotY="-6.5540548386439e-06" rotZ="43.500330606624"></object>
-    <object id="wglasssmash" posX="985.58" posY="-1823.35" posZ="8.2119" rotX="-6.2196007054692e-06" rotY="-6.5540548386439e-06" rotZ="43.500330606624"></object>
-    <object id="wglasssmash" posX="985.58" posY="-1823.35" posZ="13.5119" rotX="-6.2196007054692e-06" rotY="-6.5540548386439e-06" rotZ="43.500330606624"></object>
-    <object id="wglasssmash" posX="988.8" posY="-1820.29" posZ="13.5119" rotX="-6.2196007054692e-06" rotY="-6.5540548386439e-06" rotZ="43.500330606624"></object>
+    <object id="wglasssmash" overrideFlags="double_sided" posX="977.13" posY="-1822.76" posZ="13.5119" rotX="-6.2196222820056e-06" rotY="-6.5541191810365e-06" rotZ="-46.500013289521"></object>
+    <object id="wglasssmash" overrideFlags="double_sided" posX="974.07" posY="-1819.54" posZ="13.5119" rotX="-6.2196222820056e-06" rotY="-6.5541191810365e-06" rotZ="-46.500013289521"></object>
+    <object id="wglasssmash" overrideFlags="double_sided" posX="974.07" posY="-1819.54" posZ="8.2119" rotX="-6.2196222820056e-06" rotY="-6.5541191810365e-06" rotZ="-46.500013289521"></object>
+    <object id="wglasssmash" overrideFlags="double_sided" posX="977.13" posY="-1822.76" posZ="8.2119" rotX="-6.2196222820056e-06" rotY="-6.5541191810365e-06" rotZ="-46.500013289521"></object>
+    <object id="wglasssmash" overrideFlags="double_sided" posX="988.8" posY="-1820.29" posZ="8.2119" rotX="-6.2196007054692e-06" rotY="-6.5540548386439e-06" rotZ="43.500330606624"></object>
+    <object id="wglasssmash" overrideFlags="double_sided" posX="985.58" posY="-1823.35" posZ="8.2119" rotX="-6.2196007054692e-06" rotY="-6.5540548386439e-06" rotZ="43.500330606624"></object>
+    <object id="wglasssmash" overrideFlags="double_sided" posX="985.58" posY="-1823.35" posZ="13.5119" rotX="-6.2196007054692e-06" rotY="-6.5540548386439e-06" rotZ="43.500330606624"></object>
+    <object id="wglasssmash" overrideFlags="double_sided" posX="988.8" posY="-1820.29" posZ="13.5119" rotX="-6.2196007054692e-06" rotY="-6.5540548386439e-06" rotZ="43.500330606624"></object>
     <object id="veg_palmkbb11" posX="997.21" posY="-1860.22" posZ="6.6874" rotX="0" rotY="-0" rotZ="-46.50001328952"></object>
     <object id="veg_palmkbb11" posX="991.89" posY="-1854.62" posZ="6.6874" rotX="0" rotY="-0" rotZ="-46.50001328952"></object>
     <object id="veg_palmkbb11" posX="977.15" posY="-1838.99" posZ="6.6874" rotX="0" rotY="-0" rotZ="-46.50001328952"></object>

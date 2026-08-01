@@ -1,28 +1,29 @@
 <zoneDefinitions>
-    <definition col="lod_beacon_dy" flags="7" id="lod_beacon_dy" lodDistance="1000" timeIn="5" timeOut="22" txd="LODxrefhot" zone="xref"></definition>
-    <definition col="lod_beacon_nt" flags="7" id="lod_beacon_nt" lodDistance="1000" timeIn="22" timeOut="5" txd="LODxrefhot" zone="xref"></definition>
-    <definition col="lod_leslie_dy" flags="7" id="lod_leslie_dy" lodDistance="1000" timeIn="5" timeOut="22" txd="LODxrefhot" zone="xref"></definition>
-    <definition col="lod_leslie_nt" flags="7" id="lod_leslie_nt" lodDistance="1000" timeIn="22" timeOut="5" txd="LODxrefhot" zone="xref"></definition>
-    <definition col="lod_macalpin_dy" flags="7" id="lod_macalpin_dy" lodDistance="1000" timeIn="5" timeOut="22" txd="LODxrefhot" zone="xref"></definition>
-    <definition col="lod_macalpin_nt" flags="7" id="lod_macalpin_nt" lodDistance="1000" timeIn="22" timeOut="5" txd="LODxrefhot" zone="xref"></definition>
-    <definition col="lod_majestic_dy" flags="7" id="lod_majestic_dy" lodDistance="1000" timeIn="5" timeOut="22" txd="LODxrefhot" zone="xref"></definition>
-    <definition col="lod_majestic_nt" flags="7" id="lod_majestic_nt" lodDistance="1000" timeIn="22" timeOut="5" txd="LODxrefhot" zone="xref"></definition>
-    <definition col="lod_starlite_dy" flags="7" id="lod_starlite_dy" lodDistance="1000" timeIn="5" timeOut="22" txd="LODxrefhot" zone="xref"></definition>
-    <definition col="lod_starlite_nt" flags="7" id="lod_starlite_nt" lodDistance="1000" timeIn="22" timeOut="5" txd="LODxrefhot" zone="xref"></definition>
-    <definition col="lod_tides_dy" flags="7" id="lod_tides_dy" lodDistance="1000" timeIn="5" timeOut="22" txd="LODxrefhot" zone="xref"></definition>
-    <definition col="lod_tides_nt" flags="7" id="lod_tides_nt" lodDistance="1000" timeIn="22" timeOut="5" txd="LODxrefhot" zone="xref"></definition>
+    <definition col="lod_beacon_dy" dff="lod_beacon_dy" flags="7" id="lod_beacon" lodDistance="700" txd="LODxrefhot" zone="xref"></definition>
+    <definition col="lod_leslie_nt" dff="lod_leslie_nt" flags="7" id="lod_leslie" lodDistance="700" txd="LODxrefhot" zone="xref"></definition>
+    <definition col="lod_macalpin_nt" flags="7" id="lod_macalpin_nt" lodDistance="700" timeIn="22" timeOut="5" txd="LODxrefhot" zone="xref"></definition>
+    <definition col="lod_majestic_dy" dff="lod_majestic_dy" flags="7" id="lod_majestic" lodDistance="700" txd="LODxrefhot" zone="xref"></definition>
+    <definition col="lod_starlite_dy" dff="lod_starlite_dy" flags="7" id="lod_starlite" lodDistance="700" txd="LODxrefhot" zone="xref"></definition>
+    <definition col="lod_starlite_nt" flags="7" id="lod_starlite_nt" lodDistance="700" timeIn="22" timeOut="5" txd="LODxrefhot" zone="xref"></definition>
+    <definition col="lod_tides_nt" dff="lod_tides_nt" flags="7" id="lod_tides" lodDistance="700" txd="LODxrefhot" zone="xref"></definition>
     <definition col="lodxrefhirise1" flags="" id="lodxrefhirise1" lodDistance="700" txd="wshxreflod" zone="xref"></definition>
-    <definition col="wshxrefhirise1" flags="" id="wshxrefhirise1" lodDistance="299" txd="wshxrefhirise" zone="xref"></definition>
-    <definition col="xod_beacon_dy" flags="" id="xod_beacon_dy" lodDistance="200" timeIn="5" timeOut="22" txd="xrefhotels" zone="xref"></definition>
-    <definition col="xod_beacon_nt" flags="" id="xod_beacon_nt" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
-    <definition col="xod_leslie_dy" flags="" id="xod_leslie_dy" lodDistance="200" timeIn="5" timeOut="22" txd="xrefhotels" zone="xref"></definition>
+    <override id="lodxrefhse1" lodDistance="700" />
+    <override id="lodxrefhse2" lodDistance="700" />
+    <definition col="wshxrefhirise1" flags="" id="wshxrefhirise1" lodDistance="200" txd="wshxrefhirise" zone="xref"></definition>
+    <override id="wshxrefhse1" lodDistance="200" />
+    <override id="wshxrefhse2" lodDistance="200" />
+    <definition col="xod_beacon_dy" dff="xod_beacon_dy" flags="" id="xod_beacon" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
+    <definition col="xod_beacon_dy" dff="xod_beacon_dy" flags="" id="xod_beacon_A" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
+    <definition col="xod_leslie_dy" dff="xod_leslie_dy" flags="" id="xod_leslie" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
+    <definition col="xod_leslie_nt" dff="xod_leslie_nt" flags="" id="xod_leslie_A" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
+    <definition col="xod_leslie_dy" flags="" id="xod_leslie_dy" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
     <definition col="xod_leslie_nt" flags="" id="xod_leslie_nt" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
-    <definition col="xod_macalpin_dy" flags="" id="xod_macalpin_dy" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
-    <definition col="xod_macalpin_nt" flags="" id="xod_macalpin_nt" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
-    <definition col="xod_majestic_dy" flags="" id="xod_majestic_dy" lodDistance="200" timeIn="5" timeOut="22" txd="xrefhotels" zone="xref"></definition>
-    <definition col="xod_majestic_nt" flags="" id="xod_majestic_nt" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
+    <definition col="xod_macalpin_nt" dff="xod_macalpin_nt" flags="" id="xod_macalpin" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
+    <definition col="xod_macalpin_nt" dff="xod_macalpin_nt" flags="" id="xod_macalpin_A" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
+    <definition col="xod_majestic_dy" dff="xod_majestic_dy" flags="" id="xod_majestic" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
+    <definition col="xod_starlite_dy" dff="xod_starlite_dy" flags="" id="xod_starlite" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
+    <definition col="xod_starlite_dy" dff="xod_starlite_dy" flags="" id="xod_starlite_A" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
     <definition col="xod_starlite_dy" flags="" id="xod_starlite_dy" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
-    <definition col="xod_starlite_nt" flags="" id="xod_starlite_nt" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
-    <definition col="xod_tides_dy" flags="" id="xod_tides_dy" lodDistance="200" timeIn="5" timeOut="22" txd="xrefhotels" zone="xref"></definition>
-    <definition col="xod_tides_nt" flags="" id="xod_tides_nt" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
+    <definition col="xod_starlite_nt" flags="" id="xod_starlite_nt" lodDistance="200" timeIn="22" timeOut="5" txd="xrefhotels" zone="xref"></definition>
+    <definition col="xod_tides_nt" dff="xod_tides_nt" flags="" id="xod_tides" lodDistance="200" txd="xrefhotels" zone="xref"></definition>
 </zoneDefinitions>

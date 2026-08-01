@@ -26,4 +26,3 @@ mod_generic_objects
 golf
 washintn
 downtown
-GTA:SA

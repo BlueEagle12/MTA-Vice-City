@@ -7,7 +7,6 @@
     <building id="LODdstageext" posX="1916.057" posY="-17.176" posZ="10.3792" rotX="0" rotY="-0" rotZ="106.00025963454"></building>
     <building id="LODstudiowall" posX="1951.078" posY="0.734" posZ="8.6077" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODbacklot1" posX="1914.307" posY="-57.343" posZ="3.67388" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODbstage" posX="1967.91" posY="57.75" posZ="10.3792" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODmansion1" posX="2074.612" posY="154.37" posZ="21.3023" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODmansion3" posX="2017.738" posY="214.27" posZ="22.7298" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODoffices" posX="1962.307" posY="-31.407" posZ="9.8567" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -20,7 +19,7 @@
     <building id="LODbstageint" posX="1967.91" posY="57.75" posZ="10.3792" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODcstageint" posX="1995.292" posY="49.972" posZ="10.3792" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODastageint" posX="1910.55" posY="17.456" posZ="11.1472" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="ci_islandwest" lodParent="LODislandwest" posX="1905.951" posY="27.785" posZ="-8.46765" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="ci_islandwest" lodParent="lod_ci_islandwest_2" posX="1905.951" posY="27.785" posZ="-8.46765" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ci_studiowall" lodParent="LODstudiowall" posX="1951.078" posY="0.734" posZ="8.6077" rotX="0" rotY="-0" rotZ="-0"></building>
     <object id="ci_astage" lodParent="LODastage" posX="1910.55" posY="17.456" posZ="11.1472" rotX="0" rotY="-0" rotZ="-0"></object>
     <building id="ci_mansionwall1" posX="2013.185" posY="173.97" posZ="9.1741" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -231,5 +230,6 @@
     <building id="ci_dstagelight" posX="1929.215" posY="-17.5" posZ="4.3987" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ci_astagelight1" posX="1934.172" posY="12.475" posZ="4.4987" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="ci_astagelight2" posX="1934.172" posY="20.628" posZ="4.4987" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="ci_cstage" lodParent="LODcstage" posX="1967.750000" posY="57.648331" posZ="10.379200" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="ci_cstage" lodParent="LODcstage" posX="1968.221802" posY="57.882027" posZ="10.379200" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="lod_ci_islandwest_2" posX="1905.951050" posY="27.785000" posZ="-8.467650" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
 </map>

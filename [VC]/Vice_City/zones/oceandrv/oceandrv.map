@@ -1,27 +1,23 @@
 <map>
     <info name="MTA:SA Eagle Edit" author="MTA:SA Eagle Edit" version="1.0"></info>
-    <building id="lodalleys1b_01_dy" posX="2181.482" posY="-2336.69" posZ="11.8281" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="lodalleys2_01_dy" posX="2220.398" posY="-2162.55" posZ="12.0506" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODanrda06_nt" posX="2217.591" posY="-2355.2" posZ="4.44639" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODanrda05_nt" posX="2236.643" posY="-2202.18" posZ="4.19743" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODanrda04_nt" posX="2257.037" posY="-2082.77" posZ="4.21154" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODanrda03_nt" posX="2307.072" posY="-1932.536" posZ="4.4464" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODclevelander_nt" posX="2216.658" posY="-2225.39" posZ="11.1947" rotX="0" rotY="-0" rotZ="-12.5000104742"></building>
-    <building id="LODcasagrande_nt" posX="2143.29" posY="-2486.08" posZ="12.8195" rotX="0" rotY="-0" rotZ="-29.000008518182"></building>
-    <building id="LODpelican2_nt" posX="2166.839" posY="-2443.87" posZ="10.6953" rotX="0" rotY="-0" rotZ="-28.499965748852"></building>
-    <building id="LODcolony_nt" posX="2175.686" posY="-2398.2" posZ="17.3286" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODtides3_nt" posX="2197.659" posY="-2343.98" posZ="26.0341" rotX="-2.5547615127088e-13" rotY="-0" rotZ="-0"></building>
-    <building id="LODpelican_nt" posX="2264.718" posY="-2022.75" posZ="10.695" rotX="0" rotY="-0" rotZ="-8.4999995781046"></building>
-    <building id="LODcolony2_nt" posX="2264.233" posY="-1996.78" posZ="12.6667" rotX="0" rotY="-0" rotZ="-6.0000078096627"></building>
-    <building id="LODmajestic2c_nt" posX="2268.666" posY="-1935.761" posZ="19.0069" rotX="0" rotY="-0" rotZ="-8.4999995781046"></building>
-    <building id="LODnewscafe_nt" posX="2231.312" posY="-2183.46" posZ="14.246" rotX="0" rotY="-0" rotZ="-7.5000087318738"></building>
-    <building id="lodalleys2_01_nt" posX="2220.398" posY="-2162.55" posZ="12.0506" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="lodalleys3_01_nt" posX="2248.851" posY="-1966.16" posZ="3.73014" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="lodalleys3b_01_nt" posX="2234.809" posY="-2044.11" posZ="10.9267" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="lodalleys3_01_dy" posX="2248.851" posY="-1966.16" posZ="3.73014" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="lodalleys3b_01_dy" posX="2234.809" posY="-2044.11" posZ="10.9267" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="lodalleys1b_01_nt" posX="2181.482" posY="-2336.69" posZ="11.8281" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="lodalleys1_01_nt" posX="2147.874" posY="-2441.72" posZ="8.4276" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LODanrda05" posX="2236.643066" posY="-2202.179932" posZ="4.197430" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="LODanrda03" posX="2307.072021" posY="-1932.536011" posZ="4.446400" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="LODcasagrande" posX="2143.290039" posY="-2486.080078" posZ="12.819500" rotX="0.000" rotY="-0.000" rotZ="-29.000"></building>
+    <building id="LODpelican" posX="2264.718018" posY="-2022.750000" posZ="10.695000" rotX="0.000" rotY="-0.000" rotZ="-8.500"></building>
+    <building id="LODcolony" posX="2175.686035" posY="-2398.199951" posZ="17.328600" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="LODcolony2" posX="2264.232910" posY="-1996.780029" posZ="12.666700" rotX="0.000" rotY="-0.000" rotZ="-6.000"></building>
+    <building id="lodalleys1b_01" posX="2181.481934" posY="-2336.689941" posZ="11.828100" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="lodalleys2_01" posX="2220.397949" posY="-2162.550049" posZ="12.050600" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="LODmajestic2c" posX="2268.666016" posY="-1935.760986" posZ="19.006901" rotX="0.000" rotY="-0.000" rotZ="-8.500"></building>
+    <building id="LODpelican2" posX="2166.839111" posY="-2443.870117" posZ="10.695300" rotX="0.000" rotY="-0.000" rotZ="-28.500"></building>
+    <building id="LODanrda06" posX="2217.591064" posY="-2355.199951" posZ="4.446390" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="LODanrda04" posX="2257.037109" posY="-2082.770020" posZ="4.211540" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="LODclevelander" posX="2216.657959" posY="-2225.389893" posZ="11.194700" rotX="0.000" rotY="-0.000" rotZ="-12.500"></building>
+    <building id="LODtides3" posX="2197.658936" posY="-2343.979980" posZ="26.034100" rotX="-0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="LODnewscafe" posX="2231.312012" posY="-2183.459961" posZ="14.246000" rotX="0.000" rotY="-0.000" rotZ="-7.500"></building>
+    <building id="lodalleys3_01" posX="2248.851074" posY="-1966.160034" posZ="3.730140" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="lodalleys3b_01" posX="2234.809082" posY="-2044.109985" posZ="10.926700" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="lodalleys1_01" posX="2147.874023" posY="-2441.719971" posZ="8.427600" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
     <building id="LODo_polgrnda12" posX="2253.028" posY="-1920.978" posZ="13.176" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODo_polgrnda13" posX="2233.902" posY="-2045.86" posZ="8.505" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="LODo_polgrnda14" posX="2200.952" posY="-2143.39" posZ="12.654" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -44,8 +40,9 @@
     <building id="lodighsandgrs1" posX="2341.074" posY="-2207.49" posZ="5.3133" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="lodowsand2" posX="2608.329" posY="-2363.8" posZ="-1.57736" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="lodnorthstar" posX="2119.453" posY="-2506.32" posZ="3.95516" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="LODoceanrdN1_nt" posX="2153.893" posY="-2491.85" posZ="4.13653" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="LODoceanrdN1" posX="2153.893066" posY="-2491.850098" posZ="4.136530" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
     <building id="lodwalkway2" posX="2557.922" posY="-2707.97" posZ="1.4677" rotX="0" rotY="-0" rotZ="-13.99995772701"></building>
+    <building id="LODmiland_kb01" posX="2193.095947" posY="-2583.669922" posZ="-5.099270" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
     <building id="deco_buildkb09" lodParent="lodo_buildkb09" posX="2190.657" posY="-2375.83" posZ="13.984" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="deco_polgrnda12" lodParent="LODo_polgrnda12" posX="2253.028" posY="-1920.978" posZ="13.176" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="deco_polgrnda13" lodParent="LODo_polgrnda13" posX="2233.902" posY="-2045.86" posZ="8.505" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -59,7 +56,7 @@
     <building id="od_bphq" lodParent="LODbphq" posX="2150.054" posY="-2461.79" posZ="4.531" rotX="0" rotY="-0" rotZ="60.000257502433"></building>
     <building id="od_acne" lodParent="LODacne" posX="2121.295" posY="-2465.37" posZ="3.89184" rotX="0" rotY="-0" rotZ="-19.999983359336"></building>
     <building id="od_bigshops2" lodParent="LODbigshops2" posX="2158.488" posY="-2365.96" posZ="3.892" rotX="0" rotY="-0" rotZ="-23.099992122273"></building>
-    <building id="od_bigshops1" lodParent="LODbigshops1" posX="2136.677979" posY="-2414.469971" posZ="3.652780" rotX="0.000" rotY="-0.000" rotZ="-24.000"></building>
+    <building id="od_bigshops1" lodParent="LODbigshops1" posX="2136.678" posY="-2414.47" posZ="3.65278" rotX="0" rotY="-0" rotZ="-24.000046341676"></building>
     <building id="od_clevelfence" posX="2200.653" posY="-2224.29" posZ="6.0043" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="oddoorwayS1" posX="2214.734" posY="-2279.49" posZ="5.6596" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="od_cornercrap1" posX="2256.1" posY="-1950.88" posZ="4.36621" rotX="0" rotY="-0" rotZ="-19.999983359336"></building>
@@ -78,7 +75,7 @@
     <building id="miamiland_kb02" lodParent="lodmiland_kb02" posX="2428.726" posY="-2390.14" posZ="-4.27314" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="od_lhland" lodParent="LODlhland" posX="2432.143" posY="-2581.58" posZ="-4.47884" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="beachlo1" lodParent="LODchlo1" posX="2596.543" posY="-2077.36" posZ="0.79607" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="miamiland_kb01_nt" posX="2193.096" posY="-2583.67" posZ="-5.09927" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="miamiland_kb01" lodParent="LODmiland_kb01" posX="2193.095947" posY="-2583.669922" posZ="-5.099270" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
     <building id="odlowsand2" lodParent="lodowsand2" posX="2608.329" posY="-2363.8" posZ="-1.57736" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="odlowsand1" lodParent="lodowsand1" posX="2651.7" posY="-2206.77" posZ="1.41319" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="odhighsandgrs1" lodParent="lodighsandgrs1" posX="2341.074" posY="-2207.49" posZ="5.3133" rotX="0" rotY="-0" rotZ="-0"></building>
@@ -89,35 +86,31 @@
     <building id="beachblend14" posX="2700.392" posY="-2207.77" posZ="-3.86228" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="beachblend16" posX="2578.994" posY="-2543.66" posZ="-9.65999" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="od_lightint" posX="2474.342" posY="-2667.67" posZ="50.5984" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="od_colony2_nt" lodParent="LODcolony2_nt" posX="2264.289" posY="-1997.61" posZ="12.6667" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="od_alleys3b_01_dy" lodParent="lodalleys3b_01_dy" posX="2234.809" posY="-2044.11" posZ="11.2935" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="od_alleys2_01_dy" lodParent="lodalleys2_01_dy" posX="2220.398" posY="-2162.55" posZ="12.4174" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="od_alleys3_01_dy" lodParent="lodalleys3_01_dy" posX="2248.851" posY="-1966.16" posZ="4.09693" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="od_alleys1b_01_dy" lodParent="lodalleys1b_01_dy" posX="2181.482" posY="-2336.69" posZ="11.8281" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="od_casagrande_nt" lodParent="LODcasagrande_nt" posX="2143.29" posY="-2486.08" posZ="12.8195" rotX="0" rotY="-0" rotZ="-29.000008518182"></building>
-    <building id="od_pelican_nt" lodParent="LODpelican_nt" posX="2264.175" posY="-2022.64" posZ="4.5312" rotX="0" rotY="-0" rotZ="-8.4999995781046"></building>
-    <building id="od_pelican2_nt" lodParent="LODpelican2_nt" posX="2166.832" posY="-2443.9" posZ="10.6953" rotX="0" rotY="-0" rotZ="-28.000019666796"></building>
-    <building id="od_colony_nt" lodParent="LODcolony_nt" posX="2175.649" posY="-2398.21" posZ="12.6667" rotX="0" rotY="-0" rotZ="-22.49995526237"></building>
-    <building id="od_tides3_nt" lodParent="LODtides3_nt" posX="2197.532959" posY="-2343.979980" posZ="26.011299" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
-    <building id="od_alleys3_01_nt" lodParent="lodalleys3_01_nt" posX="2248.851" posY="-1966.16" posZ="4.09693" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="od_clevelander_nt" lodParent="LODclevelander_nt" posX="2216.658" posY="-2225.39" posZ="11.1947" rotX="0" rotY="-0" rotZ="-12.5000104742"></building>
-    <building id="od_majestic2c_nt" lodParent="LODmajestic2c_nt" posX="2268.638" posY="-1935.696" posZ="18.9909" rotX="0" rotY="-0" rotZ="-8.4999995781046"></building>
-    <building id="od_newscafe_nt" lodParent="LODnewscafe_nt" posX="2231.312012" posY="-2183.459961" posZ="14.246000" rotX="0.000" rotY="-0.000" rotZ="-7.500"></building>
-    <building id="od_oceanrdN1_nt" lodParent="LODoceanrdN1_nt" posX="2153.893" posY="-2491.85" posZ="4.13653" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="od_alleys1_01_nt" lodParent="lodalleys1_01_nt" posX="2147.874" posY="-2441.72" posZ="8.428" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="od_alleys2_01_nt" lodParent="lodalleys2_01_nt" posX="2220.398" posY="-2162.55" posZ="12.4174" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="od_alleys1b_01_nt" lodParent="lodalleys1b_01_nt" posX="2181.482" posY="-2336.69" posZ="11.8281" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="od_alleys3b_01_nt" lodParent="lodalleys3b_01_nt" posX="2234.809" posY="-2044.11" posZ="11.2935" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="od_neons3b_nt" posX="2280.577881" posY="-1912.312988" posZ="20.196400" rotX="0.000" rotY="-0.000" rotZ="-28.000"></building>
+    <building id="oceanrda05" lodParent="LODanrda05" posX="2236.643066" posY="-2202.179932" posZ="4.197430" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="oceanrda03" lodParent="LODanrda03" posX="2307.072021" posY="-1932.536011" posZ="4.446400" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="od_casagrande" lodParent="LODcasagrande" posX="2143.290039" posY="-2486.080078" posZ="12.819500" rotX="0.000" rotY="-0.000" rotZ="-29.000"></building>
+    <building id="od_pelican" lodParent="LODpelican" posX="2264.175049" posY="-2022.640015" posZ="4.531200" rotX="0.000" rotY="-0.000" rotZ="-8.500"></building>
+    <building id="od_pelican2" lodParent="LODpelican2" posX="2166.832031" posY="-2443.899902" posZ="10.695300" rotX="0.000" rotY="-0.000" rotZ="-28.000"></building>
+    <building id="od_colony" lodParent="LODcolony" posX="2175.648926" posY="-2398.209961" posZ="12.666700" rotX="0.000" rotY="-0.000" rotZ="-22.500"></building>
+    <building id="od_colony2" lodParent="LODcolony2" posX="2264.289062" posY="-1997.609985" posZ="12.666700" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="od_majestic2c" lodParent="LODmajestic2c" posX="2268.637939" posY="-1935.696045" posZ="18.990900" rotX="0.000" rotY="-0.000" rotZ="-8.500"></building>
+    <building id="od_alleys3b_01" lodParent="lodalleys3b_01" posX="2234.809082" posY="-2044.109985" posZ="11.293500" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="od_alleys2_01" lodParent="lodalleys2_01" posX="2220.397949" posY="-2162.550049" posZ="12.417400" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="od_newscafe" lodParent="LODnewscafe" posX="2231.312012" posY="-2183.459961" posZ="14.246000" rotX="-0.000" rotY="-0.000" rotZ="-7.500"></building>
+    <building id="od_oceanrdN1" lodParent="LODoceanrdN1" posX="2153.893066" posY="-2491.850098" posZ="4.136530" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="od_alleys3_01" lodParent="lodalleys3_01" posX="2248.851074" posY="-1966.160034" posZ="4.096930" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="od_alleys1b_01" lodParent="lodalleys1b_01" posX="2181.481934" posY="-2336.689941" posZ="11.828100" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="od_tides3" lodParent="LODtides3" posX="2197.532959" posY="-2343.979980" posZ="26.011299" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="od_clevelander" lodParent="LODclevelander" posX="2216.657959" posY="-2225.389893" posZ="11.194700" rotX="0.000" rotY="-0.000" rotZ="-12.500"></building>
+    <building id="od_alleys1_01" lodParent="lodalleys1_01" posX="2147.874023" posY="-2441.719971" posZ="8.428000" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="od_neons3b_nt" posX="2280.578" posY="-1912.313" posZ="20.1964" rotX="0" rotY="-0" rotZ="-28.000019666796"></building>
     <building id="od_neons2b_nt" posX="2238.714" posY="-2199.8" posZ="21.7934" rotX="0" rotY="-0" rotZ="-28.000019666796"></building>
-    <building id="oceanrda04_nt" lodParent="LODanrda04_nt" posX="2257.037" posY="-2082.77" posZ="4.212" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="oceanrda06_nt" lodParent="LODanrda06_nt" posX="2217.591064" posY="-2355.199951" posZ="4.457340" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="oceanrda04" lodParent="LODanrda04" posX="2257.037109" posY="-2082.770020" posZ="4.212000" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
+    <building id="oceanrda06" lodParent="LODanrda06" posX="2217.591064" posY="-2355.199951" posZ="4.457340" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
     <building id="ocdneona_nt" posX="2219.38" posY="-2299.93" posZ="19.3531" rotX="0" rotY="-0" rotZ="-28.000019666796"></building>
     <building id="ocdneonb_nt" posX="2167.94" posY="-2414.63" posZ="14.1382" rotX="0" rotY="-0" rotZ="-28.000019666796"></building>
     <building id="od_neonx1" posX="2260.911" posY="-2049.91" posZ="18.8871" rotX="0" rotY="-0" rotZ="-28.000019666796"></building>
     <building id="od_neonn" posX="2271.352" posY="-1980.96" posZ="19.1673" rotX="0" rotY="-0" rotZ="-28.000019666796"></building>
-    <building id="oceanrda03_nt" lodParent="LODanrda03_nt" posX="2307.072" posY="-1932.536" posZ="4.4464" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="oceanrda05_nt" lodParent="LODanrda05_nt" posX="2236.643" posY="-2202.18" posZ="4.19743" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="od_pelican2_dy" posX="2166.832" posY="-2443.9" posZ="10.6953" rotX="0" rotY="-0" rotZ="-28.000019666796"></building>
     <object id="od_groyne01" posX="2615.917" posY="-1968.38" posZ="1.88505" rotX="0" rotY="-0" rotZ="-0"></object>
     <object id="od_groyne01" posX="2571.024" posY="-2112.95" posZ="1.16903" rotX="0" rotY="-0" rotZ="-0"></object>
@@ -265,11 +258,11 @@
     <object id="kb_chr_tbl_test" posX="2106.402" posY="-2521.43" posZ="4.42567" rotX="-0.00011387031328377" rotY="5.1294525892631e-05" rotZ="138.49970752941"></object>
     <object id="kb_canopy_test" posX="2106.406" posY="-2521.36" posZ="5.3626" rotX="-0.00011298691746832" rotY="5.0304736868335e-05" rotZ="137.99978894043"></object>
     <object id="kb_canopy_test" posX="2102.225" posY="-2516.24" posZ="5.3626" rotX="0" rotY="-0" rotZ="-0"></object>
-    <object id="kb_canopy_test" posX="2102.089111" posY="-2520.790039" posZ="5.362600" rotX="0.000" rotY="-0.000" rotZ="54.000"></object>
+    <object id="kb_canopy_test" posX="2102.089" posY="-2520.79" posZ="5.3626" rotX="0" rotY="-0" rotZ="54.000344483156"></object>
     <object id="parkbench1" posX="2152.202" posY="-2470.82" posZ="4.7596" rotX="-0.00013424256188514" rotY="8.0660663661478e-05" rotZ="151.99973535983"></object>
     <object id="parkbench1" posX="2158.782" posY="-2459.43" posZ="4.7596" rotX="-0.00013424256188514" rotY="8.0660663661478e-05" rotZ="151.99973535983"></object>
     <object id="parkbench1" posX="2207.046" posY="-2360.34" posZ="4.9744" rotX="-0.00014871758357783" rotY="0.00012042850611063" rotZ="167.99972095478"></object>
-    <object id="parkbench1" posX="2213.167969" posY="-2333.829834" posZ="4.974400" rotX="-0.000" rotY="0.000" rotZ="168.000"></object>
+    <object id="parkbench1" posX="2213.168" posY="-2333.85" posZ="4.9744" rotX="-0.00014871758357783" rotY="0.00012042850611063" rotZ="167.99972095478"></object>
     <object id="parkbench1" posX="2221.624" posY="-2291.09" posZ="4.9744" rotX="-0.00014871758357783" rotY="0.00012042850611063" rotZ="167.99972095478"></object>
     <object id="parkbench1" posX="2223.974" posY="-2280.24" posZ="4.9744" rotX="-0.00014871758357783" rotY="0.00012042850611063" rotZ="167.99972095478"></object>
     <object id="parkbench1" posX="2232.826" posY="-2240.84" posZ="4.9007" rotX="-0.00014972890731516" rotY="0.00012563680537891" rotZ="169.99969170013"></object>

@@ -1,4 +1,0 @@
-<Light_List version="1">
-    <light name="Sun" kind="directional" profile="day" posX="0.000" posY="0.000" posZ="0.000" dirX="0.45000" dirY="0.35000" dirZ="-0.82000" colorX="1.0000" colorY="0.9600" colorZ="0.8600" temperature="5600" useTemperature="false" intensity="1.0000" radius="0.000" castsShadow="true" />
-    <light name="Moon" kind="directional" profile="night" posX="0.000" posY="0.000" posZ="0.000" dirX="-0.35000" dirY="-0.25000" dirZ="-0.90000" colorX="0.3200" colorY="0.4800" colorZ="0.8200" temperature="9000" useTemperature="false" intensity="0.3500" radius="0.000" castsShadow="false" />
-</Light_List>
