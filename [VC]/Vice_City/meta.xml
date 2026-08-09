@@ -63,9 +63,6 @@
     <file type="client" src="zones/xref/xref.definition" />
     <file type="client" src="zones/oceandn/oceandn.definition" />
 
-    <file type="client" src="imgs/dff.img" />
-    <file type="client" src="imgs/col.img" />
-    <file type="client" src="imgs/txd_1.img" />
-    <file type="client" src="imgs/txd_2.img" />
+    <file type="client" src="imgs/*.img" />
 
 </meta>

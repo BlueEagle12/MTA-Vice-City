@@ -758,7 +758,7 @@
     <building id="washskyplant1" posX="2237.52" posY="-1736.2" posZ="78.3712" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="washskyplant2" posX="2179.42" posY="-1846.55" posZ="78.3712" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="wshmallneon" posX="2006.94" posY="-1889.02" posZ="8.3337" rotX="0" rotY="-0" rotZ="-0"></building>
-    <building id="washgasneon" posX="2038.31" posY="-2008.02" posZ="9.5135" rotX="0" rotY="-0" rotZ="-0"></building>
+    <building id="washgasneon" posX="2038.310059" posY="-2008.020020" posZ="9.513500" rotX="0.000" rotY="-0.000" rotZ="-0.000"></building>
     <building id="washgasneon01" posX="2058.39" posY="-2025.17" posZ="9.5135" rotX="0" rotY="-0" rotZ="-89.99987340327"></building>
     <building id="washgasneon02" posX="2037.88" posY="-2028.96" posZ="6.9135" rotX="0" rotY="-0" rotZ="-0"></building>
     <building id="washgaspump_fix" posX="2040.23" posY="-2007.99" posZ="5.6097" rotX="0" rotY="-0" rotZ="-0"></building>

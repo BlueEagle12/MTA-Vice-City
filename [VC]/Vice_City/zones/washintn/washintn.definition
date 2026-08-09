@@ -1,4 +1,5 @@
 <zoneDefinitions>
+    <definition dff="washgaspump" drawDistance="45" gtaFlags="128" id="1676" txd="wshxrefpump" zone="washintn"></definition>
     <definition col="LOD_roadswsh01" flags="7" id="LOD_roadswsh01" lodDistance="700" txd="LODbuildws07" zone="washintn"></definition>
     <definition col="LOD_roadswsh04" flags="7" id="LOD_roadswsh04" lodDistance="700" txd="LODbuildws07" zone="washintn"></definition>
     <definition col="LOD_roadswsh05" flags="7" id="LOD_roadswsh05" lodDistance="700" txd="LODbuildws07" zone="washintn"></definition>
@@ -157,7 +158,7 @@
     <definition col="washgasneon" flags="2,3" id="washgasneon" lodDistance="170" timeIn="22" timeOut="5" txd="rafneonsign" zone="washintn"></definition>
     <definition col="washgasneon01" flags="2,3" id="washgasneon01" lodDistance="170" timeIn="22" timeOut="5" txd="rafneonsign" zone="washintn"></definition>
     <definition col="washgasneon02" flags="2,3" id="washgasneon02" lodDistance="170" timeIn="22" timeOut="5" txd="rafneonsign" zone="washintn"></definition>
-    <definition col="washgaspump_fix" flags="7" id="washgaspump_fix" lodDistance="170" txd="wshxrefpump" zone="washintn"></definition>
+    <definition airResistance="0.99" buoyancy="50" col="washgaspump_fix" dff="washgaspump_fix" elasticity="0.05" flags="7" id="washgaspump_fix" lodDistance="170" mass="99999" physicsRoot="1676" simulated="true" turnMass="500" txd="wshxrefpump" zone="washintn"></definition>
     <definition col="washmallwater" flags="2,7" id="washmallwater" lodDistance="170" txd="washmallnew" zone="washintn"></definition>
     <definition col="washnewsky1" flags="7" id="washnewsky1" lodDistance="200" txd="washsky1" zone="washintn"></definition>
     <definition col="washnewsky2" flags="7" id="washnewsky2" lodDistance="200" txd="washsky1" zone="washintn"></definition>
